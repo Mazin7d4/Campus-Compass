@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "csus-hero",
+      "description": "A sunny day at the CSUS campus with the library in the background.",
+      "imageUrl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx1bml2ZXJzaXR5JTIwY2FtcHVzfGVufDB8fHx8MTc2ODI0MTI1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "university campus"
+    },
+    {
+      "id": "sjsu-hero",
+      "description": "The iconic tower hall at SJSU against a clear blue sky.",
+      "imageUrl": "https://images.unsplash.com/photo-1592066575517-58df903152f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb2xsZWdlJTIwYnVpbGRpbmd8ZW58MHx8fHwxNzY4MjUzOTA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "college building"
+    },
+    {
+      "id": "csueb-hero",
+      "description": "A view from the hills of Cal State East Bay campus.",
+      "imageUrl": "https://images.unsplash.com/photo-1760131556605-7f2e63d00385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjYW1wdXMlMjB2aWV3fGVufDB8fHx8MTc2ODI1NDI0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "campus view"
+    }
+  ]
+}

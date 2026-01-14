@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Campus Compass</string>
+    <string name="title_activity_main">Campus Compass</string>
+    <string name="package_name">edu.csus.campuscompass</string>
+    <string name="custom_url_scheme">edu.csus.campuscompass</string>
+</resources>

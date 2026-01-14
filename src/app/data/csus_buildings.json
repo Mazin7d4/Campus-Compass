@@ -1,0 +1,523 @@
+[
+  {
+    "id": "rvr",
+    "campusId": "csus",
+    "name": "Riverside Hall",
+    "abbreviation": "RVR",
+    "aliases": ["RVR", "Riverside"],
+    "description": "Houses various student services and administrative offices. A central hub for student inquiries.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Riverside%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Riverside%20Hall%20CSUS"
+  },
+  {
+    "id": "uu",
+    "campusId": "csus",
+    "name": "University Union",
+    "abbreviation": "UU",
+    "aliases": ["UU", "Union"],
+    "description": "The center of student life on campus, featuring dining, study areas, and event spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20Union%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=University%20Union%20CSUS"
+  },
+  {
+    "id": "ac",
+    "campusId": "csus",
+    "name": "Academic Information Resource Center",
+    "abbreviation": "AC",
+    "aliases": ["AC", "AIRC"],
+    "description": "Contains computing labs, classrooms, and IT support services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Academic%20Information%20Resource%20Center%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Academic%20Information%20Resource%20Center%20CSUS"
+  },
+  {
+    "id": "af",
+    "campusId": "csus",
+    "name": "Aquatic Facility",
+    "abbreviation": "AF",
+    "aliases": ["AF", "Pool"],
+    "description": "Campus swimming and diving facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Aquatic%20Facility%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Aquatic%20Facility%20CSUS"
+  },
+  {
+    "id": "arc",
+    "campusId": "csus",
+    "name": "American River Courtyard",
+    "abbreviation": "ARC",
+    "aliases": ["ARC", "Dorms"],
+    "description": "Student residence hall.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=American%20River%20Courtyard%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=American%20River%20Courtyard%20CSUS"
+  },
+  {
+    "id": "bks",
+    "campusId": "csus",
+    "name": "Bookstore",
+    "abbreviation": "BKS",
+    "aliases": ["BKS", "Bookstore"],
+    "description": "Campus bookstore for textbooks, supplies, and apparel.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hornet%20Bookstore%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Hornet%20Bookstore%20CSUS"
+  },
+  {
+    "id": "brh",
+    "campusId": "csus",
+    "name": "Benicia Hall",
+    "abbreviation": "BRH",
+    "aliases": ["BRH", "Benicia"],
+    "description": "Houses administrative and academic departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Benicia%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Benicia%20Hall%20CSUS"
+  },
+  {
+    "id": "lib",
+    "campusId": "csus",
+    "name": "University Library",
+    "abbreviation": "LIB",
+    "aliases": ["LIB", "Library"],
+    "description": "The main library on campus, offering vast resources, study spaces, and more.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University%20Library%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=University%20Library%20CSUS"
+  },
+  {
+    "id": "mnd",
+    "campusId": "csus",
+    "name": "Mendocino Hall",
+    "abbreviation": "MND",
+    "aliases": ["MND", "Mendocino"],
+    "description": "Home to the College of Arts and Letters.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mendocino%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Mendocino%20Hall%20CSUS"
+  },
+  {
+    "id": "tah",
+    "campusId": "csus",
+    "name": "Tahoe Hall",
+    "abbreviation": "TAH",
+    "aliases": ["TAH", "Tahoe"],
+    "description": "Houses the College of Social Sciences & Interdisciplinary Studies.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tahoe%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Tahoe%20Hall%20CSUS"
+  },
+  {
+    "id": "wel",
+    "campusId": "csus",
+    "name": "The WELL",
+    "abbreviation": "WEL",
+    "aliases": ["WEL", "The WELL", "Gym", "Recreation"],
+    "description": "Campus recreation and wellness center.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20WELL%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=The%20WELL%20CSUS"
+  },
+  {
+    "id": "alp",
+    "campusId": "csus",
+    "name": "Alpine Hall",
+    "abbreviation": "ALP",
+    "aliases": ["ALP"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Alpine%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Alpine%20Hall%20CSUS"
+  },
+  {
+    "id": "amc",
+    "campusId": "csus",
+    "name": "Alumni Center",
+    "abbreviation": "AMC",
+    "aliases": ["AMC"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Alumni%20Center%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Alumni%20Center%20CSUS"
+  },
+  {
+    "id": "amd",
+    "campusId": "csus",
+    "name": "Amador Hall",
+    "abbreviation": "AMD",
+    "aliases": ["AMD"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Amador%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Amador%20Hall%20CSUS"
+  },
+  {
+    "id": "asl",
+    "campusId": "csus",
+    "name": "Auxiliary Services",
+    "abbreviation": "ASL",
+    "aliases": ["ASL"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Auxiliary%20Services%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Auxiliary%20Services%20CSUS"
+  },
+  {
+    "id": "ath",
+    "campusId": "csus",
+    "name": "Athletics Center",
+    "abbreviation": "ATH",
+    "aliases": ["ATH"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Athletics%20Center%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Athletics%20Center%20CSUS"
+  },
+  {
+    "id": "bnc",
+    "campusId": "csus",
+    "name": "Bungalow Complex",
+    "abbreviation": "BNC",
+    "aliases": ["BNC"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bungalow%20Complex%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bungalow%20Complex%20CSUS"
+  },
+  {
+    "id": "cdc",
+    "campusId": "csus",
+    "name": "Child Development Center",
+    "abbreviation": "CDC",
+    "aliases": ["CDC"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Child%20Development%20Center%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Child%20Development%20Center%20CSUS"
+  },
+  {
+    "id": "clv",
+    "campusId": "csus",
+    "name": "Calaveras Hall",
+    "abbreviation": "CLV",
+    "aliases": ["CLV"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Calaveras%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Calaveras%20Hall%20CSUS"
+  },
+  {
+    "id": "cpr",
+    "campusId": "csus",
+    "name": "Capistrano Hall",
+    "abbreviation": "CPR",
+    "aliases": ["CPR"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Capistrano%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Capistrano%20Hall%20CSUS"
+  },
+  {
+    "id": "dc",
+    "campusId": "csus",
+    "name": "Dining Commons",
+    "abbreviation": "DC",
+    "aliases": ["DC"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dining%20Commons%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Dining%20Commons%20CSUS"
+  },
+  {
+    "id": "dln",
+    "campusId": "csus",
+    "name": "Del Norte Hall",
+    "abbreviation": "DLN",
+    "aliases": ["DLN"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Del%20Norte%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Del%20Norte%20Hall%20CSUS"
+  },
+  {
+    "id": "drp",
+    "campusId": "csus",
+    "name": "Douglas Hall",
+    "abbreviation": "DRP",
+    "aliases": ["DRP"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Douglas%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Douglas%20Hall%20CSUS"
+  },
+  {
+    "id": "dsm",
+    "campusId": "csus",
+    "name": "Desmond Hall",
+    "abbreviation": "DSM",
+    "aliases": ["DSM"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Desmond%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Desmond%20Hall%20CSUS"
+  },
+  {
+    "id": "eur",
+    "campusId": "csus",
+    "name": "Eureka Hall",
+    "abbreviation": "EUR",
+    "aliases": ["EUR"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Eureka%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Eureka%20Hall%20CSUS"
+  },
+  {
+    "id": "psb",
+    "campusId": "csus",
+    "name": "Public Safety Building",
+    "abbreviation": "PSB",
+    "aliases": ["PSB"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Public%20Safety%20Building%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Public%20Safety%20Building%20CSUS"
+  },
+  {
+    "id": "sra",
+    "campusId": "csus",
+    "name": "Santa Clara Hall",
+    "abbreviation": "SRA",
+    "aliases": ["SRA"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Santa%20Clara%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Santa%20Clara%20Hall%20CSUS"
+  },
+  {
+    "id": "sth",
+    "campusId": "csus",
+    "name": "Shasta Hall",
+    "abbreviation": "STH",
+    "aliases": ["STH"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Shasta%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Shasta%20Hall%20CSUS"
+  },
+  {
+    "id": "str",
+    "campusId": "csus",
+    "name": "Sierra Hall",
+    "abbreviation": "STR",
+    "aliases": ["STR"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sierra%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sierra%20Hall%20CSUS"
+  },
+  {
+    "id": "bri",
+    "campusId": "csus",
+    "name": "Brighton Hall",
+    "abbreviation": "BRI",
+    "aliases": ["BRI", "Brighton"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brighton%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Brighton%20Hall%20CSUS"
+  },
+  {
+    "id": "mar",
+    "campusId": "csus",
+    "name": "Mariposa Hall",
+    "abbreviation": "MAR",
+    "aliases": ["MAR", "Mariposa"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mariposa%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Mariposa%20Hall%20CSUS"
+  },
+  {
+    "id": "las",
+    "campusId": "csus",
+    "name": "Lassen Hall",
+    "abbreviation": "LAS",
+    "aliases": ["LAS", "Lassen"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lassen%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Lassen%20Hall%20CSUS"
+  },
+  {
+    "id": "plc",
+    "campusId": "csus",
+    "name": "Placer Hall",
+    "abbreviation": "PLC",
+    "aliases": ["PLC", "Placer"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Placer%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Placer%20Hall%20CSUS"
+  },
+  {
+    "id": "sac",
+    "campusId": "csus",
+    "name": "Sacramento Hall",
+    "abbreviation": "SAC",
+    "aliases": ["SAC", "Sacramento"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sacramento%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sacramento%20Hall%20CSUS"
+  },
+  {
+    "id": "yos",
+    "campusId": "csus",
+    "name": "Yosemite Hall",
+    "abbreviation": "YOS",
+    "aliases": ["YOS", "Yosemite"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Yosemite%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Yosemite%20Hall%20CSUS"
+  },
+  {
+    "id": "sol",
+    "campusId": "csus",
+    "name": "Solano Hall",
+    "abbreviation": "SOL",
+    "aliases": ["SOL", "Solano"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Solano%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Solano%20Hall%20CSUS"
+  },
+  {
+    "id": "seq",
+    "campusId": "csus",
+    "name": "Sequoia Hall",
+    "abbreviation": "SEQ",
+    "aliases": ["SEQ", "Sequoia"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sequoia%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sequoia%20Hall%20CSUS"
+  },
+  {
+    "id": "hum",
+    "campusId": "csus",
+    "name": "Humboldt Hall",
+    "abbreviation": "HUM",
+    "aliases": ["HUM", "Humboldt"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Humboldt%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Humboldt%20Hall%20CSUS"
+  },
+  {
+    "id": "eld",
+    "campusId": "csus",
+    "name": "El Dorado Hall",
+    "abbreviation": "ELD",
+    "aliases": ["ELD", "El Dorado", "ElDorado"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=El%20Dorado%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=El%20Dorado%20Hall%20CSUS"
+  },
+  {
+    "id": "nap",
+    "campusId": "csus",
+    "name": "Napa Hall",
+    "abbreviation": "NAP",
+    "aliases": ["NAP", "Napa"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Napa%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Napa%20Hall%20CSUS"
+  },
+  {
+    "id": "jen",
+    "campusId": "csus",
+    "name": "Jenkins Hall",
+    "abbreviation": "JEN",
+    "aliases": ["JEN", "Jenkins"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jenkins%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Jenkins%20Hall%20CSUS"
+  },
+  {
+    "id": "arb",
+    "campusId": "csus",
+    "name": "Arbitrarium",
+    "abbreviation": "ARB",
+    "aliases": ["ARB", "Arbitrarium"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Arbitrarium%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Arbitrarium%20CSUS"
+  },
+  {
+    "id": "wlc",
+    "campusId": "csus",
+    "name": "Welcome Center",
+    "abbreviation": "WLC",
+    "aliases": ["WLC", "Welcome Center", "Welcome"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Welcome%20Center%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Welcome%20Center%20CSUS"
+  },
+  {
+    "id": "tsc",
+    "campusId": "csus",
+    "name": "Testing Center",
+    "abbreviation": "TSC",
+    "aliases": ["TSC", "Testing Center", "Testing"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Testing%20Center%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Testing%20Center%20CSUS"
+  },
+  {
+    "id": "rfc",
+    "campusId": "csus",
+    "name": "Riverfront Center",
+    "abbreviation": "RFC",
+    "aliases": ["RFC", "Riverfront", "Riverfront Center"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Riverfront%20Center%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Riverfront%20Center%20CSUS"
+  },
+  {
+    "id": "stt",
+    "campusId": "csus",
+    "name": "Studio Theatre",
+    "abbreviation": "STT",
+    "aliases": ["STT", "Studio Theatre", "Studio Theater"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Studio%20Theatre%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Studio%20Theatre%20CSUS"
+  },
+  {
+    "id": "spf",
+    "campusId": "csus",
+    "name": "Sports Field",
+    "abbreviation": "SPF",
+    "aliases": ["SPF", "Sports Field", "Field"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sports%20Field%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sports%20Field%20CSUS"
+  },
+  {
+    "id": "hac",
+    "campusId": "csus",
+    "name": "Harper Alumni Center",
+    "abbreviation": "HAC",
+    "aliases": ["HAC", "Harper Alumni Center", "Harper Alumni"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Harper%20Alumni%20Center%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Harper%20Alumni%20Center%20CSUS"
+  },
+  {
+    "id": "baf",
+    "campusId": "csus",
+    "name": "Broad Athletic Facility",
+    "abbreviation": "BAF",
+    "aliases": ["BAF", "Broad Athletic Facility", "Broad Facility"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Broad%20Athletic%20Facility%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Broad%20Athletic%20Facility%20CSUS"
+  },
+  {
+    "id": "ps1",
+    "campusId": "csus",
+    "name": "Parking Structure I",
+    "abbreviation": "PS1",
+    "aliases": ["PS1", "Parking Structure I", "Parking Structure 1", "Parking Structure One"],
+    "description": "Campus parking structure.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking%20Structure%20I%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking%20Structure%20I%20CSUS"
+  },
+  {
+    "id": "ps2",
+    "campusId": "csus",
+    "name": "Parking Structure II",
+    "abbreviation": "PS2",
+    "aliases": ["PS2", "Parking Structure II", "Parking Structure 2", "Parking Structure Two"],
+    "description": "Campus parking structure.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking%20Structure%20II%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking%20Structure%20II%20CSUS"
+  },
+  {
+    "id": "ps3",
+    "campusId": "csus",
+    "name": "Parking Structure III",
+    "abbreviation": "PS3",
+    "aliases": ["PS3", "Parking Structure III", "Parking Structure 3", "Parking Structure Three"],
+    "description": "Campus parking structure.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking%20Structure%20III%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking%20Structure%20III%20CSUS"
+  }
+
+]

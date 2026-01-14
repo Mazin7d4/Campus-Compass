@@ -1,0 +1,29 @@
+[
+  {
+    "id": "csus",
+    "name": "California State University, Sacramento",
+    "shortName": "CSUS",
+    "city": "Sacramento, CA",
+    "heroImageId": "csus-hero",
+    "logoId": "csus",
+    "isAvailable": true
+  },
+  {
+    "id": "sjsu",
+    "name": "San José State University",
+    "shortName": "SJSU",
+    "city": "San José, CA",
+    "heroImageId": "sjsu-hero",
+    "logoId": "sjsu",
+    "isAvailable": false
+  },
+  {
+    "id": "csueb",
+    "name": "California State University, East Bay",
+    "shortName": "CSUEB",
+    "city": "Hayward, CA",
+    "heroImageId": "csueb-hero",
+    "logoId": "csueb",
+    "isAvailable": false
+  }
+]
