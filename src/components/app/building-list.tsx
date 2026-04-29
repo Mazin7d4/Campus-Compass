@@ -30,16 +30,21 @@ export function BuildingList({ buildings, campusId }: BuildingListProps) {
   }, [searchQuery, buildings]);
 
   return (
-    <div className="flex flex-col gap-8">
+    <div className="flex flex-col gap-8" role="search" aria-label="Search buildings">
       <div className="relative">
-        <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground" />
+        <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground" aria-hidden="true" />
         <Input
           type="search"
           placeholder="Search building name or abbreviation..."
           className="pl-10 h-12 text-lg rounded-lg"
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
+          aria-label="Search buildings by name or abbreviation"
         />
+      </div>
+
+      <div aria-live="polite" className="sr-only">
+        {searchQuery && `${filteredBuildings.length} building${filteredBuildings.length !== 1 ? "s" : ""} found`}
       </div>
 
       {filteredBuildings.length > 0 ? (
@@ -49,6 +54,7 @@ export function BuildingList({ buildings, campusId }: BuildingListProps) {
               key={building.id}
               href={`/campus/${campusId}/${building.id}`}
               className="group block"
+              aria-label={`${building.name} (${building.abbreviation})`}
             >
               <div className="bg-card p-4 rounded-lg border shadow-sm hover:shadow-md hover:border-primary/50 transition-all duration-200 h-full">
                 <div className="flex items-center justify-between">

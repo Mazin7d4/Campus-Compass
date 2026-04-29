@@ -1,0 +1,862 @@
+﻿[
+  {
+    "id": "ageng",
+    "campusId": "cpp",
+    "name": "Agricultural Engineering",
+    "abbreviation": "AG-ENG",
+    "aliases": ["Agricultural Engineering", "Ag Engineering"],
+    "description": "Agricultural engineering facilities supporting the Huntley College of Agriculture with labs and instructional spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Agricultural+Engineering+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Agricultural+Engineering+Cal+Poly+Pomona"
+  },
+  {
+    "id": "ageng-ts",
+    "campusId": "cpp",
+    "name": "Agricultural Engineering (Tractor Shop)",
+    "abbreviation": "TRACTOR",
+    "aliases": ["Tractor Shop", "Agricultural Engineering Tractor Shop"],
+    "description": "Tractor shop facility for hands-on agricultural engineering training and farm equipment maintenance.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Agricultural+Engineering+Tractor+Shop+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Agricultural+Engineering+Tractor+Shop+Cal+Poly+Pomona"
+  },
+  {
+    "id": "agunit",
+    "campusId": "cpp",
+    "name": "Agriculture Unit",
+    "abbreviation": "AG-UNIT",
+    "aliases": ["Agriculture Unit", "Ag Unit"],
+    "description": "Agricultural production unit supporting research and hands-on learning for agriculture students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Agriculture+Unit+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Agriculture+Unit+Cal+Poly+Pomona"
+  },
+  {
+    "id": "agriscapes",
+    "campusId": "cpp",
+    "name": "Agriscapes/Farm Store",
+    "abbreviation": "AGS",
+    "aliases": ["Agriscapes", "Farm Store", "AGRIscapes"],
+    "description": "Agricultural education center with demonstration gardens, a farm store selling campus-grown produce and plants.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Agriscapes+Farm+Store+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Agriscapes+Farm+Store+Cal+Poly+Pomona"
+  },
+  {
+    "id": "arteng-annex",
+    "campusId": "cpp",
+    "name": "Art Department/Engineering Annex",
+    "abbreviation": "ART-ENG",
+    "aliases": ["Art Department", "Engineering Annex", "Art Engineering Annex"],
+    "description": "Combined annex facility housing art department studios and supplemental engineering spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Art+Department+Engineering+Annex+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Art+Department+Engineering+Annex+Cal+Poly+Pomona"
+  },
+  {
+    "id": "autoshop",
+    "campusId": "cpp",
+    "name": "Auto Shop",
+    "abbreviation": "AUTO",
+    "aliases": ["Auto Shop", "Automotive Shop"],
+    "description": "Automotive maintenance and repair facility serving campus fleet vehicles and instructional programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Auto+Shop+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Auto+Shop+Cal+Poly+Pomona"
+  },
+  {
+    "id": "biotech",
+    "campusId": "cpp",
+    "name": "Biotechnology Building",
+    "abbreviation": "BIOTECH",
+    "aliases": ["Biotechnology Building", "Biotech"],
+    "description": "State-of-the-art biotechnology research and teaching labs supporting biology and science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Biotechnology+Building+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Biotechnology+Building+Cal+Poly+Pomona"
+  },
+  {
+    "id": "biotrek",
+    "campusId": "cpp",
+    "name": "BioTrek Learning Center",
+    "abbreviation": "BIOTREK",
+    "aliases": ["BioTrek", "BioTrek Learning Center"],
+    "description": "Outdoor botanical and ecological learning center featuring native plants and sustainable garden exhibits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=BioTrek+Learning+Center+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=BioTrek+Learning+Center+Cal+Poly+Pomona"
+  },
+  {
+    "id": "bks",
+    "campusId": "cpp",
+    "name": "Bronco Bookstore",
+    "abbreviation": "BKS",
+    "aliases": ["BKS", "Bookstore", "Bronco Bookstore"],
+    "description": "Campus bookstore offering textbooks, Bronco merchandise, school supplies, and technology.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bronco+Bookstore+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bronco+Bookstore+Cal+Poly+Pomona"
+  },
+  {
+    "id": "beefunit",
+    "campusId": "cpp",
+    "name": "Beef Unit/Feed Shed",
+    "abbreviation": "BEEF",
+    "aliases": ["Beef Unit", "Feed Shed", "Beef Unit Feed Shed"],
+    "description": "Beef cattle unit and feed storage facility supporting the College of Agriculture's animal science program.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Beef+Unit+Feed+Shed+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Beef+Unit+Feed+Shed+Cal+Poly+Pomona"
+  },
+  {
+    "id": "b1",
+    "campusId": "cpp",
+    "name": "Building One",
+    "abbreviation": "B1",
+    "aliases": ["Building One", "Building 1", "B1"],
+    "description": "Main academic building on campus housing classrooms, labs, and administrative offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Building+One+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Building+One+Cal+Poly+Pomona"
+  },
+  {
+    "id": "campctr",
+    "campusId": "cpp",
+    "name": "Campus Center",
+    "abbreviation": "CC",
+    "aliases": ["Campus Center", "CC"],
+    "description": "Central campus hub offering student services, meeting spaces, and gathering areas.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Campus+Center+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Campus+Center+Cal+Poly+Pomona"
+  },
+  {
+    "id": "carpshop",
+    "campusId": "cpp",
+    "name": "Carpenter Shop",
+    "abbreviation": "CARP",
+    "aliases": ["Carpenter Shop", "Carpentry Shop"],
+    "description": "Facilities management carpenter shop for campus construction, maintenance, and repair work.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Carpenter+Shop+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Carpenter+Shop+Cal+Poly+Pomona"
+  },
+  {
+    "id": "crs",
+    "campusId": "cpp",
+    "name": "Center for Regenerative Studies",
+    "abbreviation": "CRS",
+    "aliases": ["CRS", "Regenerative Studies", "Lyle Center"],
+    "description": "Internationally recognized center for sustainable living, renewable energy research, and environmental education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Center+for+Regenerative+Studies+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Center+for+Regenerative+Studies+Cal+Poly+Pomona"
+  },
+  {
+    "id": "ctti",
+    "campusId": "cpp",
+    "name": "Center for Training, Technology and Incubation",
+    "abbreviation": "CTTI",
+    "aliases": ["CTTI", "Training Technology Incubation", "Center for Training"],
+    "description": "Professional development and business incubation center offering training programs and entrepreneurial support.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Center+Training+Technology+Incubation+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Center+Training+Technology+Incubation+Cal+Poly+Pomona"
+  },
+  {
+    "id": "childcare",
+    "campusId": "cpp",
+    "name": "Child Care Center",
+    "abbreviation": "CCC",
+    "aliases": ["Child Care Center", "Child Care", "CCC"],
+    "description": "On-campus child care facility providing quality early childhood education services for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Child+Care+Center+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Child+Care+Center+Cal+Poly+Pomona"
+  },
+  {
+    "id": "cwcp",
+    "campusId": "cpp",
+    "name": "Chilled Water Center Plant",
+    "abbreviation": "CWCP",
+    "aliases": ["Chilled Water Center Plant", "Chilled Water Plant", "Utilities"],
+    "description": "Central utility plant providing chilled water for campus air conditioning and climate control systems.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chilled+Water+Center+Plant+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Chilled+Water+Center+Plant+Cal+Poly+Pomona"
+  },
+  {
+    "id": "cla",
+    "campusId": "cpp",
+    "name": "Classroom/Laboratory/Administration",
+    "abbreviation": "CLA",
+    "aliases": ["CLA", "Classroom Laboratory Administration"],
+    "description": "Iconic multi-purpose academic building with classrooms, teaching laboratories, and administrative offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Classroom+Laboratory+Administration+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Classroom+Laboratory+Administration+Cal+Poly+Pomona"
+  },
+  {
+    "id": "colag",
+    "campusId": "cpp",
+    "name": "College of Agriculture",
+    "abbreviation": "COA",
+    "aliases": ["COA", "College of Agriculture", "Huntley College of Agriculture"],
+    "description": "W.K. Kellogg College of Agriculture housing programs in plant science, animal science, and food science.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=College+of+Agriculture+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=College+of+Agriculture+Cal+Poly+Pomona"
+  },
+  {
+    "id": "coba",
+    "campusId": "cpp",
+    "name": "College of Business Administration",
+    "abbreviation": "CBA",
+    "aliases": ["CBA", "Business", "College of Business Administration"],
+    "description": "Business school with classrooms, the Center for Business and Entrepreneurship, and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=College+Business+Administration+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=College+Business+Administration+Cal+Poly+Pomona"
+  },
+  {
+    "id": "coeng",
+    "campusId": "cpp",
+    "name": "College of Engineering",
+    "abbreviation": "COE",
+    "aliases": ["COE", "Engineering", "College of Engineering"],
+    "description": "College of Engineering with labs, maker spaces, and the Engineering Student Success Center.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=College+of+Engineering+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=College+of+Engineering+Cal+Poly+Pomona"
+  },
+  {
+    "id": "coenved",
+    "campusId": "cpp",
+    "name": "College of Environmental Design",
+    "abbreviation": "ENV",
+    "aliases": ["ENV", "Environmental Design", "College of Environmental Design"],
+    "description": "Architecture, landscape architecture, and urban planning studios, labs, and design review spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=College+Environmental+Design+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=College+Environmental+Design+Cal+Poly+Pomona"
+  },
+  {
+    "id": "class",
+    "campusId": "cpp",
+    "name": "College of Letters, Arts & Social Sciences",
+    "abbreviation": "CLASS",
+    "aliases": ["CLASS", "Letters Arts Social Sciences", "College of Letters Arts"],
+    "description": "College offering programs in humanities, social sciences, fine arts, and communication.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=College+Letters+Arts+Social+Sciences+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=College+Letters+Arts+Social+Sciences+Cal+Poly+Pomona"
+  },
+  {
+    "id": "cosci",
+    "campusId": "cpp",
+    "name": "College of Science",
+    "abbreviation": "COS",
+    "aliases": ["COS", "College of Science", "Science"],
+    "description": "Labs, classrooms, and offices for biology, chemistry, physics, computer science, and mathematics.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=College+of+Science+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=College+of+Science+Cal+Poly+Pomona"
+  },
+  {
+    "id": "collins",
+    "campusId": "cpp",
+    "name": "Collins School of Hospitality Management",
+    "abbreviation": "COLLINS",
+    "aliases": ["Collins", "Collins School", "Hospitality Management", "CHM"],
+    "description": "Nationally recognized hospitality management college with teaching kitchens and The Restaurant at Kellogg Ranch.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Collins+School+Hospitality+Management+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Collins+School+Hospitality+Management+Cal+Poly+Pomona"
+  },
+  {
+    "id": "cultctr",
+    "campusId": "cpp",
+    "name": "Cultural Centers",
+    "abbreviation": "CULT",
+    "aliases": ["Cultural Centers", "Cultural Center"],
+    "description": "Campus cultural centers providing community, resources, and programming for diverse student populations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cultural+Centers+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cultural+Centers+Cal+Poly+Pomona"
+  },
+  {
+    "id": "custodial",
+    "campusId": "cpp",
+    "name": "Custodial Offices",
+    "abbreviation": "CUST",
+    "aliases": ["Custodial Offices", "Custodial"],
+    "description": "Facilities management custodial offices coordinating campus cleaning and maintenance operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Custodial+Offices+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Custodial+Offices+Cal+Poly+Pomona"
+  },
+  {
+    "id": "dmgym",
+    "campusId": "cpp",
+    "name": "Darlene May Gymnasium",
+    "abbreviation": "DMG",
+    "aliases": ["Darlene May Gymnasium", "Darlene May Gym", "DMG"],
+    "description": "Gymnasium named after Darlene May, used for intercollegiate athletics, intramural sports, and physical education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Darlene+May+Gymnasium+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Darlene+May+Gymnasium+Cal+Poly+Pomona"
+  },
+  {
+    "id": "theatre",
+    "campusId": "cpp",
+    "name": "Drama/Theatre",
+    "abbreviation": "THEATRE",
+    "aliases": ["Drama", "Theatre", "Drama Theatre"],
+    "description": "Theatre facility featuring performance stages, rehearsal spaces, and production support for drama and arts programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Drama+Theatre+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Drama+Theatre+Cal+Poly+Pomona"
+  },
+  {
+    "id": "eli",
+    "campusId": "cpp",
+    "name": "English Language Institute",
+    "abbreviation": "ELI",
+    "aliases": ["ELI", "English Language Institute"],
+    "description": "Institute providing intensive English language instruction and programs for international students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=English+Language+Institute+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=English+Language+Institute+Cal+Poly+Pomona"
+  },
+  {
+    "id": "englabs",
+    "campusId": "cpp",
+    "name": "Engineering Laboratories",
+    "abbreviation": "ENG-LAB",
+    "aliases": ["Engineering Laboratories", "Engineering Labs"],
+    "description": "Advanced engineering laboratory facilities supporting research and hands-on instruction across engineering disciplines.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Engineering+Laboratories+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Engineering+Laboratories+Cal+Poly+Pomona"
+  },
+  {
+    "id": "equine",
+    "campusId": "cpp",
+    "name": "Equine Research Facility",
+    "abbreviation": "EQUINE",
+    "aliases": ["Equine Research Facility", "Equine Facility"],
+    "description": "Research and teaching facility for equine science, supporting studies in horse management and veterinary science.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Equine+Research+Facility+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Equine+Research+Facility+Cal+Poly+Pomona"
+  },
+  {
+    "id": "facmgmt",
+    "campusId": "cpp",
+    "name": "Facilities Management",
+    "abbreviation": "FM",
+    "aliases": ["Facilities Management", "FM"],
+    "description": "Central facilities management offices overseeing campus operations, maintenance, and infrastructure services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Facilities+Management+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Facilities+Management+Cal+Poly+Pomona"
+  },
+  {
+    "id": "facwrhs",
+    "campusId": "cpp",
+    "name": "Facilities Management Warehouse",
+    "abbreviation": "FM-WH",
+    "aliases": ["Facilities Management Warehouse", "FM Warehouse"],
+    "description": "Warehouse facility storing supplies, equipment, and materials for campus maintenance and operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Facilities+Management+Warehouse+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Facilities+Management+Warehouse+Cal+Poly+Pomona"
+  },
+  {
+    "id": "feedmill",
+    "campusId": "cpp",
+    "name": "Feedmill",
+    "abbreviation": "FEEDMILL",
+    "aliases": ["Feedmill", "Feed Mill"],
+    "description": "Feed milling facility producing feed for livestock units within the College of Agriculture farm operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Feedmill+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Feedmill+Cal+Poly+Pomona"
+  },
+  {
+    "id": "foundadm",
+    "campusId": "cpp",
+    "name": "Foundation Administration Offices",
+    "abbreviation": "FOUND",
+    "aliases": ["Foundation Administration Offices", "Foundation Offices", "Foundation"],
+    "description": "Offices for the Cal Poly Pomona Foundation, managing auxiliary enterprises and support for the university.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Foundation+Administration+Offices+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Foundation+Administration+Offices+Cal+Poly+Pomona"
+  },
+  {
+    "id": "fruitcrop",
+    "campusId": "cpp",
+    "name": "Fruit/Crops Unit",
+    "abbreviation": "FRUIT",
+    "aliases": ["Fruit Crops Unit", "Fruit Unit", "Crops Unit"],
+    "description": "Agricultural unit dedicated to fruit and crop production, supporting plant science and agriculture programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fruit+Crops+Unit+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Fruit+Crops+Unit+Cal+Poly+Pomona"
+  },
+  {
+    "id": "guesthouse",
+    "campusId": "cpp",
+    "name": "Guest House",
+    "abbreviation": "GH",
+    "aliases": ["Guest House", "GH"],
+    "description": "On-campus guest accommodations for university visitors, visiting scholars, and special guests.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Guest+House+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Guest+House+Cal+Poly+Pomona"
+  },
+  {
+    "id": "handball",
+    "campusId": "cpp",
+    "name": "Handball Courts",
+    "abbreviation": "HAND",
+    "aliases": ["Handball Courts", "Handball"],
+    "description": "Outdoor handball courts available for recreational play and physical education classes.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Handball+Courts+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Handball+Courts+Cal+Poly+Pomona"
+  },
+  {
+    "id": "health",
+    "campusId": "cpp",
+    "name": "Health Services",
+    "abbreviation": "HS",
+    "aliases": ["Health Services", "Student Health", "Health Center"],
+    "description": "Campus medical clinic, counseling center, and wellness services for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Health+Services+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Health+Services+Cal+Poly+Pomona"
+  },
+  {
+    "id": "idc",
+    "campusId": "cpp",
+    "name": "Interim Design Center",
+    "abbreviation": "IDC",
+    "aliases": ["Interim Design Center", "IDC", "Design Center"],
+    "description": "Temporary design facility providing studio and instructional space for design programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Interim+Design+Center+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Interim+Design+Center+Cal+Poly+Pomona"
+  },
+  {
+    "id": "ipoly",
+    "campusId": "cpp",
+    "name": "I Poly High School",
+    "abbreviation": "IPOLY",
+    "aliases": ["I Poly High School", "I Poly", "InTech Collegiate High School"],
+    "description": "College-preparatory high school on the Cal Poly Pomona campus offering STEM-focused education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=I+Poly+High+School+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=I+Poly+High+School+Cal+Poly+Pomona"
+  },
+  {
+    "id": "kelloggfield",
+    "campusId": "cpp",
+    "name": "Kellogg Field",
+    "abbreviation": "K-FIELD",
+    "aliases": ["Kellogg Field", "Kellogg Airfield"],
+    "description": "Historic airfield on the Cal Poly Pomona campus, named after W.K. Kellogg, now used for events and open space.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kellogg+Field+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kellogg+Field+Cal+Poly+Pomona"
+  },
+  {
+    "id": "kellogghouse",
+    "campusId": "cpp",
+    "name": "Kellogg House Pomona",
+    "abbreviation": "KH",
+    "aliases": ["Kellogg House Pomona", "Kellogg House"],
+    "description": "Historic estate house on campus originally belonging to W.K. Kellogg, used for university events and functions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kellogg+House+Pomona+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kellogg+House+Pomona+Cal+Poly+Pomona"
+  },
+  {
+    "id": "kellogggym",
+    "campusId": "cpp",
+    "name": "Kellogg Gymnasium",
+    "abbreviation": "GYM",
+    "aliases": ["Kellogg Gymnasium", "Kellogg Gym", "GYM"],
+    "description": "Campus gymnasium used for athletics, intramural sports, and physical education classes.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kellogg+Gymnasium+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kellogg+Gymnasium+Cal+Poly+Pomona"
+  },
+  {
+    "id": "kwaddition",
+    "campusId": "cpp",
+    "name": "Kellogg West Addition",
+    "abbreviation": "KW-ADD",
+    "aliases": ["Kellogg West Addition", "Kellogg West Annex"],
+    "description": "Additional conference and lodging facility adjacent to the Kellogg West Conference Center.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kellogg+West+Addition+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kellogg+West+Addition+Cal+Poly+Pomona"
+  },
+  {
+    "id": "kwedu",
+    "campusId": "cpp",
+    "name": "Kellogg West Education/Dining",
+    "abbreviation": "KW-EDU",
+    "aliases": ["Kellogg West Education", "Kellogg West Dining", "Kellogg West Education Dining"],
+    "description": "Education and dining facility at the Kellogg West Conference Center supporting professional development programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kellogg+West+Education+Dining+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kellogg+West+Education+Dining+Cal+Poly+Pomona"
+  },
+  {
+    "id": "kwlodge",
+    "campusId": "cpp",
+    "name": "Kellogg West Main Lodge",
+    "abbreviation": "KW-LODGE",
+    "aliases": ["Kellogg West Main Lodge", "Kellogg West Lodge", "Main Lodge"],
+    "description": "Main lodge at the Kellogg West Conference Center and Hotel, offering conference facilities and overnight accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kellogg+West+Main+Lodge+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kellogg+West+Main+Lodge+Cal+Poly+Pomona"
+  },
+  {
+    "id": "labfac",
+    "campusId": "cpp",
+    "name": "Laboratory Facility",
+    "abbreviation": "LAB",
+    "aliases": ["Laboratory Facility", "Lab Facility"],
+    "description": "General laboratory facility supporting research and instructional programs across academic departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Laboratory+Facility+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Laboratory+Facility+Cal+Poly+Pomona"
+  },
+  {
+    "id": "lacienega",
+    "campusId": "cpp",
+    "name": "La Cienega Center",
+    "abbreviation": "LCC",
+    "aliases": ["La Cienega Center", "LCC"],
+    "description": "Off-campus extension center located in La Cienega providing outreach and continuing education programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Cienega+Center+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=La+Cienega+Center+Cal+Poly+Pomona"
+  },
+  {
+    "id": "landlab",
+    "campusId": "cpp",
+    "name": "LandLab Information Center",
+    "abbreviation": "LANDLAB",
+    "aliases": ["LandLab Information Center", "LandLab", "Land Lab"],
+    "description": "Information center supporting the LandLab agricultural and land use research programs on campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=LandLab+Information+Center+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=LandLab+Information+Center+Cal+Poly+Pomona"
+  },
+  {
+    "id": "lib",
+    "campusId": "cpp",
+    "name": "Library",
+    "abbreviation": "LIB",
+    "aliases": ["LIB", "Library", "University Library"],
+    "description": "Main campus library with study rooms, computer labs, special collections, and the Learning Resource Center.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Library+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Library+Cal+Poly+Pomona"
+  },
+  {
+    "id": "lrc",
+    "campusId": "cpp",
+    "name": "Learning Resource Center",
+    "abbreviation": "LRC",
+    "aliases": ["LRC", "Learning Resource Center"],
+    "description": "Academic support center offering tutoring, writing assistance, and learning resources for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Learning+Resource+Center+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Learning+Resource+Center+Cal+Poly+Pomona"
+  },
+  {
+    "id": "losolivos",
+    "campusId": "cpp",
+    "name": "Los Olivos Commons",
+    "abbreviation": "LOC",
+    "aliases": ["Los Olivos Commons", "Los Olivos", "LOC"],
+    "description": "All-you-care-to-eat residential dining facility with multiple cuisine stations for campus residents.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Los+Olivos+Commons+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Los+Olivos+Commons+Cal+Poly+Pomona"
+  },
+  {
+    "id": "manor",
+    "campusId": "cpp",
+    "name": "Manor House",
+    "abbreviation": "MANOR",
+    "aliases": ["Manor House"],
+    "description": "Historic manor house on campus used for special university events and functions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Manor+House+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Manor+House+Cal+Poly+Pomona"
+  },
+  {
+    "id": "meatlab",
+    "campusId": "cpp",
+    "name": "Meat Laboratory",
+    "abbreviation": "MEAT",
+    "aliases": ["Meat Laboratory", "Meat Lab"],
+    "description": "USDA-inspected meat processing and teaching laboratory supporting animal science and food science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Meat+Laboratory+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Meat+Laboratory+Cal+Poly+Pomona"
+  },
+  {
+    "id": "music",
+    "campusId": "cpp",
+    "name": "Music",
+    "abbreviation": "MUS",
+    "aliases": ["Music", "Music Building", "Music Department"],
+    "description": "Music department building with practice rooms, rehearsal halls, and performance spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Music+Building+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Music+Building+Cal+Poly+Pomona"
+  },
+  {
+    "id": "ornhort",
+    "campusId": "cpp",
+    "name": "Ornamental Horticulture Unit",
+    "abbreviation": "OH",
+    "aliases": ["Ornamental Horticulture Unit", "Ornamental Horticulture", "OH"],
+    "description": "Horticulture facility with greenhouses and gardens supporting ornamental plant production and landscape studies.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ornamental+Horticulture+Unit+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Ornamental+Horticulture+Unit+Cal+Poly+Pomona"
+  },
+  {
+    "id": "police",
+    "campusId": "cpp",
+    "name": "Police and Parking Services",
+    "abbreviation": "PPS",
+    "aliases": ["Police and Parking Services", "Campus Police", "Parking Services", "PPS"],
+    "description": "Campus law enforcement and parking administration providing safety services and permit management.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Police+Parking+Services+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Police+Parking+Services+Cal+Poly+Pomona"
+  },
+  {
+    "id": "pesticide",
+    "campusId": "cpp",
+    "name": "Pesticide Building",
+    "abbreviation": "PEST",
+    "aliases": ["Pesticide Building", "Pesticide Storage"],
+    "description": "Secure storage and handling facility for pesticides and agricultural chemicals used in farm operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pesticide+Building+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Pesticide+Building+Cal+Poly+Pomona"
+  },
+  {
+    "id": "poultry",
+    "campusId": "cpp",
+    "name": "Poultry Unit/Poultry Houses",
+    "abbreviation": "POULTRY",
+    "aliases": ["Poultry Unit", "Poultry Houses", "Poultry Unit Poultry Houses"],
+    "description": "Poultry production unit and housing facilities supporting the College of Agriculture's poultry science program.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Poultry+Unit+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Poultry+Unit+Cal+Poly+Pomona"
+  },
+  {
+    "id": "procurement",
+    "campusId": "cpp",
+    "name": "Procurement/Receiving",
+    "abbreviation": "PROC",
+    "aliases": ["Procurement", "Receiving", "Procurement Receiving"],
+    "description": "Campus procurement and receiving facility managing purchasing, deliveries, and supply chain operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Procurement+Receiving+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Procurement+Receiving+Cal+Poly+Pomona"
+  },
+  {
+    "id": "recmaint",
+    "campusId": "cpp",
+    "name": "Recreation/Maintenance",
+    "abbreviation": "REC-MAINT",
+    "aliases": ["Recreation Maintenance", "Rec Maintenance"],
+    "description": "Combined recreation and maintenance facility supporting campus grounds and recreational program operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Recreation+Maintenance+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Recreation+Maintenance+Cal+Poly+Pomona"
+  },
+  {
+    "id": "rh-alamitos",
+    "campusId": "cpp",
+    "name": "Residence Hall, Alamitos",
+    "abbreviation": "RH-ALM",
+    "aliases": ["Alamitos", "Residence Hall Alamitos", "Alamitos Hall"],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Alamitos+Residence+Hall+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Alamitos+Residence+Hall+Cal+Poly+Pomona"
+  },
+  {
+    "id": "rh-aliso",
+    "campusId": "cpp",
+    "name": "Residence Hall, Aliso",
+    "abbreviation": "RH-ALI",
+    "aliases": ["Aliso", "Residence Hall Aliso", "Aliso Hall"],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Aliso+Residence+Hall+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Aliso+Residence+Hall+Cal+Poly+Pomona"
+  },
+  {
+    "id": "rh-cedritos",
+    "campusId": "cpp",
+    "name": "Residence Hall, Cedritos",
+    "abbreviation": "RH-CED",
+    "aliases": ["Cedritos", "Residence Hall Cedritos", "Cedritos Hall"],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cedritos+Residence+Hall+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cedritos+Residence+Hall+Cal+Poly+Pomona"
+  },
+  {
+    "id": "rh-encinitas",
+    "campusId": "cpp",
+    "name": "Residence Hall, Encinitas",
+    "abbreviation": "RH-ENC",
+    "aliases": ["Encinitas", "Residence Hall Encinitas", "Encinitas Hall"],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Encinitas+Residence+Hall+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Encinitas+Residence+Hall+Cal+Poly+Pomona"
+  },
+  {
+    "id": "rh-montecito",
+    "campusId": "cpp",
+    "name": "Residence Hall, Montecito",
+    "abbreviation": "RH-MON",
+    "aliases": ["Montecito", "Residence Hall Montecito", "Montecito Hall"],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Montecito+Residence+Hall+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Montecito+Residence+Hall+Cal+Poly+Pomona"
+  },
+  {
+    "id": "rh-palmitas",
+    "campusId": "cpp",
+    "name": "Residence Hall, Palmitas",
+    "abbreviation": "RH-PAL",
+    "aliases": ["Palmitas", "Residence Hall Palmitas", "Palmitas Hall"],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Palmitas+Residence+Hall+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Palmitas+Residence+Hall+Cal+Poly+Pomona"
+  },
+  {
+    "id": "rsuite1",
+    "campusId": "cpp",
+    "name": "Residence Suites",
+    "abbreviation": "RS1",
+    "aliases": ["Residence Suites"],
+    "description": "On-campus suite-style student housing offering shared common areas and private bedroom arrangements.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Residence+Suites+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Residence+Suites+Cal+Poly+Pomona"
+  },
+  {
+    "id": "rsuite2",
+    "campusId": "cpp",
+    "name": "Residence Suites",
+    "abbreviation": "RS2",
+    "aliases": ["Residence Suites"],
+    "description": "On-campus suite-style student housing offering shared common areas and private bedroom arrangements.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Residence+Suites+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Residence+Suites+Cal+Poly+Pomona"
+  },
+  {
+    "id": "roselab",
+    "campusId": "cpp",
+    "name": "Rose Float Laboratory",
+    "abbreviation": "RFL",
+    "aliases": ["Rose Float Laboratory", "Rose Float Lab", "RFL"],
+    "description": "Workshop facility where students design and build the university's Rose Parade float each year.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rose+Float+Laboratory+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Rose+Float+Laboratory+Cal+Poly+Pomona"
+  },
+  {
+    "id": "scilab",
+    "campusId": "cpp",
+    "name": "Science Laboratory",
+    "abbreviation": "SCI-LAB",
+    "aliases": ["Science Laboratory", "Science Lab"],
+    "description": "Teaching and research laboratory facilities supporting science programs across multiple disciplines.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Science+Laboratory+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Science+Laboratory+Cal+Poly+Pomona"
+  },
+  {
+    "id": "sheep",
+    "campusId": "cpp",
+    "name": "Sheep/Wool Unit",
+    "abbreviation": "SHEEP",
+    "aliases": ["Sheep Wool Unit", "Sheep Unit", "Wool Unit"],
+    "description": "Sheep and wool production unit supporting animal science instruction and hands-on agricultural learning.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sheep+Wool+Unit+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sheep+Wool+Unit+Cal+Poly+Pomona"
+  },
+  {
+    "id": "storage1",
+    "campusId": "cpp",
+    "name": "Storage Building",
+    "abbreviation": "STOR1",
+    "aliases": ["Storage Building"],
+    "description": "General purpose storage facility supporting campus departments and operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Storage+Building+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Storage+Building+Cal+Poly+Pomona"
+  },
+  {
+    "id": "storage2",
+    "campusId": "cpp",
+    "name": "Storage Building",
+    "abbreviation": "STOR2",
+    "aliases": ["Storage Building"],
+    "description": "General purpose storage facility supporting campus departments and operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Storage+Building+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Storage+Building+Cal+Poly+Pomona"
+  },
+  {
+    "id": "storage3",
+    "campusId": "cpp",
+    "name": "Storage Building",
+    "abbreviation": "STOR3",
+    "aliases": ["Storage Building"],
+    "description": "General purpose storage facility supporting campus departments and operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Storage+Building+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Storage+Building+Cal+Poly+Pomona"
+  },
+  {
+    "id": "pool",
+    "campusId": "cpp",
+    "name": "Swimming Pool",
+    "abbreviation": "POOL",
+    "aliases": ["Swimming Pool", "Pool"],
+    "description": "Campus aquatic facility used for competitive swimming, water polo, and recreational swimming.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Swimming+Pool+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Swimming+Pool+Cal+Poly+Pomona"
+  },
+  {
+    "id": "swine",
+    "campusId": "cpp",
+    "name": "Swine Unit/Shelters",
+    "abbreviation": "SWINE",
+    "aliases": ["Swine Unit", "Swine Shelters", "Swine Unit Shelters"],
+    "description": "Swine production unit and shelter facilities supporting the College of Agriculture's animal science program.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Swine+Unit+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Swine+Unit+Cal+Poly+Pomona"
+  },
+  {
+    "id": "trainctr",
+    "campusId": "cpp",
+    "name": "Training Center",
+    "abbreviation": "TC",
+    "aliases": ["Training Center", "TC"],
+    "description": "Professional training and development center offering workshops, courses, and career preparation programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Training+Center+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Training+Center+Cal+Poly+Pomona"
+  },
+  {
+    "id": "unionplaza",
+    "campusId": "cpp",
+    "name": "Union Plaza",
+    "abbreviation": "UP",
+    "aliases": ["Union Plaza", "UP"],
+    "description": "Central outdoor plaza and gathering space connecting the Bronco Student Center with surrounding campus buildings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Union+Plaza+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Union+Plaza+Cal+Poly+Pomona"
+  },
+  {
+    "id": "uob",
+    "campusId": "cpp",
+    "name": "University Office Building",
+    "abbreviation": "UOB",
+    "aliases": ["University Office Building", "UOB"],
+    "description": "Administrative office building housing various university departments and support services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Office+Building+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Office+Building+Cal+Poly+Pomona"
+  },
+  {
+    "id": "bsc",
+    "campusId": "cpp",
+    "name": "Bronco Student Center",
+    "abbreviation": "BSC",
+    "aliases": ["BSC", "Student Center", "Bronco Center", "Bronco Student Center"],
+    "description": "Student activities hub with dining, recreation, games, ASI offices, and student organization spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bronco+Student+Center+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bronco+Student+Center+Cal+Poly+Pomona"
+  },
+  {
+    "id": "uv",
+    "campusId": "cpp",
+    "name": "University Village",
+    "abbreviation": "UV",
+    "aliases": ["UV", "University Village", "Village", "Housing", "Dorms"],
+    "description": "On-campus student housing complex with suite-style and apartment options near the center of campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Village+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Village+Cal+Poly+Pomona"
+  },
+  {
+    "id": "wkkahc",
+    "campusId": "cpp",
+    "name": "W.K. Kellogg Arabian Horse Center",
+    "abbreviation": "AHC",
+    "aliases": ["AHC", "Kellogg Arabian Horse Center", "Arabian Horse Center", "Horse Center", "W.K. Kellogg Arabian Horse Center"],
+    "description": "Historic equestrian facility home to the renowned Kellogg Arabian horse program and regular public horse shows.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kellogg+Arabian+Horse+Center+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kellogg+Arabian+Horse+Center+Cal+Poly+Pomona"
+  },
+  {
+    "id": "kelloggartgallery",
+    "campusId": "cpp",
+    "name": "W. Keith and Janet Kellogg University Art Gallery",
+    "abbreviation": "KAG",
+    "aliases": ["Kellogg Art Gallery", "University Art Gallery", "KAG", "W. Keith and Janet Kellogg University Art Gallery"],
+    "description": "Campus art gallery showcasing student, faculty, and visiting artist exhibitions in a range of media.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kellogg+University+Art+Gallery+Cal+Poly+Pomona",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kellogg+University+Art+Gallery+Cal+Poly+Pomona"
+  }
+]

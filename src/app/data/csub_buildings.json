@@ -1,0 +1,1564 @@
+[
+  {
+    "id": "admin",
+    "campusId": "csub",
+    "name": "Administration",
+    "abbreviation": "ADMIN",
+    "aliases": [
+      "Administration",
+      "Admin Building"
+    ],
+    "description": "Central administration building housing university leadership, executive offices, and key administrative departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Administration+Building+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Administration+Building+CSU+Bakersfield"
+  },
+  {
+    "id": "admin-east",
+    "campusId": "csub",
+    "name": "Admin. East",
+    "abbreviation": "ADMIN-E",
+    "aliases": [
+      "Admin East",
+      "Administration East"
+    ],
+    "description": "Eastern wing of the administration complex housing additional university offices and departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Administration+East+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Administration+East+CSU+Bakersfield"
+  },
+  {
+    "id": "admin-west",
+    "campusId": "csub",
+    "name": "Admin. West",
+    "abbreviation": "ADMIN-W",
+    "aliases": [
+      "Admin West",
+      "Administration West"
+    ],
+    "description": "Western wing of the administration complex housing additional university offices and departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Administration+West+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Administration+West+CSU+Bakersfield"
+  },
+  {
+    "id": "acs",
+    "campusId": "csub",
+    "name": "Administrative Computing Services",
+    "abbreviation": "ACS",
+    "aliases": [
+      "ACS",
+      "Administrative Computing Services",
+      "Administrative Computing"
+    ],
+    "description": "Office providing campus-wide IT infrastructure, systems administration, and enterprise computing services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Administrative+Computing+Services+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Administrative+Computing+Services+CSU+Bakersfield"
+  },
+  {
+    "id": "admissions",
+    "campusId": "csub",
+    "name": "Office of Undergraduate Admissions",
+    "abbreviation": "ADMISS",
+    "aliases": [
+      "Admissions",
+      "Undergraduate Admissions",
+      "Office of Undergraduate Admissions"
+    ],
+    "description": "Office handling undergraduate application review, admissions decisions, and prospective student outreach.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Office+Undergraduate+Admissions+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Office+Undergraduate+Admissions+CSU+Bakersfield"
+  },
+  {
+    "id": "amphitheatre",
+    "campusId": "csub",
+    "name": "Amphitheatre",
+    "abbreviation": "AMPH",
+    "aliases": [
+      "Amphitheatre",
+      "Amphitheater",
+      "Outdoor Amphitheatre"
+    ],
+    "description": "Outdoor performance and gathering space used for campus events, ceremonies, and community programming.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Amphitheatre+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Amphitheatre+CSU+Bakersfield"
+  },
+  {
+    "id": "athletics-marketing",
+    "campusId": "csub",
+    "name": "Athletics Marketing",
+    "abbreviation": "ATH-MKT",
+    "aliases": [
+      "Athletics Marketing",
+      "Roadrunner Athletics Marketing"
+    ],
+    "description": "Office managing marketing, promotions, and communications for CSUB Roadrunner intercollegiate athletics programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Athletics+Marketing+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Athletics+Marketing+CSU+Bakersfield"
+  },
+  {
+    "id": "barnes-volleyball",
+    "campusId": "csub",
+    "name": "Barnes Beach Volleyball Complex",
+    "abbreviation": "BBVC",
+    "aliases": [
+      "Barnes Beach Volleyball Complex",
+      "Beach Volleyball Complex",
+      "Beach Volleyball"
+    ],
+    "description": "Outdoor beach volleyball facility hosting intercollegiate competition and recreational use.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Barnes+Beach+Volleyball+Complex+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Barnes+Beach+Volleyball+Complex+CSU+Bakersfield"
+  },
+  {
+    "id": "bdc",
+    "campusId": "csub",
+    "name": "Business Development Center",
+    "abbreviation": "BDC",
+    "aliases": [
+      "BDC",
+      "Business Development Center",
+      "Business"
+    ],
+    "description": "School of Business and Public Administration building with classrooms, offices, and the Small Business Development Center.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Business+Development+Center+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Business+Development+Center+CSU+Bakersfield"
+  },
+  {
+    "id": "bdc-entrance",
+    "campusId": "csub",
+    "name": "Building B BDC Entrance",
+    "abbreviation": "BDC-ENT",
+    "aliases": [
+      "Building B BDC Entrance",
+      "BDC Entrance",
+      "Building B Entrance"
+    ],
+    "description": "Main entrance to Building B of the Business Development Center complex.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Building+B+BDC+Entrance+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Building+B+BDC+Entrance+CSU+Bakersfield"
+  },
+  {
+    "id": "bus-stop",
+    "campusId": "csub",
+    "name": "Bus Stop GET",
+    "abbreviation": "BUS-GET",
+    "aliases": [
+      "Bus Stop GET",
+      "GET Bus Stop",
+      "Bus Stop",
+      "GET Transit"
+    ],
+    "description": "Golden Empire Transit bus stop serving campus with connections to the greater Bakersfield area.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bus+Stop+GET+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bus+Stop+GET+CSU+Bakersfield"
+  },
+  {
+    "id": "cashiers",
+    "campusId": "csub",
+    "name": "Cashier's Office",
+    "abbreviation": "CASH",
+    "aliases": [
+      "Cashier's Office",
+      "Cashiers",
+      "Student Accounts"
+    ],
+    "description": "Office handling tuition payments, fee collection, student account disbursements, and financial transactions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cashier+Office+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cashier+Office+CSU+Bakersfield"
+  },
+  {
+    "id": "caen",
+    "campusId": "csub",
+    "name": "Center for Accessibility and Essential Needs",
+    "abbreviation": "CAEN",
+    "aliases": [
+      "CAEN",
+      "Center for Accessibility and Essential Needs",
+      "Accessibility Services",
+      "Disability Services"
+    ],
+    "description": "Office providing accommodations, support services, and resources for students with disabilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Center+Accessibility+Essential+Needs+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Center+Accessibility+Essential+Needs+CSU+Bakersfield"
+  },
+  {
+    "id": "cece",
+    "campusId": "csub",
+    "name": "Center for Career Education and Community Engagement",
+    "abbreviation": "CECE",
+    "aliases": [
+      "CECE",
+      "Career Center",
+      "Center for Career Education and Community Engagement"
+    ],
+    "description": "Career services center offering job placement, internship coordination, career counseling, and community engagement programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Center+Career+Education+Community+Engagement+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Center+Career+Education+Community+Engagement+CSU+Bakersfield"
+  },
+  {
+    "id": "challenge-course",
+    "campusId": "csub",
+    "name": "Challenge Course",
+    "abbreviation": "CHALL",
+    "aliases": [
+      "Challenge Course",
+      "Ropes Course"
+    ],
+    "description": "Outdoor challenge and ropes course facility used for team building, leadership development, and physical education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Challenge+Course+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Challenge+Course+CSU+Bakersfield"
+  },
+  {
+    "id": "classroom-bldg",
+    "campusId": "csub",
+    "name": "Classroom Building",
+    "abbreviation": "CLASS",
+    "aliases": [
+      "Classroom Building",
+      "Classrooms"
+    ],
+    "description": "Multi-use instructional building with lecture halls and classrooms serving a wide range of academic departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Classroom+Building+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Classroom+Building+CSU+Bakersfield"
+  },
+  {
+    "id": "camp",
+    "campusId": "csub",
+    "name": "College Assistance Migrant Program",
+    "abbreviation": "CAMP",
+    "aliases": [
+      "CAMP",
+      "College Assistance Migrant Program"
+    ],
+    "description": "Program providing academic and financial support to students from migrant and seasonal farmworker families.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=College+Assistance+Migrant+Program+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=College+Assistance+Migrant+Program+CSU+Bakersfield"
+  },
+  {
+    "id": "dezember",
+    "campusId": "csub",
+    "name": "Dezember Leadership Development Center",
+    "abbreviation": "DEZEMBER",
+    "aliases": [
+      "Dezember Leadership Development Center",
+      "Dezember Center",
+      "Leadership Development Center"
+    ],
+    "description": "Center focused on student leadership development, civic engagement, and organizational management programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dezember+Leadership+Development+Center+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Dezember+Leadership+Development+Center+CSU+Bakersfield"
+  },
+  {
+    "id": "disabled-parking",
+    "campusId": "csub",
+    "name": "Disabled Parking",
+    "abbreviation": "DIS-PARK",
+    "aliases": [
+      "Disabled Parking",
+      "Accessible Parking",
+      "Handicap Parking"
+    ],
+    "description": "ADA-accessible parking spaces located throughout campus lots A, B, C, D, E, F, FB, FC, G, H, IA, IB, IC, M, Preschool & Infant Center, and Student Health Center.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Disabled+Parking+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Disabled+Parking+CSU+Bakersfield"
+  },
+  {
+    "id": "dobry",
+    "campusId": "csub",
+    "name": "Dobry",
+    "abbreviation": "DOBRY",
+    "aliases": [
+      "Dobry",
+      "Dobry Hall"
+    ],
+    "description": "Campus building providing offices and space for various university programs and departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dobry+Hall+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Dobry+Hall+CSU+Bakersfield"
+  },
+  {
+    "id": "dore-theatre",
+    "campusId": "csub",
+    "name": "Dore Theatre & Todd Madigan Art Gallery",
+    "abbreviation": "DORE",
+    "aliases": [
+      "Dore Theatre",
+      "Todd Madigan Art Gallery",
+      "Art Gallery",
+      "Theatre"
+    ],
+    "description": "Performing arts theatre and the Todd Madigan Art Gallery presenting student and professional exhibitions and productions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dore+Theatre+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Dore+Theatre+CSU+Bakersfield"
+  },
+  {
+    "id": "donahoe",
+    "campusId": "csub",
+    "name": "Dorothy Donahoe Hall",
+    "abbreviation": "DDH",
+    "aliases": [
+      "Dorothy Donahoe Hall",
+      "Donahoe Hall",
+      "DDH"
+    ],
+    "description": "Major classroom and faculty office building named after California educator Dorothy Donahoe.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dorothy+Donahoe+Hall+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Dorothy+Donahoe+Hall+CSU+Bakersfield"
+  },
+  {
+    "id": "dreamers",
+    "campusId": "csub",
+    "name": "Dreamers Resource Center",
+    "abbreviation": "DRC",
+    "aliases": [
+      "Dreamers Resource Center",
+      "Dreamers Center",
+      "Dream Center"
+    ],
+    "description": "Resource center providing support, advising, and community for undocumented and DACAmented students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dreamers+Resource+Center+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Dreamers+Resource+Center+CSU+Bakersfield"
+  },
+  {
+    "id": "education",
+    "campusId": "csub",
+    "name": "Education",
+    "abbreviation": "EDUC",
+    "aliases": [
+      "Education",
+      "Education Building",
+      "School of Education"
+    ],
+    "description": "Building housing the School of Education with classrooms, labs, and offices for teacher credential and education programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Education+Building+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Education+Building+CSU+Bakersfield"
+  },
+  {
+    "id": "eop",
+    "campusId": "csub",
+    "name": "Educational Opportunity Program",
+    "abbreviation": "EOP",
+    "aliases": [
+      "EOP",
+      "Educational Opportunity Program"
+    ],
+    "description": "Program offering academic support, counseling, and financial assistance to historically underrepresented students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Educational+Opportunity+Program+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Educational+Opportunity+Program+CSU+Bakersfield"
+  },
+  {
+    "id": "ets",
+    "campusId": "csub",
+    "name": "Educational Talent Search",
+    "abbreviation": "ETS",
+    "aliases": [
+      "ETS",
+      "Educational Talent Search",
+      "ETS TRIO"
+    ],
+    "description": "TRIO program supporting college preparation and access for first-generation and low-income secondary students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Educational+Talent+Search+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Educational+Talent+Search+CSU+Bakersfield"
+  },
+  {
+    "id": "eoc",
+    "campusId": "csub",
+    "name": "Emergency Operations Center",
+    "abbreviation": "EOC",
+    "aliases": [
+      "Emergency Operations Center",
+      "EOC"
+    ],
+    "description": "Facility coordinating campus emergency preparedness, response operations, and crisis management activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Emergency+Operations+Center+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Emergency+Operations+Center+CSU+Bakersfield"
+  },
+  {
+    "id": "engineering",
+    "campusId": "csub",
+    "name": "Engineering Complex",
+    "abbreviation": "ENGR",
+    "aliases": [
+      "Engineering Complex",
+      "Engineering",
+      "ENGR"
+    ],
+    "description": "Complex housing the School of Engineering with labs, classrooms, and project spaces for engineering programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Engineering+Complex+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Engineering+Complex+CSU+Bakersfield"
+  },
+  {
+    "id": "entwood",
+    "campusId": "csub",
+    "name": "Entwood",
+    "abbreviation": "ENTWOOD",
+    "aliases": [
+      "Entwood",
+      "Entwood Hall"
+    ],
+    "description": "On-campus residential building providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Entwood+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Entwood+CSU+Bakersfield"
+  },
+  {
+    "id": "eego",
+    "campusId": "csub",
+    "name": "Extended Education & Global Outreach",
+    "abbreviation": "EEGO",
+    "aliases": [
+      "EEGO",
+      "Extended Education & Global Outreach",
+      "Extended Education",
+      "Global Outreach"
+    ],
+    "description": "Division offering continuing education, professional development, and international programs to the broader community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Extended+Education+Global+Outreach+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Extended+Education+Global+Outreach+CSU+Bakersfield"
+  },
+  {
+    "id": "facilities",
+    "campusId": "csub",
+    "name": "Facilities / Corporation Yard",
+    "abbreviation": "FAC",
+    "aliases": [
+      "Facilities",
+      "Corporation Yard",
+      "Facilities Management"
+    ],
+    "description": "Facilities management offices and corporation yard overseeing campus maintenance, operations, and infrastructure.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Facilities+Corporation+Yard+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Facilities+Corporation+Yard+CSU+Bakersfield"
+  },
+  {
+    "id": "ftlc",
+    "campusId": "csub",
+    "name": "Faculty Teaching and Learning Center",
+    "abbreviation": "FTLC",
+    "aliases": [
+      "FTLC",
+      "Faculty Teaching and Learning Center",
+      "Teaching and Learning Center"
+    ],
+    "description": "Center supporting faculty development in pedagogy, instructional technology, and teaching excellence.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Faculty+Teaching+Learning+Center+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Faculty+Teaching+Learning+Center+CSU+Bakersfield"
+  },
+  {
+    "id": "financial-aid",
+    "campusId": "csub",
+    "name": "Financial Aid",
+    "abbreviation": "FIN-AID",
+    "aliases": [
+      "Financial Aid",
+      "Financial Aid Office"
+    ],
+    "description": "Office administering scholarships, grants, loans, and work-study programs to assist students with educational costs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Financial+Aid+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Financial+Aid+CSU+Bakersfield"
+  },
+  {
+    "id": "fine-arts",
+    "campusId": "csub",
+    "name": "Fine Arts",
+    "abbreviation": "FA",
+    "aliases": [
+      "Fine Arts",
+      "Fine Arts Building"
+    ],
+    "description": "Building housing visual and performing arts programs with studios, rehearsal spaces, and gallery areas.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fine+Arts+Building+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Fine+Arts+Building+CSU+Bakersfield"
+  },
+  {
+    "id": "food-pantry",
+    "campusId": "csub",
+    "name": "Food Pantry",
+    "abbreviation": "PANTRY",
+    "aliases": [
+      "Food Pantry",
+      "Campus Food Pantry",
+      "Roadrunner Food Pantry"
+    ],
+    "description": "Campus food pantry providing free groceries and food assistance to students experiencing food insecurity.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Food+Pantry+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Food+Pantry+CSU+Bakersfield"
+  },
+  {
+    "id": "grad-scholars",
+    "campusId": "csub",
+    "name": "Graduate Scholars Program",
+    "abbreviation": "GSP-GRAD",
+    "aliases": [
+      "Graduate Scholars Program",
+      "Graduate Scholars"
+    ],
+    "description": "Program supporting graduate student success through mentorship, funding opportunities, and professional development.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Graduate+Scholars+Program+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Graduate+Scholars+Program+CSU+Bakersfield"
+  },
+  {
+    "id": "grimm-ag",
+    "campusId": "csub",
+    "name": "Grimm Family Center for Agricultural Business",
+    "abbreviation": "GRIMM",
+    "aliases": [
+      "Grimm Family Center for Agricultural Business",
+      "Grimm Center",
+      "Agricultural Business Center"
+    ],
+    "description": "Center for agricultural business education and industry partnerships in the San Joaquin Valley region.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Grimm+Family+Center+Agricultural+Business+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Grimm+Family+Center+Agricultural+Business+CSU+Bakersfield"
+  },
+  {
+    "id": "guardian-scholars",
+    "campusId": "csub",
+    "name": "Guardian Scholars Program",
+    "abbreviation": "GSP",
+    "aliases": [
+      "GSP",
+      "Guardian Scholars Program",
+      "Guardian Scholars"
+    ],
+    "description": "Support program for current and former foster youth providing resources, counseling, and community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Guardian+Scholars+Program+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Guardian+Scholars+Program+CSU+Bakersfield"
+  },
+  {
+    "id": "hardt-field",
+    "campusId": "csub",
+    "name": "Hardt Field",
+    "abbreviation": "HARDT",
+    "aliases": [
+      "Hardt Field",
+      "Soccer Field Hardt"
+    ],
+    "description": "Athletic field used for soccer, recreational sports, and outdoor physical education activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hardt+Field+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Hardt+Field+CSU+Bakersfield"
+  },
+  {
+    "id": "harvey-hall-plaza",
+    "campusId": "csub",
+    "name": "Harvey L. Hall Family Plaza",
+    "abbreviation": "HARVEY-PLAZA",
+    "aliases": [
+      "Harvey L. Hall Family Plaza",
+      "Harvey Hall Plaza",
+      "Hall Family Plaza"
+    ],
+    "description": "Central outdoor plaza named after Harvey L. Hall serving as a gathering space for campus community events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Harvey+Hall+Family+Plaza+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Harvey+Hall+Family+Plaza+CSU+Bakersfield"
+  },
+  {
+    "id": "hep",
+    "campusId": "csub",
+    "name": "High School Equivalency Program",
+    "abbreviation": "HEP",
+    "aliases": [
+      "HEP",
+      "High School Equivalency Program",
+      "GED Program"
+    ],
+    "description": "Federally funded program helping migrant and seasonal farmworkers obtain a high school equivalency diploma.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=High+School+Equivalency+Program+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=High+School+Equivalency+Program+CSU+Bakersfield"
+  },
+  {
+    "id": "humanities",
+    "campusId": "csub",
+    "name": "Humanities Office Building",
+    "abbreviation": "HUM",
+    "aliases": [
+      "Humanities Office Building",
+      "Humanities",
+      "HUM"
+    ],
+    "description": "Building housing humanities faculty offices and departmental programs in literature, history, philosophy, and related fields.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Humanities+Office+Building+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Humanities+Office+Building+CSU+Bakersfield"
+  },
+  {
+    "id": "icardo",
+    "campusId": "csub",
+    "name": "Icardo Center",
+    "abbreviation": "ICARDO",
+    "aliases": [
+      "Icardo Center",
+      "Icardo"
+    ],
+    "description": "Multi-purpose center housing student programs, event spaces, and various campus support offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Icardo+Center+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Icardo+Center+CSU+Bakersfield"
+  },
+  {
+    "id": "icardo-box",
+    "campusId": "csub",
+    "name": "Icardo Center Box Office",
+    "abbreviation": "ICARDO-BOX",
+    "aliases": [
+      "Icardo Center Box Office",
+      "Box Office"
+    ],
+    "description": "Box office for purchasing tickets to campus performances, events, and athletics games.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Icardo+Center+Box+Office+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Icardo+Center+Box+Office+CSU+Bakersfield"
+  },
+  {
+    "id": "international",
+    "campusId": "csub",
+    "name": "International Students -- International Affairs",
+    "abbreviation": "INTL",
+    "aliases": [
+      "International Affairs",
+      "International Students",
+      "Office of International Affairs"
+    ],
+    "description": "Office supporting international students with visa services, cultural programming, and cross-cultural engagement.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=International+Affairs+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=International+Affairs+CSU+Bakersfield"
+  },
+  {
+    "id": "it-help",
+    "campusId": "csub",
+    "name": "IT Help Starts Here",
+    "abbreviation": "IT-HELP",
+    "aliases": [
+      "IT Help Starts Here",
+      "IT Help Desk",
+      "Technology Help"
+    ],
+    "description": "Campus IT help center providing technical support, device assistance, and technology resources for students and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=IT+Help+Desk+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=IT+Help+Desk+CSU+Bakersfield"
+  },
+  {
+    "id": "itv",
+    "campusId": "csub",
+    "name": "ITV Services",
+    "abbreviation": "ITV",
+    "aliases": [
+      "ITV Services",
+      "ITV",
+      "Interactive Television Services"
+    ],
+    "description": "Instructional television services facility supporting distance learning, video production, and media distribution.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=ITV+Services+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=ITV+Services+CSU+Bakersfield"
+  },
+  {
+    "id": "antonino-sports",
+    "campusId": "csub",
+    "name": "John Antonino Sports Complex",
+    "abbreviation": "JASC",
+    "aliases": [
+      "John Antonino Sports Complex",
+      "Antonino Sports Complex",
+      "Sports Complex"
+    ],
+    "description": "Multi-sport athletics complex hosting CSUB Roadrunner intercollegiate sports events and recreational activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=John+Antonino+Sports+Complex+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=John+Antonino+Sports+Complex+CSU+Bakersfield"
+  },
+  {
+    "id": "hillman-aquatic",
+    "campusId": "csub",
+    "name": "John S. Hillman Aquatic Center",
+    "abbreviation": "AQUATIC",
+    "aliases": [
+      "Hillman Aquatic Center",
+      "John S. Hillman Aquatic Center",
+      "Aquatic Center",
+      "Pool"
+    ],
+    "description": "Indoor and outdoor aquatic facility used for competitive swimming, water polo, and recreational swimming programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hillman+Aquatic+Center+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Hillman+Aquatic+Center+CSU+Bakersfield"
+  },
+  {
+    "id": "kegley-success",
+    "campusId": "csub",
+    "name": "Kegley Center for Student Success",
+    "abbreviation": "KEGLEY-SS",
+    "aliases": [
+      "Kegley Center for Student Success",
+      "Kegley Center",
+      "Student Success Center"
+    ],
+    "description": "Center dedicated to student academic achievement through tutoring, advising, and learning support services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kegley+Center+Student+Success+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kegley+Center+Student+Success+CSU+Bakersfield"
+  },
+  {
+    "id": "kegley-ethics",
+    "campusId": "csub",
+    "name": "Kegley Institute of Ethics",
+    "abbreviation": "KIE",
+    "aliases": [
+      "Kegley Institute of Ethics",
+      "KIE",
+      "Institute of Ethics"
+    ],
+    "description": "Institute promoting ethical inquiry, public discourse, and applied ethics education and community programming.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kegley+Institute+Ethics+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kegley+Institute+Ethics+CSU+Bakersfield"
+  },
+  {
+    "id": "lecture-bldg",
+    "campusId": "csub",
+    "name": "Lecture Building",
+    "abbreviation": "LEC",
+    "aliases": [
+      "Lecture Building",
+      "Lecture Hall"
+    ],
+    "description": "Large lecture hall building used for high-enrollment courses and academic presentations across departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lecture+Building+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Lecture+Building+CSU+Bakersfield"
+  },
+  {
+    "id": "lorien",
+    "campusId": "csub",
+    "name": "Lorien",
+    "abbreviation": "LORIEN",
+    "aliases": [
+      "Lorien",
+      "Lorien Hall"
+    ],
+    "description": "On-campus residential building providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lorien+Hall+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Lorien+Hall+CSU+Bakersfield"
+  },
+  {
+    "id": "media-arts",
+    "campusId": "csub",
+    "name": "Media Arts Center",
+    "abbreviation": "MAC",
+    "aliases": [
+      "Media Arts Center",
+      "MAC",
+      "Media Arts"
+    ],
+    "description": "Center for media arts programs with production studios, editing suites, broadcast facilities, and multimedia labs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Media+Arts+Center+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Media+Arts+Center+CSU+Bakersfield"
+  },
+  {
+    "id": "modular-east-3",
+    "campusId": "csub",
+    "name": "Modular East III",
+    "abbreviation": "MOD-E3",
+    "aliases": [
+      "Modular East III",
+      "Modular East 3"
+    ],
+    "description": "Modular building complex providing flexible classroom and office space on the east side of campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Modular+East+III+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Modular+East+III+CSU+Bakersfield"
+  },
+  {
+    "id": "magec",
+    "campusId": "csub",
+    "name": "Multicultural Alliance and Gender Equity Center",
+    "abbreviation": "MAGEC",
+    "aliases": [
+      "MAGEC",
+      "Multicultural Alliance and Gender Equity Center",
+      "Multicultural Center"
+    ],
+    "description": "Center fostering diversity, inclusion, and equity through cultural programming, identity support, and community-building.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Multicultural+Alliance+Gender+Equity+Center+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Multicultural+Alliance+Gender+Equity+Center+CSU+Bakersfield"
+  },
+  {
+    "id": "music",
+    "campusId": "csub",
+    "name": "Music Building",
+    "abbreviation": "MUSIC",
+    "aliases": [
+      "Music Building",
+      "Music"
+    ],
+    "description": "Building housing music department with practice rooms, rehearsal halls, recording studios, and performance spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Music+Building+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Music+Building+CSU+Bakersfield"
+  },
+  {
+    "id": "nsfp",
+    "campusId": "csub",
+    "name": "New Student and Family Programs",
+    "abbreviation": "NSFP",
+    "aliases": [
+      "NSFP",
+      "New Student and Family Programs",
+      "Orientation",
+      "New Student Orientation"
+    ],
+    "description": "Office coordinating new student orientation, family programs, and transition support for incoming students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=New+Student+Family+Programs+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=New+Student+Family+Programs+CSU+Bakersfield"
+  },
+  {
+    "id": "nsme-advising",
+    "campusId": "csub",
+    "name": "NSME Student Advising and Success Center",
+    "abbreviation": "NSME-ADV",
+    "aliases": [
+      "NSME Student Advising and Success Center",
+      "NSME Advising",
+      "Natural Sciences Mathematics Engineering Advising"
+    ],
+    "description": "Advising center for students in Natural Sciences, Mathematics, and Engineering programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=NSME+Student+Advising+Success+Center+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=NSME+Student+Advising+Success+Center+CSU+Bakersfield"
+  },
+  {
+    "id": "numenor",
+    "campusId": "csub",
+    "name": "Numenor",
+    "abbreviation": "NUMENOR",
+    "aliases": [
+      "Numenor",
+      "Numenor Hall"
+    ],
+    "description": "On-campus residential building providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Numenor+Hall+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Numenor+Hall+CSU+Bakersfield"
+  },
+  {
+    "id": "nursing-sim",
+    "campusId": "csub",
+    "name": "Nursing Clinical Simulation Center",
+    "abbreviation": "NURSING-SIM",
+    "aliases": [
+      "Nursing Clinical Simulation Center",
+      "Nursing Simulation Center",
+      "Nursing Sim Lab"
+    ],
+    "description": "High-fidelity clinical simulation lab for nursing students to practice patient care skills in a realistic setting.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nursing+Clinical+Simulation+Center+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Nursing+Clinical+Simulation+Center+CSU+Bakersfield"
+  },
+  {
+    "id": "grad-admissions",
+    "campusId": "csub",
+    "name": "Office of Graduate Admissions",
+    "abbreviation": "GRAD-ADM",
+    "aliases": [
+      "Office of Graduate Admissions",
+      "Graduate Admissions"
+    ],
+    "description": "Office handling graduate program applications, admissions decisions, and support for prospective graduate students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Office+Graduate+Admissions+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Office+Graduate+Admissions+CSU+Bakersfield"
+  },
+  {
+    "id": "undergrad-admissions",
+    "campusId": "csub",
+    "name": "Office of Undergraduate Admissions",
+    "abbreviation": "UG-ADM",
+    "aliases": [
+      "Office of Undergraduate Admissions",
+      "Undergraduate Admissions",
+      "Admissions Office"
+    ],
+    "description": "Office managing undergraduate admissions, application processing, and prospective student engagement.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Undergraduate+Admissions+Office+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Undergraduate+Admissions+Office+CSU+Bakersfield"
+  },
+  {
+    "id": "outdoor-makerspace",
+    "campusId": "csub",
+    "name": "Outdoor Makerspace",
+    "abbreviation": "MAKER",
+    "aliases": [
+      "Outdoor Makerspace",
+      "Makerspace"
+    ],
+    "description": "Outdoor hands-on fabrication and creative workspace for students to build projects and develop maker skills.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Outdoor+Makerspace+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Outdoor+Makerspace+CSU+Bakersfield"
+  },
+  {
+    "id": "outdoor-pe-storage",
+    "campusId": "csub",
+    "name": "Outdoor P.E. Storage",
+    "abbreviation": "PE-STOR",
+    "aliases": [
+      "Outdoor P.E. Storage",
+      "PE Storage",
+      "Physical Education Storage"
+    ],
+    "description": "Storage facility for outdoor physical education equipment used in recreational and instructional programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Outdoor+PE+Storage+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Outdoor+PE+Storage+CSU+Bakersfield"
+  },
+  {
+    "id": "panda-express",
+    "campusId": "csub",
+    "name": "Panda Express",
+    "abbreviation": "PANDA",
+    "aliases": [
+      "Panda Express",
+      "Panda"
+    ],
+    "description": "Panda Express dining location on campus serving Chinese-American fast food in the campus dining area.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Panda+Express+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Panda+Express+CSU+Bakersfield"
+  },
+  {
+    "id": "parking-lots",
+    "campusId": "csub",
+    "name": "Parking Lots",
+    "abbreviation": "PARKING",
+    "aliases": [
+      "Parking Lots",
+      "Parking",
+      "Lots A B C D E F G H I J K L M"
+    ],
+    "description": "Campus parking areas including Lots A, B, C, D, E, F, G, H, I, J, K1, K2, K3, L, and M for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lots+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lots+CSU+Bakersfield"
+  },
+  {
+    "id": "parking-meters",
+    "campusId": "csub",
+    "name": "Parking Meters",
+    "abbreviation": "PARK-METER",
+    "aliases": [
+      "Parking Meters",
+      "Metered Parking"
+    ],
+    "description": "Metered parking zones in Lots C, D, E, F, H, I, Student Union, and Visual Arts areas.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Meters+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Meters+CSU+Bakersfield"
+  },
+  {
+    "id": "parking-permits",
+    "campusId": "csub",
+    "name": "Parking Permits",
+    "abbreviation": "PARK-PERMIT",
+    "aliases": [
+      "Parking Permits",
+      "Permit Parking"
+    ],
+    "description": "Permit parking zones on CSUB Way N., Don Hart Dr. E/W, Kroll Way E., and Roadrunner Dr. S.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Permits+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Permits+CSU+Bakersfield"
+  },
+  {
+    "id": "phys-ed",
+    "campusId": "csub",
+    "name": "Physical Education",
+    "abbreviation": "PE",
+    "aliases": [
+      "Physical Education",
+      "PE",
+      "Physical Education Building"
+    ],
+    "description": "Physical education building with courts, gyms, and instructional spaces for kinesiology and PE programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Physical+Education+Building+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Physical+Education+Building+CSU+Bakersfield"
+  },
+  {
+    "id": "president",
+    "campusId": "csub",
+    "name": "President's Office",
+    "abbreviation": "PRES",
+    "aliases": [
+      "President's Office",
+      "Office of the President"
+    ],
+    "description": "Office of the university president overseeing campus-wide leadership, strategic planning, and external relations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=President+Office+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=President+Office+CSU+Bakersfield"
+  },
+  {
+    "id": "preschool",
+    "campusId": "csub",
+    "name": "Preschool & Infant Center",
+    "abbreviation": "PRESCHOOL",
+    "aliases": [
+      "Preschool & Infant Center",
+      "Preschool",
+      "Infant Center",
+      "Child Development Center"
+    ],
+    "description": "Licensed preschool and infant care center serving the CSUB campus community and early childhood education students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Preschool+Infant+Center+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Preschool+Infant+Center+CSU+Bakersfield"
+  },
+  {
+    "id": "print-shop",
+    "campusId": "csub",
+    "name": "Print Shop",
+    "abbreviation": "PRINT",
+    "aliases": [
+      "Print Shop",
+      "Printing Services"
+    ],
+    "description": "Campus printing and reprographics facility providing print, copy, and binding services for the university community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Print+Shop+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Print+Shop+CSU+Bakersfield"
+  },
+  {
+    "id": "project-rebound",
+    "campusId": "csub",
+    "name": "Project Rebound",
+    "abbreviation": "REBOUND",
+    "aliases": [
+      "Project Rebound",
+      "Rebound"
+    ],
+    "description": "Program supporting formerly incarcerated students with academic resources, counseling, and reintegration services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Project+Rebound+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Project+Rebound+CSU+Bakersfield"
+  },
+  {
+    "id": "runner-park",
+    "campusId": "csub",
+    "name": "Recreation",
+    "abbreviation": "REC",
+    "aliases": [
+      "Recreation",
+      "Runner Park",
+      "Recreation Runner Park"
+    ],
+    "description": "Campus recreational area and Runner Park providing outdoor leisure space, walking paths, and recreational activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Runner+Park+Recreation+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Runner+Park+Recreation+CSU+Bakersfield"
+  },
+  {
+    "id": "res-housing-east",
+    "campusId": "csub",
+    "name": "Residence Housing East",
+    "abbreviation": "RHE",
+    "aliases": [
+      "Residence Housing East",
+      "Central",
+      "Juniper",
+      "Pinyon",
+      "Housing East"
+    ],
+    "description": "Eastern residential housing complex comprising Central, Juniper, and Pinyon halls for on-campus student living.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Residence+Housing+East+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Residence+Housing+East+CSU+Bakersfield"
+  },
+  {
+    "id": "rivendell",
+    "campusId": "csub",
+    "name": "Rivendell",
+    "abbreviation": "RIVENDELL",
+    "aliases": [
+      "Rivendell",
+      "Rivendell Hall"
+    ],
+    "description": "On-campus residential building providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rivendell+Hall+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Rivendell+Hall+CSU+Bakersfield"
+  },
+  {
+    "id": "rpa",
+    "campusId": "csub",
+    "name": "Roadrunner Parents Association",
+    "abbreviation": "RPA",
+    "aliases": [
+      "RPA",
+      "Roadrunner Parents Association",
+      "Parents Association"
+    ],
+    "description": "Organization supporting families of CSUB students through events, resources, and campus engagement opportunities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Roadrunner+Parents+Association+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Roadrunner+Parents+Association+CSU+Bakersfield"
+  },
+  {
+    "id": "softball",
+    "campusId": "csub",
+    "name": "Roadrunner Softball Complex",
+    "abbreviation": "SOFTBALL",
+    "aliases": [
+      "Roadrunner Softball Complex",
+      "Softball Complex",
+      "Softball Field"
+    ],
+    "description": "Softball stadium and facilities hosting CSUB Roadrunner softball competitions and practices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Roadrunner+Softball+Complex+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Roadrunner+Softball+Complex+CSU+Bakersfield"
+  },
+  {
+    "id": "rohan",
+    "campusId": "csub",
+    "name": "Rohan",
+    "abbreviation": "ROHAN",
+    "aliases": [
+      "Rohan",
+      "Rohan Hall"
+    ],
+    "description": "On-campus residential building providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rohan+Hall+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Rohan+Hall+CSU+Bakersfield"
+  },
+  {
+    "id": "romberg-nursing",
+    "campusId": "csub",
+    "name": "Romberg Nursing Center",
+    "abbreviation": "ROMBERG",
+    "aliases": [
+      "Romberg Nursing Center",
+      "Nursing Center",
+      "School of Nursing"
+    ],
+    "description": "Nursing education center with classrooms, simulation labs, and clinical training spaces for the nursing program.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Romberg+Nursing+Center+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Romberg+Nursing+Center+CSU+Bakersfield"
+  },
+  {
+    "id": "runner-cafe",
+    "campusId": "csub",
+    "name": "Runner Cafe",
+    "abbreviation": "RUNNER-CAFE",
+    "aliases": [
+      "Runner Cafe",
+      "Cafe"
+    ],
+    "description": "Campus cafe offering coffee, snacks, and light meals for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Runner+Cafe+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Runner+Cafe+CSU+Bakersfield"
+  },
+  {
+    "id": "runner-express",
+    "campusId": "csub",
+    "name": "Runner Express",
+    "abbreviation": "RUNNER-EXP",
+    "aliases": [
+      "Runner Express",
+      "Express Dining"
+    ],
+    "description": "Quick-service campus dining location offering grab-and-go meals, snacks, and beverages.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Runner+Express+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Runner+Express+CSU+Bakersfield"
+  },
+  {
+    "id": "satellite-plant",
+    "campusId": "csub",
+    "name": "Satellite Plant",
+    "abbreviation": "SAT-PLANT",
+    "aliases": [
+      "Satellite Plant",
+      "Satellite Utilities Plant"
+    ],
+    "description": "Utilities plant providing supplemental heating, cooling, and power distribution to campus facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Satellite+Plant+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Satellite+Plant+CSU+Bakersfield"
+  },
+  {
+    "id": "sci-1",
+    "campusId": "csub",
+    "name": "Science I",
+    "abbreviation": "SCI-1",
+    "aliases": [
+      "Science I",
+      "Science 1",
+      "Science Building I"
+    ],
+    "description": "First science building housing laboratory and classroom facilities for natural science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Science+I+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Science+I+CSU+Bakersfield"
+  },
+  {
+    "id": "sci-2",
+    "campusId": "csub",
+    "name": "Science II",
+    "abbreviation": "SCI-2",
+    "aliases": [
+      "Science II",
+      "Science 2",
+      "Science Building II"
+    ],
+    "description": "Second science building with additional lab and research spaces for chemistry, biology, and related programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Science+II+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Science+II+CSU+Bakersfield"
+  },
+  {
+    "id": "sci-3",
+    "campusId": "csub",
+    "name": "Science III",
+    "abbreviation": "SCI-3",
+    "aliases": [
+      "Science III",
+      "Science 3",
+      "Science Building III"
+    ],
+    "description": "Third science building supporting advanced science instruction, research labs, and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Science+III+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Science+III+CSU+Bakersfield"
+  },
+  {
+    "id": "it-service-center",
+    "campusId": "csub",
+    "name": "Service Center -- IT Help Desk",
+    "abbreviation": "IT-SERVICE",
+    "aliases": [
+      "Service Center IT Help Desk",
+      "IT Service Center",
+      "IT Help Desk"
+    ],
+    "description": "Central IT service center providing technical support, troubleshooting, and technology assistance to the campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=IT+Service+Center+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=IT+Service+Center+CSU+Bakersfield"
+  },
+  {
+    "id": "soccer-field",
+    "campusId": "csub",
+    "name": "Soccer Field",
+    "abbreviation": "SOCCER",
+    "aliases": [
+      "Soccer Field",
+      "Soccer Complex"
+    ],
+    "description": "Campus soccer field used for intercollegiate competition and recreational activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Soccer+Field+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Soccer+Field+CSU+Bakersfield"
+  },
+  {
+    "id": "ssj-info",
+    "campusId": "csub",
+    "name": "Southern San Joaquin Valley Info Center",
+    "abbreviation": "SSJV",
+    "aliases": [
+      "Southern San Joaquin Valley Info Center",
+      "SSJV Info Center",
+      "San Joaquin Valley Information Center"
+    ],
+    "description": "Information center serving as a regional hub connecting CSUB with the Southern San Joaquin Valley community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Southern+San+Joaquin+Valley+Info+Center+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Southern+San+Joaquin+Valley+Info+Center+CSU+Bakersfield"
+  },
+  {
+    "id": "sponsored-programs",
+    "campusId": "csub",
+    "name": "Sponsored Programs Post Award Office",
+    "abbreviation": "SPPA",
+    "aliases": [
+      "Sponsored Programs Post Award Office",
+      "Sponsored Programs",
+      "Post Award Office"
+    ],
+    "description": "Office managing grant administration, compliance, and financial reporting for externally sponsored research projects.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sponsored+Programs+Post+Award+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sponsored+Programs+Post+Award+CSU+Bakersfield"
+  },
+  {
+    "id": "starbucks",
+    "campusId": "csub",
+    "name": "Starbucks",
+    "abbreviation": "STARBUCKS",
+    "aliases": [
+      "Starbucks",
+      "Campus Starbucks"
+    ],
+    "description": "Starbucks campus location offering coffee, tea, and beverages for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Starbucks+CSU+Bakersfield"
+  },
+  {
+    "id": "student-affairs",
+    "campusId": "csub",
+    "name": "Student Affairs",
+    "abbreviation": "SA",
+    "aliases": [
+      "Student Affairs",
+      "Office of Student Affairs",
+      "Dean of Students"
+    ],
+    "description": "Office overseeing student life, wellbeing, conduct, and co-curricular programs across the campus community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Affairs+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Affairs+CSU+Bakersfield"
+  },
+  {
+    "id": "student-health",
+    "campusId": "csub",
+    "name": "Student Health Services",
+    "abbreviation": "SHS",
+    "aliases": [
+      "Student Health Services",
+      "Student Health Center",
+      "Health Center"
+    ],
+    "description": "Campus health clinic providing primary care, mental health services, and wellness programs to students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Health+Services+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Health+Services+CSU+Bakersfield"
+  },
+  {
+    "id": "src",
+    "campusId": "csub",
+    "name": "Student Recreation Center",
+    "abbreviation": "SRC",
+    "aliases": [
+      "SRC",
+      "Student Recreation Center",
+      "Recreation Center",
+      "Rec Center"
+    ],
+    "description": "Campus recreation center with fitness equipment, courts, pools, and group fitness programs for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Recreation+Center+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Recreation+Center+CSU+Bakersfield"
+  },
+  {
+    "id": "student-services",
+    "campusId": "csub",
+    "name": "Student Services",
+    "abbreviation": "SS-BLDG",
+    "aliases": [
+      "Student Services",
+      "Student Services Building"
+    ],
+    "description": "Central student services building housing multiple support offices including advising, financial aid, and registrar.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Services+Building+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Services+Building+CSU+Bakersfield"
+  },
+  {
+    "id": "student-union",
+    "campusId": "csub",
+    "name": "Student Union / Bookstore",
+    "abbreviation": "SU",
+    "aliases": [
+      "Student Union",
+      "Bookstore",
+      "Student Union Bookstore"
+    ],
+    "description": "Central campus hub housing the bookstore, student government offices, lounges, and retail and dining options.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Union+Bookstore+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Union+Bookstore+CSU+Bakersfield"
+  },
+  {
+    "id": "student-union-patio",
+    "campusId": "csub",
+    "name": "Student Union Patio",
+    "abbreviation": "SU-PATIO",
+    "aliases": [
+      "Student Union Patio",
+      "SU Patio"
+    ],
+    "description": "Outdoor patio adjacent to the Student Union used for events, gatherings, and campus life activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Union+Patio+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Union+Patio+CSU+Bakersfield"
+  },
+  {
+    "id": "photo-id",
+    "campusId": "csub",
+    "name": "Take Your Photo ID Here",
+    "abbreviation": "PHOTO-ID",
+    "aliases": [
+      "Take Your Photo ID Here",
+      "Photo ID",
+      "Student ID"
+    ],
+    "description": "Location for students and staff to obtain campus photo identification cards.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Photo+ID+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Photo+ID+CSU+Bakersfield"
+  },
+  {
+    "id": "tec",
+    "campusId": "csub",
+    "name": "Technology Engagement Center",
+    "abbreviation": "TEC",
+    "aliases": [
+      "TEC",
+      "Technology Engagement Center"
+    ],
+    "description": "Center providing access to technology resources, digital tools, and innovation spaces for the campus community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Technology+Engagement+Center+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Technology+Engagement+Center+CSU+Bakersfield"
+  },
+  {
+    "id": "tennis-courts",
+    "campusId": "csub",
+    "name": "Tennis Courts",
+    "abbreviation": "TENNIS",
+    "aliases": [
+      "Tennis Courts",
+      "Tennis"
+    ],
+    "description": "On-campus tennis courts used for intercollegiate competition and recreational use.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tennis+Courts+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Tennis+Courts+CSU+Bakersfield"
+  },
+  {
+    "id": "wonderful-center",
+    "campusId": "csub",
+    "name": "The Wonderful College Success Center",
+    "abbreviation": "WONDERFUL",
+    "aliases": [
+      "The Wonderful College Success Center",
+      "Wonderful College Success Center",
+      "College Success Center"
+    ],
+    "description": "Academic success center supported by The Wonderful Company offering tutoring, advising, and college readiness programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wonderful+College+Success+Center+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Wonderful+College+Success+Center+CSU+Bakersfield"
+  },
+  {
+    "id": "track-field",
+    "campusId": "csub",
+    "name": "Track & Field",
+    "abbreviation": "TRACK",
+    "aliases": [
+      "Track & Field",
+      "Track and Field",
+      "Track"
+    ],
+    "description": "Athletic track and field facility for intercollegiate competition and recreational use.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Track+Field+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Track+Field+CSU+Bakersfield"
+  },
+  {
+    "id": "transfer-resource",
+    "campusId": "csub",
+    "name": "Transfer Resource Center",
+    "abbreviation": "TRC",
+    "aliases": [
+      "Transfer Resource Center",
+      "TRC",
+      "Transfer Center"
+    ],
+    "description": "Center providing resources, advising, and community support for transfer students transitioning to CSUB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Transfer+Resource+Center+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Transfer+Resource+Center+CSU+Bakersfield"
+  },
+  {
+    "id": "univ-advancement",
+    "campusId": "csub",
+    "name": "University Advancement",
+    "abbreviation": "UA",
+    "aliases": [
+      "University Advancement",
+      "Advancement"
+    ],
+    "description": "Division overseeing alumni relations, fundraising, development, and external communications for the university.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Advancement+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Advancement+CSU+Bakersfield"
+  },
+  {
+    "id": "counselor-training",
+    "campusId": "csub",
+    "name": "University Counselor Training Clinic",
+    "abbreviation": "COUNSELOR",
+    "aliases": [
+      "University Counselor Training Clinic",
+      "Counselor Training Clinic"
+    ],
+    "description": "Training clinic where graduate counseling students provide supervised mental health services to the campus community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Counselor+Training+Clinic+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Counselor+Training+Clinic+CSU+Bakersfield"
+  },
+  {
+    "id": "univ-outreach",
+    "campusId": "csub",
+    "name": "University Outreach Office",
+    "abbreviation": "OUTREACH",
+    "aliases": [
+      "University Outreach Office",
+      "Outreach Office",
+      "Outreach"
+    ],
+    "description": "Office coordinating K-12 outreach programs, community partnerships, and pre-college support initiatives.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Outreach+Office+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Outreach+Office+CSU+Bakersfield"
+  },
+  {
+    "id": "upd",
+    "campusId": "csub",
+    "name": "University Police",
+    "abbreviation": "UPD",
+    "aliases": [
+      "University Police",
+      "Campus Police",
+      "UPD"
+    ],
+    "description": "University Police Department providing law enforcement, emergency response, and safety services to the campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Police+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Police+CSU+Bakersfield"
+  },
+  {
+    "id": "visual-arts",
+    "campusId": "csub",
+    "name": "Visual Arts",
+    "abbreviation": "VA",
+    "aliases": [
+      "Visual Arts",
+      "Visual Arts Building",
+      "VA"
+    ],
+    "description": "Building housing visual arts studios, galleries, and faculty offices for fine arts and design programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Visual+Arts+Building+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Visual+Arts+Building+CSU+Bakersfield"
+  },
+  {
+    "id": "lib",
+    "campusId": "csub",
+    "name": "Walter Stiern Library",
+    "abbreviation": "LIB",
+    "aliases": [
+      "Walter Stiern Library",
+      "Stiern Library",
+      "Library",
+      "LIB"
+    ],
+    "description": "Main campus library with study spaces, research support, digital resources, and special collections.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Walter+Stiern+Library+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Walter+Stiern+Library+CSU+Bakersfield"
+  },
+  {
+    "id": "stiern-rose-garden",
+    "campusId": "csub",
+    "name": "Walter Stiern Rose Garden",
+    "abbreviation": "ROSE-GARDEN",
+    "aliases": [
+      "Walter Stiern Rose Garden",
+      "Stiern Rose Garden",
+      "Rose Garden"
+    ],
+    "description": "Scenic rose garden adjacent to the Walter Stiern Library serving as a relaxing outdoor campus space.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Walter+Stiern+Rose+Garden+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Walter+Stiern+Rose+Garden+CSU+Bakersfield"
+  },
+  {
+    "id": "walters-market",
+    "campusId": "csub",
+    "name": "Walter's Micro Market",
+    "abbreviation": "WALTERS",
+    "aliases": [
+      "Walter's Micro Market",
+      "Micro Market",
+      "Walters Market"
+    ],
+    "description": "Self-serve micro market offering snacks, beverages, and convenience items for the campus community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Walters+Micro+Market+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Walters+Micro+Market+CSU+Bakersfield"
+  },
+  {
+    "id": "well-core",
+    "campusId": "csub",
+    "name": "Well Core Repository",
+    "abbreviation": "WELL-CORE",
+    "aliases": [
+      "Well Core Repository",
+      "Core Repository"
+    ],
+    "description": "Geological well core storage and research repository supporting earth science and energy research programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Well+Core+Repository+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Well+Core+Repository+CSU+Bakersfield"
+  },
+  {
+    "id": "welcome-center",
+    "campusId": "csub",
+    "name": "Welcome Center",
+    "abbreviation": "WELCOME",
+    "aliases": [
+      "Welcome Center",
+      "Visitor Center"
+    ],
+    "description": "Campus welcome and visitor center providing information, tours, and orientation resources for prospective students and guests.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Welcome+Center+CSU+Bakersfield",
+    "appleMapsUrl": "http://maps.apple.com/?q=Welcome+Center+CSU+Bakersfield"
+  }
+]

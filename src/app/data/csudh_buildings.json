@@ -1,0 +1,643 @@
+[
+  {
+    "id": "coe",
+    "campusId": "csudh",
+    "name": "College of Education",
+    "abbreviation": "COE",
+    "aliases": [
+      "College of Education",
+      "COE"
+    ],
+    "description": "Home of the College of Education offering teacher preparation, counseling, and educational leadership programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=College+of+Education+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=College+of+Education+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "ii",
+    "campusId": "csudh",
+    "name": "Innovation & Instruction",
+    "abbreviation": "II",
+    "aliases": [
+      "Innovation & Instruction",
+      "Innovation and Instruction",
+      "II"
+    ],
+    "description": "Building supporting innovative teaching, instructional technology, and faculty development programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Innovation+Instruction+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Innovation+Instruction+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "lib",
+    "campusId": "csudh",
+    "name": "Leo F. Cain Library",
+    "abbreviation": "LIB",
+    "aliases": [
+      "Leo F. Cain Library",
+      "Cain Library",
+      "Library",
+      "LIB"
+    ],
+    "description": "Main campus library providing research services, study spaces, digital resources, and academic support.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Leo+F+Cain+Library+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Leo+F+Cain+Library+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "lib-add",
+    "campusId": "csudh",
+    "name": "Library Addition",
+    "abbreviation": "LIB-ADD",
+    "aliases": [
+      "Library Addition"
+    ],
+    "description": "Addition to the Leo F. Cain Library expanding study and research spaces for students and faculty.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Library+Addition+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Library+Addition+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "wh",
+    "campusId": "csudh",
+    "name": "James L. Welch Hall",
+    "abbreviation": "WH",
+    "aliases": [
+      "James L. Welch Hall",
+      "Welch Hall",
+      "WH"
+    ],
+    "description": "Academic building housing departments and classrooms supporting university instruction and research.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Welch+Hall+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Welch+Hall+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "sbs",
+    "campusId": "csudh",
+    "name": "Social & Behavioral Sciences",
+    "abbreviation": "SBS",
+    "aliases": [
+      "Social & Behavioral Sciences",
+      "Social and Behavioral Sciences",
+      "SBS"
+    ],
+    "description": "Building housing social and behavioral science departments including psychology, sociology, and political science.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Social+Behavioral+Sciences+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Social+Behavioral+Sciences+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "lch",
+    "campusId": "csudh",
+    "name": "LaCorte Hall",
+    "abbreviation": "LCH",
+    "aliases": [
+      "LaCorte Hall",
+      "LCH"
+    ],
+    "description": "Academic building with classrooms, labs, and faculty offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=LaCorte+Hall+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=LaCorte+Hall+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "nsm",
+    "campusId": "csudh",
+    "name": "Natural Sciences & Mathematics",
+    "abbreviation": "NSM",
+    "aliases": [
+      "Natural Sciences & Mathematics",
+      "Natural Sciences and Mathematics",
+      "NSM"
+    ],
+    "description": "Building housing natural sciences and mathematics departments with labs, lecture halls, and research facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Natural+Sciences+Mathematics+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Natural+Sciences+Mathematics+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "si",
+    "campusId": "csudh",
+    "name": "Science & Innovation",
+    "abbreviation": "SI",
+    "aliases": [
+      "Science & Innovation",
+      "Science and Innovation",
+      "SI"
+    ],
+    "description": "Modern science and innovation building featuring advanced research labs and collaborative learning spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Science+Innovation+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Science+Innovation+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "eac",
+    "campusId": "csudh",
+    "name": "East Academic Complex",
+    "abbreviation": "EAC",
+    "aliases": [
+      "East Academic Complex",
+      "EAC"
+    ],
+    "description": "Eastern academic complex providing classrooms and offices for multiple university departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=East+Academic+Complex+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=East+Academic+Complex+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "sac2",
+    "campusId": "csudh",
+    "name": "South Academic Complex 2",
+    "abbreviation": "SAC-2",
+    "aliases": [
+      "South Academic Complex 2",
+      "SAC-2",
+      "SAC 2"
+    ],
+    "description": "South academic complex building 2 with classrooms and faculty office space for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=South+Academic+Complex+2+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=South+Academic+Complex+2+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "sac3",
+    "campusId": "csudh",
+    "name": "South Academic Complex 3",
+    "abbreviation": "SAC-3",
+    "aliases": [
+      "South Academic Complex 3",
+      "SAC-3",
+      "SAC 3"
+    ],
+    "description": "South academic complex building 3 with classrooms and faculty office space for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=South+Academic+Complex+3+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=South+Academic+Complex+3+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "vil",
+    "campusId": "csudh",
+    "name": "Classroom Village",
+    "abbreviation": "VIL",
+    "aliases": [
+      "Classroom Village",
+      "VIL"
+    ],
+    "description": "Modular classroom village providing additional instructional space for courses and academic programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Classroom+Village+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Classroom+Village+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "ccpe",
+    "campusId": "csudh",
+    "name": "College of Continuing & Professional Education",
+    "abbreviation": "CCPE",
+    "aliases": [
+      "College of Continuing & Professional Education",
+      "College of Continuing and Professional Education",
+      "CCPE",
+      "Continuing Education"
+    ],
+    "description": "Division offering continuing education, certificate programs, and professional development courses to the community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=College+Continuing+Professional+Education+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=College+Continuing+Professional+Education+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "cams",
+    "campusId": "csudh",
+    "name": "California Academy of Mathematics & Science",
+    "abbreviation": "CAMS",
+    "aliases": [
+      "California Academy of Mathematics & Science",
+      "California Academy of Mathematics and Science",
+      "CAMS"
+    ],
+    "description": "Selective public high school on the CSU Dominguez Hills campus focused on STEM education and college preparation.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=California+Academy+Mathematics+Science+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=California+Academy+Mathematics+Science+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "shc",
+    "campusId": "csudh",
+    "name": "Student Health Center",
+    "abbreviation": "SHC",
+    "aliases": [
+      "Student Health Center",
+      "SHC",
+      "Health Center",
+      "Campus Health"
+    ],
+    "description": "Campus health facility providing medical care, mental health counseling, wellness programs, and health education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Health+Center+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Health+Center+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "lsu",
+    "campusId": "csudh",
+    "name": "Loker Student Union",
+    "abbreviation": "LSU",
+    "aliases": [
+      "Loker Student Union",
+      "LSU",
+      "Student Union"
+    ],
+    "description": "Central student union building housing dining, student government, clubs, event spaces, and campus life services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Loker+Student+Union+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Loker+Student+Union+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "ut",
+    "campusId": "csudh",
+    "name": "University Theatre",
+    "abbreviation": "UT",
+    "aliases": [
+      "University Theatre",
+      "UT",
+      "Campus Theatre"
+    ],
+    "description": "Performing arts theatre hosting student productions, professional performances, lectures, and campus events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Theatre+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Theatre+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "wrc",
+    "campusId": "csudh",
+    "name": "Women's Resource Center",
+    "abbreviation": "WRC",
+    "aliases": [
+      "Women's Resource Center",
+      "WRC"
+    ],
+    "description": "Resource center providing support, advocacy, programming, and a safe space for women and gender equity on campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Womens+Resource+Center+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Womens+Resource+Center+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "cdc",
+    "campusId": "csudh",
+    "name": "Child Development Center",
+    "abbreviation": "CDC",
+    "aliases": [
+      "Child Development Center",
+      "CDC"
+    ],
+    "description": "On-campus child development center providing childcare and early education for children of students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Child+Development+Center+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Child+Development+Center+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "itc",
+    "campusId": "csudh",
+    "name": "Infant Toddler Center",
+    "abbreviation": "ITC",
+    "aliases": [
+      "Infant Toddler Center",
+      "ITC"
+    ],
+    "description": "Campus childcare facility providing care and early education for infants and toddlers of campus community members.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Infant+Toddler+Center+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Infant+Toddler+Center+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "sh1",
+    "campusId": "csudh",
+    "name": "Pueblo Dominguez Hall 1",
+    "abbreviation": "SH-1",
+    "aliases": [
+      "Pueblo Dominguez",
+      "SH-1",
+      "Pueblo Dominguez SH-1"
+    ],
+    "description": "On-campus residential hall providing student housing accommodations at CSU Dominguez Hills.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pueblo+Dominguez+SH1+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Pueblo+Dominguez+SH1+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "sh2",
+    "campusId": "csudh",
+    "name": "Pueblo Dominguez Hall 2",
+    "abbreviation": "SH-2",
+    "aliases": [
+      "Pueblo Dominguez",
+      "SH-2",
+      "Pueblo Dominguez SH-2"
+    ],
+    "description": "On-campus residential hall providing student housing accommodations at CSU Dominguez Hills.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pueblo+Dominguez+SH2+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Pueblo+Dominguez+SH2+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "srh",
+    "campusId": "csudh",
+    "name": "Student Residence Hall",
+    "abbreviation": "SRH",
+    "aliases": [
+      "Student Residence Hall",
+      "SRH",
+      "Residence Hall"
+    ],
+    "description": "On-campus residence hall offering student housing with community amenities and living spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Residence+Hall+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Residence+Hall+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "gym",
+    "campusId": "csudh",
+    "name": "Gymnasium",
+    "abbreviation": "GYM",
+    "aliases": [
+      "Gymnasium",
+      "GYM",
+      "Campus Gym"
+    ],
+    "description": "Main campus gymnasium supporting intercollegiate athletics, physical education classes, and recreational activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gymnasium+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Gymnasium+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "fh",
+    "campusId": "csudh",
+    "name": "Field House",
+    "abbreviation": "FH",
+    "aliases": [
+      "Field House",
+      "FH"
+    ],
+    "description": "Athletic field house providing support facilities for sports teams, equipment storage, and athletic programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Field+House+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Field+House+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "sp",
+    "campusId": "csudh",
+    "name": "Swimming Pool",
+    "abbreviation": "SP",
+    "aliases": [
+      "Swimming Pool",
+      "SP",
+      "Aquatic Center",
+      "Pool"
+    ],
+    "description": "Campus aquatic facility used for intercollegiate swimming, water polo, physical education, and recreation.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Swimming+Pool+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Swimming+Pool+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "track-field",
+    "campusId": "csudh",
+    "name": "Track and Field",
+    "abbreviation": "TRACK",
+    "aliases": [
+      "Track and Field",
+      "Track",
+      "Running Track"
+    ],
+    "description": "Campus track and field complex hosting intercollegiate track and field competitions and team practices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Track+Field+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Track+Field+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "baseball-field",
+    "campusId": "csudh",
+    "name": "Baseball Field",
+    "abbreviation": "BASEBALL",
+    "aliases": [
+      "Baseball Field",
+      "Baseball Diamond",
+      "Baseball Stadium"
+    ],
+    "description": "Campus baseball field hosting Toros baseball games and practice sessions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Baseball+Field+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Baseball+Field+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "softball-field",
+    "campusId": "csudh",
+    "name": "Softball Field",
+    "abbreviation": "SOFTBALL",
+    "aliases": [
+      "Softball Field",
+      "Softball Diamond",
+      "Softball Complex"
+    ],
+    "description": "Campus softball field hosting Toros softball games and team practice sessions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Softball+Field+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Softball+Field+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "soccer-fields",
+    "campusId": "csudh",
+    "name": "Soccer Fields",
+    "abbreviation": "SOCCER",
+    "aliases": [
+      "Soccer Fields",
+      "Soccer Field",
+      "Soccer Complex"
+    ],
+    "description": "Campus soccer fields hosting Toros soccer matches and practice for intercollegiate and intramural teams.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Soccer+Fields+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Soccer+Fields+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "tennis-courts",
+    "campusId": "csudh",
+    "name": "Tennis Courts",
+    "abbreviation": "TENNIS",
+    "aliases": [
+      "Tennis Courts",
+      "Tennis Complex"
+    ],
+    "description": "Campus tennis courts used for intercollegiate tennis competition, physical education, and recreation.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tennis+Courts+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Tennis+Courts+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "activity-field",
+    "campusId": "csudh",
+    "name": "Activity Field",
+    "abbreviation": "ACTIVITY",
+    "aliases": [
+      "Activity Field",
+      "Recreational Field"
+    ],
+    "description": "Open activity field used for recreational sports, intramural events, and campus outdoor activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Activity+Field+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Activity+Field+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "pp",
+    "campusId": "csudh",
+    "name": "Physical Plant",
+    "abbreviation": "PP",
+    "aliases": [
+      "Physical Plant",
+      "PP",
+      "Facilities"
+    ],
+    "description": "Campus physical plant managing facilities maintenance, custodial services, and infrastructure operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Physical+Plant+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Physical+Plant+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "cp",
+    "campusId": "csudh",
+    "name": "Central Plant",
+    "abbreviation": "CP",
+    "aliases": [
+      "Central Plant",
+      "CP"
+    ],
+    "description": "Campus central utility plant providing heating, cooling, and energy systems for university buildings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Central+Plant+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Central+Plant+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "rpm",
+    "campusId": "csudh",
+    "name": "ROTC & Parking Services Modular",
+    "abbreviation": "RPM",
+    "aliases": [
+      "ROTC & Parking Services Modular",
+      "RPM",
+      "ROTC",
+      "Parking Services"
+    ],
+    "description": "Modular facility housing ROTC program offices and campus parking services administration.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=ROTC+Parking+Services+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=ROTC+Parking+Services+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "baseball-storage",
+    "campusId": "csudh",
+    "name": "Baseball/Softball Storage",
+    "abbreviation": "BSS",
+    "aliases": [
+      "Baseball/Softball Storage",
+      "Baseball Softball Storage",
+      "Athletic Storage"
+    ],
+    "description": "Storage facility for baseball and softball equipment, supplies, and athletic gear.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Baseball+Softball+Storage+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Baseball+Softball+Storage+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "lot1",
+    "campusId": "csudh",
+    "name": "Parking Lot 1",
+    "abbreviation": "LOT-1",
+    "aliases": [
+      "Parking Lot 1",
+      "Lot 1"
+    ],
+    "description": "Campus parking lot 1 providing vehicle parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+1+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+1+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "lot2",
+    "campusId": "csudh",
+    "name": "Parking Lot 2",
+    "abbreviation": "LOT-2",
+    "aliases": [
+      "Parking Lot 2",
+      "Lot 2"
+    ],
+    "description": "Campus parking lot 2 providing vehicle parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+2+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+2+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "lot3",
+    "campusId": "csudh",
+    "name": "Parking Lot 3",
+    "abbreviation": "LOT-3",
+    "aliases": [
+      "Parking Lot 3",
+      "Lot 3"
+    ],
+    "description": "Campus parking lot 3 providing vehicle parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+3+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+3+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "lot4a",
+    "campusId": "csudh",
+    "name": "Parking Lot 4A",
+    "abbreviation": "LOT-4A",
+    "aliases": [
+      "Parking Lot 4A",
+      "Lot 4A"
+    ],
+    "description": "Campus parking lot 4A providing vehicle parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+4A+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+4A+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "lot4b",
+    "campusId": "csudh",
+    "name": "Parking Lot 4B",
+    "abbreviation": "LOT-4B",
+    "aliases": [
+      "Parking Lot 4B",
+      "Lot 4B"
+    ],
+    "description": "Campus parking lot 4B providing vehicle parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+4B+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+4B+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "lot6",
+    "campusId": "csudh",
+    "name": "Parking Lot 6",
+    "abbreviation": "LOT-6",
+    "aliases": [
+      "Parking Lot 6",
+      "Lot 6"
+    ],
+    "description": "Campus parking lot 6 providing vehicle parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+6+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+6+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "lot7",
+    "campusId": "csudh",
+    "name": "Parking Lot 7",
+    "abbreviation": "LOT-7",
+    "aliases": [
+      "Parking Lot 7",
+      "Lot 7"
+    ],
+    "description": "Campus parking lot 7 providing vehicle parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+7+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+7+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "bookstore",
+    "campusId": "csudh",
+    "name": "Bookstore",
+    "abbreviation": "BOOKS",
+    "aliases": [
+      "Bookstore",
+      "Campus Bookstore"
+    ],
+    "description": "Campus bookstore selling textbooks, course materials, CSU Dominguez Hills merchandise, and supplies.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bookstore+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bookstore+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "urban-farm",
+    "campusId": "csudh",
+    "name": "Campus Urban Farm",
+    "abbreviation": "FARM",
+    "aliases": [
+      "Campus Urban Farm",
+      "Urban Farm",
+      "Community Garden"
+    ],
+    "description": "Campus urban farm supporting sustainability education, food production, and community engagement programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Campus+Urban+Farm+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Campus+Urban+Farm+CSU+Dominguez+Hills"
+  },
+  {
+    "id": "hillside-court",
+    "campusId": "csudh",
+    "name": "Hillside Court",
+    "abbreviation": "HILLSIDE",
+    "aliases": [
+      "Hillside Court",
+      "Hillside"
+    ],
+    "description": "Outdoor campus area providing gathering and recreational space for students and campus events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hillside+Court+CSU+Dominguez+Hills",
+    "appleMapsUrl": "http://maps.apple.com/?q=Hillside+Court+CSU+Dominguez+Hills"
+  }
+]

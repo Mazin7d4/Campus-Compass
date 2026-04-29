@@ -11,11 +11,6 @@ const nextConfig: NextConfig = {
   // For next export, Next Image optimization must be disabled
   images: {
     unoptimized: true,
-    remotePatterns: [
-      { protocol: "https", hostname: "placehold.co", pathname: "/**" },
-      { protocol: "https", hostname: "images.unsplash.com", pathname: "/**" },
-      { protocol: "https", hostname: "picsum.photos", pathname: "/**" },
-    ],
   },
 };
 

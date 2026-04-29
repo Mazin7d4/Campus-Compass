@@ -1,22 +1,276 @@
 {
   "placeholderImages": [
     {
-      "id": "csus-hero",
-      "description": "A sunny day at the CSUS campus with the library in the background.",
-      "imageUrl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx1bml2ZXJzaXR5JTIwY2FtcHVzfGVufDB8fHx8MTc2ODI0MTI1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "id": "csub-hero",
+      "description": "California State University Bakersfield campus with the Runner Park and modern facilities under a warm Central Valley sky.",
+      "imageUrl": "/images/campuses/csub.jpg",
       "imageHint": "university campus"
     },
     {
-      "id": "sjsu-hero",
-      "description": "The iconic tower hall at SJSU against a clear blue sky.",
-      "imageUrl": "https://images.unsplash.com/photo-1592066575517-58df903152f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb2xsZWdlJTIwYnVpbGRpbmd8ZW58MHx8fHwxNzY4MjUzOTA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "college building"
+      "id": "csuci-hero",
+      "description": "CSU Channel Islands entrance sign with the campus name and mountains in the background in Camarillo.",
+      "imageUrl": "/images/campuses/csuci.jpg",
+      "imageHint": "campus entrance sign"
+    },
+    {
+      "id": "csuc-hero",
+      "description": "Kendall Hall, the historic administrative heart of Chico State, on a clear day in 2023.",
+      "imageUrl": "/images/campuses/csuc.jpg",
+      "imageHint": "Kendall Hall Chico State"
+    },
+    {
+      "id": "csudh-hero",
+      "description": "Welch Hall on the campus of California State University Dominguez Hills in Carson.",
+      "imageUrl": "/images/campuses/csudh.jpg",
+      "imageHint": "Welch Hall CSUDH"
     },
     {
       "id": "csueb-hero",
-      "description": "A view from the hills of Cal State East Bay campus.",
-      "imageUrl": "https://images.unsplash.com/photo-1760131556605-7f2e63d00385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjYW1wdXMlMjB2aWV3fGVufDB8fHx8MTc2ODI1NDI0OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "campus view"
+      "description": "Aerial view of Cal State East Bay with Hayward, the East Bay hills, and San Francisco Bay in the background.",
+      "imageUrl": "/images/campuses/csueb.jpg",
+      "imageHint": "CSUEB aerial view"
+    },
+    {
+      "id": "fresno-hero",
+      "description": "The Frank W. Thomas Administration Building at Fresno State, in Fresno, California.",
+      "imageUrl": "/images/campuses/fresno.jpg",
+      "imageHint": "Fresno State Thomas Administration Building"
+    },
+    {
+      "id": "csuf-hero",
+      "description": "Tree-lined walkway on the California State University Fullerton campus in Orange County.",
+      "imageUrl": "/images/campuses/csuf.jpg",
+      "imageHint": "CSUF campus trees"
+    },
+    {
+      "id": "humboldt-hero",
+      "description": "Student and Business Services Building at Cal Poly Humboldt in Arcata, surrounded by Northern California greenery.",
+      "imageUrl": "/images/campuses/humboldt.jpg",
+      "imageHint": "Humboldt campus building"
+    },
+    {
+      "id": "csulb-hero",
+      "description": "The iconic Walter Pyramid arena at California State University Long Beach.",
+      "imageUrl": "/images/campuses/csulb.jpg",
+      "imageHint": "Walter Pyramid CSULB"
+    },
+    {
+      "id": "csula-hero",
+      "description": "The entrance sign of California State University Los Angeles campus.",
+      "imageUrl": "/images/campuses/csula.jpg",
+      "imageHint": "CSULA entrance sign"
+    },
+    {
+      "id": "calmaritime-hero",
+      "description": "Cal Maritime Academy campus in Vallejo with the Training Ship Golden Bear docked at the pier.",
+      "imageUrl": "/images/campuses/calmaritime.jpg",
+      "imageHint": "Cal Maritime Academy ship"
+    },
+    {
+      "id": "csumb-hero",
+      "description": "California State University Monterey Bay campus buildings on the former Fort Ord site in Seaside.",
+      "imageUrl": "/images/campuses/csumb.jpg",
+      "imageHint": "CSUMB campus buildings"
+    },
+    {
+      "id": "csun-hero",
+      "description": "The Delmar T. Oviatt Library at California State University Northridge, the centerpiece of campus.",
+      "imageUrl": "/images/campuses/csun.jpg",
+      "imageHint": "Oviatt Library CSUN"
+    },
+    {
+      "id": "cpp-hero",
+      "description": "The CLA Building at Cal Poly Pomona with the snow-capped San Gabriel Mountains in the background on a winter day.",
+      "imageUrl": "/images/campuses/cpp.jpg",
+      "imageHint": "Cal Poly Pomona CLA building"
+    },
+    {
+      "id": "csus-hero",
+      "description": "The Library Quad at Sacramento State University on a sunny day with students and lush campus greenery.",
+      "imageUrl": "/images/campuses/csus.jpg",
+      "imageHint": "Sac State Library Quad"
+    },
+    {
+      "id": "csusb-hero",
+      "description": "The entrance to California State University San Bernardino with the campus sign and mountain backdrop.",
+      "imageUrl": "/images/campuses/csusb.jpg",
+      "imageHint": "CSUSB entrance sign"
+    },
+    {
+      "id": "sdsu-hero",
+      "description": "San Diego State University main campus view with historic buildings and the iconic red and black Aztec spirit.",
+      "imageUrl": "/images/campuses/sdsu.jpg",
+      "imageHint": "SDSU main campus"
+    },
+    {
+      "id": "sfsu-hero",
+      "description": "The Administration Building at San Francisco State University on the main campus.",
+      "imageUrl": "/images/campuses/sfsu.jpg",
+      "imageHint": "SFSU Administration Building"
+    },
+    {
+      "id": "sjsu-hero",
+      "description": "Tower Hall, the iconic landmark of San José State University and the oldest public university on the West Coast.",
+      "imageUrl": "/images/campuses/sjsu.jpg",
+      "imageHint": "Tower Hall SJSU"
+    },
+    {
+      "id": "cpslo-hero",
+      "description": "The Recreation Center at Cal Poly San Luis Obispo, showcasing modern campus facilities.",
+      "imageUrl": "/images/campuses/cpslo.jpg",
+      "imageHint": "Cal Poly SLO Rec Center"
+    },
+    {
+      "id": "csusm-hero",
+      "description": "Kellogg Library at California State University San Marcos, the architectural centerpiece of campus.",
+      "imageUrl": "/images/campuses/csusm.jpg",
+      "imageHint": "Kellogg Library CSUSM"
+    },
+    {
+      "id": "ssu-hero",
+      "description": "The Green Music Center at Sonoma State University, a world-class performing arts venue in Rohnert Park.",
+      "imageUrl": "/images/campuses/ssu.jpg",
+      "imageHint": "Green Music Center SSU"
+    },
+    {
+      "id": "csustan-hero",
+      "description": "The campus entrance sign at CSU Stanislaus in Turlock, welcoming visitors to the university.",
+      "imageUrl": "/images/campuses/csustan.jpg",
+      "imageHint": "Stanislaus State entrance sign"
+    }
+  ]
+}
+    {
+      "id": "csuci-hero",
+      "description": "CSU Channel Islands entrance sign with the campus name and mountains in the background in Camarillo.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/CSUCI_Entry_Sign.jpg/1280px-CSUCI_Entry_Sign.jpg",
+      "imageHint": "campus entrance sign"
+    },
+    {
+      "id": "csuc-hero",
+      "description": "Kendall Hall, the historic administrative heart of Chico State, on a clear day in 2023.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kendall_Hall%2C_Chico_State_%282023%29-L1003366.jpg/1280px-Kendall_Hall%2C_Chico_State_%282023%29-L1003366.jpg",
+      "imageHint": "Kendall Hall Chico State"
+    },
+    {
+      "id": "csudh-hero",
+      "description": "Welch Hall on the campus of California State University Dominguez Hills in Carson.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Welch-hall-new.jpg/1280px-Welch-hall-new.jpg",
+      "imageHint": "Welch Hall CSUDH"
+    },
+    {
+      "id": "csueb-hero",
+      "description": "Aerial view of Cal State East Bay with Hayward, the East Bay hills, and San Francisco Bay in the background.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Csueb_view.jpg/1280px-Csueb_view.jpg",
+      "imageHint": "CSUEB aerial view"
+    },
+    {
+      "id": "fresno-hero",
+      "description": "The Frank W. Thomas Administration Building at Fresno State, in Fresno, California.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2009-0725-CA-CSUF-ThomasAdministration.jpg/1280px-2009-0725-CA-CSUF-ThomasAdministration.jpg",
+      "imageHint": "Fresno State Thomas Administration Building"
+    },
+    {
+      "id": "csuf-hero",
+      "description": "Tree-lined walkway on the California State University Fullerton campus in Orange County.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Calstate-trees.jpg/1280px-Calstate-trees.jpg",
+      "imageHint": "CSUF campus trees"
+    },
+    {
+      "id": "humboldt-hero",
+      "description": "Student and Business Services Building at Cal Poly Humboldt in Arcata, surrounded by Northern California greenery.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Student_and_Business_Services_Building_-_Humboldt_State_University_-_panoramio.jpg/1280px-Student_and_Business_Services_Building_-_Humboldt_State_University_-_panoramio.jpg",
+      "imageHint": "Humboldt campus building"
+    },
+    {
+      "id": "csulb-hero",
+      "description": "The iconic Walter Pyramid arena at California State University Long Beach.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Walter_Pyramid.jpg/1280px-Walter_Pyramid.jpg",
+      "imageHint": "Walter Pyramid CSULB"
+    },
+    {
+      "id": "csula-hero",
+      "description": "The entrance sign of California State University Los Angeles campus.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/CSULAsign.jpg",
+      "imageHint": "CSULA entrance sign"
+    },
+    {
+      "id": "calmaritime-hero",
+      "description": "Cal Maritime Academy campus in Vallejo with the Training Ship Golden Bear docked at the pier.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Cal_Maritime_Academy.jpg/1280px-Cal_Maritime_Academy.jpg",
+      "imageHint": "Cal Maritime Academy ship"
+    },
+    {
+      "id": "csumb-hero",
+      "description": "California State University Monterey Bay campus buildings on the former Fort Ord site in Seaside.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/CSU_Monterey_Bay_2003.jpg/1280px-CSU_Monterey_Bay_2003.jpg",
+      "imageHint": "CSUMB campus buildings"
+    },
+    {
+      "id": "csun-hero",
+      "description": "The Delmar T. Oviatt Library at California State University Northridge, the centerpiece of campus.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/OviattLibrary.jpg",
+      "imageHint": "Oviatt Library CSUN"
+    },
+    {
+      "id": "cpp-hero",
+      "description": "The CLA Building at Cal Poly Pomona with the snow-capped San Gabriel Mountains in the background on a winter day.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Cal_Poly_Pomona_Winter.jpg",
+      "imageHint": "Cal Poly Pomona CLA building"
+    },
+    {
+      "id": "csus-hero",
+      "description": "The Library Quad at Sacramento State University on a sunny day with students and lush campus greenery.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Sac_State_Library_Quad.jpg",
+      "imageHint": "Sac State Library Quad"
+    },
+    {
+      "id": "csusb-hero",
+      "description": "The entrance to California State University San Bernardino with the campus sign and mountain backdrop.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/CSUSB_Entrance.jpg/1280px-CSUSB_Entrance.jpg",
+      "imageHint": "CSUSB entrance sign"
+    },
+    {
+      "id": "sdsu-hero",
+      "description": "San Diego State University main campus view with historic buildings and the iconic red and black Aztec spirit.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sdsumain.jpg/1280px-Sdsumain.jpg",
+      "imageHint": "SDSU main campus"
+    },
+    {
+      "id": "sfsu-hero",
+      "description": "The Administration Building at San Francisco State University on the main campus.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/SFSU_Administration_Building.jpg/1280px-SFSU_Administration_Building.jpg",
+      "imageHint": "SFSU Administration Building"
+    },
+    {
+      "id": "sjsu-hero",
+      "description": "Tower Hall, the iconic landmark of San José State University and the oldest public university on the West Coast.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tower_Hall%2C_San_Jos%C3%A9_State_University_-_DSC03889.JPG/1280px-Tower_Hall%2C_San_Jos%C3%A9_State_University_-_DSC03889.JPG",
+      "imageHint": "Tower Hall SJSU"
+    },
+    {
+      "id": "cpslo-hero",
+      "description": "The Recreation Center at Cal Poly San Luis Obispo, showcasing modern campus facilities.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cal_Poly_Recreation_Center_%28San_Luis_Obispo%29.jpg/1280px-Cal_Poly_Recreation_Center_%28San_Luis_Obispo%29.jpg",
+      "imageHint": "Cal Poly SLO Rec Center"
+    },
+    {
+      "id": "csusm-hero",
+      "description": "Kellogg Library at California State University San Marcos, the architectural centerpiece of campus.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kellogg_Library.jpg/1280px-Kellogg_Library.jpg",
+      "imageHint": "Kellogg Library CSUSM"
+    },
+    {
+      "id": "ssu-hero",
+      "description": "The Green Music Center at Sonoma State University, a world-class performing arts venue in Rohnert Park.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/GreenMusicCenterPICT2873.JPG/1280px-GreenMusicCenterPICT2873.JPG",
+      "imageHint": "Green Music Center SSU"
+    },
+    {
+      "id": "csustan-hero",
+      "description": "The campus entrance sign at CSU Stanislaus in Turlock, welcoming visitors to the university.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Old_CSU_Stanislaus_Campus_entrance_sign.jpg/1280px-Old_CSU_Stanislaus_Campus_entrance_sign.jpg",
+      "imageHint": "Stanislaus State entrance sign"
     }
   ]
 }

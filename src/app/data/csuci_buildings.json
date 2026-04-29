@@ -1,0 +1,477 @@
+[
+  {
+    "id": "ali",
+    "campusId": "csuci",
+    "name": "Aliso Hall",
+    "abbreviation": "ALI",
+    "aliases": [
+      "Aliso Hall",
+      "ALI"
+    ],
+    "description": "Academic building providing classrooms and faculty offices for university programs at CSU Channel Islands.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Aliso+Hall+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Aliso+Hall+CSU+Channel+Islands"
+  },
+  {
+    "id": "aro",
+    "campusId": "csuci",
+    "name": "Arroyo Hall",
+    "abbreviation": "ARO",
+    "aliases": [
+      "Arroyo Hall",
+      "ARO"
+    ],
+    "description": "Academic building with classrooms and departmental offices supporting university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Arroyo+Hall+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Arroyo+Hall+CSU+Channel+Islands"
+  },
+  {
+    "id": "anv",
+    "campusId": "csuci",
+    "name": "Anacapa Village",
+    "abbreviation": "ANV",
+    "aliases": [
+      "Anacapa Village",
+      "ANV"
+    ],
+    "description": "On-campus residential village providing student housing accommodations at CSU Channel Islands.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Anacapa+Village+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Anacapa+Village+CSU+Channel+Islands"
+  },
+  {
+    "id": "bro",
+    "campusId": "csuci",
+    "name": "Broome Library",
+    "abbreviation": "BRO",
+    "aliases": [
+      "Broome Library",
+      "Library",
+      "BRO"
+    ],
+    "description": "Main campus library offering research services, study spaces, digital collections, and academic support resources.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Broome+Library+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Broome+Library+CSU+Channel+Islands"
+  },
+  {
+    "id": "btw",
+    "campusId": "csuci",
+    "name": "Bell Tower West",
+    "abbreviation": "BTW",
+    "aliases": [
+      "Bell Tower West",
+      "BTW"
+    ],
+    "description": "West wing of the Bell Tower complex housing classrooms and university offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bell+Tower+West+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bell+Tower+West+CSU+Channel+Islands"
+  },
+  {
+    "id": "bel",
+    "campusId": "csuci",
+    "name": "Bell Tower",
+    "abbreviation": "BEL",
+    "aliases": [
+      "Bell Tower",
+      "BEL"
+    ],
+    "description": "Iconic Bell Tower serving as a central landmark and campus gathering point at CSU Channel Islands.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bell+Tower+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bell+Tower+CSU+Channel+Islands"
+  },
+  {
+    "id": "bte",
+    "campusId": "csuci",
+    "name": "Bell Tower East",
+    "abbreviation": "BTE",
+    "aliases": [
+      "Bell Tower East",
+      "BTE"
+    ],
+    "description": "East wing of the Bell Tower complex housing classrooms and university offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bell+Tower+East+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bell+Tower+East+CSU+Channel+Islands"
+  },
+  {
+    "id": "cen",
+    "campusId": "csuci",
+    "name": "Central Plant",
+    "abbreviation": "CEN",
+    "aliases": [
+      "Central Plant",
+      "CEN"
+    ],
+    "description": "Campus central utility plant managing heating, cooling, and energy infrastructure for the university.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Central+Plant+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Central+Plant+CSU+Channel+Islands"
+  },
+  {
+    "id": "cha",
+    "campusId": "csuci",
+    "name": "Chaparral Hall",
+    "abbreviation": "CHA",
+    "aliases": [
+      "Chaparral Hall",
+      "CHA"
+    ],
+    "description": "Academic building with classrooms and faculty offices supporting multiple departments and programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chaparral+Hall+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Chaparral+Hall+CSU+Channel+Islands"
+  },
+  {
+    "id": "eld",
+    "campusId": "csuci",
+    "name": "El Dorado Hall",
+    "abbreviation": "ELD",
+    "aliases": [
+      "El Dorado Hall",
+      "ELD"
+    ],
+    "description": "Academic building providing classroom and office space for university departments and programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Dorado+Hall+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=El+Dorado+Hall+CSU+Channel+Islands"
+  },
+  {
+    "id": "gra",
+    "campusId": "csuci",
+    "name": "Grand Salon",
+    "abbreviation": "GRA",
+    "aliases": [
+      "Grand Salon",
+      "GRA"
+    ],
+    "description": "Large event and reception hall used for university ceremonies, banquets, and formal gatherings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand+Salon+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Grand+Salon+CSU+Channel+Islands"
+  },
+  {
+    "id": "isl",
+    "campusId": "csuci",
+    "name": "Islands Cafe",
+    "abbreviation": "ISL",
+    "aliases": [
+      "Islands Cafe",
+      "ISL",
+      "Dining Hall"
+    ],
+    "description": "Main campus dining facility offering a variety of meal options for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Islands+Cafe+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Islands+Cafe+CSU+Channel+Islands"
+  },
+  {
+    "id": "iro",
+    "campusId": "csuci",
+    "name": "Ironwood Hall",
+    "abbreviation": "IRO",
+    "aliases": [
+      "Ironwood Hall",
+      "IRO"
+    ],
+    "description": "Academic building housing classrooms, labs, and faculty offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ironwood+Hall+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Ironwood+Hall+CSU+Channel+Islands"
+  },
+  {
+    "id": "lin",
+    "campusId": "csuci",
+    "name": "Lindero Hall",
+    "abbreviation": "LIN",
+    "aliases": [
+      "Lindero Hall",
+      "LIN"
+    ],
+    "description": "Academic building with classrooms and departmental offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lindero+Hall+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Lindero+Hall+CSU+Channel+Islands"
+  },
+  {
+    "id": "mdr",
+    "campusId": "csuci",
+    "name": "Madera Hall",
+    "abbreviation": "MDR",
+    "aliases": [
+      "Madera Hall",
+      "MDR"
+    ],
+    "description": "Academic building providing classrooms and faculty office space for various university departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Madera+Hall+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Madera+Hall+CSU+Channel+Islands"
+  },
+  {
+    "id": "mai",
+    "campusId": "csuci",
+    "name": "Maintenance Stores",
+    "abbreviation": "MAI",
+    "aliases": [
+      "Maintenance Stores",
+      "MAI",
+      "Maintenance"
+    ],
+    "description": "Campus maintenance and facilities storage facility supporting physical plant operations and repairs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Maintenance+Stores+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Maintenance+Stores+CSU+Channel+Islands"
+  },
+  {
+    "id": "mal",
+    "campusId": "csuci",
+    "name": "Malibu Hall",
+    "abbreviation": "MAL",
+    "aliases": [
+      "Malibu Hall",
+      "MAL"
+    ],
+    "description": "Academic building with classrooms and offices supporting departmental programs and instruction.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Malibu+Hall+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Malibu+Hall+CSU+Channel+Islands"
+  },
+  {
+    "id": "man",
+    "campusId": "csuci",
+    "name": "Manzanita Hall",
+    "abbreviation": "MAN",
+    "aliases": [
+      "Manzanita Hall",
+      "MAN"
+    ],
+    "description": "Academic building providing classrooms and faculty offices for university departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Manzanita+Hall+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Manzanita+Hall+CSU+Channel+Islands"
+  },
+  {
+    "id": "mod",
+    "campusId": "csuci",
+    "name": "Modoc Hall",
+    "abbreviation": "MOD",
+    "aliases": [
+      "Modoc Hall",
+      "MOD"
+    ],
+    "description": "Academic building with classrooms and departmental offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Modoc+Hall+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Modoc+Hall+CSU+Channel+Islands"
+  },
+  {
+    "id": "nap",
+    "campusId": "csuci",
+    "name": "Napa Hall",
+    "abbreviation": "NAP",
+    "aliases": [
+      "Napa Hall",
+      "NAP"
+    ],
+    "description": "Academic building providing classrooms and office space for university departments and programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Napa+Hall+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Napa+Hall+CSU+Channel+Islands"
+  },
+  {
+    "id": "nor",
+    "campusId": "csuci",
+    "name": "del Norte Hall",
+    "abbreviation": "NOR",
+    "aliases": [
+      "del Norte Hall",
+      "Del Norte Hall",
+      "NOR"
+    ],
+    "description": "Academic building with classrooms and faculty offices supporting university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=del+Norte+Hall+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=del+Norte+Hall+CSU+Channel+Islands"
+  },
+  {
+    "id": "oja",
+    "campusId": "csuci",
+    "name": "Ojai Hall",
+    "abbreviation": "OJA",
+    "aliases": [
+      "Ojai Hall",
+      "OJA"
+    ],
+    "description": "Academic building providing classrooms and office space for university departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ojai+Hall+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Ojai+Hall+CSU+Channel+Islands"
+  },
+  {
+    "id": "pai",
+    "campusId": "csuci",
+    "name": "Paint Shop",
+    "abbreviation": "PAI",
+    "aliases": [
+      "Paint Shop",
+      "PAI"
+    ],
+    "description": "Campus facilities paint shop supporting building maintenance and physical plant painting operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Paint+Shop+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Paint+Shop+CSU+Channel+Islands"
+  },
+  {
+    "id": "pet",
+    "campusId": "csuci",
+    "name": "Petit Salon",
+    "abbreviation": "PET",
+    "aliases": [
+      "Petit Salon",
+      "PET"
+    ],
+    "description": "Intimate event and meeting salon used for smaller university gatherings, receptions, and ceremonies.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Petit+Salon+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Petit+Salon+CSU+Channel+Islands"
+  },
+  {
+    "id": "pla",
+    "campusId": "csuci",
+    "name": "Placer Hall",
+    "abbreviation": "PLA",
+    "aliases": [
+      "Placer Hall",
+      "PLA"
+    ],
+    "description": "Academic building with classrooms and departmental offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Placer+Hall+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Placer+Hall+CSU+Channel+Islands"
+  },
+  {
+    "id": "sag",
+    "campusId": "csuci",
+    "name": "Sage Hall",
+    "abbreviation": "SAG",
+    "aliases": [
+      "Sage Hall",
+      "SAG"
+    ],
+    "description": "Academic building providing classrooms and faculty offices for university departments and programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sage+Hall+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sage+Hall+CSU+Channel+Islands"
+  },
+  {
+    "id": "sal",
+    "campusId": "csuci",
+    "name": "Salon A",
+    "abbreviation": "SAL",
+    "aliases": [
+      "Salon A",
+      "SAL"
+    ],
+    "description": "Event salon space used for university meetings, receptions, and campus gatherings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Salon+A+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Salon+A+CSU+Channel+Islands"
+  },
+  {
+    "id": "scv",
+    "campusId": "csuci",
+    "name": "Santa Cruz Village",
+    "abbreviation": "SCV",
+    "aliases": [
+      "Santa Cruz Village",
+      "SCV"
+    ],
+    "description": "On-campus residential village offering student housing with community amenities and living spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Santa+Cruz+Village+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Santa+Cruz+Village+CSU+Channel+Islands"
+  },
+  {
+    "id": "smi",
+    "campusId": "csuci",
+    "name": "Smith Decision Center",
+    "abbreviation": "SMI",
+    "aliases": [
+      "Smith Decision Center",
+      "SMI",
+      "Decision Center"
+    ],
+    "description": "Modern decision center and conference facility equipped for collaborative learning and professional events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Smith+Decision+Center+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Smith+Decision+Center+CSU+Channel+Islands"
+  },
+  {
+    "id": "sho",
+    "campusId": "csuci",
+    "name": "Shops",
+    "abbreviation": "SHO",
+    "aliases": [
+      "Shops",
+      "SHO",
+      "Campus Shops"
+    ],
+    "description": "Campus facilities shops building supporting maintenance, carpentry, and physical plant trade operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Shops+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Shops+CSU+Channel+Islands"
+  },
+  {
+    "id": "sol",
+    "campusId": "csuci",
+    "name": "Solano Hall",
+    "abbreviation": "SOL",
+    "aliases": [
+      "Solano Hall",
+      "SOL"
+    ],
+    "description": "Academic building with classrooms and faculty offices for various university departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Solano+Hall+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Solano+Hall+CSU+Channel+Islands"
+  },
+  {
+    "id": "sub",
+    "campusId": "csuci",
+    "name": "Student Union Building",
+    "abbreviation": "SUB",
+    "aliases": [
+      "Student Union Building",
+      "SUB",
+      "Student Union"
+    ],
+    "description": "Central student union hub housing student government, clubs, event spaces, and campus life services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Union+Building+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Union+Building+CSU+Channel+Islands"
+  },
+  {
+    "id": "top",
+    "campusId": "csuci",
+    "name": "Topanga Hall",
+    "abbreviation": "TOP",
+    "aliases": [
+      "Topanga Hall",
+      "TOP"
+    ],
+    "description": "Academic building providing classrooms and office space for university departments and programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Topanga+Hall+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Topanga+Hall+CSU+Channel+Islands"
+  },
+  {
+    "id": "tow",
+    "campusId": "csuci",
+    "name": "Town Center",
+    "abbreviation": "TOW",
+    "aliases": [
+      "Town Center",
+      "TOW"
+    ],
+    "description": "Campus town center area with retail, dining, and student services conveniently located on campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Town+Center+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Town+Center+CSU+Channel+Islands"
+  },
+  {
+    "id": "uni",
+    "campusId": "csuci",
+    "name": "University Hall",
+    "abbreviation": "UNI",
+    "aliases": [
+      "University Hall",
+      "UNI"
+    ],
+    "description": "Main administrative building housing university leadership, enrollment services, and key administrative offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Hall+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Hall+CSU+Channel+Islands"
+  },
+  {
+    "id": "yub",
+    "campusId": "csuci",
+    "name": "Yuba Hall",
+    "abbreviation": "YUB",
+    "aliases": [
+      "Yuba Hall",
+      "YUB"
+    ],
+    "description": "Academic building with classrooms and departmental offices supporting university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Yuba+Hall+CSU+Channel+Islands",
+    "appleMapsUrl": "http://maps.apple.com/?q=Yuba+Hall+CSU+Channel+Islands"
+  }
+]

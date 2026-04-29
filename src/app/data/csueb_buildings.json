@@ -1,0 +1,719 @@
+[
+  {
+    "id": "ae",
+    "campusId": "csueb",
+    "name": "Art & Education",
+    "abbreviation": "AE",
+    "aliases": [
+      "Art & Education",
+      "Art and Education",
+      "AE"
+    ],
+    "description": "Building housing art and education departments with studios, classrooms, and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Art+Education+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Art+Education+CSU+East+Bay"
+  },
+  {
+    "id": "an",
+    "campusId": "csueb",
+    "name": "Annex",
+    "abbreviation": "AN",
+    "aliases": [
+      "Annex",
+      "AN"
+    ],
+    "description": "Auxiliary building providing additional office and program space for university departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Annex+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Annex+CSU+East+Bay"
+  },
+  {
+    "id": "as",
+    "campusId": "csueb",
+    "name": "Accessibility Services",
+    "abbreviation": "AS",
+    "aliases": [
+      "Accessibility Services",
+      "AS",
+      "Disability Services"
+    ],
+    "description": "Office providing accommodations, accessibility support, and resources for students with disabilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Accessibility+Services+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Accessibility+Services+CSU+East+Bay"
+  },
+  {
+    "id": "asi",
+    "campusId": "csueb",
+    "name": "Associated Students Inc.",
+    "abbreviation": "ASI",
+    "aliases": [
+      "Associated Students Inc.",
+      "Associated Students",
+      "ASI",
+      "Student Government"
+    ],
+    "description": "Student government offices managing campus programs, advocacy, clubs, and student representation.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Associated+Students+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Associated+Students+CSU+East+Bay"
+  },
+  {
+    "id": "bc",
+    "campusId": "csueb",
+    "name": "Braddock Center for Science & Innovation",
+    "abbreviation": "BC",
+    "aliases": [
+      "Braddock Center for Science & Innovation",
+      "Braddock Center",
+      "BC",
+      "Science and Innovation Center"
+    ],
+    "description": "Advanced science and innovation center featuring research labs, collaborative spaces, and STEM facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Braddock+Center+Science+Innovation+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Braddock+Center+Science+Innovation+CSU+East+Bay"
+  },
+  {
+    "id": "bk",
+    "campusId": "csueb",
+    "name": "Pioneer Bookstore",
+    "abbreviation": "BK",
+    "aliases": [
+      "Pioneer Bookstore",
+      "Bookstore",
+      "BK"
+    ],
+    "description": "Campus bookstore selling textbooks, course materials, CSU East Bay Pioneer merchandise, and supplies.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pioneer+Bookstore+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Pioneer+Bookstore+CSU+East+Bay"
+  },
+  {
+    "id": "bp",
+    "campusId": "csueb",
+    "name": "Boiler Plant",
+    "abbreviation": "BP",
+    "aliases": [
+      "Boiler Plant",
+      "BP"
+    ],
+    "description": "Campus boiler plant facility providing heating and steam utilities to university buildings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Boiler+Plant+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Boiler+Plant+CSU+East+Bay"
+  },
+  {
+    "id": "cb",
+    "campusId": "csueb",
+    "name": "CORE Library",
+    "abbreviation": "CB",
+    "aliases": [
+      "CORE Library",
+      "Library",
+      "CB"
+    ],
+    "description": "Main campus library providing research services, study spaces, digital collections, and academic support.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CORE+Library+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=CORE+Library+CSU+East+Bay"
+  },
+  {
+    "id": "ce",
+    "campusId": "csueb",
+    "name": "C.E. Smith Museum of Anthropology",
+    "abbreviation": "CE",
+    "aliases": [
+      "C.E. Smith Museum of Anthropology",
+      "Smith Museum of Anthropology",
+      "Anthropology Museum",
+      "CE"
+    ],
+    "description": "On-campus museum showcasing anthropological collections, cultural artifacts, and exhibits supporting the anthropology program.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CE+Smith+Museum+Anthropology+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=CE+Smith+Museum+Anthropology+CSU+East+Bay"
+  },
+  {
+    "id": "cy",
+    "campusId": "csueb",
+    "name": "Corporation Yard/Receiving",
+    "abbreviation": "CY",
+    "aliases": [
+      "Corporation Yard",
+      "Receiving",
+      "Corporation Yard/Receiving",
+      "CY"
+    ],
+    "description": "Campus corporation yard and receiving facility managing deliveries, supplies, and facilities operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Corporation+Yard+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Corporation+Yard+CSU+East+Bay"
+  },
+  {
+    "id": "dc",
+    "campusId": "csueb",
+    "name": "Dining Commons",
+    "abbreviation": "DC",
+    "aliases": [
+      "Dining Commons",
+      "DC",
+      "Dining Hall",
+      "Cafeteria"
+    ],
+    "description": "Main campus dining facility offering a variety of meal options for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dining+Commons+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Dining+Commons+CSU+East+Bay"
+  },
+  {
+    "id": "fh",
+    "campusId": "csueb",
+    "name": "Field House and Offices",
+    "abbreviation": "FH",
+    "aliases": [
+      "Field House and Offices",
+      "Field House",
+      "FH"
+    ],
+    "description": "Athletic field house providing support facilities, offices, and storage for sports teams and programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Field+House+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Field+House+CSU+East+Bay"
+  },
+  {
+    "id": "fk",
+    "campusId": "csueb",
+    "name": "Food Kiosk",
+    "abbreviation": "FK",
+    "aliases": [
+      "Food Kiosk",
+      "FK"
+    ],
+    "description": "Campus food kiosk providing convenient snacks and beverages for students and staff on the go.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Food+Kiosk+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Food+Kiosk+CSU+East+Bay"
+  },
+  {
+    "id": "fm",
+    "campusId": "csueb",
+    "name": "Facilities Maintenance",
+    "abbreviation": "FM",
+    "aliases": [
+      "Facilities Maintenance",
+      "FM",
+      "Facilities Management"
+    ],
+    "description": "Facilities maintenance division responsible for campus building upkeep, repairs, and infrastructure management.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Facilities+Maintenance+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Facilities+Maintenance+CSU+East+Bay"
+  },
+  {
+    "id": "hc",
+    "campusId": "csueb",
+    "name": "Student Health Center",
+    "abbreviation": "HC",
+    "aliases": [
+      "Student Health Center",
+      "HC",
+      "Health Center",
+      "Campus Health"
+    ],
+    "description": "Campus health facility providing medical care, mental health counseling, wellness programs, and health education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Health+Center+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Health+Center+CSU+East+Bay"
+  },
+  {
+    "id": "mb",
+    "campusId": "csueb",
+    "name": "Music Building",
+    "abbreviation": "MB",
+    "aliases": [
+      "Music Building",
+      "MB"
+    ],
+    "description": "Building housing the music department with rehearsal spaces, practice rooms, recording studio, and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Music+Building+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Music+Building+CSU+East+Bay"
+  },
+  {
+    "id": "mi",
+    "campusId": "csueb",
+    "name": "Meiklejohn Hall",
+    "abbreviation": "MI",
+    "aliases": [
+      "Meiklejohn Hall",
+      "MI"
+    ],
+    "description": "Academic building with classrooms, labs, and faculty offices supporting university programs and departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Meiklejohn+Hall+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Meiklejohn+Hall+CSU+East+Bay"
+  },
+  {
+    "id": "pa",
+    "campusId": "csueb",
+    "name": "Pioneer Amphitheatre",
+    "abbreviation": "PA",
+    "aliases": [
+      "Pioneer Amphitheatre",
+      "Amphitheatre",
+      "PA"
+    ],
+    "description": "Outdoor amphitheatre used for concerts, performances, campus events, and student gatherings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pioneer+Amphitheatre+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Pioneer+Amphitheatre+CSU+East+Bay"
+  },
+  {
+    "id": "pe",
+    "campusId": "csueb",
+    "name": "Physical Education & Gym",
+    "abbreviation": "PE",
+    "aliases": [
+      "Physical Education & Gym",
+      "Physical Education and Gym",
+      "PE",
+      "Gymnasium"
+    ],
+    "description": "Physical education complex with gymnasium, courts, and instructional spaces for kinesiology and recreation programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Physical+Education+Gym+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Physical+Education+Gym+CSU+East+Bay"
+  },
+  {
+    "id": "ph",
+    "campusId": "csueb",
+    "name": "Pioneer Heights Student Housing",
+    "abbreviation": "PH",
+    "aliases": [
+      "Pioneer Heights Student Housing",
+      "Pioneer Heights",
+      "PH",
+      "Student Housing"
+    ],
+    "description": "On-campus student housing community providing residential accommodations and community amenities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pioneer+Heights+Student+Housing+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Pioneer+Heights+Student+Housing+CSU+East+Bay"
+  },
+  {
+    "id": "ps",
+    "campusId": "csueb",
+    "name": "Parking Services",
+    "abbreviation": "PS",
+    "aliases": [
+      "Parking Services",
+      "PS"
+    ],
+    "description": "Campus parking services office managing permits, enforcement, and parking operations for students and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Services+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Services+CSU+East+Bay"
+  },
+  {
+    "id": "ro",
+    "campusId": "csueb",
+    "name": "Robinson Hall",
+    "abbreviation": "RO",
+    "aliases": [
+      "Robinson Hall",
+      "RO"
+    ],
+    "description": "Robinson Hall, currently closed, formerly housing academic departments and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Robinson+Hall+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Robinson+Hall+CSU+East+Bay"
+  },
+  {
+    "id": "rw",
+    "campusId": "csueb",
+    "name": "Recreation and Wellness Center",
+    "abbreviation": "RW",
+    "aliases": [
+      "Recreation and Wellness Center",
+      "Rec and Wellness Center",
+      "RW",
+      "Rec Center"
+    ],
+    "description": "Campus recreation and wellness center offering fitness equipment, group fitness classes, and wellness programming.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Recreation+Wellness+Center+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Recreation+Wellness+Center+CSU+East+Bay"
+  },
+  {
+    "id": "sa",
+    "campusId": "csueb",
+    "name": "Student Services & Administration",
+    "abbreviation": "SA",
+    "aliases": [
+      "Student Services & Administration",
+      "Student Services and Administration",
+      "SA"
+    ],
+    "description": "Central hub for student and administrative services including advising, financial aid, admissions, and registrar.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Services+Administration+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Services+Administration+CSU+East+Bay"
+  },
+  {
+    "id": "sc-n",
+    "campusId": "csueb",
+    "name": "Science Building North",
+    "abbreviation": "SC-N",
+    "aliases": [
+      "Science Building North",
+      "SC-N",
+      "Science North"
+    ],
+    "description": "North wing of the Science Building housing labs, research facilities, and classrooms for science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Science+Building+North+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Science+Building+North+CSU+East+Bay"
+  },
+  {
+    "id": "sc-s",
+    "campusId": "csueb",
+    "name": "Science Building South",
+    "abbreviation": "SC-S",
+    "aliases": [
+      "Science Building South",
+      "SC-S",
+      "Science South"
+    ],
+    "description": "South wing of the Science Building housing labs, research facilities, and classrooms for science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Science+Building+South+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Science+Building+South+CSU+East+Bay"
+  },
+  {
+    "id": "sf",
+    "campusId": "csueb",
+    "name": "Student & Faculty Support",
+    "abbreviation": "SF",
+    "aliases": [
+      "Student & Faculty Support",
+      "Student and Faculty Support",
+      "SF"
+    ],
+    "description": "Building providing support services and resources for students and faculty across academic programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Faculty+Support+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Faculty+Support+CSU+East+Bay"
+  },
+  {
+    "id": "th",
+    "campusId": "csueb",
+    "name": "University Theatre",
+    "abbreviation": "TH",
+    "aliases": [
+      "University Theatre",
+      "TH",
+      "Campus Theatre"
+    ],
+    "description": "Performing arts theatre hosting student productions, professional performances, lectures, and campus events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Theatre+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Theatre+CSU+East+Bay"
+  },
+  {
+    "id": "ua",
+    "campusId": "csueb",
+    "name": "University Art Gallery",
+    "abbreviation": "UA",
+    "aliases": [
+      "University Art Gallery",
+      "Art Gallery",
+      "UA"
+    ],
+    "description": "University art gallery presenting student, faculty, and visiting artist exhibitions in contemporary and fine arts.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Art+Gallery+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Art+Gallery+CSU+East+Bay"
+  },
+  {
+    "id": "uu-n",
+    "campusId": "csueb",
+    "name": "University Union North",
+    "abbreviation": "UU-N",
+    "aliases": [
+      "University Union North",
+      "UU-N",
+      "Student Union North"
+    ],
+    "description": "North section of the University Union housing student services, dining, and campus life facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Union+North+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Union+North+CSU+East+Bay"
+  },
+  {
+    "id": "uu-s",
+    "campusId": "csueb",
+    "name": "University Union South",
+    "abbreviation": "UU-S",
+    "aliases": [
+      "University Union South",
+      "UU-S",
+      "Student Union South"
+    ],
+    "description": "South section of the University Union housing student services, event spaces, and campus life programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Union+South+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Union+South+CSU+East+Bay"
+  },
+  {
+    "id": "vb",
+    "campusId": "csueb",
+    "name": "Valley Business & Technology Center",
+    "abbreviation": "VB",
+    "aliases": [
+      "Valley Business & Technology Center",
+      "Valley Business and Technology Center",
+      "VB"
+    ],
+    "description": "Business and technology center supporting entrepreneurship, professional development, and business programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Valley+Business+Technology+Center+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Valley+Business+Technology+Center+CSU+East+Bay"
+  },
+  {
+    "id": "wcfs",
+    "campusId": "csueb",
+    "name": "Welcome Center for Future Students",
+    "abbreviation": "WCFS",
+    "aliases": [
+      "Welcome Center for Future Students",
+      "Welcome Center",
+      "WCFS",
+      "Admissions Welcome Center"
+    ],
+    "description": "Welcome center for prospective students and visitors offering campus tours, admissions information, and orientation.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Welcome+Center+Future+Students+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Welcome+Center+Future+Students+CSU+East+Bay"
+  },
+  {
+    "id": "wcp",
+    "campusId": "csueb",
+    "name": "Welcome Center Parking",
+    "abbreviation": "WCP",
+    "aliases": [
+      "Welcome Center Parking",
+      "WCP",
+      "Visitor Parking"
+    ],
+    "description": "Parking area adjacent to the Welcome Center designated for prospective students and campus visitors.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Welcome+Center+Parking+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Welcome+Center+Parking+CSU+East+Bay"
+  },
+  {
+    "id": "lot-a",
+    "campusId": "csueb",
+    "name": "Parking Lot A",
+    "abbreviation": "LOT-A",
+    "aliases": [
+      "Parking Lot A",
+      "Lot A",
+      "General Parking Lot A"
+    ],
+    "description": "General student parking lot A providing vehicle parking for students and campus visitors.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+A+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+A+CSU+East+Bay"
+  },
+  {
+    "id": "lot-c",
+    "campusId": "csueb",
+    "name": "Parking Lot C",
+    "abbreviation": "LOT-C",
+    "aliases": [
+      "Parking Lot C",
+      "Lot C",
+      "General Parking Lot C"
+    ],
+    "description": "General student parking lot C providing vehicle parking for students and campus visitors.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+C+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+C+CSU+East+Bay"
+  },
+  {
+    "id": "lot-c1",
+    "campusId": "csueb",
+    "name": "Parking Lot C1",
+    "abbreviation": "LOT-C1",
+    "aliases": [
+      "Parking Lot C1",
+      "Lot C1",
+      "General Parking Lot C1"
+    ],
+    "description": "General student parking lot C1 providing vehicle parking for students and campus visitors.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+C1+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+C1+CSU+East+Bay"
+  },
+  {
+    "id": "lot-d",
+    "campusId": "csueb",
+    "name": "Parking Lot D",
+    "abbreviation": "LOT-D",
+    "aliases": [
+      "Parking Lot D",
+      "Lot D",
+      "General Parking Lot D"
+    ],
+    "description": "General student parking lot D providing vehicle parking for students and campus visitors.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+D+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+D+CSU+East+Bay"
+  },
+  {
+    "id": "lot-f",
+    "campusId": "csueb",
+    "name": "Parking Lot F",
+    "abbreviation": "LOT-F",
+    "aliases": [
+      "Parking Lot F",
+      "Lot F",
+      "General Parking Lot F"
+    ],
+    "description": "General student parking lot F providing vehicle parking for students and campus visitors.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+F+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+F+CSU+East+Bay"
+  },
+  {
+    "id": "lot-g",
+    "campusId": "csueb",
+    "name": "Parking Lot G",
+    "abbreviation": "LOT-G",
+    "aliases": [
+      "Parking Lot G",
+      "Lot G",
+      "General Parking Lot G"
+    ],
+    "description": "General student parking lot G providing vehicle parking for students and campus visitors.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+G+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+G+CSU+East+Bay"
+  },
+  {
+    "id": "lot-h",
+    "campusId": "csueb",
+    "name": "Parking Lot H",
+    "abbreviation": "LOT-H",
+    "aliases": [
+      "Parking Lot H",
+      "Lot H",
+      "General Parking Lot H"
+    ],
+    "description": "Dual-use parking lot H providing general student parking and faculty/staff parking spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+H+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+H+CSU+East+Bay"
+  },
+  {
+    "id": "lot-k",
+    "campusId": "csueb",
+    "name": "Parking Lot K",
+    "abbreviation": "LOT-K",
+    "aliases": [
+      "Parking Lot K",
+      "Lot K",
+      "General Parking Lot K"
+    ],
+    "description": "General student parking lot K providing vehicle parking for students and campus visitors.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+K+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+K+CSU+East+Bay"
+  },
+  {
+    "id": "lot-n",
+    "campusId": "csueb",
+    "name": "Parking Lot N",
+    "abbreviation": "LOT-N",
+    "aliases": [
+      "Parking Lot N",
+      "Lot N",
+      "General Parking Lot N"
+    ],
+    "description": "General student parking lot N providing vehicle parking for students and campus visitors.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+N+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+N+CSU+East+Bay"
+  },
+  {
+    "id": "lot-p",
+    "campusId": "csueb",
+    "name": "Parking Lot P",
+    "abbreviation": "LOT-P",
+    "aliases": [
+      "Parking Lot P",
+      "Lot P",
+      "General Parking Lot P"
+    ],
+    "description": "General student parking lot P providing vehicle parking for students and campus visitors.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P+CSU+East+Bay"
+  },
+  {
+    "id": "lot-p1",
+    "campusId": "csueb",
+    "name": "Parking Lot P1 Overflow",
+    "abbreviation": "LOT-P1",
+    "aliases": [
+      "Parking Lot P1 Overflow",
+      "Lot P1",
+      "P1 Overflow"
+    ],
+    "description": "Overflow general parking lot P1 providing additional student parking during high-demand periods.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P1+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P1+CSU+East+Bay"
+  },
+  {
+    "id": "lot-b",
+    "campusId": "csueb",
+    "name": "Parking Lot B",
+    "abbreviation": "LOT-B",
+    "aliases": [
+      "Parking Lot B",
+      "Lot B",
+      "Faculty Staff Parking Lot B"
+    ],
+    "description": "Faculty and staff parking lot B reserved for university employees with valid permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+B+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+B+CSU+East+Bay"
+  },
+  {
+    "id": "lot-e",
+    "campusId": "csueb",
+    "name": "Parking Lot E",
+    "abbreviation": "LOT-E",
+    "aliases": [
+      "Parking Lot E",
+      "Lot E",
+      "Faculty Staff Parking Lot E"
+    ],
+    "description": "Faculty and staff parking lot E reserved for university employees with valid permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+E+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+E+CSU+East+Bay"
+  },
+  {
+    "id": "lot-j",
+    "campusId": "csueb",
+    "name": "Parking Lot J",
+    "abbreviation": "LOT-J",
+    "aliases": [
+      "Parking Lot J",
+      "Lot J",
+      "Faculty Staff Parking Lot J"
+    ],
+    "description": "Faculty and staff parking lot J reserved for university employees with valid permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+J+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+J+CSU+East+Bay"
+  },
+  {
+    "id": "lot-l",
+    "campusId": "csueb",
+    "name": "Parking Lot L",
+    "abbreviation": "LOT-L",
+    "aliases": [
+      "Parking Lot L",
+      "Lot L",
+      "Faculty Staff Parking Lot L"
+    ],
+    "description": "Faculty and staff parking lot L reserved for university employees with valid permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+L+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+L+CSU+East+Bay"
+  },
+  {
+    "id": "lot-m",
+    "campusId": "csueb",
+    "name": "Parking Lot M",
+    "abbreviation": "LOT-M",
+    "aliases": [
+      "Parking Lot M",
+      "Lot M",
+      "Faculty Staff Parking Lot M"
+    ],
+    "description": "Faculty and staff parking lot M reserved for university employees with valid permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+M+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+M+CSU+East+Bay"
+  },
+  {
+    "id": "lot-o",
+    "campusId": "csueb",
+    "name": "Parking Lot O",
+    "abbreviation": "LOT-O",
+    "aliases": [
+      "Parking Lot O",
+      "Lot O",
+      "Faculty Staff Parking Lot O"
+    ],
+    "description": "Faculty and staff parking lot O reserved for university employees with valid permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+O+CSU+East+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+O+CSU+East+Bay"
+  }
+]

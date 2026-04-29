@@ -1,0 +1,682 @@
+﻿[
+  {
+    "id": "adm",
+    "campusId": "sfsu",
+    "name": "Administration",
+    "abbreviation": "",
+    "aliases": ["Administration", "Admin Building"],
+    "description": "Central university administration building housing the president's office, academic affairs, and key administrative units.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Administration+Building+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Administration+Building+San+Francisco+State+University"
+  },
+  {
+    "id": "anx",
+    "campusId": "sfsu",
+    "name": "Annex I & II",
+    "abbreviation": "ANX",
+    "aliases": ["ANX", "Annex", "Annex I", "Annex II"],
+    "description": "Annex buildings I and II providing additional classroom and office space, home to the Student Events Center.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Annex+Buildings+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Annex+Buildings+San+Francisco+State+University"
+  },
+  {
+    "id": "coppola",
+    "campusId": "sfsu",
+    "name": "August Coppola Theatre",
+    "abbreviation": "",
+    "aliases": ["Coppola Theatre", "August Coppola Theatre"],
+    "description": "Intimate theatre space located inside Fine Arts, hosting performances and film screenings for the cinema and theatre programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=August+Coppola+Theatre+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=August+Coppola+Theatre+San+Francisco+State+University"
+  },
+  {
+    "id": "bookstore",
+    "campusId": "sfsu",
+    "name": "Bookstore",
+    "abbreviation": "",
+    "aliases": ["Bookstore", "Campus Bookstore", "SFSU Store"],
+    "description": "Campus bookstore located inside Cesar Chavez Student Center, selling textbooks, course materials, and SFSU merchandise.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bookstore+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bookstore+San+Francisco+State+University"
+  },
+  {
+    "id": "bh",
+    "campusId": "sfsu",
+    "name": "Burk Hall",
+    "abbreviation": "BH",
+    "aliases": ["BH", "Burk Hall"],
+    "description": "Graduate College of Education with classrooms, faculty offices, and the Center for Equity and Excellence in Education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Burk+Hall+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Burk+Hall+San+Francisco+State+University"
+  },
+  {
+    "id": "bus",
+    "campusId": "sfsu",
+    "name": "Business Building",
+    "abbreviation": "BUS",
+    "aliases": ["BUS", "Business"],
+    "description": "Lam Family College of Business with classrooms, the Financial Analysis Lab, computer labs, and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Business+Building+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Business+Building+San+Francisco+State+University"
+  },
+  {
+    "id": "ccsc",
+    "campusId": "sfsu",
+    "name": "Cesar Chavez Student Center",
+    "abbreviation": "CCSC",
+    "aliases": ["CCSC", "Cesar Chavez", "Student Center"],
+    "description": "Main student activities hub with dining, meeting rooms, event spaces, the bookstore, copy center, and Associated Students offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cesar+Chavez+Student+Center+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cesar+Chavez+Student+Center+San+Francisco+State+University"
+  },
+  {
+    "id": "ecec",
+    "campusId": "sfsu",
+    "name": "Child Care Center",
+    "abbreviation": "ECEC",
+    "aliases": ["ECEC", "A.S. ECEC", "Child Care", "Early Care"],
+    "description": "Associated Students Early Care and Education Center providing on-campus childcare for students, staff, and faculty.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Child+Care+Center+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Child+Care+Center+San+Francisco+State+University"
+  },
+  {
+    "id": "childcampus",
+    "campusId": "sfsu",
+    "name": "Children's Campus",
+    "abbreviation": "",
+    "aliases": ["Children's Campus"],
+    "description": "Dedicated outdoor children's learning and play environment associated with early childhood programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Childrens+Campus+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Childrens+Campus+San+Francisco+State+University"
+  },
+  {
+    "id": "confcenter",
+    "campusId": "sfsu",
+    "name": "Conference Center",
+    "abbreviation": "",
+    "aliases": ["Conference Center", "Towers Conference"],
+    "description": "Conference and event facility located within the Towers at Centennial Square, used for university and community meetings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Conference+Center+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Conference+Center+San+Francisco+State+University"
+  },
+  {
+    "id": "copycenter",
+    "campusId": "sfsu",
+    "name": "Copy Center",
+    "abbreviation": "",
+    "aliases": ["Copy Center", "Print Center"],
+    "description": "Campus copy and print services located inside Cesar Chavez Student Center.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Copy+Center+SFSU+Cesar+Chavez",
+    "appleMapsUrl": "http://maps.apple.com/?q=Copy+Center+SFSU+Cesar+Chavez"
+  },
+  {
+    "id": "cyd",
+    "campusId": "sfsu",
+    "name": "Corporation Yard",
+    "abbreviation": "CYD",
+    "aliases": ["CYD", "Corporation Yard"],
+    "description": "Facilities and operations hub housing police services, facilities & capital planning, parking & transportation, procurement, and shipping & receiving.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Corporation+Yard+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Corporation+Yard+San+Francisco+State+University"
+  },
+  {
+    "id": "coxstadium",
+    "campusId": "sfsu",
+    "name": "Cox Stadium",
+    "abbreviation": "",
+    "aliases": ["Cox Stadium", "Stadium"],
+    "description": "Outdoor stadium for Gator athletics and campus events, featuring a track, bleachers, and a multi-use turf field.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cox+Stadium+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cox+Stadium+San+Francisco+State+University"
+  },
+  {
+    "id": "ca",
+    "campusId": "sfsu",
+    "name": "Creative Arts",
+    "abbreviation": "CA",
+    "aliases": ["CA", "Creative Arts"],
+    "description": "College of Liberal and Creative Arts building with studios, galleries, the McKenna Theatre, Little Theatre, Knuth Hall, and Studio Theatre.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Creative+Arts+Building+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Creative+Arts+Building+San+Francisco+State+University"
+  },
+  {
+    "id": "ep",
+    "campusId": "sfsu",
+    "name": "Ethnic Studies and Psychology",
+    "abbreviation": "EP",
+    "aliases": ["EP", "Ethnic Studies", "Psychology"],
+    "description": "Building housing the College of Ethnic Studies and the Department of Psychology with classrooms and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ethnic+Studies+Psychology+Building+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Ethnic+Studies+Psychology+Building+San+Francisco+State+University"
+  },
+  {
+    "id": "facilities",
+    "campusId": "sfsu",
+    "name": "Facilities and Capital Planning",
+    "abbreviation": "",
+    "aliases": ["Facilities", "Capital Planning", "Facilities Management"],
+    "description": "Campus facilities and capital planning offices located within the Corporation Yard.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Facilities+Capital+Planning+SFSU+Corporation+Yard",
+    "appleMapsUrl": "http://maps.apple.com/?q=Facilities+Capital+Planning+SFSU+Corporation+Yard"
+  },
+  {
+    "id": "fa",
+    "campusId": "sfsu",
+    "name": "Fine Arts",
+    "abbreviation": "FA",
+    "aliases": ["FA", "Fine Arts"],
+    "description": "Fine Arts building housing the School of Art, Museum Studies, and the SFSU Art Museum on the second floor, with the August Coppola Theatre inside.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fine+Arts+Building+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Fine+Arts+Building+San+Francisco+State+University"
+  },
+  {
+    "id": "garden",
+    "campusId": "sfsu",
+    "name": "Garden of Remembrance",
+    "abbreviation": "",
+    "aliases": ["Garden of Remembrance"],
+    "description": "Campus memorial garden dedicated to honoring the memory and heritage of the campus community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Garden+of+Remembrance+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Garden+of+Remembrance+San+Francisco+State+University"
+  },
+  {
+    "id": "greenhouse",
+    "campusId": "sfsu",
+    "name": "Greenhouse",
+    "abbreviation": "",
+    "aliases": ["Greenhouse"],
+    "description": "Campus greenhouse supporting biology, ecology, and environmental science research and instruction.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Greenhouse+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Greenhouse+San+Francisco+State+University"
+  },
+  {
+    "id": "gym",
+    "campusId": "sfsu",
+    "name": "Gymnasium",
+    "abbreviation": "GYM",
+    "aliases": ["GYM", "Gym", "Nasser Gymnasium"],
+    "description": "Main athletics gymnasium adjacent to Nasser Family Plaza, hosting Gator basketball, volleyball, and recreational sports.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gymnasium+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Gymnasium+San+Francisco+State+University"
+  },
+  {
+    "id": "healthcenter",
+    "campusId": "sfsu",
+    "name": "Gator Health Center",
+    "abbreviation": "",
+    "aliases": ["Gator Health Center", "Student Health", "Health Center"],
+    "description": "Campus medical clinic offering primary care, mental health services, and health education for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gator+Health+Center+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Gator+Health+Center+San+Francisco+State+University"
+  },
+  {
+    "id": "hh",
+    "campusId": "sfsu",
+    "name": "Hensill Hall",
+    "abbreviation": "HH",
+    "aliases": ["HH", "Hensill Hall", "Hensill"],
+    "description": "Academic building housing the College of Science and Engineering departments with labs and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hensill+Hall+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Hensill+Hall+San+Francisco+State+University"
+  },
+  {
+    "id": "housingdining",
+    "campusId": "sfsu",
+    "name": "Housing, Dining and Conference Services",
+    "abbreviation": "",
+    "aliases": ["Housing Dining", "Housing Office TCSQ"],
+    "description": "Administrative offices for student housing, campus dining, and conference services, located in the Towers at Centennial Square.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Housing+Dining+Conference+Services+SFSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Housing+Dining+Conference+Services+SFSU"
+  },
+  {
+    "id": "housingoffice",
+    "campusId": "sfsu",
+    "name": "Housing Office",
+    "abbreviation": "",
+    "aliases": ["Housing Office"],
+    "description": "Student housing services and applications office located in Mary Ward Hall.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Housing+Office+SFSU+Mary+Ward+Hall",
+    "appleMapsUrl": "http://maps.apple.com/?q=Housing+Office+SFSU+Mary+Ward+Hall"
+  },
+  {
+    "id": "hss",
+    "campusId": "sfsu",
+    "name": "HSS",
+    "abbreviation": "HSS",
+    "aliases": ["HSS", "Health and Social Sciences"],
+    "description": "Health and Social Sciences building with classrooms, labs, and faculty offices for public health and social work programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=HSS+Building+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=HSS+Building+San+Francisco+State+University"
+  },
+  {
+    "id": "hum",
+    "campusId": "sfsu",
+    "name": "Humanities",
+    "abbreviation": "HUM",
+    "aliases": ["HUM", "Humanities"],
+    "description": "Major academic building housing the College of Liberal and Creative Arts, with classrooms, faculty offices, and lecture halls.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Humanities+Building+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Humanities+Building+San+Francisco+State+University"
+  },
+  {
+    "id": "jackadams",
+    "campusId": "sfsu",
+    "name": "Jack Adams Hall",
+    "abbreviation": "",
+    "aliases": ["Jack Adams Hall", "Jack Adams"],
+    "description": "Event and meeting hall inside the Cesar Chavez Student Center used for large campus gatherings and programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jack+Adams+Hall+SFSU+Cesar+Chavez",
+    "appleMapsUrl": "http://maps.apple.com/?q=Jack+Adams+Hall+SFSU+Cesar+Chavez"
+  },
+  {
+    "id": "knuth",
+    "campusId": "sfsu",
+    "name": "Knuth Hall",
+    "abbreviation": "",
+    "aliases": ["Knuth Hall"],
+    "description": "Music performance and rehearsal hall located inside the Creative Arts building, used for concerts and music courses.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Knuth+Hall+SFSU+Creative+Arts",
+    "appleMapsUrl": "http://maps.apple.com/?q=Knuth+Hall+SFSU+Creative+Arts"
+  },
+  {
+    "id": "laborarchives",
+    "campusId": "sfsu",
+    "name": "Labor Archives",
+    "abbreviation": "",
+    "aliases": ["Labor Archives", "Labor Archives and Research Center"],
+    "description": "Special collections research center inside the library holding labor movement records and union archives.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Labor+Archives+Research+Center+SFSU+Library",
+    "appleMapsUrl": "http://maps.apple.com/?q=Labor+Archives+Research+Center+SFSU+Library"
+  },
+  {
+    "id": "lib",
+    "campusId": "sfsu",
+    "name": "Library",
+    "abbreviation": "LIB",
+    "aliases": ["LIB", "J. Paul Leonard Library", "Library", "Sutro Library"],
+    "description": "J. Paul Leonard Library and Sutro Library — main campus library with study spaces, special collections, the Labor Archives, and research support.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Leonard+Library+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Leonard+Library+San+Francisco+State+University"
+  },
+  {
+    "id": "littletheatre",
+    "campusId": "sfsu",
+    "name": "Little Theatre",
+    "abbreviation": "",
+    "aliases": ["Little Theatre"],
+    "description": "Intimate performance space inside the Creative Arts building for student theatre productions and workshops.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Little+Theatre+SFSU+Creative+Arts",
+    "appleMapsUrl": "http://maps.apple.com/?q=Little+Theatre+SFSU+Creative+Arts"
+  },
+  {
+    "id": "maloney",
+    "campusId": "sfsu",
+    "name": "Maloney Field",
+    "abbreviation": "",
+    "aliases": ["Maloney Field", "Baseball Field", "Hardball Field"],
+    "description": "Hardball/baseball practice and competition field for Gator athletics.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Maloney+Field+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Maloney+Field+San+Francisco+State+University"
+  },
+  {
+    "id": "monarca",
+    "campusId": "sfsu",
+    "name": "Monarca Dining Hall",
+    "abbreviation": "",
+    "aliases": ["Monarca Dining", "Monarca", "Dining Hall"],
+    "description": "Main campus dining hall serving all-you-care-to-eat meals with multiple cuisine stations for residential students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Monarca+Dining+Hall+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Monarca+Dining+Hall+San+Francisco+State+University"
+  },
+  {
+    "id": "manzanita",
+    "campusId": "sfsu",
+    "name": "Manzanita Square",
+    "abbreviation": "",
+    "aliases": ["Manzanita Square", "Manzanita"],
+    "description": "Outdoor campus plaza and gathering space providing a central meeting area between academic buildings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Manzanita+Square+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Manzanita+Square+San+Francisco+State+University"
+  },
+  {
+    "id": "marcus",
+    "campusId": "sfsu",
+    "name": "Marcus Hall",
+    "abbreviation": "",
+    "aliases": ["Marcus Hall"],
+    "description": "Academic building with classrooms and offices supporting instructional programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Marcus+Hall+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Marcus+Hall+San+Francisco+State+University"
+  },
+  {
+    "id": "mph",
+    "campusId": "sfsu",
+    "name": "Mary Park Hall",
+    "abbreviation": "MPH",
+    "aliases": ["MPH", "Mary Park Hall"],
+    "description": "Student residence hall providing on-campus housing with community lounges and study rooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mary+Park+Hall+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Mary+Park+Hall+San+Francisco+State+University"
+  },
+  {
+    "id": "mwh",
+    "campusId": "sfsu",
+    "name": "Mary Ward Hall",
+    "abbreviation": "MWH",
+    "aliases": ["MWH", "Mary Ward Hall"],
+    "description": "Student residence hall housing the Housing Office with community spaces and study areas.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mary+Ward+Hall+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Mary+Ward+Hall+San+Francisco+State+University"
+  },
+  {
+    "id": "mwc",
+    "campusId": "sfsu",
+    "name": "Mashouf Wellness Center",
+    "abbreviation": "MWC",
+    "aliases": ["MWC", "Mashouf", "Wellness Center", "Rec Center"],
+    "description": "State-of-the-art recreation center with fitness equipment, climbing wall, courts, pool, and group fitness studios.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mashouf+Wellness+Center+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Mashouf+Wellness+Center+San+Francisco+State+University"
+  },
+  {
+    "id": "mckenna",
+    "campusId": "sfsu",
+    "name": "McKenna Theatre",
+    "abbreviation": "",
+    "aliases": ["McKenna Theatre"],
+    "description": "Main performance theatre inside the Creative Arts building seating 500+ for drama, dance, and major productions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McKenna+Theatre+SFSU+Creative+Arts",
+    "appleMapsUrl": "http://maps.apple.com/?q=McKenna+Theatre+SFSU+Creative+Arts"
+  },
+  {
+    "id": "memorialgrove",
+    "campusId": "sfsu",
+    "name": "Memorial Grove",
+    "abbreviation": "",
+    "aliases": ["Memorial Grove"],
+    "description": "Tree-lined memorial grove on campus honoring the university community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Memorial+Grove+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Memorial+Grove+San+Francisco+State+University"
+  },
+  {
+    "id": "museum",
+    "campusId": "sfsu",
+    "name": "Museum",
+    "abbreviation": "",
+    "aliases": ["Museum", "SFSU Art Museum"],
+    "description": "SFSU Art Museum located on the second floor of the Fine Arts building, showcasing rotating exhibits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=SFSU+Art+Museum+Fine+Arts+Building",
+    "appleMapsUrl": "http://maps.apple.com/?q=SFSU+Art+Museum+Fine+Arts+Building"
+  },
+  {
+    "id": "nasserfamily",
+    "campusId": "sfsu",
+    "name": "Nasser Family Plaza",
+    "abbreviation": "",
+    "aliases": ["Nasser Family Plaza", "Nasser Plaza"],
+    "description": "Outdoor plaza adjacent to the Gymnasium serving as a campus gathering, events, and recreation space.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nasser+Family+Plaza+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Nasser+Family+Plaza+San+Francisco+State+University"
+  },
+  {
+    "id": "onestop",
+    "campusId": "sfsu",
+    "name": "OneStop Center",
+    "abbreviation": "",
+    "aliases": ["OneStop", "OneStop Center"],
+    "description": "One-stop student services hub inside the Student Services Building for financial aid, enrollment, and registration.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=OneStop+Center+SFSU+Student+Services",
+    "appleMapsUrl": "http://maps.apple.com/?q=OneStop+Center+SFSU+Student+Services"
+  },
+  {
+    "id": "parking",
+    "campusId": "sfsu",
+    "name": "Parking Garage",
+    "abbreviation": "",
+    "aliases": ["Parking Garage", "Main Parking"],
+    "description": "Main campus parking structure providing multi-level parking for students, faculty, and visitors.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Garage+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Garage+San+Francisco+State+University"
+  },
+  {
+    "id": "parkingtrans",
+    "campusId": "sfsu",
+    "name": "Parking and Transportation",
+    "abbreviation": "",
+    "aliases": ["Parking and Transportation", "Parking Services"],
+    "description": "Parking services and transportation office located in the Corporation Yard.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Transportation+SFSU+Corporation+Yard",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Transportation+SFSU+Corporation+Yard"
+  },
+  {
+    "id": "planetarium",
+    "campusId": "sfsu",
+    "name": "Planetarium",
+    "abbreviation": "",
+    "aliases": ["Planetarium", "SFSU Planetarium"],
+    "description": "Campus planetarium inside Thornton Hall offering astronomy shows and educational presentations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Planetarium+Thornton+Hall+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Planetarium+Thornton+Hall+San+Francisco+State+University"
+  },
+  {
+    "id": "police",
+    "campusId": "sfsu",
+    "name": "Police",
+    "abbreviation": "",
+    "aliases": ["Police", "Campus Police", "University Police"],
+    "description": "SFSU University Police Department located in the Corporation Yard, providing campus safety and emergency response.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Police+Department+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Police+Department+San+Francisco+State+University"
+  },
+  {
+    "id": "procurement",
+    "campusId": "sfsu",
+    "name": "Procurement",
+    "abbreviation": "",
+    "aliases": ["Procurement", "Purchasing"],
+    "description": "University procurement and purchasing services located in the Corporation Yard.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Procurement+SFSU+Corporation+Yard",
+    "appleMapsUrl": "http://maps.apple.com/?q=Procurement+SFSU+Corporation+Yard"
+  },
+  {
+    "id": "recycling",
+    "campusId": "sfsu",
+    "name": "Recycling and Resource Center",
+    "abbreviation": "",
+    "aliases": ["Recycling Center", "Resource Center"],
+    "description": "Campus recycling and sustainability resource center supporting environmental programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Recycling+Resource+Center+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Recycling+Resource+Center+San+Francisco+State+University"
+  },
+  {
+    "id": "sci",
+    "campusId": "sfsu",
+    "name": "Science",
+    "abbreviation": "SCI",
+    "aliases": ["SCI", "Science Building"],
+    "description": "Main science building with labs and classrooms for biology, chemistry, physics, and earth sciences.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Science+Building+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Science+Building+San+Francisco+State+University"
+  },
+  {
+    "id": "seic",
+    "campusId": "sfsu",
+    "name": "Science and Engineering Innovation Center",
+    "abbreviation": "",
+    "aliases": ["SEIC", "Science Engineering Innovation Center", "Innovation Center"],
+    "description": "Modern research and teaching facility for science and engineering with state-of-the-art labs and collaborative spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Science+Engineering+Innovation+Center+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Science+Engineering+Innovation+Center+San+Francisco+State+University"
+  },
+  {
+    "id": "sevenhills",
+    "campusId": "sfsu",
+    "name": "Seven Hills Center",
+    "abbreviation": "",
+    "aliases": ["Seven Hills Center"],
+    "description": "Campus event and conference center used for academic programs and community gatherings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Seven+Hills+Center+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Seven+Hills+Center+San+Francisco+State+University"
+  },
+  {
+    "id": "shipping",
+    "campusId": "sfsu",
+    "name": "Shipping and Receiving",
+    "abbreviation": "",
+    "aliases": ["Shipping and Receiving"],
+    "description": "Campus shipping, receiving, and mail services located in the Corporation Yard.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Shipping+Receiving+SFSU+Corporation+Yard",
+    "appleMapsUrl": "http://maps.apple.com/?q=Shipping+Receiving+SFSU+Corporation+Yard"
+  },
+  {
+    "id": "softball",
+    "campusId": "sfsu",
+    "name": "Softball Field",
+    "abbreviation": "",
+    "aliases": ["Softball Field"],
+    "description": "Competition and practice softball field for Gator athletics.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Softball+Field+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Softball+Field+San+Francisco+State+University"
+  },
+  {
+    "id": "studentevents",
+    "campusId": "sfsu",
+    "name": "Student Events Center",
+    "abbreviation": "",
+    "aliases": ["Student Events Center"],
+    "description": "Event space inside Annex I for student organization events, performances, and campus programming.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Events+Center+SFSU+Annex",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Events+Center+SFSU+Annex"
+  },
+  {
+    "id": "ssb",
+    "campusId": "sfsu",
+    "name": "Student Services Building",
+    "abbreviation": "SSB",
+    "aliases": ["SSB", "Student Services"],
+    "description": "Central student services hub with enrollment, admissions, financial aid, the OneStop Center, and counseling services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Services+Building+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Services+Building+San+Francisco+State+University"
+  },
+  {
+    "id": "studiotheatre",
+    "campusId": "sfsu",
+    "name": "Studio Theatre",
+    "abbreviation": "",
+    "aliases": ["Studio Theatre"],
+    "description": "Flexible black-box studio theatre inside the Creative Arts building for experimental and student productions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Studio+Theatre+SFSU+Creative+Arts",
+    "appleMapsUrl": "http://maps.apple.com/?q=Studio+Theatre+SFSU+Creative+Arts"
+  },
+  {
+    "id": "sutro",
+    "campusId": "sfsu",
+    "name": "Sutro Library",
+    "abbreviation": "",
+    "aliases": ["Sutro Library"],
+    "description": "California State Library Sutro branch housed within the J. Paul Leonard Library, specializing in rare books and genealogy.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sutro+Library+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sutro+Library+San+Francisco+State+University"
+  },
+  {
+    "id": "trailers",
+    "campusId": "sfsu",
+    "name": "Temporary Buildings",
+    "abbreviation": "",
+    "aliases": ["Temporary Buildings", "Trailers"],
+    "description": "Temporary modular classroom and office buildings on campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Temporary+Buildings+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Temporary+Buildings+San+Francisco+State+University"
+  },
+  {
+    "id": "tennis",
+    "campusId": "sfsu",
+    "name": "Tennis Courts",
+    "abbreviation": "",
+    "aliases": ["Tennis Courts"],
+    "description": "Outdoor tennis courts for Gator tennis and recreational play.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tennis+Courts+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Tennis+Courts+San+Francisco+State+University"
+  },
+  {
+    "id": "th",
+    "campusId": "sfsu",
+    "name": "Thornton Hall",
+    "abbreviation": "TH",
+    "aliases": ["TH", "Thornton Hall", "Thornton"],
+    "description": "Engineering and computer science building with labs, classrooms, and the campus planetarium.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thornton+Hall+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Thornton+Hall+San+Francisco+State+University"
+  },
+  {
+    "id": "tcsq",
+    "campusId": "sfsu",
+    "name": "The Towers at Centennial Square",
+    "abbreviation": "TCSQ",
+    "aliases": ["TCSQ", "Towers", "Centennial Square", "The Towers"],
+    "description": "Main residential tower complex at the heart of campus housing hundreds of students with dining and conference facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Towers+Centennial+Square+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Towers+Centennial+Square+San+Francisco+State+University"
+  },
+  {
+    "id": "tcc",
+    "campusId": "sfsu",
+    "name": "Towers Conference Center",
+    "abbreviation": "TCC",
+    "aliases": ["TCC", "Towers Conference Center"],
+    "description": "Conference and meeting rooms within the Towers at Centennial Square for events and seminars.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Towers+Conference+Center+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Towers+Conference+Center+San+Francisco+State+University"
+  },
+  {
+    "id": "upn",
+    "campusId": "sfsu",
+    "name": "University Park North",
+    "abbreviation": "UPN",
+    "aliases": ["UPN", "University Park North"],
+    "description": "Apartment-style on-campus student housing complex on the north side of campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Park+North+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Park+North+San+Francisco+State+University"
+  },
+  {
+    "id": "ups",
+    "campusId": "sfsu",
+    "name": "University Park South",
+    "abbreviation": "UPS",
+    "aliases": ["UPS", "University Park South"],
+    "description": "Apartment-style on-campus student housing complex on the south side of campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Park+South+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Park+South+San+Francisco+State+University"
+  },
+  {
+    "id": "village",
+    "campusId": "sfsu",
+    "name": "Village at Centennial Square",
+    "abbreviation": "",
+    "aliases": ["Village at Centennial Square", "Village"],
+    "description": "Residential community adjacent to the Towers at Centennial Square offering additional on-campus housing.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Village+Centennial+Square+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Village+Centennial+Square+San+Francisco+State+University"
+  },
+  {
+    "id": "wgc",
+    "campusId": "sfsu",
+    "name": "West Grove Commons",
+    "abbreviation": "WGC",
+    "aliases": ["WGC", "West Grove Commons"],
+    "description": "Student dining and retail facility on the west side of campus serving food options for students and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=West+Grove+Commons+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=West+Grove+Commons+San+Francisco+State+University"
+  },
+  {
+    "id": "yerbabuena",
+    "campusId": "sfsu",
+    "name": "Yerba Buena Dining Hall",
+    "abbreviation": "",
+    "aliases": ["Yerba Buena", "Yerba Buena Dining"],
+    "description": "Campus dining hall serving residential students with diverse meal options and community dining space.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Yerba+Buena+Dining+Hall+San+Francisco+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Yerba+Buena+Dining+Hall+San+Francisco+State+University"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": "ak",
+    "campusId": "csun",
+    "name": "Addie Kirk Student Health Center",
+    "abbreviation": "AK",
+    "aliases": ["AK", "Health Center", "Klotz"],
+    "description": "Campus health center providing medical services, immunizations, lab work, and wellness programs for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Klotz+Student+Health+Center+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Klotz+Student+Health+Center+CSUN"
+  },
+  {
+    "id": "am",
+    "campusId": "csun",
+    "name": "Alumni Relations, Reesah Annex",
+    "abbreviation": "AM",
+    "aliases": ["AM", "Alumni Relations", "Reesah Annex"],
+    "description": "Alumni relations office and Reesah Annex supporting alumni engagement and university advancement.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Alumni+Relations+CSUN+Northridge",
+    "appleMapsUrl": "http://maps.apple.com/?q=Alumni+Relations+CSUN+Northridge"
+  },
+  {
+    "id": "aa",
+    "campusId": "csun",
+    "name": "Asian American Activities Center",
+    "abbreviation": "AA",
+    "aliases": ["AA", "Asian American Center"],
+    "description": "Cultural resource center supporting Asian American and Pacific Islander students with programs and community space.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Asian+American+Activities+Center+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Asian+American+Activities+Center+CSUN"
+  },
+  {
+    "id": "ac",
+    "campusId": "csun",
+    "name": "Art and Design Center",
+    "abbreviation": "AC",
+    "aliases": ["AC", "Art Center", "Art and Design"],
+    "description": "Studios, labs, and classrooms for the Department of Art, including graphic design, sculpture, and fine arts.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Art+and+Design+Center+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Art+and+Design+Center+CSUN"
+  },
+  {
+    "id": "mf",
+    "campusId": "csun",
+    "name": "MFA Studios",
+    "abbreviation": "MF",
+    "aliases": ["MF", "MFA Studios"],
+    "description": "Graduate-level studio spaces for Master of Fine Arts students in painting, sculpture, and mixed media.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=MFA+Studios+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=MFA+Studios+CSUN"
+  },
+  {
+    "id": "ag",
+    "campusId": "csun",
+    "name": "Art Gallery",
+    "abbreviation": "AG",
+    "aliases": ["AG", "Art Gallery"],
+    "description": "CSUN Art Galleries showcasing rotating exhibitions of student, faculty, and visiting artist works.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Art+Gallery+CSUN+Northridge",
+    "appleMapsUrl": "http://maps.apple.com/?q=Art+Gallery+CSUN+Northridge"
+  },
+  {
+    "id": "ar",
+    "campusId": "csun",
+    "name": "Armor Screening Room",
+    "abbreviation": "AR",
+    "aliases": ["AR", "Armor Screening Room", "Screening Room"],
+    "description": "Film and media screening facility used for cinema and television arts programs and events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Armor+Screening+Room+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Armor+Screening+Room+CSUN"
+  },
+  {
+    "id": "arb",
+    "campusId": "csun",
+    "name": "Arbor Grill",
+    "abbreviation": "ARB",
+    "aliases": ["ARB", "Arbor Grill", "Arbor"],
+    "description": "Casual outdoor dining and grill area serving burgers, sandwiches, and snacks near the center of campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Arbor+Grill+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Arbor+Grill+CSUN"
+  },
+  {
+    "id": "at",
+    "campusId": "csun",
+    "name": "Autzen Ticket Office",
+    "abbreviation": "AT",
+    "aliases": ["AT", "Ticket Office", "Autzen"],
+    "description": "Ticket office for athletic events, concerts, and campus performances.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ticket+Office+CSUN+Northridge",
+    "appleMapsUrl": "http://maps.apple.com/?q=Ticket+Office+CSUN+Northridge"
+  },
+  {
+    "id": "bb",
+    "campusId": "csun",
+    "name": "Bookstore Hall",
+    "abbreviation": "BB",
+    "aliases": ["BB", "Bookstore Hall"],
+    "description": "Former bookstore building now used for campus offices and academic support.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bookstore+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bookstore+Hall+CSUN"
+  },
+  {
+    "id": "bs",
+    "campusId": "csun",
+    "name": "The Abbott and Linda Brown Western Center for Adaptive Aquatic Therapy",
+    "abbreviation": "BS",
+    "aliases": ["BS", "Brown Western Center", "Adaptive Aquatic Therapy"],
+    "description": "Specialized aquatic therapy facility offering adaptive programs for individuals with disabilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brown+Western+Center+Adaptive+Aquatic+Therapy+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Brown+Western+Center+Adaptive+Aquatic+Therapy+CSUN"
+  },
+  {
+    "id": "bh",
+    "campusId": "csun",
+    "name": "Baseball Field",
+    "abbreviation": "BH",
+    "aliases": ["BH", "Baseball Field", "Matador Diamond"],
+    "description": "Home field for Matador baseball with seating, dugouts, and practice facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Baseball+Field+CSUN+Northridge",
+    "appleMapsUrl": "http://maps.apple.com/?q=Baseball+Field+CSUN+Northridge"
+  },
+  {
+    "id": "bl",
+    "campusId": "csun",
+    "name": "Bach House",
+    "abbreviation": "BL",
+    "aliases": ["BL", "Bach House"],
+    "description": "Historic house on campus used for offices, meetings, and special programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bach+House+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bach+House+CSUN"
+  },
+  {
+    "id": "bp",
+    "campusId": "csun",
+    "name": "Donald Bianchi Planetarium",
+    "abbreviation": "BP",
+    "aliases": ["BP", "Bianchi Planetarium", "Planetarium"],
+    "description": "Planetarium offering public shows, astronomy demonstrations, and educational programming.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Donald+Bianchi+Planetarium+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Donald+Bianchi+Planetarium+CSUN"
+  },
+  {
+    "id": "cc",
+    "campusId": "csun",
+    "name": "Children's Center",
+    "abbreviation": "CC",
+    "aliases": ["CC", "Children's Center", "Child Care"],
+    "description": "On-campus child care center for students, faculty, and staff with early childhood education programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Childrens+Center+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Childrens+Center+CSUN"
+  },
+  {
+    "id": "ch",
+    "campusId": "csun",
+    "name": "Chicano House",
+    "abbreviation": "CH",
+    "aliases": ["CH", "Chicano House", "Chicana/o Studies"],
+    "description": "Cultural resource center and meeting space supporting Chicana/o and Latina/o students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chicano+House+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Chicano+House+CSUN"
+  },
+  {
+    "id": "cp",
+    "campusId": "csun",
+    "name": "Central Plant",
+    "abbreviation": "CP",
+    "aliases": ["CP", "Central Plant"],
+    "description": "Campus utilities and facilities management central plant providing heating, cooling, and power infrastructure.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Central+Plant+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Central+Plant+CSUN"
+  },
+  {
+    "id": "cps",
+    "campusId": "csun",
+    "name": "Community Policing Substation",
+    "abbreviation": "CPS",
+    "aliases": ["CPS", "Community Policing", "Police Substation"],
+    "description": "Community policing outpost providing campus safety services and neighborhood liaison.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Community+Policing+Substation+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Community+Policing+Substation+CSUN"
+  },
+  {
+    "id": "cr",
+    "campusId": "csun",
+    "name": "Composting Center",
+    "abbreviation": "CR",
+    "aliases": ["CR", "Composting Center"],
+    "description": "Campus sustainability composting facility supporting waste reduction and green initiatives.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Composting+Center+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Composting+Center+CSUN"
+  },
+  {
+    "id": "csr",
+    "campusId": "csun",
+    "name": "Chaparral Hall",
+    "abbreviation": "CSR",
+    "aliases": ["CSR", "Chaparral Hall", "Chaparral"],
+    "description": "Academic building with classrooms, labs, and faculty offices for science and math departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chaparral+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Chaparral+Hall+CSUN"
+  },
+  {
+    "id": "cs",
+    "campusId": "csun",
+    "name": "Citrus Hall",
+    "abbreviation": "CS",
+    "aliases": ["CS", "Citrus Hall", "Citrus"],
+    "description": "Science building housing biology, chemistry, and physics labs and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Citrus+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Citrus+Hall+CSUN"
+  },
+  {
+    "id": "csc",
+    "campusId": "csun",
+    "name": "Campus Store Complex",
+    "abbreviation": "CSC",
+    "aliases": ["CSC", "Campus Store", "Matador Bookstore"],
+    "description": "Campus bookstore and retail complex selling textbooks, merchandise, supplies, and Matador apparel.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Campus+Store+Complex+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Campus+Store+Complex+CSUN"
+  },
+  {
+    "id": "cy",
+    "campusId": "csun",
+    "name": "Cypress Hall",
+    "abbreviation": "CY",
+    "aliases": ["CY", "Cypress Hall", "Cypress"],
+    "description": "Academic building with classrooms and offices supporting various departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cypress+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cypress+Hall+CSUN"
+  },
+  {
+    "id": "d",
+    "campusId": "csun",
+    "name": "Shigematsu Bookstore Hall",
+    "abbreviation": "D",
+    "aliases": ["D", "Shigematsu", "Bookstore Hall"],
+    "description": "Building named after community leader Shigematsu, used for campus services and offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Shigematsu+Bookstore+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Shigematsu+Bookstore+Hall+CSUN"
+  },
+  {
+    "id": "ea",
+    "campusId": "csun",
+    "name": "Education Administration",
+    "abbreviation": "EA",
+    "aliases": ["EA", "Education Admin", "Education Administration"],
+    "description": "Administrative offices for the Michael D. Eisner College of Education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Education+Administration+Building+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Education+Administration+Building+CSUN"
+  },
+  {
+    "id": "ed",
+    "campusId": "csun",
+    "name": "Education",
+    "abbreviation": "ED",
+    "aliases": ["ED", "Education Building"],
+    "description": "Michael D. Eisner College of Education with classrooms, labs, and faculty offices for teacher preparation programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Education+Building+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Education+Building+CSUN"
+  },
+  {
+    "id": "eh",
+    "campusId": "csun",
+    "name": "Eucalyptus Hall",
+    "abbreviation": "EH",
+    "aliases": ["EH", "Eucalyptus Hall", "Eucalyptus"],
+    "description": "Academic building with classrooms and offices for the College of Engineering and Computer Science.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Eucalyptus+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Eucalyptus+Hall+CSUN"
+  },
+  {
+    "id": "eu",
+    "campusId": "csun",
+    "name": "Extended University Commons",
+    "abbreviation": "EU",
+    "aliases": ["EU", "Extended University", "Tseng College"],
+    "description": "Home of the Tseng College of Extended Learning with classrooms and offices for continuing education programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Extended+University+Commons+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Extended+University+Commons+CSUN"
+  },
+  {
+    "id": "ft",
+    "campusId": "csun",
+    "name": "Fitness Center/Nautilus",
+    "abbreviation": "FT",
+    "aliases": ["FT", "Fitness Center", "Nautilus"],
+    "description": "Fitness facility with weight training, cardio machines, and workout equipment for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fitness+Center+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Fitness+Center+CSUN"
+  },
+  {
+    "id": "gr",
+    "campusId": "csun",
+    "name": "Greenhouse",
+    "abbreviation": "GR",
+    "aliases": ["GR", "Greenhouse"],
+    "description": "Campus greenhouse used for biology, botany, and environmental science research and instruction.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Greenhouse+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Greenhouse+CSUN"
+  },
+  {
+    "id": "gs",
+    "campusId": "csun",
+    "name": "Grand Salon",
+    "abbreviation": "GS",
+    "aliases": ["GS", "Grand Salon"],
+    "description": "Banquet and event hall in the University Student Union used for large gatherings, receptions, and ceremonies.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand+Salon+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Grand+Salon+CSUN"
+  },
+  {
+    "id": "ha",
+    "campusId": "csun",
+    "name": "High Ropes Challenge Course",
+    "abbreviation": "HA",
+    "aliases": ["HA", "HRCC", "High Ropes", "Challenge Course"],
+    "description": "Outdoor adventure challenge course with high ropes elements for team building and recreation.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=High+Ropes+Challenge+Course+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=High+Ropes+Challenge+Course+CSUN"
+  },
+  {
+    "id": "ia",
+    "campusId": "csun",
+    "name": "Intercollegiate Athletics Office",
+    "abbreviation": "IA",
+    "aliases": ["IA", "Athletics Office", "ICA"],
+    "description": "Administrative offices for CSUN intercollegiate athletics programs and coaching staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Intercollegiate+Athletics+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Intercollegiate+Athletics+CSUN"
+  },
+  {
+    "id": "jc",
+    "campusId": "csun",
+    "name": "J. R. Johnson Auditorium",
+    "abbreviation": "JC",
+    "aliases": ["JC", "Johnson Auditorium"],
+    "description": "Lecture auditorium used for classes, guest speakers, and campus events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Johnson+Auditorium+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Johnson+Auditorium+CSUN"
+  },
+  {
+    "id": "jp",
+    "campusId": "csun",
+    "name": "Jeanne Chisholm Hall",
+    "abbreviation": "JP",
+    "aliases": ["JP", "Chisholm Hall"],
+    "description": "Academic building with classrooms and offices supporting campus programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chisholm+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Chisholm+Hall+CSUN"
+  },
+  {
+    "id": "jd",
+    "campusId": "csun",
+    "name": "Jacaranda Hall",
+    "abbreviation": "JD",
+    "aliases": ["JD", "Jacaranda Hall", "Jacaranda"],
+    "description": "Major academic building housing the David Nazarian College of Business and Economics with classrooms, computer labs, and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jacaranda+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Jacaranda+Hall+CSUN"
+  },
+  {
+    "id": "jo",
+    "campusId": "csun",
+    "name": "Jogging Path",
+    "abbreviation": "JO",
+    "aliases": ["JO", "Jogging Path", "Running Track"],
+    "description": "Paved jogging and walking path circling the campus perimeter for student and community fitness.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jogging+Path+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Jogging+Path+CSUN"
+  },
+  {
+    "id": "jr",
+    "campusId": "csun",
+    "name": "Jerome Richfield Hall",
+    "abbreviation": "JR",
+    "aliases": ["JR", "Richfield Hall", "Jerome Richfield"],
+    "description": "Academic building with classrooms and offices for humanities and social science departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jerome+Richfield+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Jerome+Richfield+Hall+CSUN"
+  },
+  {
+    "id": "la",
+    "campusId": "csun",
+    "name": "Kurland Lecture Hall",
+    "abbreviation": "LA",
+    "aliases": ["LA", "Kurland Lecture Hall", "Kurland"],
+    "description": "Large lecture hall for classes, seminars, and campus presentations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kurland+Lecture+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kurland+Lecture+Hall+CSUN"
+  },
+  {
+    "id": "kcsn",
+    "campusId": "csun",
+    "name": "KCSN Radio Station",
+    "abbreviation": "KSN",
+    "aliases": ["KSN", "KCSN", "Radio Station"],
+    "description": "KCSN 88.5 FM, the university's public radio station broadcasting music and cultural programming.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=KCSN+Radio+Station+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=KCSN+Radio+Station+CSUN"
+  },
+  {
+    "id": "lh",
+    "campusId": "csun",
+    "name": "Laurel Hall",
+    "abbreviation": "LH",
+    "aliases": ["LH", "Laurel Hall", "Laurel"],
+    "description": "Academic building with classrooms, offices, and meeting spaces for various departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Laurel+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Laurel+Hall+CSUN"
+  },
+  {
+    "id": "ll",
+    "campusId": "csun",
+    "name": "Little Hall",
+    "abbreviation": "LL",
+    "aliases": ["LL", "Little Hall"],
+    "description": "Academic building with classrooms and offices supporting instructional programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Little+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Little+Hall+CSUN"
+  },
+  {
+    "id": "lit",
+    "campusId": "csun",
+    "name": "Little Theatre",
+    "abbreviation": "LIT",
+    "aliases": ["LIT", "Little Theatre"],
+    "description": "Intimate performance venue for theatre arts productions, student plays, and drama workshops.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Little+Theatre+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Little+Theatre+CSUN"
+  },
+  {
+    "id": "lo",
+    "campusId": "csun",
+    "name": "Live Oak Hall",
+    "abbreviation": "LO",
+    "aliases": ["LO", "Live Oak Hall", "Live Oak"],
+    "description": "Academic building with classrooms and labs for social and behavioral sciences.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Live+Oak+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Live+Oak+Hall+CSUN"
+  },
+  {
+    "id": "ls",
+    "campusId": "csun",
+    "name": "Child and Family Studies Lab School",
+    "abbreviation": "LS",
+    "aliases": ["LS", "Lab School", "Child and Family Studies"],
+    "description": "Lab school providing early childhood education and serving as a training site for child development students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Child+Family+Studies+Lab+School+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Child+Family+Studies+Lab+School+CSUN"
+  },
+  {
+    "id": "ma",
+    "campusId": "csun",
+    "name": "Maple Hall",
+    "abbreviation": "MA",
+    "aliases": ["MA", "Maple Hall", "Maple"],
+    "description": "Academic building with classrooms, offices, and meeting rooms for instructional departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Maple+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Maple+Hall+CSUN"
+  },
+  {
+    "id": "mg",
+    "campusId": "csun",
+    "name": "Magnolia Hall",
+    "abbreviation": "MG",
+    "aliases": ["MG", "Magnolia Hall", "Magnolia"],
+    "description": "Academic building housing classrooms and offices for the College of Health and Human Development.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Magnolia+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Magnolia+Hall+CSUN"
+  },
+  {
+    "id": "pm",
+    "campusId": "csun",
+    "name": "Premier America Credit Union Arena",
+    "abbreviation": "PM",
+    "aliases": ["PM", "Premier America", "Credit Union Arena"],
+    "description": "Multi-purpose arena and event center for Matador athletics, commencement, concerts, and community events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Premier+America+Credit+Union+Arena+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Premier+America+Credit+Union+Arena+CSUN"
+  },
+  {
+    "id": "aren",
+    "campusId": "csun",
+    "name": "Matador Arena",
+    "abbreviation": "ARen",
+    "aliases": ["ARen", "Arena", "Matadome"],
+    "description": "Indoor arena for Matador basketball, volleyball, and other campus athletic and special events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Matadome+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Matadome+CSUN"
+  },
+  {
+    "id": "mh",
+    "campusId": "csun",
+    "name": "Monterey Hall",
+    "abbreviation": "MH",
+    "aliases": ["MH", "Monterey Hall", "Monterey"],
+    "description": "Academic building with classrooms and offices for instructional programs and campus services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Monterey+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Monterey+Hall+CSUN"
+  },
+  {
+    "id": "mt",
+    "campusId": "csun",
+    "name": "Matador Hall",
+    "abbreviation": "MT",
+    "aliases": ["MT", "Matador Hall", "Matador"],
+    "description": "Multi-use campus building supporting student services, offices, and instructional spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Matador+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Matador+Hall+CSUN"
+  },
+  {
+    "id": "mz",
+    "campusId": "csun",
+    "name": "Manzanita Hall",
+    "abbreviation": "MZ",
+    "aliases": ["MZ", "Manzanita Hall", "Manzanita"],
+    "description": "Home of the Mike Curb College of Arts, Media, and Communication with studios, labs, classrooms, and KCSN radio.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Manzanita+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Manzanita+Hall+CSUN"
+  },
+  {
+    "id": "na",
+    "campusId": "csun",
+    "name": "Charles H. Noski Auditorium",
+    "abbreviation": "NA",
+    "aliases": ["NA", "Noski Auditorium"],
+    "description": "Large auditorium for campus presentations, lectures, and events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Noski+Auditorium+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Noski+Auditorium+CSUN"
+  },
+  {
+    "id": "no",
+    "campusId": "csun",
+    "name": "North Field",
+    "abbreviation": "NO",
+    "aliases": ["NO", "North Field"],
+    "description": "Outdoor athletic and recreation field on the north side of campus used for intramural and club sports.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=North+Field+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=North+Field+CSUN"
+  },
+  {
+    "id": "nh",
+    "campusId": "csun",
+    "name": "Nordhoff Hall",
+    "abbreviation": "NH",
+    "aliases": ["NH", "Nordhoff Hall", "Nordhoff"],
+    "description": "Academic building with classrooms, offices, and seminar rooms for humanities and social science departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nordhoff+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Nordhoff+Hall+CSUN"
+  },
+  {
+    "id": "oc",
+    "campusId": "csun",
+    "name": "Orchard Conference Center",
+    "abbreviation": "OC",
+    "aliases": ["OC", "Orchard Conference", "Conference Center"],
+    "description": "Conference and meeting facility for workshops, seminars, and campus events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Orchard+Conference+Center+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Orchard+Conference+Center+CSUN"
+  },
+  {
+    "id": "owc",
+    "campusId": "csun",
+    "name": "Oviatt West Wing",
+    "abbreviation": "OWC",
+    "aliases": ["OWC", "Oviatt West", "Library West Wing"],
+    "description": "West wing of the Delmar T. Oviatt Library with additional study spaces, collections, and offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oviatt+Library+West+Wing+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Oviatt+Library+West+Wing+CSUN"
+  },
+  {
+    "id": "pds",
+    "campusId": "csun",
+    "name": "Plaza del Sol Performance Hall",
+    "abbreviation": "PDS",
+    "aliases": ["PDS", "Plaza del Sol", "Performance Hall"],
+    "description": "Large performance and event hall in the University Student Union for concerts, lectures, and campus gatherings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Plaza+del+Sol+Performance+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Plaza+del+Sol+Performance+Hall+CSUN"
+  },
+  {
+    "id": "ppm",
+    "campusId": "csun",
+    "name": "Physical Plant Management",
+    "abbreviation": "PPM",
+    "aliases": ["PPM", "Physical Plant", "Facilities"],
+    "description": "Campus facilities management and maintenance operations center.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Physical+Plant+Management+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Physical+Plant+Management+CSUN"
+  },
+  {
+    "id": "ps",
+    "campusId": "csun",
+    "name": "Police Services",
+    "abbreviation": "PS",
+    "aliases": ["PS", "Police Services", "CSUN Police", "Campus Police"],
+    "description": "University police department providing campus safety, emergency response, and security services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Police+Services+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Police+Services+CSUN"
+  },
+  {
+    "id": "rb",
+    "campusId": "csun",
+    "name": "Redwood Hall",
+    "abbreviation": "RB",
+    "aliases": ["RB", "Redwood Hall", "Redwood"],
+    "description": "Home of the Department of Kinesiology with gymnasium, dance studios, athletic training, and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Redwood+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Redwood+Hall+CSUN"
+  },
+  {
+    "id": "sb",
+    "campusId": "csun",
+    "name": "Sustainability Center",
+    "abbreviation": "SB",
+    "aliases": ["SB", "Sustainability Center", "Institute for Sustainability"],
+    "description": "Hub for campus sustainability programs, environmental initiatives, and green education outreach.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sustainability+Center+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sustainability+Center+CSUN"
+  },
+  {
+    "id": "sc",
+    "campusId": "csun",
+    "name": "Sierra Center",
+    "abbreviation": "SC",
+    "aliases": ["SC", "Sierra Center"],
+    "description": "Administrative and academic building with offices and classroom spaces near the center of campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sierra+Center+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sierra+Center+CSUN"
+  },
+  {
+    "id": "sg",
+    "campusId": "csun",
+    "name": "Sagebrush Hall",
+    "abbreviation": "SG",
+    "aliases": ["SG", "Sagebrush Hall", "Sagebrush"],
+    "description": "Academic building with classrooms and faculty offices for instructional programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sagebrush+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sagebrush+Hall+CSUN"
+  },
+  {
+    "id": "sh",
+    "campusId": "csun",
+    "name": "Sierra Hall",
+    "abbreviation": "SH",
+    "aliases": ["SH", "Sierra Hall", "Sierra"],
+    "description": "Academic building housing the College of Social and Behavioral Sciences with classrooms and offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sierra+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sierra+Hall+CSUN"
+  },
+  {
+    "id": "sn",
+    "campusId": "csun",
+    "name": "Santa Susana Hall",
+    "abbreviation": "SN",
+    "aliases": ["SN", "Santa Susana Hall", "Santa Susana"],
+    "description": "Academic building with classrooms and offices supporting liberal arts and general education courses.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Santa+Susana+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Santa+Susana+Hall+CSUN"
+  },
+  {
+    "id": "so",
+    "campusId": "csun",
+    "name": "Soccer Practice Field",
+    "abbreviation": "SO",
+    "aliases": ["SO", "Soccer Field", "Soccer Practice"],
+    "description": "Outdoor soccer practice and game field for Matador soccer teams and intramural play.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Soccer+Practice+Field+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Soccer+Practice+Field+CSUN"
+  },
+  {
+    "id": "sq",
+    "campusId": "csun",
+    "name": "Sequoia Hall",
+    "abbreviation": "SQ",
+    "aliases": ["SQ", "Sequoia Hall", "Sequoia"],
+    "description": "Academic building housing the College of Engineering and Computer Science with labs, classrooms, and project spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sequoia+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sequoia+Hall+CSUN"
+  },
+  {
+    "id": "src",
+    "campusId": "csun",
+    "name": "Student Recreation Center",
+    "abbreviation": "SRC",
+    "aliases": ["SRC", "Student Rec Center", "Rec Center"],
+    "description": "Full-service recreation center with gym, pool, climbing wall, courts, and group fitness studios.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Recreation+Center+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Recreation+Center+CSUN"
+  },
+  {
+    "id": "st",
+    "campusId": "csun",
+    "name": "Sierra Tower",
+    "abbreviation": "ST",
+    "aliases": ["ST", "Sierra Tower"],
+    "description": "Iconic 13-story tower and tallest building on campus with classrooms, offices, and an observation deck.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sierra+Tower+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sierra+Tower+CSUN"
+  },
+  {
+    "id": "tr",
+    "campusId": "csun",
+    "name": "Track",
+    "abbreviation": "TR",
+    "aliases": ["TR", "Track", "Running Track"],
+    "description": "Outdoor track and field facility for Matador athletics, practice, and intramural events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Track+Field+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Track+Field+CSUN"
+  },
+  {
+    "id": "th",
+    "campusId": "csun",
+    "name": "Transit Station",
+    "abbreviation": "TH",
+    "aliases": ["TH", "Transit Station", "Metro"],
+    "description": "Public transit hub at CSUN connecting to Metro bus and Orange Line routes.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CSUN+Transit+Station+Northridge",
+    "appleMapsUrl": "http://maps.apple.com/?q=CSUN+Transit+Station+Northridge"
+  },
+  {
+    "id": "ts",
+    "campusId": "csun",
+    "name": "The Soraya",
+    "abbreviation": "TS",
+    "aliases": ["TS", "The Soraya", "Younes and Soraya Nazarian Center", "VPAC"],
+    "description": "World-class performing arts center hosting concerts, dance, theatre, and cultural events open to the community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Soraya+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=The+Soraya+CSUN"
+  },
+  {
+    "id": "ul",
+    "campusId": "csun",
+    "name": "University Library",
+    "abbreviation": "UL",
+    "aliases": ["UL", "Oviatt Library", "University Library", "Library"],
+    "description": "Delmar T. Oviatt Library — the main campus library with study spaces, computer labs, special collections, and research support.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oviatt+Library+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Oviatt+Library+CSUN"
+  },
+  {
+    "id": "up",
+    "campusId": "csun",
+    "name": "University Park Apartments",
+    "abbreviation": "UP",
+    "aliases": ["UP", "University Park", "UPA"],
+    "description": "On-campus apartment-style student housing with community amenities and study lounges.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Park+Apartments+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Park+Apartments+CSUN"
+  },
+  {
+    "id": "usu",
+    "campusId": "csun",
+    "name": "University Student Union",
+    "abbreviation": "USU",
+    "aliases": ["USU", "Student Union", "USP"],
+    "description": "Central student life hub with dining, games, meeting rooms, event spaces, and the Sol Center.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Student+Union+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Student+Union+CSUN"
+  },
+  {
+    "id": "uv",
+    "campusId": "csun",
+    "name": "University Village Apartments",
+    "abbreviation": "UV",
+    "aliases": ["UV", "University Village"],
+    "description": "On-campus student housing community with apartment living near the south side of campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Village+Apartments+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Village+Apartments+CSUN"
+  },
+  {
+    "id": "vh",
+    "campusId": "csun",
+    "name": "Valera Hall",
+    "abbreviation": "VH",
+    "aliases": ["VH", "Valera Hall"],
+    "description": "Academic building with classrooms and offices for instructional programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Valera+Hall+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Valera+Hall+CSUN"
+  },
+  {
+    "id": "wh",
+    "campusId": "csun",
+    "name": "Whitsett Room",
+    "abbreviation": "WH",
+    "aliases": ["WH", "Whitsett Room"],
+    "description": "Meeting and event room used for campus gatherings and student organization activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Whitsett+Room+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Whitsett+Room+CSUN"
+  },
+  {
+    "id": "wc",
+    "campusId": "csun",
+    "name": "Women's Research and Resource Center",
+    "abbreviation": "WC",
+    "aliases": ["WC", "Women's Center", "WRRC"],
+    "description": "Resource center supporting gender equity, women's advocacy, and educational programming on campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Womens+Research+Resource+Center+CSUN",
+    "appleMapsUrl": "http://maps.apple.com/?q=Womens+Research+Resource+Center+CSUN"
+  }
+]

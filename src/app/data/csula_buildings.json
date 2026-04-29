@@ -1,0 +1,947 @@
+[
+  {
+    "id": "adm",
+    "campusId": "csula",
+    "name": "Administration",
+    "abbreviation": "ADM",
+    "aliases": [
+      "Administration",
+      "ADM",
+      "Admin Building"
+    ],
+    "description": "Main administrative building housing university leadership, president office, and key administrative departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Administration+Building+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Administration+Building+Cal+State+LA"
+  },
+  {
+    "id": "admissions",
+    "campusId": "csula",
+    "name": "Admissions",
+    "abbreviation": "ADMISSIONS",
+    "aliases": [
+      "Admissions",
+      "Admissions Office",
+      "Office of Admissions"
+    ],
+    "description": "Office handling undergraduate and graduate admissions, applications, and enrollment services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Admissions+Office+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Admissions+Office+Cal+State+LA"
+  },
+  {
+    "id": "ascl",
+    "campusId": "csula",
+    "name": "Annenberg Science Complex La Kretz",
+    "abbreviation": "ASCL",
+    "aliases": [
+      "Annenberg Science Complex La Kretz",
+      "Annenberg Science Complex",
+      "ASCL",
+      "La Kretz"
+    ],
+    "description": "Modern science complex funded by the Annenberg Foundation and La Kretz family featuring advanced research and teaching labs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Annenberg+Science+Complex+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Annenberg+Science+Complex+Cal+State+LA"
+  },
+  {
+    "id": "bs",
+    "campusId": "csula",
+    "name": "Biological Sciences",
+    "abbreviation": "BS",
+    "aliases": [
+      "Biological Sciences",
+      "BS",
+      "Biology Building"
+    ],
+    "description": "Building housing the biological sciences department with labs, research facilities, and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Biological+Sciences+Building+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Biological+Sciences+Building+Cal+State+LA"
+  },
+  {
+    "id": "et",
+    "campusId": "csula",
+    "name": "Engineering and Technology",
+    "abbreviation": "ET",
+    "aliases": [
+      "Engineering and Technology",
+      "ET",
+      "Engineering Building"
+    ],
+    "description": "College of Engineering, Computer Science, and Technology building featuring labs, project spaces, and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Engineering+Technology+Building+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Engineering+Technology+Building+Cal+State+LA"
+  },
+  {
+    "id": "fa",
+    "campusId": "csula",
+    "name": "Fine Arts",
+    "abbreviation": "FA",
+    "aliases": [
+      "Fine Arts",
+      "FA",
+      "Fine Arts Building"
+    ],
+    "description": "Fine Arts building housing visual art, design, and art history programs with studios and gallery spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fine+Arts+Building+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Fine+Arts+Building+Cal+State+LA"
+  },
+  {
+    "id": "gerontology",
+    "campusId": "csula",
+    "name": "Gerontology Center",
+    "abbreviation": "GERO",
+    "aliases": [
+      "Gerontology Center",
+      "GERO"
+    ],
+    "description": "Center dedicated to gerontology education, aging research, and community programs serving older adults.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gerontology+Center+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Gerontology+Center+Cal+State+LA"
+  },
+  {
+    "id": "forensic-sci",
+    "campusId": "csula",
+    "name": "Hertzberg-Davis Forensic Science Center",
+    "abbreviation": "HDFS",
+    "aliases": [
+      "Hertzberg-Davis Forensic Science Center",
+      "Forensic Science Center",
+      "HDFS"
+    ],
+    "description": "State-of-the-art forensic science facility shared with the Los Angeles County Sheriff and LAPD for research and training.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hertzberg+Davis+Forensic+Science+Center+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Hertzberg+Davis+Forensic+Science+Center+Cal+State+LA"
+  },
+  {
+    "id": "rosser",
+    "campusId": "csula",
+    "name": "James M. Rosser Hall",
+    "abbreviation": "ROSSER",
+    "aliases": [
+      "James M. Rosser Hall",
+      "Rosser Hall"
+    ],
+    "description": "Academic building named for former university president James Rosser housing departments and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=James+Rosser+Hall+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=James+Rosser+Hall+Cal+State+LA"
+  },
+  {
+    "id": "kh",
+    "campusId": "csula",
+    "name": "King Hall",
+    "abbreviation": "KH",
+    "aliases": [
+      "King Hall",
+      "KH",
+      "King Hall Lecture Halls"
+    ],
+    "description": "Major academic building with lecture halls, classrooms, and departmental offices for multiple colleges.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=King+Hall+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=King+Hall+Cal+State+LA"
+  },
+  {
+    "id": "stern-school",
+    "campusId": "csula",
+    "name": "Marc and Eva Stern Math and Science School",
+    "abbreviation": "STERN",
+    "aliases": [
+      "Marc and Eva Stern Math and Science School",
+      "Stern Math and Science School",
+      "Stern School"
+    ],
+    "description": "K-12 laboratory school on campus focused on mathematics and science education, operated in partnership with LAUSD.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Stern+Math+Science+School+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Stern+Math+Science+School+Cal+State+LA"
+  },
+  {
+    "id": "mus",
+    "campusId": "csula",
+    "name": "Music",
+    "abbreviation": "MUS",
+    "aliases": [
+      "Music",
+      "MUS",
+      "Music Building"
+    ],
+    "description": "Music building housing the music department with rehearsal halls, practice rooms, and performance facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Music+Building+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Music+Building+Cal+State+LA"
+  },
+  {
+    "id": "nasa-space-lab",
+    "campusId": "csula",
+    "name": "NASA Space Lab",
+    "abbreviation": "NASA",
+    "aliases": [
+      "NASA Space Lab",
+      "Space Lab",
+      "NASA Lab"
+    ],
+    "description": "Campus NASA-affiliated space science lab supporting aerospace research, student projects, and STEM programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=NASA+Space+Lab+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=NASA+Space+Lab+Cal+State+LA"
+  },
+  {
+    "id": "sh",
+    "campusId": "csula",
+    "name": "Salazar Hall",
+    "abbreviation": "SH",
+    "aliases": [
+      "Salazar Hall",
+      "SH"
+    ],
+    "description": "Academic building with classrooms, labs, and faculty offices supporting multiple university departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Salazar+Hall+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Salazar+Hall+Cal+State+LA"
+  },
+  {
+    "id": "st",
+    "campusId": "csula",
+    "name": "Simpson Tower",
+    "abbreviation": "ST",
+    "aliases": [
+      "Simpson Tower",
+      "ST"
+    ],
+    "description": "High-rise tower on campus housing academic departments, administrative offices, and university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Simpson+Tower+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Simpson+Tower+Cal+State+LA"
+  },
+  {
+    "id": "tvfm",
+    "campusId": "csula",
+    "name": "TV, Film, Media",
+    "abbreviation": "TVFM",
+    "aliases": [
+      "TV, Film, Media",
+      "TVFM",
+      "Television Film Media"
+    ],
+    "description": "Building housing TV, film, and media studies programs with production studios, editing suites, and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=TV+Film+Media+Building+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=TV+Film+Media+Building+Cal+State+LA"
+  },
+  {
+    "id": "library",
+    "campusId": "csula",
+    "name": "John F. Kennedy Memorial Library",
+    "abbreviation": "LIB",
+    "aliases": [
+      "John F. Kennedy Memorial Library",
+      "JFK Library",
+      "Kennedy Library",
+      "Library",
+      "LIB"
+    ],
+    "description": "Main campus library named for President John F. Kennedy providing research services, study spaces, and digital collections.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=JFK+Memorial+Library+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=JFK+Memorial+Library+Cal+State+LA"
+  },
+  {
+    "id": "library-palmer",
+    "campusId": "csula",
+    "name": "John F. Kennedy Memorial Library – Palmer Wing",
+    "abbreviation": "LIB-PALMER",
+    "aliases": [
+      "JFK Library Palmer Wing",
+      "Palmer Wing",
+      "Library Palmer Wing"
+    ],
+    "description": "Palmer Wing addition to the JFK Memorial Library expanding research and study spaces for students and faculty.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=JFK+Library+Palmer+Wing+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=JFK+Library+Palmer+Wing+Cal+State+LA"
+  },
+  {
+    "id": "arena-theatre",
+    "campusId": "csula",
+    "name": "Arena Theatre",
+    "abbreviation": "ARENA",
+    "aliases": [
+      "Arena Theatre",
+      "ARENA"
+    ],
+    "description": "Intimate arena-style theatre on campus used for student and professional theatrical productions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Arena+Theatre+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Arena+Theatre+Cal+State+LA"
+  },
+  {
+    "id": "intimate-theatre",
+    "campusId": "csula",
+    "name": "Intimate Theatre",
+    "abbreviation": "INTIMATE",
+    "aliases": [
+      "Intimate Theatre",
+      "INTIMATE"
+    ],
+    "description": "Small black box theatre providing an intimate performance space for experimental and student productions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Intimate+Theatre+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Intimate+Theatre+Cal+State+LA"
+  },
+  {
+    "id": "luckman-gallery",
+    "campusId": "csula",
+    "name": "Luckman Gallery",
+    "abbreviation": "LUCKMAN-GAL",
+    "aliases": [
+      "Luckman Gallery",
+      "Luckman Fine Arts Gallery"
+    ],
+    "description": "Art gallery within the Luckman Fine Arts Complex showcasing contemporary and student artwork exhibitions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Luckman+Gallery+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Luckman+Gallery+Cal+State+LA"
+  },
+  {
+    "id": "luckman-theatre",
+    "campusId": "csula",
+    "name": "Luckman Theatre",
+    "abbreviation": "LUCKMAN",
+    "aliases": [
+      "Luckman Theatre",
+      "Luckman Fine Arts Complex"
+    ],
+    "description": "Major performing arts theatre at Cal State LA hosting concerts, dance, theatre, and community cultural events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Luckman+Theatre+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Luckman+Theatre+Cal+State+LA"
+  },
+  {
+    "id": "silverman-gallery",
+    "campusId": "csula",
+    "name": "Ronald H. Silverman Fine Arts Gallery",
+    "abbreviation": "SILVERMAN",
+    "aliases": [
+      "Ronald H. Silverman Fine Arts Gallery",
+      "Silverman Fine Arts Gallery",
+      "Silverman Gallery"
+    ],
+    "description": "Fine arts gallery presenting rotating exhibitions of student, faculty, and professional visual artwork.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Silverman+Fine+Arts+Gallery+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Silverman+Fine+Arts+Gallery+Cal+State+LA"
+  },
+  {
+    "id": "state-playhouse",
+    "campusId": "csula",
+    "name": "State Playhouse",
+    "abbreviation": "PLAYHOUSE",
+    "aliases": [
+      "State Playhouse",
+      "Playhouse"
+    ],
+    "description": "Theatre venue on campus hosting student and professional drama productions and performing arts events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=State+Playhouse+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=State+Playhouse+Cal+State+LA"
+  },
+  {
+    "id": "cc",
+    "campusId": "csula",
+    "name": "Career Center",
+    "abbreviation": "CC",
+    "aliases": [
+      "Career Center",
+      "CC",
+      "Career Development Center"
+    ],
+    "description": "Career center providing job search support, internship resources, career counseling, and employer connections.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Career+Center+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Career+Center+Cal+State+LA"
+  },
+  {
+    "id": "financial-aid",
+    "campusId": "csula",
+    "name": "Financial Aid",
+    "abbreviation": "FIN-AID",
+    "aliases": [
+      "Financial Aid",
+      "Financial Aid Office"
+    ],
+    "description": "Office administering scholarships, grants, loans, and work-study programs to support student financial needs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Financial+Aid+Office+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Financial+Aid+Office+Cal+State+LA"
+  },
+  {
+    "id": "housing-info",
+    "campusId": "csula",
+    "name": "Housing Information",
+    "abbreviation": "HOUSING",
+    "aliases": [
+      "Housing Information",
+      "Housing Office",
+      "Student Housing"
+    ],
+    "description": "Housing information office providing resources and guidance for on-campus and off-campus student housing.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Housing+Information+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Housing+Information+Cal+State+LA"
+  },
+  {
+    "id": "welcome-center",
+    "campusId": "csula",
+    "name": "Information – Welcome Center",
+    "abbreviation": "WELCOME",
+    "aliases": [
+      "Information Welcome Center",
+      "Welcome Center",
+      "Visitor Center"
+    ],
+    "description": "Campus welcome and information center providing orientation, maps, and visitor assistance for new and prospective students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Welcome+Center+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Welcome+Center+Cal+State+LA"
+  },
+  {
+    "id": "sa",
+    "campusId": "csula",
+    "name": "Student Affairs",
+    "abbreviation": "SA",
+    "aliases": [
+      "Student Affairs",
+      "SA",
+      "Division of Student Affairs"
+    ],
+    "description": "Division of Student Affairs overseeing student programs, campus life, leadership development, and student support services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Affairs+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Affairs+Cal+State+LA"
+  },
+  {
+    "id": "hc",
+    "campusId": "csula",
+    "name": "Student Health Center",
+    "abbreviation": "HC",
+    "aliases": [
+      "Student Health Center",
+      "HC",
+      "Health Center",
+      "Campus Health"
+    ],
+    "description": "Campus health facility providing medical care, mental health counseling, wellness programs, and health education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Health+Center+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Health+Center+Cal+State+LA"
+  },
+  {
+    "id": "student-services",
+    "campusId": "csula",
+    "name": "Student Services",
+    "abbreviation": "STUDENT-SVC",
+    "aliases": [
+      "Student Services",
+      "Student Services Building"
+    ],
+    "description": "Central hub for student services including advising, records, registration, and academic support programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Services+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Services+Cal+State+LA"
+  },
+  {
+    "id": "usu",
+    "campusId": "csula",
+    "name": "University Student Union",
+    "abbreviation": "U-SU",
+    "aliases": [
+      "University Student Union",
+      "U-SU",
+      "USU",
+      "Student Union"
+    ],
+    "description": "Central student union building housing dining, student government, clubs, event spaces, and campus life services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Student+Union+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Student+Union+Cal+State+LA"
+  },
+  {
+    "id": "golden-eagle",
+    "campusId": "csula",
+    "name": "Golden Eagle",
+    "abbreviation": "GE",
+    "aliases": [
+      "Golden Eagle",
+      "GE",
+      "Golden Eagle Building"
+    ],
+    "description": "Multi-use building housing the Bookstore, Conference Center, Food Court, College of Professional and Global Education, Pat Brown Institute, and University Club.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Golden+Eagle+Building+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Golden+Eagle+Building+Cal+State+LA"
+  },
+  {
+    "id": "golden-eagle-dining",
+    "campusId": "csula",
+    "name": "Golden Eagle Dining",
+    "abbreviation": "GE-DINING",
+    "aliases": [
+      "Golden Eagle Dining",
+      "Dining Hall",
+      "Food Court"
+    ],
+    "description": "Campus dining facility in the Golden Eagle building offering a variety of meal options for students and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Golden+Eagle+Dining+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Golden+Eagle+Dining+Cal+State+LA"
+  },
+  {
+    "id": "starbucks",
+    "campusId": "csula",
+    "name": "Starbucks",
+    "abbreviation": "STARBUCKS",
+    "aliases": [
+      "Starbucks",
+      "Campus Starbucks"
+    ],
+    "description": "On-campus Starbucks coffee shop providing beverages and snacks for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Starbucks+Cal+State+LA"
+  },
+  {
+    "id": "residence-hall",
+    "campusId": "csula",
+    "name": "Residence Hall",
+    "abbreviation": "RES-HALL",
+    "aliases": [
+      "Residence Hall",
+      "Res Hall",
+      "Student Housing",
+      "Dorms"
+    ],
+    "description": "On-campus residential hall providing student housing accommodations with community amenities and support services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Residence+Hall+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Residence+Hall+Cal+State+LA"
+  },
+  {
+    "id": "track-field",
+    "campusId": "csula",
+    "name": "Jesse Owens Track and Field",
+    "abbreviation": "TRACK",
+    "aliases": [
+      "Jesse Owens Track and Field",
+      "Athletics Track and Field",
+      "Track and Field",
+      "Jesse Owens Track"
+    ],
+    "description": "Campus track and field facility named for Olympic legend Jesse Owens, hosting athletics events and practices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jesse+Owens+Track+Field+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Jesse+Owens+Track+Field+Cal+State+LA"
+  },
+  {
+    "id": "reeder-field",
+    "campusId": "csula",
+    "name": "Reeder Field",
+    "abbreviation": "REEDER",
+    "aliases": [
+      "Reeder Field",
+      "Athletics Reeder Field"
+    ],
+    "description": "Athletic field used for campus sports competitions, practice, and recreational activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Reeder+Field+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Reeder+Field+Cal+State+LA"
+  },
+  {
+    "id": "tennis-basketball",
+    "campusId": "csula",
+    "name": "Tennis/Basketball Courts",
+    "abbreviation": "COURTS",
+    "aliases": [
+      "Tennis/Basketball Courts",
+      "Athletics Tennis Basketball Courts",
+      "Tennis Courts",
+      "Basketball Courts"
+    ],
+    "description": "Outdoor tennis and basketball courts for intercollegiate athletics, physical education, and recreational use.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tennis+Basketball+Courts+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Tennis+Basketball+Courts+Cal+State+LA"
+  },
+  {
+    "id": "university-gym",
+    "campusId": "csula",
+    "name": "University Gym",
+    "abbreviation": "GYM",
+    "aliases": [
+      "University Gym",
+      "Athletics University Gym",
+      "Gymnasium"
+    ],
+    "description": "University gymnasium hosting intercollegiate athletics, intramural sports, and campus recreation programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Gym+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Gym+Cal+State+LA"
+  },
+  {
+    "id": "pe",
+    "campusId": "csula",
+    "name": "Physical Education",
+    "abbreviation": "PE",
+    "aliases": [
+      "Physical Education",
+      "PE",
+      "Physical Education Building"
+    ],
+    "description": "Physical education building with courts, gyms, and instructional spaces supporting kinesiology and recreation programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Physical+Education+Building+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Physical+Education+Building+Cal+State+LA"
+  },
+  {
+    "id": "alumni-center",
+    "campusId": "csula",
+    "name": "Alumni Center",
+    "abbreviation": "ALUMNI",
+    "aliases": [
+      "Alumni Center",
+      "Alumni Association"
+    ],
+    "description": "Alumni center supporting graduate engagement, reunions, networking events, and university advancement programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Alumni+Center+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Alumni+Center+Cal+State+LA"
+  },
+  {
+    "id": "childrens-center",
+    "campusId": "csula",
+    "name": "Anna Bing Arnold Children's Center",
+    "abbreviation": "ABAC",
+    "aliases": [
+      "Anna Bing Arnold Children's Center",
+      "Children's Center",
+      "ABAC",
+      "Child Care"
+    ],
+    "description": "On-campus children's center providing early childhood education and childcare for children of students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Anna+Bing+Arnold+Childrens+Center+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Anna+Bing+Arnold+Childrens+Center+Cal+State+LA"
+  },
+  {
+    "id": "atm",
+    "campusId": "csula",
+    "name": "ATM",
+    "abbreviation": "ATM",
+    "aliases": [
+      "ATM",
+      "Campus ATM"
+    ],
+    "description": "Campus ATM machine providing convenient cash and banking services for students and campus visitors.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=ATM+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=ATM+Cal+State+LA"
+  },
+  {
+    "id": "atm-hub",
+    "campusId": "csula",
+    "name": "ATM Hub",
+    "abbreviation": "ATM-HUB",
+    "aliases": [
+      "ATM Hub",
+      "ATM Hub Cal State LA"
+    ],
+    "description": "ATM hub location on campus offering banking access for students, faculty, and visitors.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=ATM+Hub+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=ATM+Hub+Cal+State+LA"
+  },
+  {
+    "id": "golden-eagle-atm",
+    "campusId": "csula",
+    "name": "Golden Eagle ATM",
+    "abbreviation": "GE-ATM",
+    "aliases": [
+      "Golden Eagle ATM",
+      "GE ATM"
+    ],
+    "description": "ATM located in or near the Golden Eagle building for convenient campus banking access.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Golden+Eagle+ATM+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Golden+Eagle+ATM+Cal+State+LA"
+  },
+  {
+    "id": "greenlee-plaza",
+    "campusId": "csula",
+    "name": "Greenlee Plaza",
+    "abbreviation": "GREENLEE",
+    "aliases": [
+      "Greenlee Plaza",
+      "Greenlee"
+    ],
+    "description": "Campus plaza serving as a central outdoor gathering space for students, events, and campus activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Greenlee+Plaza+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Greenlee+Plaza+Cal+State+LA"
+  },
+  {
+    "id": "hydrogen-station",
+    "campusId": "csula",
+    "name": "Hydrogen Station",
+    "abbreviation": "H2-STATION",
+    "aliases": [
+      "Hydrogen Station",
+      "H2 Station",
+      "Hydrogen Fueling Station"
+    ],
+    "description": "Campus hydrogen fueling station supporting zero-emission fuel cell vehicles and sustainability research initiatives.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hydrogen+Station+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Hydrogen+Station+Cal+State+LA"
+  },
+  {
+    "id": "music-hall",
+    "campusId": "csula",
+    "name": "Music Hall",
+    "abbreviation": "MUS-HALL",
+    "aliases": [
+      "Music Hall",
+      "Music Performance Hall"
+    ],
+    "description": "Performance hall for music department recitals, concerts, and ensemble performances.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Music+Hall+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Music+Hall+Cal+State+LA"
+  },
+  {
+    "id": "corp-yard",
+    "campusId": "csula",
+    "name": "Corporation Yard",
+    "abbreviation": "CORP-YARD",
+    "aliases": [
+      "Corporation Yard",
+      "Corp Yard",
+      "Facilities Yard"
+    ],
+    "description": "Campus corporation yard managing facilities operations, maintenance supplies, and physical plant services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Corporation+Yard+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Corporation+Yard+Cal+State+LA"
+  },
+  {
+    "id": "pubs",
+    "campusId": "csula",
+    "name": "Parking, Transportation Service Center, Police/Public Safety",
+    "abbreviation": "PUBS",
+    "aliases": [
+      "PUBS",
+      "Parking Transportation Service Center",
+      "Police Public Safety",
+      "Public Safety"
+    ],
+    "description": "Combined facility for campus parking services, transportation, university police, and public safety operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Public+Safety+Parking+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Public+Safety+Parking+Cal+State+LA"
+  },
+  {
+    "id": "transit-center",
+    "campusId": "csula",
+    "name": "Transit Center",
+    "abbreviation": "TRANSIT",
+    "aliases": [
+      "Transit Center",
+      "Bus Stop",
+      "Transportation Hub"
+    ],
+    "description": "Campus transit center providing bus, shuttle, and public transportation connections for students and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Transit+Center+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Transit+Center+Cal+State+LA"
+  },
+  {
+    "id": "lot1",
+    "campusId": "csula",
+    "name": "Parking Lot 1",
+    "abbreviation": "LOT-1",
+    "aliases": [
+      "Parking Lot 1",
+      "Lot 1"
+    ],
+    "description": "Campus parking lot 1 providing vehicle parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+1+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+1+Cal+State+LA"
+  },
+  {
+    "id": "lot1a",
+    "campusId": "csula",
+    "name": "Parking Lot 1A",
+    "abbreviation": "LOT-1A",
+    "aliases": [
+      "Parking Lot 1A",
+      "Lot 1A"
+    ],
+    "description": "Campus parking lot 1A providing vehicle parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+1A+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+1A+Cal+State+LA"
+  },
+  {
+    "id": "lot2",
+    "campusId": "csula",
+    "name": "Parking Lot 2",
+    "abbreviation": "LOT-2",
+    "aliases": [
+      "Parking Lot 2",
+      "Lot 2"
+    ],
+    "description": "Campus parking lot 2 providing vehicle parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+2+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+2+Cal+State+LA"
+  },
+  {
+    "id": "lot3",
+    "campusId": "csula",
+    "name": "Parking Lot 3",
+    "abbreviation": "LOT-3",
+    "aliases": [
+      "Parking Lot 3",
+      "Lot 3"
+    ],
+    "description": "Campus parking lot 3 providing vehicle parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+3+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+3+Cal+State+LA"
+  },
+  {
+    "id": "lot4",
+    "campusId": "csula",
+    "name": "Parking Lot 4",
+    "abbreviation": "LOT-4",
+    "aliases": [
+      "Parking Lot 4",
+      "Lot 4"
+    ],
+    "description": "Campus parking lot 4 providing vehicle parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+4+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+4+Cal+State+LA"
+  },
+  {
+    "id": "lot5",
+    "campusId": "csula",
+    "name": "Parking Lot 5",
+    "abbreviation": "LOT-5",
+    "aliases": [
+      "Parking Lot 5",
+      "Lot 5"
+    ],
+    "description": "Campus parking lot 5 providing vehicle parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+5+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+5+Cal+State+LA"
+  },
+  {
+    "id": "lot6",
+    "campusId": "csula",
+    "name": "Parking Lot 6",
+    "abbreviation": "LOT-6",
+    "aliases": [
+      "Parking Lot 6",
+      "Lot 6"
+    ],
+    "description": "Campus parking lot 6 providing vehicle parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+6+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+6+Cal+State+LA"
+  },
+  {
+    "id": "lot8",
+    "campusId": "csula",
+    "name": "Parking Lot 8",
+    "abbreviation": "LOT-8",
+    "aliases": [
+      "Parking Lot 8",
+      "Lot 8"
+    ],
+    "description": "Campus parking lot 8 providing vehicle parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+8+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+8+Cal+State+LA"
+  },
+  {
+    "id": "lot9",
+    "campusId": "csula",
+    "name": "Parking Lot 9",
+    "abbreviation": "LOT-9",
+    "aliases": [
+      "Parking Lot 9",
+      "Lot 9"
+    ],
+    "description": "Campus parking lot 9 providing vehicle parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+9+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+9+Cal+State+LA"
+  },
+  {
+    "id": "lot10",
+    "campusId": "csula",
+    "name": "Parking Lot 10",
+    "abbreviation": "LOT-10",
+    "aliases": [
+      "Parking Lot 10",
+      "Lot 10"
+    ],
+    "description": "Campus parking lot 10 providing vehicle parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+10+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+10+Cal+State+LA"
+  },
+  {
+    "id": "lot11",
+    "campusId": "csula",
+    "name": "Parking Lot 11",
+    "abbreviation": "LOT-11",
+    "aliases": [
+      "Parking Lot 11",
+      "Lot 11"
+    ],
+    "description": "Campus parking lot 11 providing vehicle parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+11+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+11+Cal+State+LA"
+  },
+  {
+    "id": "structure-a",
+    "campusId": "csula",
+    "name": "Parking Structure A",
+    "abbreviation": "PS-A",
+    "aliases": [
+      "Parking Structure A",
+      "PS-A",
+      "Structure A"
+    ],
+    "description": "Multi-level parking structure A providing covered parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Structure+A+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Structure+A+Cal+State+LA"
+  },
+  {
+    "id": "structure-b",
+    "campusId": "csula",
+    "name": "Parking Structure B",
+    "abbreviation": "PS-B",
+    "aliases": [
+      "Parking Structure B",
+      "PS-B",
+      "Structure B"
+    ],
+    "description": "Multi-level parking structure B providing covered parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Structure+B+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Structure+B+Cal+State+LA"
+  },
+  {
+    "id": "structure-c",
+    "campusId": "csula",
+    "name": "Parking Structure C",
+    "abbreviation": "PS-C",
+    "aliases": [
+      "Parking Structure C",
+      "PS-C",
+      "Structure C"
+    ],
+    "description": "Multi-level parking structure C providing covered parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Structure+C+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Structure+C+Cal+State+LA"
+  },
+  {
+    "id": "structure-d",
+    "campusId": "csula",
+    "name": "Parking Structure D",
+    "abbreviation": "PS-D",
+    "aliases": [
+      "Parking Structure D",
+      "PS-D",
+      "Structure D"
+    ],
+    "description": "Multi-level parking structure D providing covered parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Structure+D+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Structure+D+Cal+State+LA"
+  },
+  {
+    "id": "structure-e",
+    "campusId": "csula",
+    "name": "Parking Structure E",
+    "abbreviation": "PS-E",
+    "aliases": [
+      "Parking Structure E",
+      "PS-E",
+      "Structure E"
+    ],
+    "description": "Multi-level parking structure E providing covered parking for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Structure+E+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Structure+E+Cal+State+LA"
+  },
+  {
+    "id": "lachsa",
+    "campusId": "csula",
+    "name": "Los Angeles County High School for the Arts",
+    "abbreviation": "LACHSA",
+    "aliases": [
+      "Los Angeles County High School for the Arts",
+      "LACHSA"
+    ],
+    "description": "Selective public arts high school located on the Cal State LA campus offering specialized arts and academic programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Los+Angeles+County+High+School+for+the+Arts+Cal+State+LA",
+    "appleMapsUrl": "http://maps.apple.com/?q=Los+Angeles+County+High+School+for+the+Arts+Cal+State+LA"
+  }
+]

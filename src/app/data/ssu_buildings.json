@@ -1,0 +1,855 @@
+[
+  {
+    "id": "art",
+    "campusId": "ssu",
+    "name": "Art Building",
+    "abbreviation": "ART",
+    "aliases": [
+      "Art Building",
+      "ART"
+    ],
+    "description": "Building housing the art department with studios, galleries, and classrooms for fine arts and visual arts programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Art+Building+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Art+Building+Sonoma+State+University"
+  },
+  {
+    "id": "carson-hall",
+    "campusId": "ssu",
+    "name": "Carson Hall",
+    "abbreviation": "CARS",
+    "aliases": [
+      "Carson Hall",
+      "CARS"
+    ],
+    "description": "Academic hall providing classrooms and faculty offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Carson+Hall+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Carson+Hall+Sonoma+State+University"
+  },
+  {
+    "id": "nichols-hall",
+    "campusId": "ssu",
+    "name": "Nichols Hall",
+    "abbreviation": "NICH",
+    "aliases": [
+      "Nichols Hall",
+      "NICH"
+    ],
+    "description": "Academic hall with classrooms and faculty offices serving university departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nichols+Hall+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Nichols+Hall+Sonoma+State+University"
+  },
+  {
+    "id": "stevenson-hall",
+    "campusId": "ssu",
+    "name": "Stevenson Hall",
+    "abbreviation": "STEV",
+    "aliases": [
+      "Stevenson Hall",
+      "STEV"
+    ],
+    "description": "Academic hall housing departments with classrooms and faculty offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Stevenson+Hall+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Stevenson+Hall+Sonoma+State+University"
+  },
+  {
+    "id": "darwin-hall",
+    "campusId": "ssu",
+    "name": "Darwin Hall",
+    "abbreviation": "DARW",
+    "aliases": [
+      "Darwin Hall",
+      "DARW"
+    ],
+    "description": "Science building named for Charles Darwin housing biology and natural science departments with labs and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Darwin+Hall+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Darwin+Hall+Sonoma+State+University"
+  },
+  {
+    "id": "salazar-hall",
+    "campusId": "ssu",
+    "name": "Salazar Hall",
+    "abbreviation": "SAL",
+    "aliases": [
+      "Salazar Hall",
+      "SAL"
+    ],
+    "description": "Main academic building housing the provost's office, departments, and classrooms for multiple programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Salazar+Hall+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Salazar+Hall+Sonoma+State+University"
+  },
+  {
+    "id": "ives-hall",
+    "campusId": "ssu",
+    "name": "Ives Hall",
+    "abbreviation": "IVES",
+    "aliases": [
+      "Ives Hall",
+      "IVES"
+    ],
+    "description": "Academic hall providing classrooms and offices for university departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ives+Hall+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Ives+Hall+Sonoma+State+University"
+  },
+  {
+    "id": "international-hall",
+    "campusId": "ssu",
+    "name": "International Hall",
+    "abbreviation": "INTL",
+    "aliases": [
+      "International Hall",
+      "INTL"
+    ],
+    "description": "Hall supporting international programs, global engagement, and study abroad services for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=International+Hall+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=International+Hall+Sonoma+State+University"
+  },
+  {
+    "id": "wine-spectator-learning-center",
+    "campusId": "ssu",
+    "name": "Wine Spectator Learning Center",
+    "abbreviation": "WSLC",
+    "aliases": [
+      "Wine Spectator Learning Center",
+      "WSLC",
+      "Wine Spectator"
+    ],
+    "description": "Dedicated learning center for wine business and viticulture programs, reflecting Sonoma's wine country heritage.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wine+Spectator+Learning+Center+Sonoma+State",
+    "appleMapsUrl": "http://maps.apple.com/?q=Wine+Spectator+Learning+Center+Sonoma+State"
+  },
+  {
+    "id": "schulz-information-center",
+    "campusId": "ssu",
+    "name": "Schulz Information Center",
+    "abbreviation": "SIC",
+    "aliases": [
+      "Schulz Information Center",
+      "SIC",
+      "Student Information Center"
+    ],
+    "description": "Campus information center named for Schulz providing student services, technology resources, and campus information.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Schulz+Information+Center+Sonoma+State",
+    "appleMapsUrl": "http://maps.apple.com/?q=Schulz+Information+Center+Sonoma+State"
+  },
+  {
+    "id": "library",
+    "campusId": "ssu",
+    "name": "Jean & Charles Schulz Information Center Library",
+    "abbreviation": "LIB",
+    "aliases": [
+      "Library",
+      "LIB",
+      "SSU Library",
+      "Sonoma State Library"
+    ],
+    "description": "Main campus library providing research collections, study spaces, digital resources, and academic support services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Library+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Library+Sonoma+State+University"
+  },
+  {
+    "id": "student-center",
+    "campusId": "ssu",
+    "name": "Student Center",
+    "abbreviation": "SC",
+    "aliases": [
+      "Student Center",
+      "SC"
+    ],
+    "description": "Central student hub providing dining, student government, clubs, event spaces, and campus life services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Center+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Center+Sonoma+State+University"
+  },
+  {
+    "id": "person-theatre",
+    "campusId": "ssu",
+    "name": "Person Theatre",
+    "abbreviation": "PERS",
+    "aliases": [
+      "Person Theatre",
+      "PERS"
+    ],
+    "description": "Campus theatre named for Person hosting student and faculty theatrical productions and performing arts events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Person+Theatre+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Person+Theatre+Sonoma+State+University"
+  },
+  {
+    "id": "alumni-amphitheater",
+    "campusId": "ssu",
+    "name": "Alumni Amphitheater",
+    "abbreviation": "AMPH",
+    "aliases": [
+      "Alumni Amphitheater",
+      "AMPH",
+      "Amphitheater"
+    ],
+    "description": "Outdoor amphitheater on campus used for concerts, events, and gatherings in the open air setting.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Alumni+Amphitheater+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Alumni+Amphitheater+Sonoma+State+University"
+  },
+  {
+    "id": "recreation-center",
+    "campusId": "ssu",
+    "name": "Recreation Center",
+    "abbreviation": "REC",
+    "aliases": [
+      "Recreation Center",
+      "REC",
+      "Rec Center"
+    ],
+    "description": "Campus recreation center with fitness equipment, courts, and wellness programs for students and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Recreation+Center+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Recreation+Center+Sonoma+State+University"
+  },
+  {
+    "id": "gymnasium",
+    "campusId": "ssu",
+    "name": "Gymnasium",
+    "abbreviation": "GYM",
+    "aliases": [
+      "Gymnasium",
+      "GYM",
+      "Gym"
+    ],
+    "description": "Campus gymnasium providing basketball courts, volleyball, and physical education instructional spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gymnasium+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Gymnasium+Sonoma+State+University"
+  },
+  {
+    "id": "fieldhouse",
+    "campusId": "ssu",
+    "name": "Fieldhouse",
+    "abbreviation": "FH",
+    "aliases": [
+      "Fieldhouse",
+      "FH",
+      "Field House"
+    ],
+    "description": "Athletic fieldhouse supporting sports programs with training facilities, locker rooms, and team spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fieldhouse+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Fieldhouse+Sonoma+State+University"
+  },
+  {
+    "id": "health-center",
+    "campusId": "ssu",
+    "name": "Health Center",
+    "abbreviation": "HC",
+    "aliases": [
+      "Health Center",
+      "HC",
+      "Student Health Center"
+    ],
+    "description": "Campus health center providing medical care, counseling, mental health services, and wellness resources for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Health+Center+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Health+Center+Sonoma+State+University"
+  },
+  {
+    "id": "childrens-school",
+    "campusId": "ssu",
+    "name": "Children's School",
+    "abbreviation": "CHLD",
+    "aliases": [
+      "Children's School",
+      "CHLD",
+      "Childrens School"
+    ],
+    "description": "Campus laboratory school providing early childhood care and education while serving as a practicum site for education students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Childrens+School+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Childrens+School+Sonoma+State+University"
+  },
+  {
+    "id": "zinfandel-classrooms",
+    "campusId": "ssu",
+    "name": "Zinfandel Classrooms",
+    "abbreviation": "ZINF",
+    "aliases": [
+      "Zinfandel Classrooms",
+      "ZINF"
+    ],
+    "description": "Classroom building in the Zinfandel area providing instructional spaces for university courses.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Zinfandel+Classrooms+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Zinfandel+Classrooms+Sonoma+State+University"
+  },
+  {
+    "id": "green-music-center",
+    "campusId": "ssu",
+    "name": "Donald & Maureen Green Music Center",
+    "abbreviation": "GMC",
+    "aliases": [
+      "Donald & Maureen Green Music Center",
+      "Green Music Center",
+      "GMC"
+    ],
+    "description": "World-class performing arts venue named for Donald and Maureen Green hosting concerts, recitals, and cultural events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Green+Music+Center+Sonoma+State",
+    "appleMapsUrl": "http://maps.apple.com/?q=Green+Music+Center+Sonoma+State"
+  },
+  {
+    "id": "weill-hall",
+    "campusId": "ssu",
+    "name": "Joan & Sanford I. Weill Hall",
+    "abbreviation": "WEILL",
+    "aliases": [
+      "Joan & Sanford I. Weill Hall",
+      "Weill Hall",
+      "WEILL"
+    ],
+    "description": "Concert hall named for Joan and Sanford Weill featuring world-class acoustics for classical and contemporary performances.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Weill+Hall+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Weill+Hall+Sonoma+State+University"
+  },
+  {
+    "id": "schroeder-hall",
+    "campusId": "ssu",
+    "name": "Schroeder Hall",
+    "abbreviation": "SCHR",
+    "aliases": [
+      "Schroeder Hall",
+      "SCHR"
+    ],
+    "description": "Performance hall at the Green Music Center supporting music education and smaller ensemble performances.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Schroeder+Hall+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Schroeder+Hall+Sonoma+State+University"
+  },
+  {
+    "id": "music-education",
+    "campusId": "ssu",
+    "name": "Music Education Building",
+    "abbreviation": "MUSE",
+    "aliases": [
+      "Music Education Building",
+      "MUSE"
+    ],
+    "description": "Building dedicated to music education programs with practice rooms, classrooms, and instructional spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Music+Education+Building+Sonoma+State",
+    "appleMapsUrl": "http://maps.apple.com/?q=Music+Education+Building+Sonoma+State"
+  },
+  {
+    "id": "facilities-services",
+    "campusId": "ssu",
+    "name": "Facilities Services",
+    "abbreviation": "FS",
+    "aliases": [
+      "Facilities Services",
+      "FS",
+      "Facilities Management"
+    ],
+    "description": "Campus facilities services managing operations, maintenance, and infrastructure for university buildings and grounds.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Facilities+Services+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Facilities+Services+Sonoma+State+University"
+  },
+  {
+    "id": "facilities-warehouse",
+    "campusId": "ssu",
+    "name": "Facilities Warehouse",
+    "abbreviation": "FWH",
+    "aliases": [
+      "Facilities Warehouse",
+      "FWH"
+    ],
+    "description": "Campus warehouse supporting facilities management with storage for maintenance supplies and equipment.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Facilities+Warehouse+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Facilities+Warehouse+Sonoma+State+University"
+  },
+  {
+    "id": "mail-room",
+    "campusId": "ssu",
+    "name": "Mail Room",
+    "abbreviation": "MAIL",
+    "aliases": [
+      "Mail Room",
+      "MAIL",
+      "Campus Mail"
+    ],
+    "description": "Campus mail room handling incoming and outgoing mail and packages for university departments and students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mail+Room+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Mail+Room+Sonoma+State+University"
+  },
+  {
+    "id": "bacon-and-eggs",
+    "campusId": "ssu",
+    "name": "Bacon & Eggs",
+    "abbreviation": "B&E",
+    "aliases": [
+      "Bacon & Eggs",
+      "Bacon and Eggs",
+      "B&E"
+    ],
+    "description": "Campus dining venue serving breakfast and comfort food options for students and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bacon+Eggs+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bacon+Eggs+Sonoma+State+University"
+  },
+  {
+    "id": "toast",
+    "campusId": "ssu",
+    "name": "Toast",
+    "abbreviation": "TOAST",
+    "aliases": [
+      "Toast",
+      "TOAST"
+    ],
+    "description": "Campus café offering coffee, toasts, light bites, and breakfast items for students and campus visitors.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Toast+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Toast+Sonoma+State+University"
+  },
+  {
+    "id": "alumni-grove",
+    "campusId": "ssu",
+    "name": "Alumni Grove",
+    "abbreviation": "AGROV",
+    "aliases": [
+      "Alumni Grove",
+      "AGROV"
+    ],
+    "description": "Scenic grove of trees dedicated to SSU alumni, serving as a peaceful outdoor gathering and reflection space.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Alumni+Grove+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Alumni+Grove+Sonoma+State+University"
+  },
+  {
+    "id": "butterfly-garden",
+    "campusId": "ssu",
+    "name": "Butterfly Garden",
+    "abbreviation": "BFLY",
+    "aliases": [
+      "Butterfly Garden",
+      "BFLY"
+    ],
+    "description": "Campus native plant garden designed to attract and support butterflies and pollinators.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Butterfly+Garden+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Butterfly+Garden+Sonoma+State+University"
+  },
+  {
+    "id": "holocaust-genocide-memorial",
+    "campusId": "ssu",
+    "name": "Holocaust & Genocide Memorial",
+    "abbreviation": "HGM",
+    "aliases": [
+      "Holocaust & Genocide Memorial",
+      "Holocaust and Genocide Memorial",
+      "HGM"
+    ],
+    "description": "Campus memorial honoring victims of the Holocaust and genocide, promoting education and remembrance.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Holocaust+Genocide+Memorial+Sonoma+State",
+    "appleMapsUrl": "http://maps.apple.com/?q=Holocaust+Genocide+Memorial+Sonoma+State"
+  },
+  {
+    "id": "commencement-lawn",
+    "campusId": "ssu",
+    "name": "Commencement Lawn",
+    "abbreviation": "CLAWN",
+    "aliases": [
+      "Commencement Lawn",
+      "CLAWN",
+      "Graduation Lawn"
+    ],
+    "description": "Open lawn area used for commencement ceremonies, outdoor events, and student gatherings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Commencement+Lawn+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Commencement+Lawn+Sonoma+State+University"
+  },
+  {
+    "id": "the-arbor",
+    "campusId": "ssu",
+    "name": "The Arbor",
+    "abbreviation": "ARBOR",
+    "aliases": [
+      "The Arbor",
+      "ARBOR"
+    ],
+    "description": "Shaded outdoor arbor area providing a pleasant campus gathering and study space surrounded by greenery.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Arbor+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=The+Arbor+Sonoma+State+University"
+  },
+  {
+    "id": "lakes",
+    "campusId": "ssu",
+    "name": "Campus Lakes",
+    "abbreviation": "LAKE",
+    "aliases": [
+      "Campus Lakes",
+      "Lakes",
+      "LAKE"
+    ],
+    "description": "Scenic campus lakes providing a natural setting for wildlife observation, relaxation, and outdoor recreation.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lakes+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Lakes+Sonoma+State+University"
+  },
+  {
+    "id": "tennis-courts",
+    "campusId": "ssu",
+    "name": "Tennis Courts",
+    "abbreviation": "TENNIS",
+    "aliases": [
+      "Tennis Courts",
+      "TENNIS"
+    ],
+    "description": "Campus tennis courts used for intercollegiate tennis matches and recreational play.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tennis+Courts+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Tennis+Courts+Sonoma+State+University"
+  },
+  {
+    "id": "baseball-field",
+    "campusId": "ssu",
+    "name": "Baseball Field",
+    "abbreviation": "BBALL",
+    "aliases": [
+      "Baseball Field",
+      "BBALL"
+    ],
+    "description": "Campus baseball field hosting Sonoma State Seawolves baseball games and practices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Baseball+Field+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Baseball+Field+Sonoma+State+University"
+  },
+  {
+    "id": "baseball-clubhouse",
+    "campusId": "ssu",
+    "name": "Baseball Clubhouse",
+    "abbreviation": "BCLB",
+    "aliases": [
+      "Baseball Clubhouse",
+      "BCLB"
+    ],
+    "description": "Clubhouse facility supporting the baseball program with locker rooms and team spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Baseball+Clubhouse+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Baseball+Clubhouse+Sonoma+State+University"
+  },
+  {
+    "id": "soccer-field",
+    "campusId": "ssu",
+    "name": "Soccer Field",
+    "abbreviation": "SOC",
+    "aliases": [
+      "Soccer Field",
+      "SOC"
+    ],
+    "description": "Campus soccer field hosting Seawolves soccer matches and practice sessions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Soccer+Field+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Soccer+Field+Sonoma+State+University"
+  },
+  {
+    "id": "softball-field",
+    "campusId": "ssu",
+    "name": "Softball Field",
+    "abbreviation": "SBALL",
+    "aliases": [
+      "Softball Field",
+      "SBALL"
+    ],
+    "description": "Campus softball field hosting Sonoma State Seawolves softball games and practices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Softball+Field+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Softball+Field+Sonoma+State+University"
+  },
+  {
+    "id": "track",
+    "campusId": "ssu",
+    "name": "Track",
+    "abbreviation": "TRACK",
+    "aliases": [
+      "Track",
+      "TRACK",
+      "Running Track"
+    ],
+    "description": "Campus track and field facility hosting cross country, track, and field events for SSU athletics.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Track+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Track+Sonoma+State+University"
+  },
+  {
+    "id": "athletic-fields",
+    "campusId": "ssu",
+    "name": "Athletic Fields",
+    "abbreviation": "ATHF",
+    "aliases": [
+      "Athletic Fields",
+      "ATHF"
+    ],
+    "description": "General athletic fields supporting intramural sports, club sports, and recreational activities for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Athletic+Fields+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Athletic+Fields+Sonoma+State+University"
+  },
+  {
+    "id": "observatory",
+    "campusId": "ssu",
+    "name": "Observatory",
+    "abbreviation": "OBS",
+    "aliases": [
+      "Observatory",
+      "OBS",
+      "SSU Observatory"
+    ],
+    "description": "Campus observatory supporting astronomy education and research with telescopes and stargazing programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Observatory+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Observatory+Sonoma+State+University"
+  },
+  {
+    "id": "parking-information-center",
+    "campusId": "ssu",
+    "name": "Parking & Information Center",
+    "abbreviation": "PIC",
+    "aliases": [
+      "Parking & Information Center",
+      "Parking and Information Center",
+      "PIC"
+    ],
+    "description": "Campus parking and information center providing permits, visitor passes, maps, and general campus information.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Information+Center+Sonoma+State",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Information+Center+Sonoma+State"
+  },
+  {
+    "id": "service-road",
+    "campusId": "ssu",
+    "name": "Service Road",
+    "abbreviation": "SRVRD",
+    "aliases": [
+      "Service Road",
+      "SRVRD"
+    ],
+    "description": "Campus service road providing facilities and delivery vehicle access to campus buildings and operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Service+Road+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Service+Road+Sonoma+State+University"
+  },
+  {
+    "id": "zinfandel-village",
+    "campusId": "ssu",
+    "name": "Zinfandel Village",
+    "abbreviation": "ZINV",
+    "aliases": [
+      "Zinfandel Village",
+      "ZINV"
+    ],
+    "description": "Residential village named after the Zinfandel grape variety providing on-campus housing for SSU students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Zinfandel+Village+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Zinfandel+Village+Sonoma+State+University"
+  },
+  {
+    "id": "verdot-village",
+    "campusId": "ssu",
+    "name": "Verdot Village",
+    "abbreviation": "VERD",
+    "aliases": [
+      "Verdot Village",
+      "VERD"
+    ],
+    "description": "Residential village named after the Petit Verdot grape variety providing on-campus housing for SSU students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Verdot+Village+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Verdot+Village+Sonoma+State+University"
+  },
+  {
+    "id": "sauvignon-village",
+    "campusId": "ssu",
+    "name": "Sauvignon Village",
+    "abbreviation": "SAUV",
+    "aliases": [
+      "Sauvignon Village",
+      "SAUV"
+    ],
+    "description": "Residential village named after the Sauvignon Blanc grape variety providing on-campus housing for SSU students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sauvignon+Village+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sauvignon+Village+Sonoma+State+University"
+  },
+  {
+    "id": "beaujolais-village",
+    "campusId": "ssu",
+    "name": "Beaujolais Village",
+    "abbreviation": "BEAU",
+    "aliases": [
+      "Beaujolais Village",
+      "BEAU"
+    ],
+    "description": "Residential village named after the Beaujolais wine region providing on-campus housing for SSU students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Beaujolais+Village+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Beaujolais+Village+Sonoma+State+University"
+  },
+  {
+    "id": "tuscany-village",
+    "campusId": "ssu",
+    "name": "Tuscany Village",
+    "abbreviation": "TUSC",
+    "aliases": [
+      "Tuscany Village",
+      "TUSC"
+    ],
+    "description": "Residential village named after the Tuscany wine region providing on-campus housing for SSU students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tuscany+Village+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Tuscany+Village+Sonoma+State+University"
+  },
+  {
+    "id": "parking-lot-a",
+    "campusId": "ssu",
+    "name": "Parking Lot A",
+    "abbreviation": "LOTA",
+    "aliases": [
+      "Parking Lot A",
+      "Lot A",
+      "LOTA"
+    ],
+    "description": "Parking lot A providing surface parking for students, faculty, and staff with valid SSU parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+A+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+A+Sonoma+State+University"
+  },
+  {
+    "id": "parking-lot-b",
+    "campusId": "ssu",
+    "name": "Parking Lot B",
+    "abbreviation": "LOTB",
+    "aliases": [
+      "Parking Lot B",
+      "Lot B",
+      "LOTB"
+    ],
+    "description": "Parking lot B providing surface parking for students, faculty, and staff with valid SSU parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+B+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+B+Sonoma+State+University"
+  },
+  {
+    "id": "parking-lot-c",
+    "campusId": "ssu",
+    "name": "Parking Lot C",
+    "abbreviation": "LOTC",
+    "aliases": [
+      "Parking Lot C",
+      "Lot C",
+      "LOTC"
+    ],
+    "description": "Parking lot C providing surface parking for students, faculty, and staff with valid SSU parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+C+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+C+Sonoma+State+University"
+  },
+  {
+    "id": "parking-lot-d",
+    "campusId": "ssu",
+    "name": "Parking Lot D",
+    "abbreviation": "LOTD",
+    "aliases": [
+      "Parking Lot D",
+      "Lot D",
+      "LOTD"
+    ],
+    "description": "Parking lot D providing surface parking for students, faculty, and staff with valid SSU parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+D+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+D+Sonoma+State+University"
+  },
+  {
+    "id": "parking-lot-e",
+    "campusId": "ssu",
+    "name": "Parking Lot E",
+    "abbreviation": "LOTE",
+    "aliases": [
+      "Parking Lot E",
+      "Lot E",
+      "LOTE"
+    ],
+    "description": "Parking lot E providing surface parking for students, faculty, and staff with valid SSU parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+E+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+E+Sonoma+State+University"
+  },
+  {
+    "id": "parking-lot-f",
+    "campusId": "ssu",
+    "name": "Parking Lot F",
+    "abbreviation": "LOTF",
+    "aliases": [
+      "Parking Lot F",
+      "Lot F",
+      "LOTF"
+    ],
+    "description": "Parking lot F providing surface parking for students, faculty, and staff with valid SSU parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+F+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+F+Sonoma+State+University"
+  },
+  {
+    "id": "parking-lot-g",
+    "campusId": "ssu",
+    "name": "Parking Lot G",
+    "abbreviation": "LOTG",
+    "aliases": [
+      "Parking Lot G",
+      "Lot G",
+      "LOTG"
+    ],
+    "description": "Parking lot G providing surface parking for students, faculty, and staff with valid SSU parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+G+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+G+Sonoma+State+University"
+  },
+  {
+    "id": "parking-lot-h",
+    "campusId": "ssu",
+    "name": "Parking Lot H",
+    "abbreviation": "LOTH",
+    "aliases": [
+      "Parking Lot H",
+      "Lot H",
+      "LOTH"
+    ],
+    "description": "Parking lot H providing surface parking for students, faculty, and staff with valid SSU parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+H+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+H+Sonoma+State+University"
+  },
+  {
+    "id": "parking-lot-j",
+    "campusId": "ssu",
+    "name": "Parking Lot J",
+    "abbreviation": "LOTJ",
+    "aliases": [
+      "Parking Lot J",
+      "Lot J",
+      "LOTJ"
+    ],
+    "description": "Parking lot J providing surface parking for students, faculty, and staff with valid SSU parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+J+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+J+Sonoma+State+University"
+  },
+  {
+    "id": "parking-lot-l",
+    "campusId": "ssu",
+    "name": "Parking Lot L",
+    "abbreviation": "LOTL",
+    "aliases": [
+      "Parking Lot L",
+      "Lot L",
+      "LOTL"
+    ],
+    "description": "Parking lot L providing surface parking for students, faculty, and staff with valid SSU parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+L+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+L+Sonoma+State+University"
+  },
+  {
+    "id": "parking-lot-m",
+    "campusId": "ssu",
+    "name": "Parking Lot M",
+    "abbreviation": "LOTM",
+    "aliases": [
+      "Parking Lot M",
+      "Lot M",
+      "LOTM"
+    ],
+    "description": "Parking lot M providing surface parking for students, faculty, and staff with valid SSU parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+M+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+M+Sonoma+State+University"
+  },
+  {
+    "id": "parking-lot-n",
+    "campusId": "ssu",
+    "name": "Parking Lot N",
+    "abbreviation": "LOTN",
+    "aliases": [
+      "Parking Lot N",
+      "Lot N",
+      "LOTN"
+    ],
+    "description": "Parking lot N providing surface parking for students, faculty, and staff with valid SSU parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+N+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+N+Sonoma+State+University"
+  },
+  {
+    "id": "parking-lot-o",
+    "campusId": "ssu",
+    "name": "Parking Lot O",
+    "abbreviation": "LOTO",
+    "aliases": [
+      "Parking Lot O",
+      "Lot O",
+      "LOTO"
+    ],
+    "description": "Parking lot O providing surface parking for students, faculty, and staff with valid SSU parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+O+Sonoma+State+University",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+O+Sonoma+State+University"
+  }
+]

@@ -1,0 +1,959 @@
+[
+  {
+    "id": "administration-building",
+    "campusId": "csumb",
+    "name": "Administration Building",
+    "abbreviation": "ADMIN",
+    "aliases": [
+      "Administration Building",
+      "Admin Building",
+      "ADMIN"
+    ],
+    "description": "Main administrative building housing university leadership, executive offices, and campus administration.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Administration+Building+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Administration+Building+CSU+Monterey+Bay"
+  },
+  {
+    "id": "alumni-visitors-center",
+    "campusId": "csumb",
+    "name": "Alumni & Visitors Center",
+    "abbreviation": "AVC",
+    "aliases": [
+      "Alumni & Visitors Center",
+      "Alumni and Visitors Center",
+      "AVC",
+      "Visitors Center"
+    ],
+    "description": "Center serving alumni relations and welcoming prospective students and campus visitors with tours and information.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Alumni+Visitors+Center+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Alumni+Visitors+Center+CSU+Monterey+Bay"
+  },
+  {
+    "id": "beach-hall",
+    "campusId": "csumb",
+    "name": "Beach Hall",
+    "abbreviation": "BEACH",
+    "aliases": [
+      "Beach Hall"
+    ],
+    "description": "Academic and residential hall on the CSUMB campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Beach+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Beach+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "black-box-cabaret",
+    "campusId": "csumb",
+    "name": "Black Box Cabaret",
+    "abbreviation": "BBC",
+    "aliases": [
+      "Black Box Cabaret",
+      "BBC",
+      "Black Box Theatre"
+    ],
+    "description": "Intimate black box performance space hosting theatre productions, cabarets, and student performances.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Black+Box+Cabaret+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Black+Box+Cabaret+CSU+Monterey+Bay"
+  },
+  {
+    "id": "business-information-technology",
+    "campusId": "csumb",
+    "name": "Business Information and Technology",
+    "abbreviation": "BIT",
+    "aliases": [
+      "Business Information and Technology",
+      "BIT",
+      "Business Building"
+    ],
+    "description": "Building housing business and information technology programs with classrooms, labs, and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Business+Information+Technology+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Business+Information+Technology+CSU+Monterey+Bay"
+  },
+  {
+    "id": "central-plant",
+    "campusId": "csumb",
+    "name": "Central Plant",
+    "abbreviation": "CPL",
+    "aliases": [
+      "Central Plant",
+      "CPL"
+    ],
+    "description": "Campus central utility plant providing heating, cooling, and energy infrastructure for university buildings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Central+Plant+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Central+Plant+CSU+Monterey+Bay"
+  },
+  {
+    "id": "chapman-science-academic-center",
+    "campusId": "csumb",
+    "name": "Chapman Science Academic Center",
+    "abbreviation": "CSAC",
+    "aliases": [
+      "Chapman Science Academic Center",
+      "CSAC",
+      "Chapman Science Center"
+    ],
+    "description": "Science academic center named for Chapman providing labs and classrooms for natural science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chapman+Science+Academic+Center+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Chapman+Science+Academic+Center+CSU+Monterey+Bay"
+  },
+  {
+    "id": "cahss",
+    "campusId": "csumb",
+    "name": "College of Arts, Humanities, and Social Sciences",
+    "abbreviation": "CAHSS",
+    "aliases": [
+      "College of Arts, Humanities, and Social Sciences",
+      "CAHSS",
+      "Arts Humanities Social Sciences"
+    ],
+    "description": "Home of the College of Arts, Humanities, and Social Sciences with classrooms and departmental offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=College+Arts+Humanities+Social+Sciences+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=College+Arts+Humanities+Social+Sciences+CSU+Monterey+Bay"
+  },
+  {
+    "id": "cinematic-arts-technology",
+    "campusId": "csumb",
+    "name": "Cinematic Arts & Technology",
+    "abbreviation": "CAT",
+    "aliases": [
+      "Cinematic Arts & Technology",
+      "Cinematic Arts and Technology",
+      "CAT"
+    ],
+    "description": "Building housing the cinematic arts and technology program with production studios, editing suites, and screening rooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cinematic+Arts+Technology+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cinematic+Arts+Technology+CSU+Monterey+Bay"
+  },
+  {
+    "id": "coastal-hall",
+    "campusId": "csumb",
+    "name": "Coastal Hall",
+    "abbreviation": "COASTAL",
+    "aliases": [
+      "Coastal Hall"
+    ],
+    "description": "Academic hall providing classrooms and faculty offices for campus programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Coastal+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Coastal+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "del-mar",
+    "campusId": "csumb",
+    "name": "Del Mar",
+    "abbreviation": "DM",
+    "aliases": [
+      "Del Mar",
+      "DM"
+    ],
+    "description": "Campus facility providing meeting, event, or programmatic spaces for university community use.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Del+Mar+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Del+Mar+CSU+Monterey+Bay"
+  },
+  {
+    "id": "dining-commons",
+    "campusId": "csumb",
+    "name": "Dining Commons",
+    "abbreviation": "DC",
+    "aliases": [
+      "Dining Commons",
+      "DC",
+      "Dining Hall",
+      "Cafeteria"
+    ],
+    "description": "Main campus dining facility offering a variety of meals and dining options for students and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dining+Commons+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Dining+Commons+CSU+Monterey+Bay"
+  },
+  {
+    "id": "dunes-hall",
+    "campusId": "csumb",
+    "name": "Dunes Hall",
+    "abbreviation": "DUNES",
+    "aliases": [
+      "Dunes Hall"
+    ],
+    "description": "Residential hall providing on-campus housing for students at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dunes+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Dunes+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "facilities-management",
+    "campusId": "csumb",
+    "name": "Facilities Management",
+    "abbreviation": "FM",
+    "aliases": [
+      "Facilities Management",
+      "FM",
+      "Facilities"
+    ],
+    "description": "Campus facilities management office overseeing building maintenance, operations, and campus infrastructure services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Facilities+Management+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Facilities+Management+CSU+Monterey+Bay"
+  },
+  {
+    "id": "forest-hall",
+    "campusId": "csumb",
+    "name": "Forest Hall",
+    "abbreviation": "FOREST",
+    "aliases": [
+      "Forest Hall"
+    ],
+    "description": "Residential hall providing on-campus housing for students at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Forest+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Forest+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "gavilan-hall",
+    "campusId": "csumb",
+    "name": "Gavilan Hall",
+    "abbreviation": "GAVILAN",
+    "aliases": [
+      "Gavilan Hall"
+    ],
+    "description": "Residential hall providing on-campus housing for students at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gavilan+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Gavilan+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "green-hall",
+    "campusId": "csumb",
+    "name": "Green Hall",
+    "abbreviation": "GREEN",
+    "aliases": [
+      "Green Hall"
+    ],
+    "description": "Academic or residential hall on the CSUMB campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Green+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Green+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "grove-hall",
+    "campusId": "csumb",
+    "name": "Grove Hall",
+    "abbreviation": "GROVE",
+    "aliases": [
+      "Grove Hall"
+    ],
+    "description": "Residential hall providing on-campus housing for students at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Grove+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Grove+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "harbor-hall",
+    "campusId": "csumb",
+    "name": "Harbor Hall",
+    "abbreviation": "HARBOR",
+    "aliases": [
+      "Harbor Hall"
+    ],
+    "description": "Academic hall providing classrooms and faculty offices for campus programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Harbor+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Harbor+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "health-wellness-services",
+    "campusId": "csumb",
+    "name": "Health & Wellness Services",
+    "abbreviation": "HWS",
+    "aliases": [
+      "Health & Wellness Services",
+      "Health and Wellness Services",
+      "HWS",
+      "Health Center",
+      "Campus Health"
+    ],
+    "description": "Campus health facility providing medical care, counseling, wellness programs, and student health education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Health+Wellness+Services+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Health+Wellness+Services+CSU+Monterey+Bay"
+  },
+  {
+    "id": "heron-hall",
+    "campusId": "csumb",
+    "name": "Heron Hall",
+    "abbreviation": "HERON",
+    "aliases": [
+      "Heron Hall"
+    ],
+    "description": "Residential hall providing on-campus housing for students at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Heron+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Heron+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "it-services",
+    "campusId": "csumb",
+    "name": "IT Services",
+    "abbreviation": "ITS",
+    "aliases": [
+      "IT Services",
+      "ITS",
+      "Information Technology Services"
+    ],
+    "description": "Campus information technology services building providing tech support, infrastructure, and digital resources.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=IT+Services+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=IT+Services+CSU+Monterey+Bay"
+  },
+  {
+    "id": "mail-room",
+    "campusId": "csumb",
+    "name": "Mail Room / Shipping & Receiving",
+    "abbreviation": "MAIL",
+    "aliases": [
+      "Mail Room",
+      "Shipping & Receiving",
+      "Shipping and Receiving",
+      "MAIL",
+      "Mail Services"
+    ],
+    "description": "Campus mail room and shipping and receiving facility handling package delivery and university mail services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mail+Room+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Mail+Room+CSU+Monterey+Bay"
+  },
+  {
+    "id": "meeting-house",
+    "campusId": "csumb",
+    "name": "Meeting House",
+    "abbreviation": "MH",
+    "aliases": [
+      "Meeting House",
+      "MH"
+    ],
+    "description": "Campus meeting and gathering space available for events, student organization meetings, and community activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Meeting+House+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Meeting+House+CSU+Monterey+Bay"
+  },
+  {
+    "id": "mountain-hall",
+    "campusId": "csumb",
+    "name": "Mountain Hall",
+    "abbreviation": "MOUNTAIN",
+    "aliases": [
+      "Mountain Hall"
+    ],
+    "description": "Residential hall providing on-campus housing for students at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mountain+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Mountain+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "music-hall",
+    "campusId": "csumb",
+    "name": "Music Hall",
+    "abbreviation": "MUSIC",
+    "aliases": [
+      "Music Hall"
+    ],
+    "description": "Building housing the music program with rehearsal rooms, practice spaces, and performance facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Music+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Music+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "oaks-hall",
+    "campusId": "csumb",
+    "name": "Oaks Hall",
+    "abbreviation": "OAKS",
+    "aliases": [
+      "Oaks Hall"
+    ],
+    "description": "Academic hall providing classrooms and faculty offices for campus programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oaks+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Oaks+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "oaks-hall-annex",
+    "campusId": "csumb",
+    "name": "Oaks Hall Annex",
+    "abbreviation": "OAKS-A",
+    "aliases": [
+      "Oaks Hall Annex",
+      "Oaks Annex"
+    ],
+    "description": "Annex to Oaks Hall providing additional office and instructional space.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oaks+Hall+Annex+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Oaks+Hall+Annex+CSU+Monterey+Bay"
+  },
+  {
+    "id": "oaks-hall-storage",
+    "campusId": "csumb",
+    "name": "Oaks Hall Storage",
+    "abbreviation": "OAKS-S",
+    "aliases": [
+      "Oaks Hall Storage",
+      "Oaks Storage"
+    ],
+    "description": "Storage facility associated with Oaks Hall for departmental and program equipment.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oaks+Hall+Storage+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Oaks+Hall+Storage+CSU+Monterey+Bay"
+  },
+  {
+    "id": "ocean-hall",
+    "campusId": "csumb",
+    "name": "Ocean Hall",
+    "abbreviation": "OCEAN",
+    "aliases": [
+      "Ocean Hall"
+    ],
+    "description": "Academic hall providing classrooms and faculty offices for campus programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ocean+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Ocean+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "otter-express",
+    "campusId": "csumb",
+    "name": "Otter Express",
+    "abbreviation": "OE",
+    "aliases": [
+      "Otter Express",
+      "OE"
+    ],
+    "description": "Campus convenience dining location offering quick meals, snacks, and beverages for students on the go.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Otter+Express+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Otter+Express+CSU+Monterey+Bay"
+  },
+  {
+    "id": "otter-student-union",
+    "campusId": "csumb",
+    "name": "Otter Student Union",
+    "abbreviation": "OSU",
+    "aliases": [
+      "Otter Student Union",
+      "OSU",
+      "Student Union"
+    ],
+    "description": "Central student union hub with dining, student government offices, clubs, event spaces, and campus life services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Otter+Student+Union+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Otter+Student+Union+CSU+Monterey+Bay"
+  },
+  {
+    "id": "pacific-hall",
+    "campusId": "csumb",
+    "name": "Pacific Hall",
+    "abbreviation": "PACIFIC",
+    "aliases": [
+      "Pacific Hall"
+    ],
+    "description": "Academic hall providing classrooms and faculty offices for campus programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pacific+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Pacific+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "playa-hall",
+    "campusId": "csumb",
+    "name": "Playa Hall",
+    "abbreviation": "PLAYA",
+    "aliases": [
+      "Playa Hall"
+    ],
+    "description": "Residential hall providing on-campus housing for students at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Playa+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "reading-center",
+    "campusId": "csumb",
+    "name": "Reading Center",
+    "abbreviation": "RC",
+    "aliases": [
+      "Reading Center",
+      "RC"
+    ],
+    "description": "Campus reading and literacy center providing academic support and reading skills development resources.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Reading+Center+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Reading+Center+CSU+Monterey+Bay"
+  },
+  {
+    "id": "sand-hall",
+    "campusId": "csumb",
+    "name": "Sand Hall",
+    "abbreviation": "SAND",
+    "aliases": [
+      "Sand Hall"
+    ],
+    "description": "Residential hall providing on-campus housing for students at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sand+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sand+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "science-instructional-lab-annex",
+    "campusId": "csumb",
+    "name": "Science Instructional Lab Annex",
+    "abbreviation": "SILA",
+    "aliases": [
+      "Science Instructional Lab Annex",
+      "SILA"
+    ],
+    "description": "Annex laboratory facility supporting science instruction with additional lab and teaching spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Science+Instructional+Lab+Annex+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Science+Instructional+Lab+Annex+CSU+Monterey+Bay"
+  },
+  {
+    "id": "science-research-lab-annex",
+    "campusId": "csumb",
+    "name": "Science Research Lab Annex",
+    "abbreviation": "SRLA",
+    "aliases": [
+      "Science Research Lab Annex",
+      "SRLA"
+    ],
+    "description": "Research laboratory annex providing additional space for faculty and student scientific research projects.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Science+Research+Lab+Annex+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Science+Research+Lab+Annex+CSU+Monterey+Bay"
+  },
+  {
+    "id": "student-center",
+    "campusId": "csumb",
+    "name": "Student Center",
+    "abbreviation": "SC",
+    "aliases": [
+      "Student Center",
+      "SC"
+    ],
+    "description": "Campus student center providing gathering spaces, services, and resources for student life and activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Center+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Center+CSU+Monterey+Bay"
+  },
+  {
+    "id": "student-services",
+    "campusId": "csumb",
+    "name": "Student Services",
+    "abbreviation": "SS",
+    "aliases": [
+      "Student Services",
+      "SS"
+    ],
+    "description": "Building housing student services including advising, financial aid, registrar, and enrollment support.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Services+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Services+CSU+Monterey+Bay"
+  },
+  {
+    "id": "surf-hall",
+    "campusId": "csumb",
+    "name": "Surf Hall",
+    "abbreviation": "SURF",
+    "aliases": [
+      "Surf Hall"
+    ],
+    "description": "Residential hall providing on-campus housing for students at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Surf+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Surf+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "library",
+    "campusId": "csumb",
+    "name": "Tanimura & Antle Family Memorial Library",
+    "abbreviation": "LIB",
+    "aliases": [
+      "Tanimura & Antle Family Memorial Library",
+      "Tanimura and Antle Family Memorial Library",
+      "LIB",
+      "Library",
+      "CSUMB Library"
+    ],
+    "description": "Main campus library named for the Tanimura and Antle families providing research resources, study spaces, and academic support.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tanimura+Antle+Library+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Tanimura+Antle+Library+CSU+Monterey+Bay"
+  },
+  {
+    "id": "telecommunications",
+    "campusId": "csumb",
+    "name": "Telecommunications",
+    "abbreviation": "TELE",
+    "aliases": [
+      "Telecommunications",
+      "TELE",
+      "Telecom"
+    ],
+    "description": "Campus telecommunications facility managing communications infrastructure and network services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Telecommunications+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Telecommunications+CSU+Monterey+Bay"
+  },
+  {
+    "id": "tide-hall",
+    "campusId": "csumb",
+    "name": "Tide Hall",
+    "abbreviation": "TIDE",
+    "aliases": [
+      "Tide Hall"
+    ],
+    "description": "Residential hall providing on-campus housing for students at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tide+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Tide+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "university-center",
+    "campusId": "csumb",
+    "name": "University Center",
+    "abbreviation": "UC",
+    "aliases": [
+      "University Center",
+      "UC"
+    ],
+    "description": "Central campus facility providing event space, meeting rooms, and services for the university community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Center+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Center+CSU+Monterey+Bay"
+  },
+  {
+    "id": "university-storage",
+    "campusId": "csumb",
+    "name": "University Storage",
+    "abbreviation": "STOR",
+    "aliases": [
+      "University Storage",
+      "STOR",
+      "Storage"
+    ],
+    "description": "Campus storage facility for university equipment, materials, and departmental storage needs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Storage+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Storage+CSU+Monterey+Bay"
+  },
+  {
+    "id": "valley-hall",
+    "campusId": "csumb",
+    "name": "Valley Hall",
+    "abbreviation": "VALLEY",
+    "aliases": [
+      "Valley Hall"
+    ],
+    "description": "Residential hall providing on-campus housing for students at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Valley+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Valley+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "vpa-a",
+    "campusId": "csumb",
+    "name": "Visual & Public Art – A",
+    "abbreviation": "VPA-A",
+    "aliases": [
+      "Visual & Public Art A",
+      "Visual and Public Art A",
+      "VPA-A",
+      "VPA A"
+    ],
+    "description": "Visual and public art building A providing studios, gallery spaces, and classrooms for art programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Visual+Public+Art+A+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Visual+Public+Art+A+CSU+Monterey+Bay"
+  },
+  {
+    "id": "vpa-b",
+    "campusId": "csumb",
+    "name": "Visual & Public Art – B",
+    "abbreviation": "VPA-B",
+    "aliases": [
+      "Visual & Public Art B",
+      "Visual and Public Art B",
+      "VPA-B",
+      "VPA B"
+    ],
+    "description": "Visual and public art building B providing studios, gallery spaces, and classrooms for art programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Visual+Public+Art+B+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Visual+Public+Art+B+CSU+Monterey+Bay"
+  },
+  {
+    "id": "vpa-c",
+    "campusId": "csumb",
+    "name": "Visual & Public Art – C",
+    "abbreviation": "VPA-C",
+    "aliases": [
+      "Visual & Public Art C",
+      "Visual and Public Art C",
+      "VPA-C",
+      "VPA C"
+    ],
+    "description": "Visual and public art building C providing studios, gallery spaces, and classrooms for art programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Visual+Public+Art+C+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Visual+Public+Art+C+CSU+Monterey+Bay"
+  },
+  {
+    "id": "vpa-d",
+    "campusId": "csumb",
+    "name": "Visual & Public Art – D",
+    "abbreviation": "VPA-D",
+    "aliases": [
+      "Visual & Public Art D",
+      "Visual and Public Art D",
+      "VPA-D",
+      "VPA D"
+    ],
+    "description": "Visual and public art building D providing studios, gallery spaces, and classrooms for art programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Visual+Public+Art+D+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Visual+Public+Art+D+CSU+Monterey+Bay"
+  },
+  {
+    "id": "watershed-institute",
+    "campusId": "csumb",
+    "name": "Watershed Institute",
+    "abbreviation": "WI",
+    "aliases": [
+      "Watershed Institute",
+      "WI"
+    ],
+    "description": "Research institute focused on watershed science, environmental sustainability, and ecological studies.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Watershed+Institute+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Watershed+Institute+CSU+Monterey+Bay"
+  },
+  {
+    "id": "wave-hall",
+    "campusId": "csumb",
+    "name": "Wave Hall",
+    "abbreviation": "WAVE",
+    "aliases": [
+      "Wave Hall"
+    ],
+    "description": "Academic or residential hall on the CSUMB campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wave+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Wave+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "world-theater",
+    "campusId": "csumb",
+    "name": "World Theater",
+    "abbreviation": "WT",
+    "aliases": [
+      "World Theater",
+      "WT"
+    ],
+    "description": "Campus performing arts theater hosting concerts, theatrical productions, and major cultural events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=World+Theater+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=World+Theater+CSU+Monterey+Bay"
+  },
+  {
+    "id": "asilomar-hall",
+    "campusId": "csumb",
+    "name": "Asilomar Hall",
+    "abbreviation": "ASILOMAR",
+    "aliases": [
+      "Asilomar Hall"
+    ],
+    "description": "Residential hall providing on-campus housing for students at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Asilomar+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Asilomar+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "avocet-hall",
+    "campusId": "csumb",
+    "name": "Avocet Hall",
+    "abbreviation": "AVOCET",
+    "aliases": [
+      "Avocet Hall"
+    ],
+    "description": "Residential hall providing on-campus housing for students at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Avocet+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Avocet+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "cypress-hall",
+    "campusId": "csumb",
+    "name": "Cypress Hall",
+    "abbreviation": "CYPRESS",
+    "aliases": [
+      "Cypress Hall"
+    ],
+    "description": "Residential hall providing on-campus housing for students at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cypress+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cypress+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "manzanita-hall",
+    "campusId": "csumb",
+    "name": "Manzanita Hall",
+    "abbreviation": "MANZANITA",
+    "aliases": [
+      "Manzanita Hall"
+    ],
+    "description": "Residential hall providing on-campus housing for students at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Manzanita+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Manzanita+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "promontory-west",
+    "campusId": "csumb",
+    "name": "Promontory – West",
+    "abbreviation": "PROM-W",
+    "aliases": [
+      "Promontory West",
+      "Promontory – West",
+      "PROM-W"
+    ],
+    "description": "West section of Promontory residential community providing student housing at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Promontory+West+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Promontory+West+CSU+Monterey+Bay"
+  },
+  {
+    "id": "promontory-center",
+    "campusId": "csumb",
+    "name": "Promontory – Center",
+    "abbreviation": "PROM-C",
+    "aliases": [
+      "Promontory Center",
+      "Promontory – Center",
+      "PROM-C"
+    ],
+    "description": "Center section of Promontory residential community providing student housing at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Promontory+Center+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Promontory+Center+CSU+Monterey+Bay"
+  },
+  {
+    "id": "promontory-east",
+    "campusId": "csumb",
+    "name": "Promontory – East",
+    "abbreviation": "PROM-E",
+    "aliases": [
+      "Promontory East",
+      "Promontory – East",
+      "PROM-E"
+    ],
+    "description": "East section of Promontory residential community providing student housing at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Promontory+East+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Promontory+East+CSU+Monterey+Bay"
+  },
+  {
+    "id": "pinnacles-suites",
+    "campusId": "csumb",
+    "name": "Pinnacles Suites",
+    "abbreviation": "PINNACLES",
+    "aliases": [
+      "Pinnacles Suites",
+      "Pinnacles"
+    ],
+    "description": "Suite-style residential housing offering students a semi-private living experience on campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pinnacles+Suites+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Pinnacles+Suites+CSU+Monterey+Bay"
+  },
+  {
+    "id": "sanderling-hall",
+    "campusId": "csumb",
+    "name": "Sanderling Hall",
+    "abbreviation": "SANDERLING",
+    "aliases": [
+      "Sanderling Hall"
+    ],
+    "description": "Residential hall providing on-campus housing for students at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sanderling+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sanderling+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "strawberry-apartments",
+    "campusId": "csumb",
+    "name": "Strawberry Apartments",
+    "abbreviation": "STRAWBERRY",
+    "aliases": [
+      "Strawberry Apartments",
+      "Strawberry"
+    ],
+    "description": "Apartment-style student housing providing more independent living accommodations on campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Strawberry+Apartments+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Strawberry+Apartments+CSU+Monterey+Bay"
+  },
+  {
+    "id": "tortuga-hall",
+    "campusId": "csumb",
+    "name": "Tortuga Hall",
+    "abbreviation": "TORTUGA",
+    "aliases": [
+      "Tortuga Hall"
+    ],
+    "description": "Residential hall providing on-campus housing for students at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tortuga+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Tortuga+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "vineyard-suites",
+    "campusId": "csumb",
+    "name": "Vineyard Suites",
+    "abbreviation": "VINEYARD",
+    "aliases": [
+      "Vineyard Suites",
+      "Vineyard"
+    ],
+    "description": "Suite-style residential housing offering students a comfortable living experience on campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Vineyard+Suites+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Vineyard+Suites+CSU+Monterey+Bay"
+  },
+  {
+    "id": "willet-hall",
+    "campusId": "csumb",
+    "name": "Willet Hall",
+    "abbreviation": "WILLET",
+    "aliases": [
+      "Willet Hall"
+    ],
+    "description": "Residential hall providing on-campus housing for students at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Willet+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Willet+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "yarrow-hall",
+    "campusId": "csumb",
+    "name": "Yarrow Hall",
+    "abbreviation": "YARROW",
+    "aliases": [
+      "Yarrow Hall"
+    ],
+    "description": "Residential hall providing on-campus housing for students at CSUMB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Yarrow+Hall+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Yarrow+Hall+CSU+Monterey+Bay"
+  },
+  {
+    "id": "aquatic-center",
+    "campusId": "csumb",
+    "name": "Aquatic Center",
+    "abbreviation": "AQUA",
+    "aliases": [
+      "Aquatic Center",
+      "AQUA",
+      "Pool"
+    ],
+    "description": "Campus aquatic center with swimming pool and aquatic facilities for recreation, athletics, and instruction.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Aquatic+Center+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Aquatic+Center+CSU+Monterey+Bay"
+  },
+  {
+    "id": "field-house",
+    "campusId": "csumb",
+    "name": "Field House",
+    "abbreviation": "FH",
+    "aliases": [
+      "Field House",
+      "FH"
+    ],
+    "description": "Athletics field house supporting campus sports teams with equipment storage, locker rooms, and team facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Field+House+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Field+House+CSU+Monterey+Bay"
+  },
+  {
+    "id": "field-office",
+    "campusId": "csumb",
+    "name": "Field Office",
+    "abbreviation": "FO",
+    "aliases": [
+      "Field Office",
+      "FO"
+    ],
+    "description": "Athletics field office providing administrative support for outdoor sports and facilities management.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Field+Office+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Field+Office+CSU+Monterey+Bay"
+  },
+  {
+    "id": "otter-sports-center",
+    "campusId": "csumb",
+    "name": "Otter Sports Center",
+    "abbreviation": "OSC",
+    "aliases": [
+      "Otter Sports Center",
+      "OSC",
+      "Sports Center"
+    ],
+    "description": "Campus sports center providing athletic facilities, fitness equipment, and recreation programs for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Otter+Sports+Center+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Otter+Sports+Center+CSU+Monterey+Bay"
+  },
+  {
+    "id": "stadium-restrooms",
+    "campusId": "csumb",
+    "name": "Stadium Restrooms",
+    "abbreviation": "STADRR",
+    "aliases": [
+      "Stadium Restrooms"
+    ],
+    "description": "Restroom facility located at the campus stadium serving athletic events and outdoor activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Stadium+Restrooms+CSU+Monterey+Bay",
+    "appleMapsUrl": "http://maps.apple.com/?q=Stadium+Restrooms+CSU+Monterey+Bay"
+  }
+]

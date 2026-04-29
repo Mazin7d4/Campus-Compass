@@ -1,0 +1,817 @@
+[
+  {
+    "id": "acd",
+    "campusId": "csusm",
+    "name": "Academic Hall",
+    "abbreviation": "ACD",
+    "aliases": [
+      "Academic Hall",
+      "ACD"
+    ],
+    "description": "Main academic hall providing classrooms, faculty offices, and instructional spaces for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Academic+Hall+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Academic+Hall+CSU+San+Marcos"
+  },
+  {
+    "id": "adm",
+    "campusId": "csusm",
+    "name": "Administrative Building",
+    "abbreviation": "ADM",
+    "aliases": [
+      "Administrative Building",
+      "ADM",
+      "Admin Building"
+    ],
+    "description": "Main administrative building housing university leadership, executive offices, and campus administration.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Administrative+Building+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Administrative+Building+CSU+San+Marcos"
+  },
+  {
+    "id": "arts",
+    "campusId": "csusm",
+    "name": "Arts Building",
+    "abbreviation": "ARTS",
+    "aliases": [
+      "Arts Building",
+      "ARTS"
+    ],
+    "description": "Building housing visual and performing arts programs with studios, galleries, and performance spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Arts+Building+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Arts+Building+CSU+San+Marcos"
+  },
+  {
+    "id": "ccf",
+    "campusId": "csusm",
+    "name": "Center for Children & Families",
+    "abbreviation": "CCF",
+    "aliases": [
+      "Center for Children & Families",
+      "Center for Children and Families",
+      "CCF"
+    ],
+    "description": "Campus center providing early childhood education, childcare, and family support services for the campus community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Center+for+Children+Families+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Center+for+Children+Families+CSU+San+Marcos"
+  },
+  {
+    "id": "cfh",
+    "campusId": "csusm",
+    "name": "Clarke Field House",
+    "abbreviation": "CFH",
+    "aliases": [
+      "Clarke Field House",
+      "CFH",
+      "Field House"
+    ],
+    "description": "Athletics field house supporting campus sports teams with locker rooms, equipment storage, and team facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Clarke+Field+House+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Clarke+Field+House+CSU+San+Marcos"
+  },
+  {
+    "id": "vet",
+    "campusId": "csusm",
+    "name": "Epstein Family Veterans Center",
+    "abbreviation": "VET",
+    "aliases": [
+      "Epstein Family Veterans Center",
+      "VET",
+      "Veterans Center"
+    ],
+    "description": "Dedicated center providing resources, support, and community for student veterans and military-affiliated students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Epstein+Family+Veterans+Center+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Epstein+Family+Veterans+Center+CSU+San+Marcos"
+  },
+  {
+    "id": "elb",
+    "campusId": "csusm",
+    "name": "Extended Learning Building",
+    "abbreviation": "ELB",
+    "aliases": [
+      "Extended Learning Building",
+      "ELB",
+      "Extended Learning"
+    ],
+    "description": "Building housing extended learning and professional development programs offering certificates and continuing education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Extended+Learning+Building+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Extended+Learning+Building+CSU+San+Marcos"
+  },
+  {
+    "id": "lib",
+    "campusId": "csusm",
+    "name": "Kellogg Library",
+    "abbreviation": "LIB",
+    "aliases": [
+      "Kellogg Library",
+      "LIB",
+      "Library",
+      "CSUSM Library"
+    ],
+    "description": "Main campus library providing research resources, study spaces, digital collections, and academic support services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kellogg+Library+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kellogg+Library+CSU+San+Marcos"
+  },
+  {
+    "id": "nc",
+    "campusId": "csusm",
+    "name": "North Commons",
+    "abbreviation": "NC",
+    "aliases": [
+      "North Commons",
+      "NC"
+    ],
+    "description": "Campus dining and community hub on the north side offering food services and gathering spaces for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=North+Commons+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=North+Commons+CSU+San+Marcos"
+  },
+  {
+    "id": "mh",
+    "campusId": "csusm",
+    "name": "Markstein Hall",
+    "abbreviation": "MH",
+    "aliases": [
+      "Markstein Hall",
+      "MH"
+    ],
+    "description": "Academic hall housing business programs with classrooms, computer labs, and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Markstein+Hall+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Markstein+Hall+CSU+San+Marcos"
+  },
+  {
+    "id": "mmh",
+    "campusId": "csusm",
+    "name": "McMahan House",
+    "abbreviation": "MMH",
+    "aliases": [
+      "McMahan House",
+      "MMH"
+    ],
+    "description": "Campus house facility providing program or event space for student and university activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McMahan+House+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=McMahan+House+CSU+San+Marcos"
+  },
+  {
+    "id": "ps1",
+    "campusId": "csusm",
+    "name": "Parking Structure 1",
+    "abbreviation": "PS1",
+    "aliases": [
+      "Parking Structure 1",
+      "PS1",
+      "Parking Structure One"
+    ],
+    "description": "Multi-level parking structure 1 providing student, faculty, and visitor parking.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Structure+1+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Structure+1+CSU+San+Marcos"
+  },
+  {
+    "id": "ps2",
+    "campusId": "csusm",
+    "name": "Parking Structure 2",
+    "abbreviation": "PS2",
+    "aliases": [
+      "Parking Structure 2",
+      "PS2",
+      "Parking Structure Two"
+    ],
+    "description": "Multi-level parking structure 2 providing student, faculty, and visitor parking.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Structure+2+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Structure+2+CSU+San+Marcos"
+  },
+  {
+    "id": "psb",
+    "campusId": "csusm",
+    "name": "Public Safety Building",
+    "abbreviation": "PSB",
+    "aliases": [
+      "Public Safety Building",
+      "PSB",
+      "University Police",
+      "Campus Police"
+    ],
+    "description": "University Police and public safety headquarters providing law enforcement and emergency response services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Public+Safety+Building+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Public+Safety+Building+CSU+San+Marcos"
+  },
+  {
+    "id": "sci1",
+    "campusId": "csusm",
+    "name": "Science Hall 1",
+    "abbreviation": "SCI1",
+    "aliases": [
+      "Science Hall 1",
+      "SCI1",
+      "Science Hall One"
+    ],
+    "description": "Science hall 1 with research labs, teaching laboratories, and classrooms for natural science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Science+Hall+1+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Science+Hall+1+CSU+San+Marcos"
+  },
+  {
+    "id": "sci2",
+    "campusId": "csusm",
+    "name": "Science Hall 2",
+    "abbreviation": "SCI2",
+    "aliases": [
+      "Science Hall 2",
+      "SCI2",
+      "Science Hall Two"
+    ],
+    "description": "Science hall 2 with research labs, teaching laboratories, and classrooms for natural science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Science+Hall+2+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Science+Hall+2+CSU+San+Marcos"
+  },
+  {
+    "id": "sbsb",
+    "campusId": "csusm",
+    "name": "Social & Behavioral Sciences Building",
+    "abbreviation": "SBSB",
+    "aliases": [
+      "Social & Behavioral Sciences Building",
+      "Social and Behavioral Sciences Building",
+      "SBSB"
+    ],
+    "description": "Building housing social and behavioral sciences departments including psychology, sociology, and criminal justice.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Social+Behavioral+Sciences+Building+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Social+Behavioral+Sciences+Building+CSU+San+Marcos"
+  },
+  {
+    "id": "shcs",
+    "campusId": "csusm",
+    "name": "Student Health & Counseling Services",
+    "abbreviation": "SHCS",
+    "aliases": [
+      "Student Health & Counseling Services",
+      "Student Health and Counseling Services",
+      "SHCS",
+      "Health Center",
+      "Campus Health"
+    ],
+    "description": "Campus health facility providing medical care, mental health counseling, wellness programs, and student health education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Health+Counseling+Services+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Health+Counseling+Services+CSU+San+Marcos"
+  },
+  {
+    "id": "quad",
+    "campusId": "csusm",
+    "name": "The QUAD",
+    "abbreviation": "QUAD",
+    "aliases": [
+      "The QUAD",
+      "QUAD",
+      "The Quad"
+    ],
+    "description": "Central campus quad providing open-air gathering space for student activities, events, and daily campus life.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+QUAD+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=The+QUAD+CSU+San+Marcos"
+  },
+  {
+    "id": "sc",
+    "campusId": "csusm",
+    "name": "The Sports Center",
+    "abbreviation": "SC",
+    "aliases": [
+      "The Sports Center",
+      "Sports Center",
+      "SC"
+    ],
+    "description": "Campus sports and recreation center with fitness equipment, courts, and wellness programs for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sports+Center+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sports+Center+CSU+San+Marcos"
+  },
+  {
+    "id": "com",
+    "campusId": "csusm",
+    "name": "University Commons",
+    "abbreviation": "COM",
+    "aliases": [
+      "University Commons",
+      "COM"
+    ],
+    "description": "Central campus commons providing dining, meeting spaces, and community areas for students and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Commons+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Commons+CSU+San+Marcos"
+  },
+  {
+    "id": "uh",
+    "campusId": "csusm",
+    "name": "University Hall",
+    "abbreviation": "UH",
+    "aliases": [
+      "University Hall",
+      "UH"
+    ],
+    "description": "University hall providing academic classrooms, offices, and instructional spaces for campus programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Hall+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Hall+CSU+San+Marcos"
+  },
+  {
+    "id": "usb",
+    "campusId": "csusm",
+    "name": "University Services Building",
+    "abbreviation": "USB",
+    "aliases": [
+      "University Services Building",
+      "USB"
+    ],
+    "description": "Building housing student and university services including enrollment, financial aid, and student support offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Services+Building+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Services+Building+CSU+San+Marcos"
+  },
+  {
+    "id": "usu",
+    "campusId": "csusm",
+    "name": "University Student Union",
+    "abbreviation": "USU",
+    "aliases": [
+      "University Student Union",
+      "USU",
+      "Student Union"
+    ],
+    "description": "Central student union hub with dining, student government, clubs, event spaces, and campus life services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Student+Union+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Student+Union+CSU+San+Marcos"
+  },
+  {
+    "id": "uva",
+    "campusId": "csusm",
+    "name": "University Village Apartments",
+    "abbreviation": "UVA",
+    "aliases": [
+      "University Village Apartments",
+      "UVA",
+      "University Village"
+    ],
+    "description": "On-campus apartment-style residential community providing housing for CSUSM students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Village+Apartments+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Village+Apartments+CSU+San+Marcos"
+  },
+  {
+    "id": "vep",
+    "campusId": "csusm",
+    "name": "Viasat Engineering Pavilion",
+    "abbreviation": "VEP",
+    "aliases": [
+      "Viasat Engineering Pavilion",
+      "VEP",
+      "Engineering Pavilion"
+    ],
+    "description": "Engineering pavilion named for Viasat housing computer science, software engineering, and technology programs with labs and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Viasat+Engineering+Pavilion+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Viasat+Engineering+Pavilion+CSU+San+Marcos"
+  },
+  {
+    "id": "baseball-field",
+    "campusId": "csusm",
+    "name": "Baseball Field",
+    "abbreviation": "BASEBALL",
+    "aliases": [
+      "Baseball Field",
+      "Baseball Diamond"
+    ],
+    "description": "Campus baseball field hosting CSUSM Cougars baseball games and practice sessions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Baseball+Field+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Baseball+Field+CSU+San+Marcos"
+  },
+  {
+    "id": "softball-field",
+    "campusId": "csusm",
+    "name": "Softball Field",
+    "abbreviation": "SOFTBALL",
+    "aliases": [
+      "Softball Field",
+      "Softball Diamond"
+    ],
+    "description": "Campus softball field hosting CSUSM Cougars softball games and practice sessions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Softball+Field+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Softball+Field+CSU+San+Marcos"
+  },
+  {
+    "id": "multi-purpose-field",
+    "campusId": "csusm",
+    "name": "Multi-Purpose Field",
+    "abbreviation": "MPF",
+    "aliases": [
+      "Multi-Purpose Field",
+      "MPF",
+      "Multipurpose Field"
+    ],
+    "description": "Multi-purpose athletic field used for soccer, intramurals, and various outdoor sport and recreation activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Multi+Purpose+Field+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Multi+Purpose+Field+CSU+San+Marcos"
+  },
+  {
+    "id": "mangrum-track-field",
+    "campusId": "csusm",
+    "name": "Mangrum Track & Field",
+    "abbreviation": "TRACK",
+    "aliases": [
+      "Mangrum Track & Field",
+      "Mangrum Track and Field",
+      "TRACK",
+      "Track and Field"
+    ],
+    "description": "Campus track and field facility named for Mangrum hosting cross country, track, and field athletics.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mangrum+Track+Field+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Mangrum+Track+Field+CSU+San+Marcos"
+  },
+  {
+    "id": "practice-field",
+    "campusId": "csusm",
+    "name": "Practice Field",
+    "abbreviation": "PFIELD",
+    "aliases": [
+      "Practice Field",
+      "PFIELD"
+    ],
+    "description": "Athletic practice field providing open space for team practices and informal recreation.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Practice+Field+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Practice+Field+CSU+San+Marcos"
+  },
+  {
+    "id": "chavez-plaza",
+    "campusId": "csusm",
+    "name": "Chavez Plaza",
+    "abbreviation": "CHAVEZ",
+    "aliases": [
+      "Chavez Plaza",
+      "CHAVEZ"
+    ],
+    "description": "Outdoor plaza named for Cesar Chavez serving as a gathering and event space for the campus community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chavez+Plaza+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Chavez+Plaza+CSU+San+Marcos"
+  },
+  {
+    "id": "forum-plaza",
+    "campusId": "csusm",
+    "name": "Forum Plaza",
+    "abbreviation": "FORUM",
+    "aliases": [
+      "Forum Plaza",
+      "FORUM"
+    ],
+    "description": "Outdoor forum plaza used for campus events, student gatherings, and open-air programming.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Forum+Plaza+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Forum+Plaza+CSU+San+Marcos"
+  },
+  {
+    "id": "kellogg-plaza",
+    "campusId": "csusm",
+    "name": "Kellogg Plaza",
+    "abbreviation": "KELLOGG",
+    "aliases": [
+      "Kellogg Plaza",
+      "KELLOGG"
+    ],
+    "description": "Outdoor plaza adjacent to Kellogg Library serving as a central campus gathering and study space.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kellogg+Plaza+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kellogg+Plaza+CSU+San+Marcos"
+  },
+  {
+    "id": "gonzalez-grove",
+    "campusId": "csusm",
+    "name": "Gonzalez Grove",
+    "abbreviation": "GONZALEZ",
+    "aliases": [
+      "Gonzalez Grove",
+      "GONZALEZ"
+    ],
+    "description": "Outdoor grove named for Gonzalez providing a shaded natural area for relaxation and informal gatherings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gonzalez+Grove+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Gonzalez+Grove+CSU+San+Marcos"
+  },
+  {
+    "id": "palm-court",
+    "campusId": "csusm",
+    "name": "Palm Court",
+    "abbreviation": "PALMCT",
+    "aliases": [
+      "Palm Court",
+      "PALMCT"
+    ],
+    "description": "Outdoor palm-lined courtyard serving as a gathering and event space on campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Palm+Court+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Palm+Court+CSU+San+Marcos"
+  },
+  {
+    "id": "craven-circle",
+    "campusId": "csusm",
+    "name": "Craven Circle",
+    "abbreviation": "CRAVEN",
+    "aliases": [
+      "Craven Circle",
+      "CRAVEN"
+    ],
+    "description": "Campus road circle at Craven providing vehicular access and wayfinding on campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Craven+Circle+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Craven+Circle+CSU+San+Marcos"
+  },
+  {
+    "id": "campus-way-circle",
+    "campusId": "csusm",
+    "name": "Campus Way Circle",
+    "abbreviation": "CAMPWAY",
+    "aliases": [
+      "Campus Way Circle",
+      "CAMPWAY"
+    ],
+    "description": "Campus Way road circle providing vehicular access and circulation around the campus core.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Campus+Way+Circle+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Campus+Way+Circle+CSU+San+Marcos"
+  },
+  {
+    "id": "palm-canyon-drive",
+    "campusId": "csusm",
+    "name": "Palm Canyon Drive",
+    "abbreviation": "PALMDR",
+    "aliases": [
+      "Palm Canyon Drive",
+      "PALMDR"
+    ],
+    "description": "Main campus drive providing primary vehicular access through the CSUSM campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Palm+Canyon+Drive+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Palm+Canyon+Drive+CSU+San+Marcos"
+  },
+  {
+    "id": "sprinter-station",
+    "campusId": "csusm",
+    "name": "Sprinter Station",
+    "abbreviation": "SPRINTER",
+    "aliases": [
+      "Sprinter Station",
+      "SPRINTER",
+      "Cal State San Marcos Sprinter Station"
+    ],
+    "description": "NCTD Sprinter light rail station serving the CSUSM campus with direct transit connections to the region.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sprinter+Station+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sprinter+Station+CSU+San+Marcos"
+  },
+  {
+    "id": "nctd-bus-stops",
+    "campusId": "csusm",
+    "name": "NCTD Bus Stops",
+    "abbreviation": "BUS",
+    "aliases": [
+      "NCTD Bus Stops",
+      "BUS",
+      "Bus Stop",
+      "NCTD"
+    ],
+    "description": "North County Transit District bus stops on campus providing regional bus connections for students and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=NCTD+Bus+Stop+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=NCTD+Bus+Stop+CSU+San+Marcos"
+  },
+  {
+    "id": "parking-lot-b",
+    "campusId": "csusm",
+    "name": "Parking Lot B",
+    "abbreviation": "LOT-B",
+    "aliases": [
+      "Parking Lot B",
+      "Lot B",
+      "LOT-B"
+    ],
+    "description": "Surface parking lot B for students, faculty, and staff with valid CSUSM parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+B+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+B+CSU+San+Marcos"
+  },
+  {
+    "id": "parking-lot-c",
+    "campusId": "csusm",
+    "name": "Parking Lot C",
+    "abbreviation": "LOT-C",
+    "aliases": [
+      "Parking Lot C",
+      "Lot C",
+      "LOT-C"
+    ],
+    "description": "Surface parking lot C for students, faculty, and staff with valid CSUSM parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+C+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+C+CSU+San+Marcos"
+  },
+  {
+    "id": "parking-lot-d",
+    "campusId": "csusm",
+    "name": "Parking Lot D",
+    "abbreviation": "LOT-D",
+    "aliases": [
+      "Parking Lot D",
+      "Lot D",
+      "LOT-D"
+    ],
+    "description": "Surface parking lot D for students, faculty, and staff with valid CSUSM parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+D+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+D+CSU+San+Marcos"
+  },
+  {
+    "id": "parking-lot-e",
+    "campusId": "csusm",
+    "name": "Parking Lot E",
+    "abbreviation": "LOT-E",
+    "aliases": [
+      "Parking Lot E",
+      "Lot E",
+      "LOT-E"
+    ],
+    "description": "Surface parking lot E for students, faculty, and staff with valid CSUSM parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+E+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+E+CSU+San+Marcos"
+  },
+  {
+    "id": "parking-lot-f",
+    "campusId": "csusm",
+    "name": "Parking Lot F",
+    "abbreviation": "LOT-F",
+    "aliases": [
+      "Parking Lot F",
+      "Lot F",
+      "LOT-F"
+    ],
+    "description": "Surface parking lot F for students, faculty, and staff with valid CSUSM parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+F+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+F+CSU+San+Marcos"
+  },
+  {
+    "id": "parking-lot-h",
+    "campusId": "csusm",
+    "name": "Parking Lot H",
+    "abbreviation": "LOT-H",
+    "aliases": [
+      "Parking Lot H",
+      "Lot H",
+      "LOT-H"
+    ],
+    "description": "Surface parking lot H for students, faculty, and staff with valid CSUSM parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+H+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+H+CSU+San+Marcos"
+  },
+  {
+    "id": "parking-lot-k",
+    "campusId": "csusm",
+    "name": "Parking Lot K",
+    "abbreviation": "LOT-K",
+    "aliases": [
+      "Parking Lot K",
+      "Lot K",
+      "LOT-K"
+    ],
+    "description": "Surface parking lot K for students, faculty, and staff with valid CSUSM parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+K+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+K+CSU+San+Marcos"
+  },
+  {
+    "id": "parking-lot-l",
+    "campusId": "csusm",
+    "name": "Parking Lot L",
+    "abbreviation": "LOT-L",
+    "aliases": [
+      "Parking Lot L",
+      "Lot L",
+      "LOT-L"
+    ],
+    "description": "Surface parking lot L for students, faculty, and staff with valid CSUSM parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+L+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+L+CSU+San+Marcos"
+  },
+  {
+    "id": "parking-lot-m",
+    "campusId": "csusm",
+    "name": "Parking Lot M",
+    "abbreviation": "LOT-M",
+    "aliases": [
+      "Parking Lot M",
+      "Lot M",
+      "LOT-M"
+    ],
+    "description": "Surface parking lot M for students, faculty, and staff with valid CSUSM parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+M+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+M+CSU+San+Marcos"
+  },
+  {
+    "id": "parking-lot-n",
+    "campusId": "csusm",
+    "name": "Parking Lot N",
+    "abbreviation": "LOT-N",
+    "aliases": [
+      "Parking Lot N",
+      "Lot N",
+      "LOT-N"
+    ],
+    "description": "Surface parking lot N for students, faculty, and staff with valid CSUSM parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+N+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+N+CSU+San+Marcos"
+  },
+  {
+    "id": "parking-lot-o",
+    "campusId": "csusm",
+    "name": "Parking Lot O",
+    "abbreviation": "LOT-O",
+    "aliases": [
+      "Parking Lot O",
+      "Lot O",
+      "LOT-O"
+    ],
+    "description": "Surface parking lot O for students, faculty, and staff with valid CSUSM parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+O+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+O+CSU+San+Marcos"
+  },
+  {
+    "id": "parking-lot-x",
+    "campusId": "csusm",
+    "name": "Parking Lot X",
+    "abbreviation": "LOT-X",
+    "aliases": [
+      "Parking Lot X",
+      "Lot X",
+      "LOT-X"
+    ],
+    "description": "Surface parking lot X for students, faculty, and staff with valid CSUSM parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+X+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+X+CSU+San+Marcos"
+  },
+  {
+    "id": "parking-lot-y",
+    "campusId": "csusm",
+    "name": "Parking Lot Y",
+    "abbreviation": "LOT-Y",
+    "aliases": [
+      "Parking Lot Y",
+      "Lot Y",
+      "LOT-Y"
+    ],
+    "description": "Surface parking lot Y for students, faculty, and staff with valid CSUSM parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+Y+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+Y+CSU+San+Marcos"
+  },
+  {
+    "id": "parking-lot-z",
+    "campusId": "csusm",
+    "name": "Parking Lot Z",
+    "abbreviation": "LOT-Z",
+    "aliases": [
+      "Parking Lot Z",
+      "Lot Z",
+      "LOT-Z"
+    ],
+    "description": "Surface parking lot Z for students, faculty, and staff with valid CSUSM parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+Z+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+Z+CSU+San+Marcos"
+  },
+  {
+    "id": "parking-permit-machines",
+    "campusId": "csusm",
+    "name": "Parking Permit Machines",
+    "abbreviation": "PPM",
+    "aliases": [
+      "Parking Permit Machines",
+      "PPM",
+      "Pay Station",
+      "Parking Pay Station"
+    ],
+    "description": "Self-service parking permit machines located throughout campus for purchasing daily or short-term parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Permit+Machines+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Permit+Machines+CSU+San+Marcos"
+  },
+  {
+    "id": "motorcycle-parking",
+    "campusId": "csusm",
+    "name": "Motorcycle Parking",
+    "abbreviation": "MOTO",
+    "aliases": [
+      "Motorcycle Parking",
+      "MOTO",
+      "Moto Parking"
+    ],
+    "description": "Designated motorcycle and scooter parking areas located throughout the CSUSM campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Motorcycle+Parking+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Motorcycle+Parking+CSU+San+Marcos"
+  },
+  {
+    "id": "bicycle-racks",
+    "campusId": "csusm",
+    "name": "Bicycle Racks",
+    "abbreviation": "BIKE",
+    "aliases": [
+      "Bicycle Racks",
+      "BIKE",
+      "Bike Racks",
+      "Bike Parking"
+    ],
+    "description": "Bicycle rack locations distributed across campus providing secure parking for cyclists.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bicycle+Racks+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bicycle+Racks+CSU+San+Marcos"
+  },
+  {
+    "id": "wetlands",
+    "campusId": "csusm",
+    "name": "Wetlands",
+    "abbreviation": "WETLANDS",
+    "aliases": [
+      "Wetlands",
+      "WETLANDS",
+      "Campus Wetlands"
+    ],
+    "description": "On-campus wetlands preserve providing a natural habitat area and environmental education resource for the campus community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wetlands+CSU+San+Marcos",
+    "appleMapsUrl": "http://maps.apple.com/?q=Wetlands+CSU+San+Marcos"
+  }
+]

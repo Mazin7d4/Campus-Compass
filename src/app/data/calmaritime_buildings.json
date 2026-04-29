@@ -1,0 +1,562 @@
+﻿[
+  {
+    "id": "administration",
+    "campusId": "calmaritime",
+    "name": "Administration",
+    "abbreviation": "",
+    "aliases": ["Administration", "Admin"],
+    "description": "Central administration building housing the president's office and key university leadership.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Administration+California+State+University+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Administration+California+Maritime+Academy"
+  },
+  {
+    "id": "classroom",
+    "campusId": "calmaritime",
+    "name": "Classroom Building",
+    "abbreviation": "",
+    "aliases": ["Classroom Building"],
+    "description": "Main academic classroom building providing lecture and seminar spaces for core coursework.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Classroom+Building+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Classroom+Building+California+Maritime+Academy"
+  },
+  {
+    "id": "facultyoffices",
+    "campusId": "calmaritime",
+    "name": "Faculty Offices",
+    "abbreviation": "",
+    "aliases": ["Faculty Offices"],
+    "description": "Building housing faculty offices for academic departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Faculty+Offices+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Faculty+Offices+California+Maritime+Academy"
+  },
+  {
+    "id": "abslecture",
+    "campusId": "calmaritime",
+    "name": "ABS Lecture Hall",
+    "abbreviation": "",
+    "aliases": ["ABS Lecture Hall", "ABS Hall"],
+    "description": "Large lecture hall used for major courses, seminars, and campus-wide presentations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=ABS+Lecture+Hall+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=ABS+Lecture+Hall+California+Maritime+Academy"
+  },
+  {
+    "id": "library",
+    "campusId": "calmaritime",
+    "name": "Library",
+    "abbreviation": "",
+    "aliases": ["Library", "Cal Maritime Library"],
+    "description": "Campus library offering research resources, study spaces, and maritime collections.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Library+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Library+California+Maritime+Academy"
+  },
+  {
+    "id": "steamplant",
+    "campusId": "calmaritime",
+    "name": "Steam Plant Simulator",
+    "abbreviation": "",
+    "aliases": ["Steam Plant Simulator", "Steam Plant"],
+    "description": "Engineering training facility with a full-scale steam plant simulator for marine engineering students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Steam+Plant+Simulator+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Steam+Plant+Simulator+California+Maritime+Academy"
+  },
+  {
+    "id": "receiving",
+    "campusId": "calmaritime",
+    "name": "Receiving",
+    "abbreviation": "",
+    "aliases": ["Receiving", "Shipping and Receiving"],
+    "description": "Campus shipping and receiving facility for deliveries and supply management.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Receiving+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Receiving+California+Maritime+Academy"
+  },
+  {
+    "id": "physicalplant",
+    "campusId": "calmaritime",
+    "name": "Physical Plant",
+    "abbreviation": "",
+    "aliases": ["Physical Plant", "Facilities"],
+    "description": "Campus facilities maintenance and operations building.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Physical+Plant+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Physical+Plant+California+Maritime+Academy"
+  },
+  {
+    "id": "boathouse",
+    "campusId": "calmaritime",
+    "name": "Boat House",
+    "abbreviation": "",
+    "aliases": ["Boat House", "Boathouse"],
+    "description": "Waterfront boat storage and maintenance facility for small training vessels and watercraft.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Boat+House+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Boat+House+California+Maritime+Academy"
+  },
+  {
+    "id": "pier",
+    "campusId": "calmaritime",
+    "name": "Pier",
+    "abbreviation": "",
+    "aliases": ["Pier", "Cal Maritime Pier"],
+    "description": "Campus pier on the Carquinez Strait used for training vessel mooring and waterfront activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pier+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Pier+California+Maritime+Academy"
+  },
+  {
+    "id": "rizzaauditorium",
+    "campusId": "calmaritime",
+    "name": "Rizza Auditorium",
+    "abbreviation": "",
+    "aliases": ["Rizza Auditorium"],
+    "description": "Main campus auditorium hosting commencement, guest lectures, and major campus events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rizza+Auditorium+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Rizza+Auditorium+California+Maritime+Academy"
+  },
+  {
+    "id": "mayohall",
+    "campusId": "calmaritime",
+    "name": "Mayo Hall",
+    "abbreviation": "",
+    "aliases": ["Mayo Hall"],
+    "description": "Academic building housing classrooms and faculty offices for various departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mayo+Hall+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Mayo+Hall+California+Maritime+Academy"
+  },
+  {
+    "id": "admissions",
+    "campusId": "calmaritime",
+    "name": "Admissions",
+    "abbreviation": "",
+    "aliases": ["Admissions", "Admissions Office"],
+    "description": "Undergraduate and graduate admissions office for prospective students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Admissions+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Admissions+California+Maritime+Academy"
+  },
+  {
+    "id": "careerservices",
+    "campusId": "calmaritime",
+    "name": "Career Services",
+    "abbreviation": "",
+    "aliases": ["Career Services"],
+    "description": "Career development office helping students with job placement, internships, and industry connections.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Career+Services+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Career+Services+California+Maritime+Academy"
+  },
+  {
+    "id": "financialaid",
+    "campusId": "calmaritime",
+    "name": "Financial Aid",
+    "abbreviation": "",
+    "aliases": ["Financial Aid"],
+    "description": "Student financial aid office providing assistance with scholarships, loans, and grants.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Financial+Aid+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Financial+Aid+California+Maritime+Academy"
+  },
+  {
+    "id": "conductjudicial",
+    "campusId": "calmaritime",
+    "name": "Conduct/Judicial Affairs",
+    "abbreviation": "",
+    "aliases": ["Conduct", "Judicial Affairs", "Student Conduct"],
+    "description": "Office overseeing student conduct, discipline, and judicial affairs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Conduct+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Conduct+California+Maritime+Academy"
+  },
+  {
+    "id": "registrar",
+    "campusId": "calmaritime",
+    "name": "Registrar",
+    "abbreviation": "",
+    "aliases": ["Registrar", "Registrar's Office"],
+    "description": "Office managing course registration, transcripts, and academic records.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Registrar+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Registrar+California+Maritime+Academy"
+  },
+  {
+    "id": "healthcenter",
+    "campusId": "calmaritime",
+    "name": "Student Health Center",
+    "abbreviation": "",
+    "aliases": ["Student Health Center", "Health Center"],
+    "description": "On-campus medical clinic providing primary care and health services to students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Health+Center+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Health+Center+California+Maritime+Academy"
+  },
+  {
+    "id": "uscglicensing",
+    "campusId": "calmaritime",
+    "name": "USCG Licensing",
+    "abbreviation": "",
+    "aliases": ["USCG Licensing", "Coast Guard Licensing"],
+    "description": "U.S. Coast Guard licensing office supporting students in obtaining merchant mariner credentials.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=USCG+Licensing+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=USCG+Licensing+California+Maritime+Academy"
+  },
+  {
+    "id": "veteranscenter",
+    "campusId": "calmaritime",
+    "name": "Veteran's Success Center",
+    "abbreviation": "",
+    "aliases": ["Veteran's Success Center", "Veterans Center"],
+    "description": "Resource center supporting student veterans with educational benefits, counseling, and community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Veterans+Success+Center+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Veterans+Success+Center+California+Maritime+Academy"
+  },
+  {
+    "id": "morrowcove",
+    "campusId": "calmaritime",
+    "name": "Morrow Cove",
+    "abbreviation": "",
+    "aliases": ["Morrow Cove"],
+    "description": "Waterfront cove area used for maritime training and recreational water activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Morrow+Cove+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Morrow+Cove+California+Maritime+Academy"
+  },
+  {
+    "id": "inclusioncenter",
+    "campusId": "calmaritime",
+    "name": "Inclusion Center",
+    "abbreviation": "",
+    "aliases": ["Inclusion Center", "Diversity Center"],
+    "description": "Campus center promoting diversity, equity, and inclusion for all students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Inclusion+Center+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Inclusion+Center+California+Maritime+Academy"
+  },
+  {
+    "id": "recreation",
+    "campusId": "calmaritime",
+    "name": "Recreation",
+    "abbreviation": "",
+    "aliases": ["Recreation", "Rec Center"],
+    "description": "Campus recreation facility offering fitness equipment and recreational programming.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Recreation+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Recreation+California+Maritime+Academy"
+  },
+  {
+    "id": "ssb",
+    "campusId": "calmaritime",
+    "name": "Student Services Building",
+    "abbreviation": "",
+    "aliases": ["Student Services Building", "Student Services"],
+    "description": "Central hub for student services including advising, career services, financial aid, and administrative offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Services+Building+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Services+Building+California+Maritime+Academy"
+  },
+  {
+    "id": "accessibility",
+    "campusId": "calmaritime",
+    "name": "Accessibility and Disability Services",
+    "abbreviation": "",
+    "aliases": ["Accessibility and Disability Services", "Disability Services", "ADS"],
+    "description": "Office providing accommodations and support services for students with disabilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Accessibility+Disability+Services+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Accessibility+Disability+Services+California+Maritime+Academy"
+  },
+  {
+    "id": "bistro",
+    "campusId": "calmaritime",
+    "name": "Bistro",
+    "abbreviation": "",
+    "aliases": ["Bistro", "Campus Bistro"],
+    "description": "Campus café and light dining option for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bistro+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bistro+California+Maritime+Academy"
+  },
+  {
+    "id": "testingsupport",
+    "campusId": "calmaritime",
+    "name": "Testing Support Center",
+    "abbreviation": "",
+    "aliases": ["Testing Support Center", "Testing Center"],
+    "description": "Center providing testing accommodations and proctored exam services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Testing+Support+Center+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Testing+Support+Center+California+Maritime+Academy"
+  },
+  {
+    "id": "titleix",
+    "campusId": "calmaritime",
+    "name": "Title IX and Civil Rights",
+    "abbreviation": "",
+    "aliases": ["Title IX", "Civil Rights", "Title IX and Civil Rights"],
+    "description": "Campus office handling Title IX compliance, civil rights, and equal opportunity matters.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Title+IX+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Title+IX+California+Maritime+Academy"
+  },
+  {
+    "id": "rhlowera",
+    "campusId": "calmaritime",
+    "name": "Residence Hall - Lower A",
+    "abbreviation": "",
+    "aliases": ["Residence Hall Lower A", "Lower A"],
+    "description": "Lower campus residential hall providing on-campus housing for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Residence+Hall+Lower+A+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Residence+Hall+Lower+A+California+Maritime+Academy"
+  },
+  {
+    "id": "rhlowerb",
+    "campusId": "calmaritime",
+    "name": "Residence Hall - Lower B",
+    "abbreviation": "",
+    "aliases": ["Residence Hall Lower B", "Lower B"],
+    "description": "Lower campus residential hall providing on-campus housing for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Residence+Hall+Lower+B+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Residence+Hall+Lower+B+California+Maritime+Academy"
+  },
+  {
+    "id": "rhlowerc",
+    "campusId": "calmaritime",
+    "name": "Residence Hall - Lower C",
+    "abbreviation": "",
+    "aliases": ["Residence Hall Lower C", "Lower C"],
+    "description": "Lower campus residential hall providing on-campus housing for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Residence+Hall+Lower+C+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Residence+Hall+Lower+C+California+Maritime+Academy"
+  },
+  {
+    "id": "rhupper",
+    "campusId": "calmaritime",
+    "name": "Residence Hall - Upper",
+    "abbreviation": "",
+    "aliases": ["Residence Hall Upper", "Upper Residence Hall"],
+    "description": "Upper campus residential hall providing on-campus housing for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Residence+Hall+Upper+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Residence+Hall+Upper+California+Maritime+Academy"
+  },
+  {
+    "id": "feltonhouse",
+    "campusId": "calmaritime",
+    "name": "The Charlotte Felton House",
+    "abbreviation": "",
+    "aliases": ["Charlotte Felton House", "Felton House", "Advancement"],
+    "description": "Historic house on campus serving as the University Advancement office.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Charlotte+Felton+House+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Charlotte+Felton+House+California+Maritime+Academy"
+  },
+  {
+    "id": "staffhousing2",
+    "campusId": "calmaritime",
+    "name": "Staff Housing 2",
+    "abbreviation": "",
+    "aliases": ["Staff Housing 2"],
+    "description": "On-campus staff housing unit 2.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Staff+Housing+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Staff+Housing+California+Maritime+Academy"
+  },
+  {
+    "id": "staffhousing3",
+    "campusId": "calmaritime",
+    "name": "Staff Housing 3",
+    "abbreviation": "",
+    "aliases": ["Staff Housing 3"],
+    "description": "On-campus staff housing unit 3.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Staff+Housing+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Staff+Housing+California+Maritime+Academy"
+  },
+  {
+    "id": "staffhousing4",
+    "campusId": "calmaritime",
+    "name": "Staff Housing 4",
+    "abbreviation": "",
+    "aliases": ["Staff Housing 4"],
+    "description": "On-campus staff housing unit 4.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Staff+Housing+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Staff+Housing+California+Maritime+Academy"
+  },
+  {
+    "id": "staffhousing5",
+    "campusId": "calmaritime",
+    "name": "Staff Housing 5",
+    "abbreviation": "",
+    "aliases": ["Staff Housing 5"],
+    "description": "On-campus staff housing unit 5.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Staff+Housing+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Staff+Housing+California+Maritime+Academy"
+  },
+  {
+    "id": "fieldhouse",
+    "campusId": "calmaritime",
+    "name": "Field House",
+    "abbreviation": "",
+    "aliases": ["Field House"],
+    "description": "Athletics and recreation field house supporting physical training and team sports.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Field+House+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Field+House+California+Maritime+Academy"
+  },
+  {
+    "id": "storageops",
+    "campusId": "calmaritime",
+    "name": "Storage - Plant Operations",
+    "abbreviation": "",
+    "aliases": ["Storage", "Plant Operations Storage"],
+    "description": "Storage facility for plant operations and facilities management equipment.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Plant+Operations+Storage+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Plant+Operations+Storage+California+Maritime+Academy"
+  },
+  {
+    "id": "shoreboiler",
+    "campusId": "calmaritime",
+    "name": "Shoreside Boiler",
+    "abbreviation": "",
+    "aliases": ["Shoreside Boiler", "Boiler Plant"],
+    "description": "Shoreside boiler facility providing heating and utility services to campus buildings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Shoreside+Boiler+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Shoreside+Boiler+California+Maritime+Academy"
+  },
+  {
+    "id": "labbuilding",
+    "campusId": "calmaritime",
+    "name": "Laboratory Building",
+    "abbreviation": "",
+    "aliases": ["Laboratory Building", "Lab Building"],
+    "description": "Science and engineering laboratory building for hands-on research and academic instruction.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Laboratory+Building+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Laboratory+Building+California+Maritime+Academy"
+  },
+  {
+    "id": "minipark",
+    "campusId": "calmaritime",
+    "name": "Mini Park",
+    "abbreviation": "",
+    "aliases": ["Mini Park"],
+    "description": "Small outdoor park and green space on campus for relaxation and gathering.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mini+Park+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Mini+Park+California+Maritime+Academy"
+  },
+  {
+    "id": "bodnarfield",
+    "campusId": "calmaritime",
+    "name": "Bodnar Field",
+    "abbreviation": "",
+    "aliases": ["Bodnar Field"],
+    "description": "Campus athletic field used for intramural and varsity sports competitions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bodnar+Field+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bodnar+Field+California+Maritime+Academy"
+  },
+  {
+    "id": "sportscourts",
+    "campusId": "calmaritime",
+    "name": "All Sports Courts",
+    "abbreviation": "",
+    "aliases": ["All Sports Courts", "Sports Courts"],
+    "description": "Multi-use outdoor sports courts for basketball, tennis, and recreational activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sports+Courts+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sports+Courts+California+Maritime+Academy"
+  },
+  {
+    "id": "peaquatics",
+    "campusId": "calmaritime",
+    "name": "Physical Education / Aquatics Survival Center",
+    "abbreviation": "",
+    "aliases": ["PE Aquatics", "Aquatics Survival Center", "Physical Education"],
+    "description": "Physical education and aquatic survival training center for mandatory maritime safety instruction.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Aquatics+Survival+Center+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Aquatics+Survival+Center+California+Maritime+Academy"
+  },
+  {
+    "id": "diningcenter",
+    "campusId": "calmaritime",
+    "name": "Dining Center",
+    "abbreviation": "",
+    "aliases": ["Dining Center", "Cafeteria"],
+    "description": "Main campus dining hall serving meals for students and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dining+Center+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Dining+Center+California+Maritime+Academy"
+  },
+  {
+    "id": "simcenter",
+    "campusId": "calmaritime",
+    "name": "Simulation Center",
+    "abbreviation": "",
+    "aliases": ["Simulation Center", "Sim Center"],
+    "description": "Advanced maritime simulation center with bridge, engine room, and crisis management simulators.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Simulation+Center+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Simulation+Center+California+Maritime+Academy"
+  },
+  {
+    "id": "techcenter",
+    "campusId": "calmaritime",
+    "name": "Technology Center",
+    "abbreviation": "",
+    "aliases": ["Technology Center", "Tech Center"],
+    "description": "Campus technology hub with computer labs, IT services, and instructional technology support.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Technology+Center+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Technology+Center+California+Maritime+Academy"
+  },
+  {
+    "id": "keelhauler",
+    "campusId": "calmaritime",
+    "name": "Keelhauler Shops",
+    "abbreviation": "",
+    "aliases": ["Keelhauler Shops", "Campus Shop"],
+    "description": "Campus retail shops selling Cal Maritime apparel, gear, and supplies.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Keelhauler+Shops+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Keelhauler+Shops+California+Maritime+Academy"
+  },
+  {
+    "id": "marineprograms",
+    "campusId": "calmaritime",
+    "name": "Marine Programs",
+    "abbreviation": "",
+    "aliases": ["Marine Programs"],
+    "description": "Building housing marine transportation and global studies programs with classrooms and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Marine+Programs+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Marine+Programs+California+Maritime+Academy"
+  },
+  {
+    "id": "navalscimod",
+    "campusId": "calmaritime",
+    "name": "Naval Science Modular",
+    "abbreviation": "",
+    "aliases": ["Naval Science Modular", "Naval Science"],
+    "description": "Modular facility for the Naval Science and ROTC program.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Naval+Science+Modular+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Naval+Science+Modular+California+Maritime+Academy"
+  },
+  {
+    "id": "facilitiesmgmt",
+    "campusId": "calmaritime",
+    "name": "Facilities Management",
+    "abbreviation": "",
+    "aliases": ["Facilities Management"],
+    "description": "Office and operations center for campus facilities planning, maintenance, and management.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Facilities+Management+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Facilities+Management+California+Maritime+Academy"
+  },
+  {
+    "id": "police",
+    "campusId": "calmaritime",
+    "name": "University Police Department",
+    "abbreviation": "",
+    "aliases": ["University Police", "Campus Police", "UPD"],
+    "description": "Cal Maritime University Police Department providing campus safety and emergency response.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Police+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Police+California+Maritime+Academy"
+  },
+  {
+    "id": "mcallister",
+    "campusId": "calmaritime",
+    "name": "Residence Hall - McAllister Hall",
+    "abbreviation": "",
+    "aliases": ["McAllister Hall", "McAllister"],
+    "description": "On-campus residence hall housing students in McAllister Hall.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McAllister+Hall+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=McAllister+Hall+California+Maritime+Academy"
+  },
+  {
+    "id": "maritimenorth",
+    "campusId": "calmaritime",
+    "name": "Residence Hall - Maritime North",
+    "abbreviation": "",
+    "aliases": ["Maritime North", "Maritime North Residence Hall"],
+    "description": "On-campus residence hall in the Maritime North complex.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Maritime+North+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Maritime+North+California+Maritime+Academy"
+  },
+  {
+    "id": "navigator",
+    "campusId": "calmaritime",
+    "name": "Navigator Building",
+    "abbreviation": "",
+    "aliases": ["Navigator Building", "Navigator"],
+    "description": "Academic and administrative building supporting navigation and maritime programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Navigator+Building+California+Maritime+Academy",
+    "appleMapsUrl": "http://maps.apple.com/?q=Navigator+Building+California+Maritime+Academy"
+  }
+]

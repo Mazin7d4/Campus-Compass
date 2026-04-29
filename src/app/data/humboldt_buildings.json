@@ -1,0 +1,1212 @@
+[
+  {
+    "id": "alder-hall",
+    "campusId": "humboldt",
+    "name": "Alder Residence Hall",
+    "abbreviation": "ALDER",
+    "aliases": [
+      "Alder Residence Hall",
+      "ALDER",
+      "Alder Hall"
+    ],
+    "description": "Residence hall providing on-campus housing for Cal Poly Humboldt students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Alder+Residence+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Alder+Residence+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "alistar-mccrone-hall",
+    "campusId": "humboldt",
+    "name": "Alistar McCrone Hall",
+    "abbreviation": "AMH",
+    "aliases": [
+      "Alistar McCrone Hall",
+      "AMH",
+      "McCrone Hall"
+    ],
+    "description": "Academic hall named for Alistar McCrone housing departments and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Alistar+McCrone+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Alistar+McCrone+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "art-a",
+    "campusId": "humboldt",
+    "name": "Art A",
+    "abbreviation": "ARTA",
+    "aliases": [
+      "Art A",
+      "ARTA"
+    ],
+    "description": "Art building A housing studios, labs, and classrooms for fine arts and visual arts programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Art+A+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Art+A+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "art-b",
+    "campusId": "humboldt",
+    "name": "Art B",
+    "abbreviation": "ARTB",
+    "aliases": [
+      "Art B",
+      "ARTB"
+    ],
+    "description": "Art building B housing additional studios, labs, and classrooms for fine arts programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Art+B+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Art+B+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "balabanis-house",
+    "campusId": "humboldt",
+    "name": "Balabanis House",
+    "abbreviation": "BALH",
+    "aliases": [
+      "Balabanis House",
+      "BALH"
+    ],
+    "description": "Campus house named for Balabanis used for university programs and activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Balabanis+House+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Balabanis+House+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "balabanis-art-quad",
+    "campusId": "humboldt",
+    "name": "Balabanis Art Quad",
+    "abbreviation": "ARTQ",
+    "aliases": [
+      "Balabanis Art Quad",
+      "Art Quad",
+      "ARTQ"
+    ],
+    "description": "Outdoor art quad adjacent to the Balabanis House serving as a gathering and display area for the arts.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Balabanis+Art+Quad+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Balabanis+Art+Quad+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "behavioral-social-sciences",
+    "campusId": "humboldt",
+    "name": "Behavioral & Social Sciences",
+    "abbreviation": "BSS",
+    "aliases": [
+      "Behavioral & Social Sciences",
+      "Behavioral and Social Sciences",
+      "BSS"
+    ],
+    "description": "Building housing behavioral and social science departments including psychology, sociology, and related programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Behavioral+Social+Sciences+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Behavioral+Social+Sciences+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "boat-facility",
+    "campusId": "humboldt",
+    "name": "Boat Facility",
+    "abbreviation": "BOAT",
+    "aliases": [
+      "Boat Facility",
+      "BOAT"
+    ],
+    "description": "Campus boat facility supporting marine and fisheries research and instruction with watercraft storage and maintenance.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Boat+Facility+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Boat+Facility+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "brero-house",
+    "campusId": "humboldt",
+    "name": "Brero House",
+    "abbreviation": "BRH",
+    "aliases": [
+      "Brero House",
+      "BRH"
+    ],
+    "description": "Campus house used for university programs and departmental activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brero+House+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Brero+House+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "bret-harte-house",
+    "campusId": "humboldt",
+    "name": "Bret Harte House",
+    "abbreviation": "BHH",
+    "aliases": [
+      "Bret Harte House",
+      "BHH"
+    ],
+    "description": "Campus house named for Bret Harte used for university programs and activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bret+Harte+House+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bret+Harte+House+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "brookins-house",
+    "campusId": "humboldt",
+    "name": "Brookins House",
+    "abbreviation": "BROH",
+    "aliases": [
+      "Brookins House",
+      "BROH"
+    ],
+    "description": "Campus house used for university programs and departmental activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brookins+House+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Brookins+House+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "buck-house",
+    "campusId": "humboldt",
+    "name": "Buck House",
+    "abbreviation": "BUCH",
+    "aliases": [
+      "Buck House",
+      "BUCH"
+    ],
+    "description": "Campus house used for university programs and departmental activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Buck+House+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Buck+House+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "campus-events-field",
+    "campusId": "humboldt",
+    "name": "Campus Events Field",
+    "abbreviation": "CEF",
+    "aliases": [
+      "Campus Events Field",
+      "CEF"
+    ],
+    "description": "Open field used for campus events, outdoor activities, and student gatherings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Campus+Events+Field+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Campus+Events+Field+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "the-canyon",
+    "campusId": "humboldt",
+    "name": "The Canyon",
+    "abbreviation": "CANYON",
+    "aliases": [
+      "The Canyon",
+      "Canyon"
+    ],
+    "description": "Natural canyon area on campus providing an outdoor environment for recreation and appreciation of the natural setting.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Canyon+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=The+Canyon+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "cedar-hall",
+    "campusId": "humboldt",
+    "name": "Cedar Residence Hall",
+    "abbreviation": "CEDAR",
+    "aliases": [
+      "Cedar Residence Hall",
+      "CEDAR",
+      "Cedar Hall"
+    ],
+    "description": "Residence hall providing on-campus housing for Cal Poly Humboldt students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cedar+Residence+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cedar+Residence+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "chinquapin-hall",
+    "campusId": "humboldt",
+    "name": "Chinquapin Residence Hall",
+    "abbreviation": "CHINQ",
+    "aliases": [
+      "Chinquapin Residence Hall",
+      "CHINQ",
+      "Chinquapin Hall"
+    ],
+    "description": "Residence hall providing on-campus housing for Cal Poly Humboldt students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chinquapin+Residence+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Chinquapin+Residence+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "college-creek-complex",
+    "campusId": "humboldt",
+    "name": "College Creek Complex",
+    "abbreviation": "CCC",
+    "aliases": [
+      "College Creek Complex",
+      "CCC"
+    ],
+    "description": "Residential complex near College Creek providing housing and community amenities for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=College+Creek+Complex+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=College+Creek+Complex+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "college-creek-field",
+    "campusId": "humboldt",
+    "name": "College Creek Field",
+    "abbreviation": "CCF",
+    "aliases": [
+      "College Creek Field",
+      "CCF"
+    ],
+    "description": "Athletic and recreational field in the College Creek area used for sports and campus events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=College+Creek+Field+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=College+Creek+Field+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "college-creek-field-locker-rooms",
+    "campusId": "humboldt",
+    "name": "College Creek Field Locker Rooms",
+    "abbreviation": "CCFLR",
+    "aliases": [
+      "College Creek Field Locker Rooms",
+      "CCFLR"
+    ],
+    "description": "Locker room facilities adjacent to College Creek Field supporting athletics and recreation.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=College+Creek+Field+Locker+Rooms+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=College+Creek+Field+Locker+Rooms+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "community-center",
+    "campusId": "humboldt",
+    "name": "Community Center",
+    "abbreviation": "CCCTR",
+    "aliases": [
+      "Community Center",
+      "CCCTR"
+    ],
+    "description": "Campus community center providing meeting spaces, student services, and community programming.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Community+Center+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Community+Center+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "creekside-lounge",
+    "campusId": "humboldt",
+    "name": "Creekside Lounge",
+    "abbreviation": "CREEK",
+    "aliases": [
+      "Creekside Lounge",
+      "CREEK"
+    ],
+    "description": "Student lounge located creekside providing a relaxing space for students in the residential area.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Creekside+Lounge+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Creekside+Lounge+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "creekview-complex",
+    "campusId": "humboldt",
+    "name": "Creekview Complex",
+    "abbreviation": "CVIEW",
+    "aliases": [
+      "Creekview Complex",
+      "CVIEW"
+    ],
+    "description": "Residential complex with views of the campus creek area providing housing for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Creekview+Complex+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Creekview+Complex+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "cypress-hall",
+    "campusId": "humboldt",
+    "name": "Cypress Residence Hall",
+    "abbreviation": "CYPRS",
+    "aliases": [
+      "Cypress Residence Hall",
+      "CYPRS",
+      "Cypress Hall"
+    ],
+    "description": "Residence hall providing on-campus housing for Cal Poly Humboldt students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cypress+Residence+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cypress+Residence+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "del-norte-hall",
+    "campusId": "humboldt",
+    "name": "Del Norte Residence Hall",
+    "abbreviation": "DELNO",
+    "aliases": [
+      "Del Norte Residence Hall",
+      "DELNO",
+      "Del Norte Hall"
+    ],
+    "description": "Residence hall named for Del Norte providing on-campus housing for Cal Poly Humboldt students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Del+Norte+Residence+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Del+Norte+Residence+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "walker-greenhouse",
+    "campusId": "humboldt",
+    "name": "Dennis K. Walker Greenhouse",
+    "abbreviation": "SCIE",
+    "aliases": [
+      "Dennis K. Walker Greenhouse",
+      "Walker Greenhouse",
+      "SCIE",
+      "Greenhouse"
+    ],
+    "description": "Greenhouse facility named for Dennis K. Walker supporting plant biology and environmental science research.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Walker+Greenhouse+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Walker+Greenhouse+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "experimental-greenhouse",
+    "campusId": "humboldt",
+    "name": "Experimental Greenhouse",
+    "abbreviation": "GRNH",
+    "aliases": [
+      "Experimental Greenhouse",
+      "GRNH"
+    ],
+    "description": "Research greenhouse used for experimental plant science, botany, and ecological research programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Experimental+Greenhouse+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Experimental+Greenhouse+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "facilities-management",
+    "campusId": "humboldt",
+    "name": "Facilities Management",
+    "abbreviation": "FM",
+    "aliases": [
+      "Facilities Management",
+      "FM"
+    ],
+    "description": "University facilities management building overseeing campus operations, maintenance, and infrastructure services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Facilities+Management+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Facilities+Management+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "fern-hall",
+    "campusId": "humboldt",
+    "name": "Fern Residence Hall",
+    "abbreviation": "FERN",
+    "aliases": [
+      "Fern Residence Hall",
+      "FERN",
+      "Fern Hall"
+    ],
+    "description": "Residence hall providing on-campus housing for Cal Poly Humboldt students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fern+Residence+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Fern+Residence+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "feuerwerker-house",
+    "campusId": "humboldt",
+    "name": "Feuerwerker House",
+    "abbreviation": "FWH",
+    "aliases": [
+      "Feuerwerker House",
+      "FWH"
+    ],
+    "description": "Campus house used for university programs and departmental activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Feuerwerker+House+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Feuerwerker+House+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "fish-hatchery",
+    "campusId": "humboldt",
+    "name": "Fish Hatchery",
+    "abbreviation": "FSH",
+    "aliases": [
+      "Fish Hatchery",
+      "FSH"
+    ],
+    "description": "Campus fish hatchery supporting fisheries biology research, conservation, and instructional programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fish+Hatchery+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Fish+Hatchery+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "forbes-gym",
+    "campusId": "humboldt",
+    "name": "Forbes Gym",
+    "abbreviation": "FGYM",
+    "aliases": [
+      "Forbes Gym",
+      "FGYM",
+      "Forbes Complex"
+    ],
+    "description": "Campus gymnasium named for Forbes providing athletic facilities, courts, and physical education spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Forbes+Gym+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Forbes+Gym+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "forestry",
+    "campusId": "humboldt",
+    "name": "Forestry Building",
+    "abbreviation": "FR",
+    "aliases": [
+      "Forestry Building",
+      "Forestry",
+      "FR"
+    ],
+    "description": "Building housing forestry programs with labs, classrooms, and research spaces for forest sciences and management.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Forestry+Building+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Forestry+Building+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "founders-hall",
+    "campusId": "humboldt",
+    "name": "Founders Hall",
+    "abbreviation": "FH",
+    "aliases": [
+      "Founders Hall",
+      "FH"
+    ],
+    "description": "Historic academic hall honoring the founders of Cal Poly Humboldt, housing departments and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Founders+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Founders+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "gist-hall",
+    "campusId": "humboldt",
+    "name": "Gist Hall",
+    "abbreviation": "GH",
+    "aliases": [
+      "Gist Hall",
+      "GH"
+    ],
+    "description": "Academic hall with classrooms, labs, and faculty offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gist+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Gist+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "gutswurrak-student-activities",
+    "campusId": "humboldt",
+    "name": "Gutswurrak Student Activities Center",
+    "abbreviation": "GSAC",
+    "aliases": [
+      "Gutswurrak Student Activities Center",
+      "GSAC",
+      "Student Activities Center"
+    ],
+    "description": "Student activities center providing space for clubs, student government, events, and campus life programming.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gutswurrak+Student+Activities+Center+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Gutswurrak+Student+Activities+Center+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "hadley-house",
+    "campusId": "humboldt",
+    "name": "Hadley House",
+    "abbreviation": "HH",
+    "aliases": [
+      "Hadley House",
+      "HH"
+    ],
+    "description": "Campus house used for university programs and departmental activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hadley+House+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Hadley+House+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "hagopian-house",
+    "campusId": "humboldt",
+    "name": "Hagopian House",
+    "abbreviation": "HAH",
+    "aliases": [
+      "Hagopian House",
+      "HAH"
+    ],
+    "description": "Campus house used for university programs and departmental activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hagopian+House+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Hagopian+House+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "harry-griffith-hall",
+    "campusId": "humboldt",
+    "name": "Harry Griffith Hall",
+    "abbreviation": "HGH",
+    "aliases": [
+      "Harry Griffith Hall",
+      "HGH",
+      "Griffith Hall"
+    ],
+    "description": "Academic hall named for Harry Griffith providing classrooms and offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Harry+Griffith+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Harry+Griffith+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "hemlock-hall",
+    "campusId": "humboldt",
+    "name": "Hemlock Residence Hall",
+    "abbreviation": "HEMLC",
+    "aliases": [
+      "Hemlock Residence Hall",
+      "HEMLC",
+      "Hemlock Hall"
+    ],
+    "description": "Residence hall providing on-campus housing for Cal Poly Humboldt students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hemlock+Residence+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Hemlock+Residence+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "the-hill",
+    "campusId": "humboldt",
+    "name": "The Hill",
+    "abbreviation": "HILL",
+    "aliases": [
+      "The Hill",
+      "Hill",
+      "HILL"
+    ],
+    "description": "Campus hillside area featuring residential buildings and natural surroundings with views of the campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Hill+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=The+Hill+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "jenkins-hall",
+    "campusId": "humboldt",
+    "name": "Jenkins Hall",
+    "abbreviation": "JH",
+    "aliases": [
+      "Jenkins Hall",
+      "JH"
+    ],
+    "description": "Academic hall with classrooms, labs, and faculty offices for university departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jenkins+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Jenkins+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "jolly-giant-commons",
+    "campusId": "humboldt",
+    "name": "Jolly Giant Commons",
+    "abbreviation": "JGC",
+    "aliases": [
+      "Jolly Giant Commons",
+      "JGC",
+      "Dining Commons"
+    ],
+    "description": "Main campus dining commons providing meals and food services for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jolly+Giant+Commons+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Jolly+Giant+Commons+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "juniper-hall",
+    "campusId": "humboldt",
+    "name": "Juniper Residence Hall",
+    "abbreviation": "JUNIP",
+    "aliases": [
+      "Juniper Residence Hall",
+      "JUNIP",
+      "Juniper Hall"
+    ],
+    "description": "Residence hall providing on-campus housing for Cal Poly Humboldt students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Juniper+Residence+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Juniper+Residence+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "kinesiology-athletics",
+    "campusId": "humboldt",
+    "name": "Kinesiology & Athletics",
+    "abbreviation": "KA",
+    "aliases": [
+      "Kinesiology & Athletics",
+      "Kinesiology and Athletics",
+      "KA"
+    ],
+    "description": "Building housing the kinesiology department and athletics administration with courts, labs, and offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kinesiology+Athletics+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kinesiology+Athletics+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "laurel-hall",
+    "campusId": "humboldt",
+    "name": "Laurel Residence Hall",
+    "abbreviation": "LAURE",
+    "aliases": [
+      "Laurel Residence Hall",
+      "LAURE",
+      "Laurel Hall"
+    ],
+    "description": "Residence hall providing on-campus housing for Cal Poly Humboldt students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Laurel+Residence+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Laurel+Residence+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "library",
+    "campusId": "humboldt",
+    "name": "Library",
+    "abbreviation": "LIB",
+    "aliases": [
+      "Library",
+      "LIB",
+      "Cal Poly Humboldt Library",
+      "Humboldt Library"
+    ],
+    "description": "Main campus library providing research collections, study spaces, digital resources, and academic support services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Library+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Library+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "library-circle",
+    "campusId": "humboldt",
+    "name": "Library Circle",
+    "abbreviation": "LIBCIR",
+    "aliases": [
+      "Library Circle",
+      "LIBCIR"
+    ],
+    "description": "Circular gathering area adjacent to the library serving as a central campus landmark and meeting point.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Library+Circle+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Library+Circle+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "little-apartments",
+    "campusId": "humboldt",
+    "name": "Little Apartments",
+    "abbreviation": "LAPT",
+    "aliases": [
+      "Little Apartments",
+      "LAPT"
+    ],
+    "description": "On-campus apartment-style housing providing residential accommodations for Cal Poly Humboldt students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Little+Apartments+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Little+Apartments+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "madrone-hall",
+    "campusId": "humboldt",
+    "name": "Madrone Residence Hall",
+    "abbreviation": "MADRN",
+    "aliases": [
+      "Madrone Residence Hall",
+      "MADRN",
+      "Madrone Hall"
+    ],
+    "description": "Residence hall providing on-campus housing for Cal Poly Humboldt students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Madrone+Residence+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Madrone+Residence+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "maple-hall",
+    "campusId": "humboldt",
+    "name": "Maple Residence Hall",
+    "abbreviation": "MAPLE",
+    "aliases": [
+      "Maple Residence Hall",
+      "MAPLE",
+      "Maple Hall"
+    ],
+    "description": "Residence hall providing on-campus housing for Cal Poly Humboldt students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Maple+Residence+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Maple+Residence+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "marine-wildlife-care-center",
+    "campusId": "humboldt",
+    "name": "Marine Wildlife Care Center",
+    "abbreviation": "MWCC",
+    "aliases": [
+      "Marine Wildlife Care Center",
+      "MWCC",
+      "Wildlife Care Center"
+    ],
+    "description": "Center providing rehabilitation and care for marine wildlife supporting zoology and marine biology programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Marine+Wildlife+Care+Center+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Marine+Wildlife+Care+Center+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "marketing-communications",
+    "campusId": "humboldt",
+    "name": "Marketing & Communications",
+    "abbreviation": "MCOM",
+    "aliases": [
+      "Marketing & Communications",
+      "Marketing and Communications",
+      "MCOM"
+    ],
+    "description": "Campus office for university marketing and communications overseeing outreach, media, and public affairs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Marketing+Communications+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Marketing+Communications+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "mendocino-hall",
+    "campusId": "humboldt",
+    "name": "Mendocino Residence Hall",
+    "abbreviation": "MENDO",
+    "aliases": [
+      "Mendocino Residence Hall",
+      "MENDO",
+      "Mendocino Hall"
+    ],
+    "description": "Residence hall named for Mendocino providing on-campus housing for Cal Poly Humboldt students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mendocino+Residence+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Mendocino+Residence+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "music-a",
+    "campusId": "humboldt",
+    "name": "Music A",
+    "abbreviation": "MUSA",
+    "aliases": [
+      "Music A",
+      "MUSA"
+    ],
+    "description": "Music building A housing rehearsal rooms, practice spaces, and classrooms for music programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Music+A+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Music+A+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "music-b",
+    "campusId": "humboldt",
+    "name": "Music B",
+    "abbreviation": "MUSB",
+    "aliases": [
+      "Music B",
+      "MUSB"
+    ],
+    "description": "Music building B providing additional rehearsal, teaching, and performance spaces for music programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Music+B+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Music+B+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "natural-resources",
+    "campusId": "humboldt",
+    "name": "Natural Resources Building",
+    "abbreviation": "NR",
+    "aliases": [
+      "Natural Resources Building",
+      "Natural Resources",
+      "NR"
+    ],
+    "description": "Building housing natural resources programs including forestry, fisheries, wildlife, and environmental management.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Natural+Resources+Building+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Natural+Resources+Building+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "nelson-hall-east",
+    "campusId": "humboldt",
+    "name": "Nelson Hall East",
+    "abbreviation": "NHE",
+    "aliases": [
+      "Nelson Hall East",
+      "NHE"
+    ],
+    "description": "East wing of Nelson Hall providing administrative offices, student services, and academic support.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nelson+Hall+East+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Nelson+Hall+East+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "nelson-hall-west",
+    "campusId": "humboldt",
+    "name": "Nelson Hall West",
+    "abbreviation": "NHW",
+    "aliases": [
+      "Nelson Hall West",
+      "NHW"
+    ],
+    "description": "West wing of Nelson Hall providing administrative offices, student services, and academic support.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nelson+Hall+West+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Nelson+Hall+West+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "parking-kiosk",
+    "campusId": "humboldt",
+    "name": "Parking Kiosk",
+    "abbreviation": "PARK",
+    "aliases": [
+      "Parking Kiosk",
+      "PARK",
+      "Parking Booth"
+    ],
+    "description": "Campus parking kiosk providing parking permits, visitor passes, and parking information.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Kiosk+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Kiosk+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "pepperwood-hall",
+    "campusId": "humboldt",
+    "name": "Pepperwood Residence Hall",
+    "abbreviation": "PEPR",
+    "aliases": [
+      "Pepperwood Residence Hall",
+      "PEPR",
+      "Pepperwood Hall"
+    ],
+    "description": "Residence hall providing on-campus housing for Cal Poly Humboldt students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pepperwood+Residence+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Pepperwood+Residence+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "recreation-wellness-center",
+    "campusId": "humboldt",
+    "name": "Recreation & Wellness Center",
+    "abbreviation": "RWC",
+    "aliases": [
+      "Recreation & Wellness Center",
+      "Recreation and Wellness Center",
+      "RWC",
+      "Rec Center"
+    ],
+    "description": "Campus recreation and wellness center with fitness equipment, courts, wellness programs, and student recreation facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Recreation+Wellness+Center+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Recreation+Wellness+Center+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "redwood-bowl",
+    "campusId": "humboldt",
+    "name": "Redwood Bowl",
+    "abbreviation": "RB",
+    "aliases": [
+      "Redwood Bowl",
+      "RB"
+    ],
+    "description": "Outdoor athletic bowl surrounded by redwoods hosting Cal Poly Humboldt Lumberjacks football and track events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Redwood+Bowl+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Redwood+Bowl+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "redwood-plaza",
+    "campusId": "humboldt",
+    "name": "Redwood Plaza",
+    "abbreviation": "RPLAZ",
+    "aliases": [
+      "Redwood Plaza",
+      "RPLAZ"
+    ],
+    "description": "Central campus plaza flanked by redwood trees serving as a key gathering and circulation space.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Redwood+Plaza+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Redwood+Plaza+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "redwood-hall",
+    "campusId": "humboldt",
+    "name": "Redwood Residence Hall",
+    "abbreviation": "REDWO",
+    "aliases": [
+      "Redwood Residence Hall",
+      "REDWO",
+      "Redwood Hall"
+    ],
+    "description": "Residence hall providing on-campus housing for Cal Poly Humboldt students amid the redwood forest setting.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Redwood+Residence+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Redwood+Residence+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "redwood-sciences-lab",
+    "campusId": "humboldt",
+    "name": "Redwood Sciences Laboratory",
+    "abbreviation": "RSL",
+    "aliases": [
+      "Redwood Sciences Laboratory",
+      "RSL",
+      "Redwood Sciences Lab"
+    ],
+    "description": "Research laboratory facility supporting environmental and natural sciences research programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Redwood+Sciences+Laboratory+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Redwood+Sciences+Laboratory+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "schatz-energy-research-center",
+    "campusId": "humboldt",
+    "name": "Schatz Energy Research Center",
+    "abbreviation": "SERC",
+    "aliases": [
+      "Schatz Energy Research Center",
+      "SERC",
+      "Schatz Center"
+    ],
+    "description": "Renowned energy research center conducting applied research on renewable energy and rural energy access.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Schatz+Energy+Research+Center+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Schatz+Energy+Research+Center+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "science-a",
+    "campusId": "humboldt",
+    "name": "Science A",
+    "abbreviation": "SCIA",
+    "aliases": [
+      "Science A",
+      "SCIA"
+    ],
+    "description": "Science building A with teaching labs, research facilities, and classrooms for natural and physical science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Science+A+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Science+A+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "science-b",
+    "campusId": "humboldt",
+    "name": "Science B",
+    "abbreviation": "SCIB",
+    "aliases": [
+      "Science B",
+      "SCIB"
+    ],
+    "description": "Science building B providing additional labs, research facilities, and classrooms for science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Science+B+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Science+B+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "science-c",
+    "campusId": "humboldt",
+    "name": "Science C",
+    "abbreviation": "SCIC",
+    "aliases": [
+      "Science C",
+      "SCIC"
+    ],
+    "description": "Science building C providing additional labs, research facilities, and classrooms for science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Science+C+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Science+C+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "shasta-hall",
+    "campusId": "humboldt",
+    "name": "Shasta Residence Hall",
+    "abbreviation": "SHAST",
+    "aliases": [
+      "Shasta Residence Hall",
+      "SHAST",
+      "Shasta Hall"
+    ],
+    "description": "Residence hall named for Shasta providing on-campus housing for Cal Poly Humboldt students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Shasta+Residence+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Shasta+Residence+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "shipping-receiving",
+    "campusId": "humboldt",
+    "name": "Shipping & Receiving",
+    "abbreviation": "SR",
+    "aliases": [
+      "Shipping & Receiving",
+      "Shipping and Receiving",
+      "SR"
+    ],
+    "description": "Campus facility handling incoming and outgoing shipments for university departments and operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Shipping+Receiving+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Shipping+Receiving+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "siemens-hall",
+    "campusId": "humboldt",
+    "name": "Siemens Hall",
+    "abbreviation": "SH",
+    "aliases": [
+      "Siemens Hall",
+      "SH"
+    ],
+    "description": "Academic hall with classrooms, computer labs, and faculty offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Siemens+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Siemens+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "student-business-services",
+    "campusId": "humboldt",
+    "name": "Student & Business Services",
+    "abbreviation": "SBS",
+    "aliases": [
+      "Student & Business Services",
+      "Student and Business Services",
+      "SBS"
+    ],
+    "description": "Building housing student and business services including registration, billing, financial aid, and student accounts.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Business+Services+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Business+Services+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "student-health-counseling",
+    "campusId": "humboldt",
+    "name": "Student Health & Counseling",
+    "abbreviation": "HC",
+    "aliases": [
+      "Student Health & Counseling",
+      "Student Health and Counseling",
+      "HC",
+      "Health Center",
+      "Counseling Center"
+    ],
+    "description": "Campus health and counseling center providing medical services, mental health counseling, and wellness resources.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Health+Counseling+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Health+Counseling+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "student-recreation-center",
+    "campusId": "humboldt",
+    "name": "Student Recreation Center",
+    "abbreviation": "SRC",
+    "aliases": [
+      "Student Recreation Center",
+      "SRC"
+    ],
+    "description": "Recreation center providing fitness equipment, group exercise classes, and recreation programs for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Recreation+Center+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Recreation+Center+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "sunset-hall",
+    "campusId": "humboldt",
+    "name": "Sunset Residence Hall",
+    "abbreviation": "SUNST",
+    "aliases": [
+      "Sunset Residence Hall",
+      "SUNST",
+      "Sunset Hall"
+    ],
+    "description": "Residence hall providing on-campus housing for Cal Poly Humboldt students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sunset+Residence+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sunset+Residence+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "swetman",
+    "campusId": "humboldt",
+    "name": "Swetman",
+    "abbreviation": "SWET",
+    "aliases": [
+      "Swetman",
+      "SWET",
+      "Swetman Hall"
+    ],
+    "description": "Campus building used for university programs and activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Swetman+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Swetman+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "tan-oak-hall",
+    "campusId": "humboldt",
+    "name": "Tan Oak Residence Hall",
+    "abbreviation": "TANOK",
+    "aliases": [
+      "Tan Oak Residence Hall",
+      "TANOK",
+      "Tan Oak Hall"
+    ],
+    "description": "Residence hall providing on-campus housing for Cal Poly Humboldt students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tan+Oak+Residence+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Tan+Oak+Residence+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "telonicher-house",
+    "campusId": "humboldt",
+    "name": "Telonicher House",
+    "abbreviation": "TH",
+    "aliases": [
+      "Telonicher House",
+      "TH"
+    ],
+    "description": "Campus house used for university marine laboratory programs and research activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Telonicher+House+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Telonicher+House+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "theatre-arts",
+    "campusId": "humboldt",
+    "name": "Theatre Arts",
+    "abbreviation": "TA",
+    "aliases": [
+      "Theatre Arts",
+      "TA",
+      "Theater Arts"
+    ],
+    "description": "Theatre arts building with performance spaces, rehearsal rooms, costume and scene shops for theatre programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Theatre+Arts+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Theatre+Arts+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "trinity-early-learning-center",
+    "campusId": "humboldt",
+    "name": "Trinity Early Learning Center",
+    "abbreviation": "TELC",
+    "aliases": [
+      "Trinity Early Learning Center",
+      "TELC",
+      "Early Learning Center"
+    ],
+    "description": "Early childhood education center providing child care and serving as a lab site for child development programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trinity+Early+Learning+Center+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Trinity+Early+Learning+Center+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "trinity-hall",
+    "campusId": "humboldt",
+    "name": "Trinity Residence Hall",
+    "abbreviation": "TRIN",
+    "aliases": [
+      "Trinity Residence Hall",
+      "TRIN",
+      "Trinity Hall"
+    ],
+    "description": "Residence hall providing on-campus housing for Cal Poly Humboldt students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trinity+Residence+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Trinity+Residence+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "upper-playing-field",
+    "campusId": "humboldt",
+    "name": "Upper Playing Field",
+    "abbreviation": "UPF",
+    "aliases": [
+      "Upper Playing Field",
+      "UPF"
+    ],
+    "description": "Upper athletic and recreation playing field used for intramural sports, club activities, and events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Upper+Playing+Field+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Upper+Playing+Field+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "university-quad",
+    "campusId": "humboldt",
+    "name": "University Quad",
+    "abbreviation": "QUAD",
+    "aliases": [
+      "University Quad",
+      "QUAD",
+      "The Quad"
+    ],
+    "description": "Central outdoor quad serving as the social and academic heart of the Cal Poly Humboldt campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Quad+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Quad+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "van-matre-hall",
+    "campusId": "humboldt",
+    "name": "Van Matre Hall",
+    "abbreviation": "VMH",
+    "aliases": [
+      "Van Matre Hall",
+      "VMH"
+    ],
+    "description": "Academic hall providing classrooms and faculty offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Van+Matre+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Van+Matre+Hall+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "anderson-wagner-house",
+    "campusId": "humboldt",
+    "name": "Anderson Wagner House",
+    "abbreviation": "WAGH",
+    "aliases": [
+      "Anderson Wagner House",
+      "WAGH",
+      "Wagner House"
+    ],
+    "description": "Campus house named for Anderson and Wagner used for university programs and activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Anderson+Wagner+House+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Anderson+Wagner+House+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "wildlife-fisheries",
+    "campusId": "humboldt",
+    "name": "Wildlife & Fisheries",
+    "abbreviation": "WDFS",
+    "aliases": [
+      "Wildlife & Fisheries",
+      "Wildlife and Fisheries",
+      "WDFS"
+    ],
+    "description": "Building housing wildlife and fisheries programs with labs and classrooms for natural resource sciences.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wildlife+Fisheries+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Wildlife+Fisheries+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "wildlife-game-pens",
+    "campusId": "humboldt",
+    "name": "Wildlife Game Pens",
+    "abbreviation": "WGP",
+    "aliases": [
+      "Wildlife Game Pens",
+      "WGP",
+      "Game Pens"
+    ],
+    "description": "Outdoor pens housing wildlife for research and instructional purposes in wildlife management programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wildlife+Game+Pens+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Wildlife+Game+Pens+Cal+Poly+Humboldt"
+  },
+  {
+    "id": "willow-hall",
+    "campusId": "humboldt",
+    "name": "Willow Residence Hall",
+    "abbreviation": "WILLO",
+    "aliases": [
+      "Willow Residence Hall",
+      "WILLO",
+      "Willow Hall"
+    ],
+    "description": "Residence hall providing on-campus housing for Cal Poly Humboldt students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Willow+Residence+Hall+Cal+Poly+Humboldt",
+    "appleMapsUrl": "http://maps.apple.com/?q=Willow+Residence+Hall+Cal+Poly+Humboldt"
+  }
+]

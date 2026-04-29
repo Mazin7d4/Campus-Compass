@@ -1,0 +1,1372 @@
+[
+  {
+    "id": "adams-humanities",
+    "campusId": "sdsu",
+    "name": "Adams Humanities",
+    "abbreviation": "AH",
+    "aliases": [
+      "Adams Humanities",
+      "AH"
+    ],
+    "description": "Building housing humanities departments including history, literature, and philosophy with classrooms and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Adams+Humanities+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Adams+Humanities+SDSU"
+  },
+  {
+    "id": "administration",
+    "campusId": "sdsu",
+    "name": "Administration Building",
+    "abbreviation": "AD",
+    "aliases": [
+      "Administration Building",
+      "Administration",
+      "AD"
+    ],
+    "description": "Central administrative building housing university president's office and core administrative departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Administration+Building+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Administration+Building+SDSU"
+  },
+  {
+    "id": "american-language-institute",
+    "campusId": "sdsu",
+    "name": "American Language Institute",
+    "abbreviation": "ALI",
+    "aliases": [
+      "American Language Institute",
+      "ALI"
+    ],
+    "description": "Institute providing English language instruction and academic preparation for international students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=American+Language+Institute+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=American+Language+Institute+SDSU"
+  },
+  {
+    "id": "aquaplex",
+    "campusId": "sdsu",
+    "name": "Aquaplex",
+    "abbreviation": "POOL",
+    "aliases": [
+      "Aquaplex",
+      "POOL",
+      "Pool",
+      "Aztec Aquaplex"
+    ],
+    "description": "Campus aquatics center with competition and recreation pools for swimming, water polo, and aquatics programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Aquaplex+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Aquaplex+SDSU"
+  },
+  {
+    "id": "arena-meeting-center",
+    "campusId": "sdsu",
+    "name": "Arena Meeting Center",
+    "abbreviation": "AMC",
+    "aliases": [
+      "Arena Meeting Center",
+      "AMC"
+    ],
+    "description": "Meeting and event center adjacent to Viejas Arena providing conference and event spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Arena+Meeting+Center+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Arena+Meeting+Center+SDSU"
+  },
+  {
+    "id": "art",
+    "campusId": "sdsu",
+    "name": "Art Building",
+    "abbreviation": "ART",
+    "aliases": [
+      "Art Building",
+      "Art North",
+      "Art South",
+      "ART"
+    ],
+    "description": "Art buildings (North and South) housing studios, galleries, and classrooms for fine arts and visual arts programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Art+Building+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Art+Building+SDSU"
+  },
+  {
+    "id": "art-gallery",
+    "campusId": "sdsu",
+    "name": "Art Gallery",
+    "abbreviation": "ARTG",
+    "aliases": [
+      "Art Gallery",
+      "ARTG",
+      "SDSU Art Gallery"
+    ],
+    "description": "Campus art gallery presenting exhibitions of student, faculty, and visiting artists' work.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Art+Gallery+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Art+Gallery+SDSU"
+  },
+  {
+    "id": "arts-and-letters",
+    "campusId": "sdsu",
+    "name": "Arts and Letters",
+    "abbreviation": "AL",
+    "aliases": [
+      "Arts and Letters",
+      "AL"
+    ],
+    "description": "Building housing arts and letters programs with classrooms, faculty offices, and instructional spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Arts+and+Letters+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Arts+and+Letters+SDSU"
+  },
+  {
+    "id": "fowler-athletics-center",
+    "campusId": "sdsu",
+    "name": "Fowler Athletics Center",
+    "abbreviation": "FAC",
+    "aliases": [
+      "Fowler Athletics Center",
+      "FAC",
+      "AZAT",
+      "Athletics Center"
+    ],
+    "description": "Main athletics center providing training facilities, offices, and support spaces for SDSU Aztec athletic programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fowler+Athletics+Center+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Fowler+Athletics+Center+SDSU"
+  },
+  {
+    "id": "aztec-mesa-modulars",
+    "campusId": "sdsu",
+    "name": "Aztec Mesa Modulars",
+    "abbreviation": "AMSA",
+    "aliases": [
+      "Aztec Mesa Modulars",
+      "AMSA"
+    ],
+    "description": "Modular classroom buildings on the Aztec Mesa providing supplemental instructional space.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Aztec+Mesa+Modulars+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Aztec+Mesa+Modulars+SDSU"
+  },
+  {
+    "id": "aztec-recreation-center",
+    "campusId": "sdsu",
+    "name": "Aztec Recreation Center",
+    "abbreviation": "ARC",
+    "aliases": [
+      "Aztec Recreation Center",
+      "ARC",
+      "Rec Center"
+    ],
+    "description": "Student recreation center with fitness equipment, courts, pools, climbing wall, and wellness programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Aztec+Recreation+Center+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Aztec+Recreation+Center+SDSU"
+  },
+  {
+    "id": "aztec-student-union",
+    "campusId": "sdsu",
+    "name": "Aztec Student Union",
+    "abbreviation": "ASU",
+    "aliases": [
+      "Aztec Student Union",
+      "ASU",
+      "Student Union"
+    ],
+    "description": "Central student union hub providing dining, student government, clubs, event spaces, and campus life services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Aztec+Student+Union+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Aztec+Student+Union+SDSU"
+  },
+  {
+    "id": "bioscience-center",
+    "campusId": "sdsu",
+    "name": "Bioscience Center",
+    "abbreviation": "BSCI",
+    "aliases": [
+      "Bioscience Center",
+      "BSCI"
+    ],
+    "description": "Research and teaching center for biological sciences with labs, classrooms, and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bioscience+Center+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bioscience+Center+SDSU"
+  },
+  {
+    "id": "black-resource-center",
+    "campusId": "sdsu",
+    "name": "Black Resource Center",
+    "abbreviation": "BRC",
+    "aliases": [
+      "Black Resource Center",
+      "BRC"
+    ],
+    "description": "Resource and support center serving Black and African American students with programs, events, and community space.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Black+Resource+Center+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Black+Resource+Center+SDSU"
+  },
+  {
+    "id": "blicks-art-supplies",
+    "campusId": "sdsu",
+    "name": "Blicks Art Supplies",
+    "abbreviation": "BLICK",
+    "aliases": [
+      "Blicks Art Supplies",
+      "Blick",
+      "BLICK",
+      "Art Supplies"
+    ],
+    "description": "Campus art supply store providing materials and supplies for art and design students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Blicks+Art+Supplies+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Blicks+Art+Supplies+SDSU"
+  },
+  {
+    "id": "bookstore",
+    "campusId": "sdsu",
+    "name": "Bookstore",
+    "abbreviation": "BOOK",
+    "aliases": [
+      "Bookstore",
+      "BOOK",
+      "Campus Bookstore",
+      "Aztec Shops Bookstore"
+    ],
+    "description": "Campus bookstore offering textbooks, course materials, SDSU merchandise, and student supplies.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bookstore+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bookstore+SDSU"
+  },
+  {
+    "id": "building-a",
+    "campusId": "sdsu",
+    "name": "Building A",
+    "abbreviation": "BLDA",
+    "aliases": [
+      "Building A",
+      "BLDA"
+    ],
+    "description": "Campus building providing classroom and office space for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Building+A+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Building+A+SDSU"
+  },
+  {
+    "id": "calpulli-center",
+    "campusId": "sdsu",
+    "name": "Calpulli Center",
+    "abbreviation": "CLP",
+    "aliases": [
+      "Calpulli Center",
+      "CLP"
+    ],
+    "description": "Community center providing event venues, dining, and meeting spaces for campus and community use.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Calpulli+Center+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Calpulli+Center+SDSU"
+  },
+  {
+    "id": "chapultepec-hall",
+    "campusId": "sdsu",
+    "name": "Chapultepec Residence Hall",
+    "abbreviation": "CHAP",
+    "aliases": [
+      "Chapultepec Residence Hall",
+      "CHAP",
+      "Chapultepec Hall"
+    ],
+    "description": "Residence hall providing on-campus housing for SDSU students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chapultepec+Residence+Hall+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Chapultepec+Residence+Hall+SDSU"
+  },
+  {
+    "id": "charles-bell-pavilion",
+    "campusId": "sdsu",
+    "name": "Charles B. Bell Jr. Pavilion",
+    "abbreviation": "BELL",
+    "aliases": [
+      "Charles B. Bell Jr. Pavilion",
+      "Bell Pavilion",
+      "BELL"
+    ],
+    "description": "Athletic pavilion named for Charles B. Bell Jr. supporting SDSU Aztecs sports programs and events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Charles+Bell+Pavilion+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Charles+Bell+Pavilion+SDSU"
+  },
+  {
+    "id": "chemical-sciences-lab",
+    "campusId": "sdsu",
+    "name": "Chemical Sciences Laboratory",
+    "abbreviation": "CSL",
+    "aliases": [
+      "Chemical Sciences Laboratory",
+      "CSL",
+      "Chemistry Lab"
+    ],
+    "description": "Teaching and research laboratory for chemistry and chemical sciences programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chemical+Sciences+Laboratory+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Chemical+Sciences+Laboratory+SDSU"
+  },
+  {
+    "id": "childrens-center",
+    "campusId": "sdsu",
+    "name": "Children's Center",
+    "abbreviation": "CHLD",
+    "aliases": [
+      "Children's Center",
+      "CHLD",
+      "Child Care Center"
+    ],
+    "description": "Campus childcare center providing early childhood education and care for children of students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Childrens+Center+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Childrens+Center+SDSU"
+  },
+  {
+    "id": "cholula-hall",
+    "campusId": "sdsu",
+    "name": "Cholula Hall",
+    "abbreviation": "CHAL",
+    "aliases": [
+      "Cholula Hall",
+      "CHAL"
+    ],
+    "description": "Campus hall providing instructional or residential space for SDSU students and programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cholula+Hall+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cholula+Hall+SDSU"
+  },
+  {
+    "id": "college-square",
+    "campusId": "sdsu",
+    "name": "College Square",
+    "abbreviation": "CSQ",
+    "aliases": [
+      "College Square",
+      "CSQ"
+    ],
+    "description": "Campus retail and dining square providing off-campus-style amenities, shops, and eateries for the SDSU community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=College+Square+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=College+Square+SDSU"
+  },
+  {
+    "id": "communications",
+    "campusId": "sdsu",
+    "name": "Communications Building",
+    "abbreviation": "COM",
+    "aliases": [
+      "Communications Building",
+      "Communications",
+      "COM"
+    ],
+    "description": "Building housing the School of Communication with classrooms, studios, and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Communications+Building+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Communications+Building+SDSU"
+  },
+  {
+    "id": "cross-cultural-center",
+    "campusId": "sdsu",
+    "name": "Cross Cultural Center",
+    "abbreviation": "CCC",
+    "aliases": [
+      "Cross Cultural Center",
+      "CCC"
+    ],
+    "description": "Center promoting diversity and inclusion with programs, events, and support services for underrepresented students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cross+Cultural+Center+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cross+Cultural+Center+SDSU"
+  },
+  {
+    "id": "cuicacalli-suites",
+    "campusId": "sdsu",
+    "name": "Cuicacalli Suites",
+    "abbreviation": "RSDN",
+    "aliases": [
+      "Cuicacalli Suites",
+      "RSDN",
+      "Cuicacalli Residence Hall"
+    ],
+    "description": "Suite-style residence hall providing on-campus housing with shared common areas for SDSU students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cuicacalli+Suites+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cuicacalli+Suites+SDSU"
+  },
+  {
+    "id": "dept-public-safety",
+    "campusId": "sdsu",
+    "name": "Department of Public Safety",
+    "abbreviation": "DPS",
+    "aliases": [
+      "Department of Public Safety",
+      "DPS",
+      "Campus Police",
+      "Public Safety"
+    ],
+    "description": "Campus public safety office providing law enforcement, emergency services, and security for the SDSU community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Department+Public+Safety+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Department+Public+Safety+SDSU"
+  },
+  {
+    "id": "dramatic-arts",
+    "campusId": "sdsu",
+    "name": "Dramatic Arts Building",
+    "abbreviation": "DA",
+    "aliases": [
+      "Dramatic Arts Building",
+      "Dramatic Arts",
+      "DA"
+    ],
+    "description": "Building housing the School of Theatre, Television, and Film with performance spaces, rehearsal rooms, and studios.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dramatic+Arts+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Dramatic+Arts+SDSU"
+  },
+  {
+    "id": "east-commons",
+    "campusId": "sdsu",
+    "name": "East Commons",
+    "abbreviation": "EC",
+    "aliases": [
+      "East Commons",
+      "EC"
+    ],
+    "description": "Dining and social commons on the east side of campus providing food services and gathering space.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=East+Commons+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=East+Commons+SDSU"
+  },
+  {
+    "id": "education",
+    "campusId": "sdsu",
+    "name": "Education Building",
+    "abbreviation": "ED",
+    "aliases": [
+      "Education Building",
+      "Education",
+      "ED"
+    ],
+    "description": "Building housing the College of Education with classrooms, labs, and faculty offices for teacher preparation programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Education+Building+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Education+Building+SDSU"
+  },
+  {
+    "id": "lamden-hall",
+    "campusId": "sdsu",
+    "name": "Education and Business Administration (Lamden Hall)",
+    "abbreviation": "EBA",
+    "aliases": [
+      "Education and Business Administration",
+      "Lamden Hall",
+      "EBA",
+      "LH"
+    ],
+    "description": "Lamden Hall housing education and business administration programs with classrooms and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lamden+Hall+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Lamden+Hall+SDSU"
+  },
+  {
+    "id": "ellen-ochoa-pavilion",
+    "campusId": "sdsu",
+    "name": "Ellen Ochoa Pavilion",
+    "abbreviation": "OP",
+    "aliases": [
+      "Ellen Ochoa Pavilion",
+      "OP",
+      "Ochoa Pavilion"
+    ],
+    "description": "Campus pavilion named for astronaut Ellen Ochoa used for events, athletics, and student activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ellen+Ochoa+Pavilion+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Ellen+Ochoa+Pavilion+SDSU"
+  },
+  {
+    "id": "engineering",
+    "campusId": "sdsu",
+    "name": "Engineering Building",
+    "abbreviation": "E",
+    "aliases": [
+      "Engineering Building",
+      "Engineering",
+      "E"
+    ],
+    "description": "Main engineering building with labs, classrooms, and faculty offices for engineering programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Engineering+Building+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Engineering+Building+SDSU"
+  },
+  {
+    "id": "engineering-interdisciplinary-sciences",
+    "campusId": "sdsu",
+    "name": "Engineering and Interdisciplinary Sciences Complex",
+    "abbreviation": "EIS",
+    "aliases": [
+      "Engineering and Interdisciplinary Sciences Complex",
+      "EIS"
+    ],
+    "description": "Modern complex housing engineering and interdisciplinary science programs with state-of-the-art labs and teaching spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Engineering+Interdisciplinary+Sciences+Complex+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Engineering+Interdisciplinary+Sciences+Complex+SDSU"
+  },
+  {
+    "id": "engineering-lab",
+    "campusId": "sdsu",
+    "name": "Engineering Lab",
+    "abbreviation": "EL",
+    "aliases": [
+      "Engineering Lab",
+      "EL"
+    ],
+    "description": "Engineering laboratory building providing hands-on lab space for engineering students and researchers.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Engineering+Lab+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Engineering+Lab+SDSU"
+  },
+  {
+    "id": "exercise-nutritional-sciences",
+    "campusId": "sdsu",
+    "name": "Exercise and Nutritional Sciences",
+    "abbreviation": "ENS",
+    "aliases": [
+      "Exercise and Nutritional Sciences",
+      "ENS"
+    ],
+    "description": "Building housing exercise science and nutritional sciences programs with labs and research facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Exercise+Nutritional+Sciences+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Exercise+Nutritional+Sciences+SDSU"
+  },
+  {
+    "id": "exercise-nutritional-sciences-annex",
+    "campusId": "sdsu",
+    "name": "Exercise and Nutritional Sciences Annex",
+    "abbreviation": "ENSA",
+    "aliases": [
+      "Exercise and Nutritional Sciences Annex",
+      "ENSA",
+      "ENS Annex"
+    ],
+    "description": "Annex building for exercise and nutritional sciences providing additional lab and classroom space.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Exercise+Nutritional+Sciences+Annex+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Exercise+Nutritional+Sciences+Annex+SDSU"
+  },
+  {
+    "id": "extended-studies-center",
+    "campusId": "sdsu",
+    "name": "Extended Studies Center",
+    "abbreviation": "ESC",
+    "aliases": [
+      "Extended Studies Center",
+      "ESC",
+      "College of Extended Studies"
+    ],
+    "description": "Center for extended learning offering professional development, continuing education, and certificate programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Extended+Studies+Center+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Extended+Studies+Center+SDSU"
+  },
+  {
+    "id": "facilities-services",
+    "campusId": "sdsu",
+    "name": "Facilities Services",
+    "abbreviation": "FS",
+    "aliases": [
+      "Facilities Services",
+      "FS",
+      "Facilities Management"
+    ],
+    "description": "Campus facilities services managing operations, maintenance, and infrastructure for university buildings and grounds.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Facilities+Services+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Facilities+Services+SDSU"
+  },
+  {
+    "id": "gateway-center",
+    "campusId": "sdsu",
+    "name": "Gateway Center",
+    "abbreviation": "GC",
+    "aliases": [
+      "Gateway Center",
+      "GC"
+    ],
+    "description": "Campus gateway building providing student services, information, and welcoming spaces for prospective and new students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gateway+Center+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Gateway+Center+SDSU"
+  },
+  {
+    "id": "geography-annex",
+    "campusId": "sdsu",
+    "name": "Geography Annex",
+    "abbreviation": "GA",
+    "aliases": [
+      "Geography Annex",
+      "GA"
+    ],
+    "description": "Annex building providing additional space for the geography department with labs and offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Geography+Annex+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Geography+Annex+SDSU"
+  },
+  {
+    "id": "gmcs",
+    "campusId": "sdsu",
+    "name": "Geology / Mathematics / Computer Science Building",
+    "abbreviation": "GMCS",
+    "aliases": [
+      "Geology Mathematics Computer Science",
+      "GMCS",
+      "Geology",
+      "Math",
+      "Computer Science Building"
+    ],
+    "description": "Building housing geology, mathematics, and computer science departments with classrooms, labs, and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=GMCS+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=GMCS+SDSU"
+  },
+  {
+    "id": "hardy-tower",
+    "campusId": "sdsu",
+    "name": "Hardy Tower",
+    "abbreviation": "HT",
+    "aliases": [
+      "Hardy Tower",
+      "HT"
+    ],
+    "description": "Iconic tower building on the SDSU campus housing administrative and academic offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hardy+Tower+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Hardy+Tower+SDSU"
+  },
+  {
+    "id": "hepner-hall",
+    "campusId": "sdsu",
+    "name": "Hepner Hall",
+    "abbreviation": "HH",
+    "aliases": [
+      "Hepner Hall",
+      "HH"
+    ],
+    "description": "Historic landmark building and one of the original structures on the SDSU campus housing administrative offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hepner+Hall+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Hepner+Hall+SDSU"
+  },
+  {
+    "id": "housing-administration",
+    "campusId": "sdsu",
+    "name": "Housing Administration / Residential Education",
+    "abbreviation": "HA/RE",
+    "aliases": [
+      "Housing Administration",
+      "Residential Education",
+      "HA/RE"
+    ],
+    "description": "Office managing on-campus housing, residential programs, and student community development.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Housing+Administration+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Housing+Administration+SDSU"
+  },
+  {
+    "id": "huaxtepec",
+    "campusId": "sdsu",
+    "name": "Huaxtepec",
+    "abbreviation": "HUAX",
+    "aliases": [
+      "Huaxtepec",
+      "HUAX"
+    ],
+    "description": "Campus residential or community facility providing housing or program space for SDSU students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Huaxtepec+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Huaxtepec+SDSU"
+  },
+  {
+    "id": "huaxyacac-hall",
+    "campusId": "sdsu",
+    "name": "Huaxyacac Hall",
+    "abbreviation": "HUAY",
+    "aliases": [
+      "Huaxyacac Hall",
+      "HUAY"
+    ],
+    "description": "Campus hall providing residential or classroom space for SDSU students and programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Huaxyacac+Hall+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Huaxyacac+Hall+SDSU"
+  },
+  {
+    "id": "industrial-technology",
+    "campusId": "sdsu",
+    "name": "Industrial Technology Building",
+    "abbreviation": "IT",
+    "aliases": [
+      "Industrial Technology Building",
+      "Industrial Technology",
+      "IT"
+    ],
+    "description": "Building housing industrial technology programs with workshops, labs, and applied technology instruction spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Industrial+Technology+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Industrial+Technology+SDSU"
+  },
+  {
+    "id": "international-student-center",
+    "campusId": "sdsu",
+    "name": "International Student Center",
+    "abbreviation": "ISC",
+    "aliases": [
+      "International Student Center",
+      "ISC"
+    ],
+    "description": "Center providing advising, support services, and community programming for international students at SDSU.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=International+Student+Center+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=International+Student+Center+SDSU"
+  },
+  {
+    "id": "kpbs",
+    "campusId": "sdsu",
+    "name": "KPBS",
+    "abbreviation": "KPBS",
+    "aliases": [
+      "KPBS",
+      "KPBS Public Media"
+    ],
+    "description": "Home of KPBS public radio and television station operated by SDSU, serving the San Diego community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=KPBS+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=KPBS+SDSU"
+  },
+  {
+    "id": "library-addition",
+    "campusId": "sdsu",
+    "name": "Library Addition",
+    "abbreviation": "LA",
+    "aliases": [
+      "Library Addition",
+      "LA"
+    ],
+    "description": "Addition to the Love Library providing expanded research collections, study spaces, and library services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Library+Addition+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Library+Addition+SDSU"
+  },
+  {
+    "id": "library-book-drop-drive-up",
+    "campusId": "sdsu",
+    "name": "Library Book Drop (Drive Up)",
+    "abbreviation": "LBDD",
+    "aliases": [
+      "Library Book Drop Drive Up",
+      "Drive-Up Book Drop",
+      "LBDD"
+    ],
+    "description": "Drive-up book return drop for returning library materials without leaving your vehicle.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Library+Book+Drop+Drive+Up+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Library+Book+Drop+Drive+Up+SDSU"
+  },
+  {
+    "id": "library-book-drop-dome",
+    "campusId": "sdsu",
+    "name": "Library Book Drop (Library Dome)",
+    "abbreviation": "LBDM",
+    "aliases": [
+      "Library Book Drop Library Dome",
+      "Library Dome Book Drop",
+      "LBDM"
+    ],
+    "description": "Book return drop located near the Library Dome for returning library materials.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Library+Book+Drop+Dome+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Library+Book+Drop+Dome+SDSU"
+  },
+  {
+    "id": "library-book-drop-love",
+    "campusId": "sdsu",
+    "name": "Library Book Drop (Love Library)",
+    "abbreviation": "LBDL",
+    "aliases": [
+      "Library Book Drop Love Library",
+      "Love Library Book Drop",
+      "LBDL"
+    ],
+    "description": "Book return drop located at Love Library for returning library materials.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Library+Book+Drop+Love+Library+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Library+Book+Drop+Love+Library+SDSU"
+  },
+  {
+    "id": "life-sciences-north",
+    "campusId": "sdsu",
+    "name": "Life Sciences North",
+    "abbreviation": "LSN",
+    "aliases": [
+      "Life Sciences North",
+      "LSN"
+    ],
+    "description": "North life sciences building with teaching labs, research facilities, and classrooms for biological and life science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Life+Sciences+North+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Life+Sciences+North+SDSU"
+  },
+  {
+    "id": "life-sciences-south",
+    "campusId": "sdsu",
+    "name": "Life Sciences South",
+    "abbreviation": "LSS",
+    "aliases": [
+      "Life Sciences South",
+      "LSS"
+    ],
+    "description": "South life sciences building providing additional labs, research facilities, and classrooms for life science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Life+Sciences+South+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Life+Sciences+South+SDSU"
+  },
+  {
+    "id": "little-theatre",
+    "campusId": "sdsu",
+    "name": "Little Theatre",
+    "abbreviation": "LT",
+    "aliases": [
+      "Little Theatre",
+      "LT"
+    ],
+    "description": "Intimate campus theatre venue used for student and faculty theatrical productions and performances.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Little+Theatre+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Little+Theatre+SDSU"
+  },
+  {
+    "id": "love-library",
+    "campusId": "sdsu",
+    "name": "Love Library",
+    "abbreviation": "LL",
+    "aliases": [
+      "Love Library",
+      "LL",
+      "Library",
+      "Malcolm A. Love Library"
+    ],
+    "description": "Main campus library providing comprehensive research collections, study spaces, and academic support services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Love+Library+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Love+Library+SDSU"
+  },
+  {
+    "id": "manchester-hall",
+    "campusId": "sdsu",
+    "name": "Manchester Hall",
+    "abbreviation": "MH",
+    "aliases": [
+      "Manchester Hall",
+      "MH"
+    ],
+    "description": "Academic hall housing university departments with classrooms and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Manchester+Hall+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Manchester+Hall+SDSU"
+  },
+  {
+    "id": "maya-hall",
+    "campusId": "sdsu",
+    "name": "Maya Residence Hall",
+    "abbreviation": "MAYA",
+    "aliases": [
+      "Maya Residence Hall",
+      "MAYA",
+      "Maya Hall"
+    ],
+    "description": "Residence hall providing on-campus housing for SDSU students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Maya+Residence+Hall+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Maya+Residence+Hall+SDSU"
+  },
+  {
+    "id": "metepec",
+    "campusId": "sdsu",
+    "name": "Metepec",
+    "abbreviation": "METE",
+    "aliases": [
+      "Metepec",
+      "METE"
+    ],
+    "description": "Campus residential or community facility providing housing or program space for SDSU students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Metepec+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Metepec+SDSU"
+  },
+  {
+    "id": "montezuma-classrooms-north",
+    "campusId": "sdsu",
+    "name": "Montezuma Classrooms North",
+    "abbreviation": "MCN",
+    "aliases": [
+      "Montezuma Classrooms North",
+      "MCN"
+    ],
+    "description": "North classroom building in the Montezuma area providing general-purpose instructional spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Montezuma+Classrooms+North+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Montezuma+Classrooms+North+SDSU"
+  },
+  {
+    "id": "montezuma-classrooms-south",
+    "campusId": "sdsu",
+    "name": "Montezuma Classrooms South",
+    "abbreviation": "MCS",
+    "aliases": [
+      "Montezuma Classrooms South",
+      "MCS"
+    ],
+    "description": "South classroom building in the Montezuma area providing general-purpose instructional spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Montezuma+Classrooms+South+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Montezuma+Classrooms+South+SDSU"
+  },
+  {
+    "id": "music",
+    "campusId": "sdsu",
+    "name": "Music Building",
+    "abbreviation": "M",
+    "aliases": [
+      "Music Building",
+      "Music",
+      "M"
+    ],
+    "description": "Building housing the School of Music with rehearsal halls, practice rooms, studios, and performance venues.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Music+Building+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Music+Building+SDSU"
+  },
+  {
+    "id": "nasatir-hall",
+    "campusId": "sdsu",
+    "name": "Nasatir Hall",
+    "abbreviation": "NH",
+    "aliases": [
+      "Nasatir Hall",
+      "NH"
+    ],
+    "description": "Academic hall housing social science and humanities departments with classrooms and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nasatir+Hall+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Nasatir+Hall+SDSU"
+  },
+  {
+    "id": "north-education",
+    "campusId": "sdsu",
+    "name": "North Education",
+    "abbreviation": "NE",
+    "aliases": [
+      "North Education",
+      "NE"
+    ],
+    "description": "North education building providing classrooms and instructional spaces for education programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=North+Education+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=North+Education+SDSU"
+  },
+  {
+    "id": "olmeca-hall",
+    "campusId": "sdsu",
+    "name": "Olmeca Residence Hall",
+    "abbreviation": "OLM",
+    "aliases": [
+      "Olmeca Residence Hall",
+      "OLM",
+      "Olmeca Hall"
+    ],
+    "description": "Residence hall providing on-campus housing for SDSU students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Olmeca+Residence+Hall+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Olmeca+Residence+Hall+SDSU"
+  },
+  {
+    "id": "open-air-theater",
+    "campusId": "sdsu",
+    "name": "Open Air Theater",
+    "abbreviation": "OAT",
+    "aliases": [
+      "Open Air Theater",
+      "OAT",
+      "SDSU Open Air Theater"
+    ],
+    "description": "Iconic outdoor amphitheater hosting major concerts, commencement ceremonies, and large campus events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Open+Air+Theater+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Open+Air+Theater+SDSU"
+  },
+  {
+    "id": "parking-information",
+    "campusId": "sdsu",
+    "name": "Parking Information",
+    "abbreviation": "PARK",
+    "aliases": [
+      "Parking Information",
+      "PARK",
+      "Parking Services"
+    ],
+    "description": "Campus parking information and services office providing permits, maps, and parking assistance.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Information+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Information+SDSU"
+  },
+  {
+    "id": "goodall-alumni-center",
+    "campusId": "sdsu",
+    "name": "Parma Payne Goodall Alumni Center",
+    "abbreviation": "ALUM",
+    "aliases": [
+      "Parma Payne Goodall Alumni Center",
+      "Goodall Alumni Center",
+      "ALUM",
+      "Alumni Center"
+    ],
+    "description": "Alumni center named for Parma Payne Goodall hosting alumni events, reunions, and university development activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Goodall+Alumni+Center+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Goodall+Alumni+Center+SDSU"
+  },
+  {
+    "id": "peterson-gym",
+    "campusId": "sdsu",
+    "name": "Peterson Gym",
+    "abbreviation": "PG",
+    "aliases": [
+      "Peterson Gym",
+      "PG",
+      "Peterson Gymnasium"
+    ],
+    "description": "Campus gymnasium named for Peterson providing sports courts, fitness facilities, and physical education spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Peterson+Gym+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Peterson+Gym+SDSU"
+  },
+  {
+    "id": "physical-sciences",
+    "campusId": "sdsu",
+    "name": "Physical Sciences Building",
+    "abbreviation": "PS",
+    "aliases": [
+      "Physical Sciences Building",
+      "Physical Sciences",
+      "PS"
+    ],
+    "description": "Building housing physical science departments with teaching labs, research facilities, and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Physical+Sciences+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Physical+Sciences+SDSU"
+  },
+  {
+    "id": "physics",
+    "campusId": "sdsu",
+    "name": "Physics Building",
+    "abbreviation": "P",
+    "aliases": [
+      "Physics Building",
+      "Physics",
+      "P"
+    ],
+    "description": "Building housing the physics department with lecture halls, labs, and faculty research spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Physics+Building+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Physics+Building+SDSU"
+  },
+  {
+    "id": "physics-astronomy",
+    "campusId": "sdsu",
+    "name": "Physics / Astronomy Building",
+    "abbreviation": "PA",
+    "aliases": [
+      "Physics / Astronomy Building",
+      "Physics Astronomy",
+      "PA"
+    ],
+    "description": "Building housing physics and astronomy programs with observatories, labs, and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Physics+Astronomy+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Physics+Astronomy+SDSU"
+  },
+  {
+    "id": "pride-center",
+    "campusId": "sdsu",
+    "name": "Pride Center",
+    "abbreviation": "PRIDE",
+    "aliases": [
+      "Pride Center",
+      "PRIDE",
+      "LGBTQ Pride Center"
+    ],
+    "description": "Center providing support, resources, and community space for LGBTQ+ students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pride+Center+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Pride+Center+SDSU"
+  },
+  {
+    "id": "psfa",
+    "campusId": "sdsu",
+    "name": "Professional Studies and Fine Arts",
+    "abbreviation": "PSFA",
+    "aliases": [
+      "Professional Studies and Fine Arts",
+      "PSFA"
+    ],
+    "description": "Building housing professional studies and fine arts programs including design, fashion, and related disciplines.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Professional+Studies+Fine+Arts+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Professional+Studies+Fine+Arts+SDSU"
+  },
+  {
+    "id": "psfa-portables",
+    "campusId": "sdsu",
+    "name": "Professional Studies and Fine Arts Portable Classrooms",
+    "abbreviation": "PSFX",
+    "aliases": [
+      "Professional Studies and Fine Arts Portable Classrooms",
+      "PSFX",
+      "PSFA Portables"
+    ],
+    "description": "Portable classroom buildings providing supplemental instructional space for professional studies and fine arts programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=PSFA+Portable+Classrooms+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=PSFA+Portable+Classrooms+SDSU"
+  },
+  {
+    "id": "prospective-student-center",
+    "campusId": "sdsu",
+    "name": "Prospective Student Center",
+    "abbreviation": "PSC",
+    "aliases": [
+      "Prospective Student Center",
+      "PSC",
+      "Admissions Welcome Center"
+    ],
+    "description": "Welcome center for prospective students and families offering tours, information sessions, and admissions support.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Prospective+Student+Center+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Prospective+Student+Center+SDSU"
+  },
+  {
+    "id": "scripps-cottage",
+    "campusId": "sdsu",
+    "name": "Scripps Cottage / Scripps Park",
+    "abbreviation": "SCRIP",
+    "aliases": [
+      "Scripps Cottage",
+      "Scripps Park",
+      "SCRIP"
+    ],
+    "description": "Historic cottage and adjacent park named for Scripps providing outdoor green space and event venue on campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Scripps+Cottage+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Scripps+Cottage+SDSU"
+  },
+  {
+    "id": "sdsu-card-office",
+    "campusId": "sdsu",
+    "name": "SDSU Card Office",
+    "abbreviation": "CARD",
+    "aliases": [
+      "SDSU Card Office",
+      "Card Office",
+      "CARD",
+      "Aztec Card"
+    ],
+    "description": "Office issuing and managing SDSU student, faculty, and staff ID cards and campus card services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=SDSU+Card+Office",
+    "appleMapsUrl": "http://maps.apple.com/?q=SDSU+Card+Office"
+  },
+  {
+    "id": "south-campus-plaza-north",
+    "campusId": "sdsu",
+    "name": "South Campus Plaza: North Tower",
+    "abbreviation": "SCPN",
+    "aliases": [
+      "South Campus Plaza North Tower",
+      "South Campus Plaza North",
+      "SCPN"
+    ],
+    "description": "North tower of South Campus Plaza providing student housing with modern amenities near campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=South+Campus+Plaza+North+Tower+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=South+Campus+Plaza+North+Tower+SDSU"
+  },
+  {
+    "id": "south-campus-plaza-south",
+    "campusId": "sdsu",
+    "name": "South Campus Plaza: South Tower",
+    "abbreviation": "SCPS",
+    "aliases": [
+      "South Campus Plaza South Tower",
+      "South Campus Plaza South",
+      "SCPS"
+    ],
+    "description": "South tower of South Campus Plaza providing student housing with modern amenities near campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=South+Campus+Plaza+South+Tower+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=South+Campus+Plaza+South+Tower+SDSU"
+  },
+  {
+    "id": "speech-language-hearing",
+    "campusId": "sdsu",
+    "name": "Speech, Language and Hearing",
+    "abbreviation": "SLSH",
+    "aliases": [
+      "Speech Language and Hearing",
+      "SLSH",
+      "Speech Language Hearing"
+    ],
+    "description": "Building housing speech, language, and hearing sciences programs with clinical training spaces and labs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Speech+Language+Hearing+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Speech+Language+Hearing+SDSU"
+  },
+  {
+    "id": "storm-hall",
+    "campusId": "sdsu",
+    "name": "Storm Hall",
+    "abbreviation": "SH",
+    "aliases": [
+      "Storm Hall",
+      "SH"
+    ],
+    "description": "Academic hall housing social science and humanities departments with classrooms and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Storm+Hall+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Storm+Hall+SDSU"
+  },
+  {
+    "id": "storm-hall-west",
+    "campusId": "sdsu",
+    "name": "Storm Hall West",
+    "abbreviation": "SHW",
+    "aliases": [
+      "Storm Hall West",
+      "SHW"
+    ],
+    "description": "West wing of Storm Hall providing additional classroom and office space for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Storm+Hall+West+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Storm+Hall+West+SDSU"
+  },
+  {
+    "id": "student-services-east",
+    "campusId": "sdsu",
+    "name": "Student Services East",
+    "abbreviation": "SSE",
+    "aliases": [
+      "Student Services East",
+      "SSE"
+    ],
+    "description": "East student services building housing advising, financial aid, registrar, and enrollment support services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Services+East+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Services+East+SDSU"
+  },
+  {
+    "id": "student-services-west",
+    "campusId": "sdsu",
+    "name": "Student Services West",
+    "abbreviation": "SSW",
+    "aliases": [
+      "Student Services West",
+      "SSW"
+    ],
+    "description": "West student services building housing advising, career services, and student support programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Services+West+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Services+West+SDSU"
+  },
+  {
+    "id": "tarastec",
+    "campusId": "sdsu",
+    "name": "Tarastec",
+    "abbreviation": "TARA",
+    "aliases": [
+      "Tarastec",
+      "TARA"
+    ],
+    "description": "Campus residential or community facility providing housing or program space for SDSU students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tarastec+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Tarastec+SDSU"
+  },
+  {
+    "id": "tenochca-hall",
+    "campusId": "sdsu",
+    "name": "Tenochca Residence Hall",
+    "abbreviation": "TENO",
+    "aliases": [
+      "Tenochca Residence Hall",
+      "TENO",
+      "Tenochca Hall"
+    ],
+    "description": "Residence hall providing on-campus housing for SDSU students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tenochca+Residence+Hall+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Tenochca+Residence+Hall+SDSU"
+  },
+  {
+    "id": "toltec",
+    "campusId": "sdsu",
+    "name": "Toltec",
+    "abbreviation": "TOLT",
+    "aliases": [
+      "Toltec",
+      "TOLT"
+    ],
+    "description": "Campus residential or community facility providing housing or program space for SDSU students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Toltec+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Toltec+SDSU"
+  },
+  {
+    "id": "transit-center",
+    "campusId": "sdsu",
+    "name": "Transit Center",
+    "abbreviation": "TC",
+    "aliases": [
+      "Transit Center",
+      "TC",
+      "SDSU Transit Center",
+      "MTS Station"
+    ],
+    "description": "Campus transit hub serving as an MTS trolley station and bus transfer point for SDSU commuters.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Transit+Center+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Transit+Center+SDSU"
+  },
+  {
+    "id": "tula-community-center",
+    "campusId": "sdsu",
+    "name": "Tula Community Center",
+    "abbreviation": "TULA",
+    "aliases": [
+      "Tula Community Center",
+      "TULA",
+      "Tula Center"
+    ],
+    "description": "Community center providing event venues, meeting spaces, and community programming for students and residents.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tula+Community+Center+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Tula+Community+Center+SDSU"
+  },
+  {
+    "id": "university-towers",
+    "campusId": "sdsu",
+    "name": "University Towers Residence Hall",
+    "abbreviation": "UT",
+    "aliases": [
+      "University Towers Residence Hall",
+      "University Towers",
+      "UT"
+    ],
+    "description": "Residence hall providing on-campus housing for SDSU students in a tower-style building.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Towers+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Towers+SDSU"
+  },
+  {
+    "id": "viejas-arena",
+    "campusId": "sdsu",
+    "name": "Viejas Arena",
+    "abbreviation": "ARNA",
+    "aliases": [
+      "Viejas Arena",
+      "ARNA",
+      "Aztec Arena"
+    ],
+    "description": "Major on-campus arena hosting SDSU Aztec basketball, concerts, and large-scale events seating over 12,000.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Viejas+Arena+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Viejas+Arena+SDSU"
+  },
+  {
+    "id": "viejas-arena-ticket-office",
+    "campusId": "sdsu",
+    "name": "Viejas Arena Ticket Office",
+    "abbreviation": "ARNT",
+    "aliases": [
+      "Viejas Arena Ticket Office",
+      "ARNT",
+      "Ticket Office"
+    ],
+    "description": "Box office for purchasing tickets to Viejas Arena events including basketball games and concerts.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Viejas+Arena+Ticket+Office+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Viejas+Arena+Ticket+Office+SDSU"
+  },
+  {
+    "id": "villa-alvarado",
+    "campusId": "sdsu",
+    "name": "Villa Alvarado Residence Hall",
+    "abbreviation": "VA",
+    "aliases": [
+      "Villa Alvarado Residence Hall",
+      "Villa Alvarado",
+      "VA"
+    ],
+    "description": "Residence hall providing on-campus housing for SDSU students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Villa+Alvarado+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Villa+Alvarado+SDSU"
+  },
+  {
+    "id": "west-commons",
+    "campusId": "sdsu",
+    "name": "West Commons",
+    "abbreviation": "WC",
+    "aliases": [
+      "West Commons",
+      "WC"
+    ],
+    "description": "Dining and social commons on the west side of campus providing food services and gathering space for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=West+Commons+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=West+Commons+SDSU"
+  },
+  {
+    "id": "zacatepec",
+    "campusId": "sdsu",
+    "name": "Zacatepec",
+    "abbreviation": "ZACA",
+    "aliases": [
+      "Zacatepec",
+      "ZACA"
+    ],
+    "description": "Campus residential or community facility providing housing or program space for SDSU students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Zacatepec+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Zacatepec+SDSU"
+  },
+  {
+    "id": "zura-hall",
+    "campusId": "sdsu",
+    "name": "Zura Residence Hall",
+    "abbreviation": "ZURA",
+    "aliases": [
+      "Zura Residence Hall",
+      "ZURA",
+      "Zura Hall"
+    ],
+    "description": "Residence hall providing on-campus housing for SDSU students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Zura+Residence+Hall+SDSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Zura+Residence+Hall+SDSU"
+  }
+]

@@ -1,0 +1,858 @@
+[
+  {
+    "id": "acker-gym",
+    "campusId": "csuc",
+    "name": "Acker Gymnasium",
+    "abbreviation": "ACKER",
+    "aliases": [
+      "Acker Gymnasium",
+      "Acker Gym"
+    ],
+    "description": "Campus gymnasium facility supporting physical education classes, intramural sports, and athletic programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Acker+Gymnasium+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Acker+Gymnasium+CSU+Chico"
+  },
+  {
+    "id": "warrens-reception",
+    "campusId": "csuc",
+    "name": "Albert E. Warrens Reception Center",
+    "abbreviation": "WARRENS",
+    "aliases": [
+      "Albert E. Warrens Reception Center",
+      "Warrens Reception Center",
+      "Reception Center"
+    ],
+    "description": "Reception and event center used for university ceremonies, alumni gatherings, and formal events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Warrens+Reception+Center+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Warrens+Reception+Center+CSU+Chico"
+  },
+  {
+    "id": "alumni-assoc",
+    "campusId": "csuc",
+    "name": "Alumni Association",
+    "abbreviation": "ALUMNI",
+    "aliases": [
+      "Alumni Association",
+      "Sapp Hall Alumni Association",
+      "Alumni Office"
+    ],
+    "description": "Alumni Association offices in Sapp Hall supporting graduate engagement, reunions, and university advancement.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Alumni+Association+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Alumni+Association+CSU+Chico"
+  },
+  {
+    "id": "alumni-glen",
+    "campusId": "csuc",
+    "name": "Alumni Glen",
+    "abbreviation": "ALUMNI-GLEN",
+    "aliases": [
+      "Alumni Glen"
+    ],
+    "description": "Scenic outdoor gathering area on campus used for alumni events, commencement receptions, and community activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Alumni+Glen+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Alumni+Glen+CSU+Chico"
+  },
+  {
+    "id": "arts-humanities",
+    "campusId": "csuc",
+    "name": "Arts & Humanities Building",
+    "abbreviation": "AH",
+    "aliases": [
+      "Arts & Humanities Building",
+      "Arts and Humanities Building",
+      "AH"
+    ],
+    "description": "Building housing arts and humanities departments with classrooms, faculty offices, and studio spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Arts+Humanities+Building+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Arts+Humanities+Building+CSU+Chico"
+  },
+  {
+    "id": "associated-students",
+    "campusId": "csuc",
+    "name": "Associated Students",
+    "abbreviation": "AS",
+    "aliases": [
+      "Associated Students",
+      "AS",
+      "Associated Students BMU"
+    ],
+    "description": "Associated Students offices in the Bell Memorial Union managing student government, programs, and campus activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Associated+Students+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Associated+Students+CSU+Chico"
+  },
+  {
+    "id": "hamilton",
+    "campusId": "csuc",
+    "name": "Aymer J. Hamilton Building",
+    "abbreviation": "HAMILTON",
+    "aliases": [
+      "Aymer J. Hamilton Building",
+      "Hamilton Building"
+    ],
+    "description": "Building providing classroom and office space for various academic departments and programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hamilton+Building+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Hamilton+Building+CSU+Chico"
+  },
+  {
+    "id": "ayres",
+    "campusId": "csuc",
+    "name": "Ayres Hall",
+    "abbreviation": "AYRES",
+    "aliases": [
+      "Ayres Hall"
+    ],
+    "description": "Academic building with classrooms and faculty offices supporting multiple departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ayres+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Ayres+Hall+CSU+Chico"
+  },
+  {
+    "id": "bmu",
+    "campusId": "csuc",
+    "name": "Bell Memorial Union",
+    "abbreviation": "BMU",
+    "aliases": [
+      "Bell Memorial Union",
+      "BMU",
+      "Student Union"
+    ],
+    "description": "Central campus union building housing dining, student services, Associated Students, the Bookstore, and event spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bell+Memorial+Union+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bell+Memorial+Union+CSU+Chico"
+  },
+  {
+    "id": "bidwell-bowl",
+    "campusId": "csuc",
+    "name": "Bidwell Bowl Amphitheatre",
+    "abbreviation": "BIDWELL",
+    "aliases": [
+      "Bidwell Bowl Amphitheatre",
+      "Bidwell Bowl",
+      "Amphitheatre"
+    ],
+    "description": "Historic outdoor amphitheatre nestled in a natural bowl setting used for concerts, events, and performances.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bidwell+Bowl+Amphitheatre+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bidwell+Bowl+Amphitheatre+CSU+Chico"
+  },
+  {
+    "id": "bookstore",
+    "campusId": "csuc",
+    "name": "Bookstore",
+    "abbreviation": "BOOKS",
+    "aliases": [
+      "Bookstore",
+      "Campus Bookstore",
+      "BMU Bookstore"
+    ],
+    "description": "Campus bookstore in the Bell Memorial Union selling textbooks, course materials, Chico State merchandise, and supplies.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bookstore+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bookstore+CSU+Chico"
+  },
+  {
+    "id": "butte",
+    "campusId": "csuc",
+    "name": "Butte Hall",
+    "abbreviation": "BUTTE",
+    "aliases": [
+      "Butte Hall"
+    ],
+    "description": "Academic building housing classrooms, labs, and faculty offices for various university departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Butte+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Butte+Hall+CSU+Chico"
+  },
+  {
+    "id": "colusa",
+    "campusId": "csuc",
+    "name": "Colusa Hall",
+    "abbreviation": "COLUSA",
+    "aliases": [
+      "Colusa Hall",
+      "Conference Center",
+      "Colusa Hall Conference Center"
+    ],
+    "description": "Conference center facility in Colusa Hall used for university events, meetings, and professional gatherings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Colusa+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Colusa+Hall+CSU+Chico"
+  },
+  {
+    "id": "creekside-plaza",
+    "campusId": "csuc",
+    "name": "Creekside Plaza",
+    "abbreviation": "CREEKSIDE",
+    "aliases": [
+      "Creekside Plaza",
+      "Creekside"
+    ],
+    "description": "Outdoor plaza alongside campus creek serving as a gathering space for students and campus events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Creekside+Plaza+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Creekside+Plaza+CSU+Chico"
+  },
+  {
+    "id": "esken",
+    "campusId": "csuc",
+    "name": "Esken Hall",
+    "abbreviation": "ESKEN",
+    "aliases": [
+      "Esken Hall"
+    ],
+    "description": "Academic building with classrooms and departmental offices supporting university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Esken+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Esken+Hall+CSU+Chico"
+  },
+  {
+    "id": "facilities-mgmt",
+    "campusId": "csuc",
+    "name": "Facilities Management & Services",
+    "abbreviation": "FMS",
+    "aliases": [
+      "Facilities Management & Services",
+      "Facilities Management",
+      "Facilities Services"
+    ],
+    "description": "Division managing campus infrastructure, maintenance, custodial services, and physical plant operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Facilities+Management+Services+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Facilities+Management+Services+CSU+Chico"
+  },
+  {
+    "id": "gateway-museum",
+    "campusId": "csuc",
+    "name": "Gateway Science Museum",
+    "abbreviation": "GATEWAY",
+    "aliases": [
+      "Gateway Science Museum",
+      "Science Museum",
+      "Gateway Museum"
+    ],
+    "description": "Public science museum on campus featuring interactive exhibits on natural history, ecology, and the sciences.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gateway+Science+Museum+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Gateway+Science+Museum+CSU+Chico"
+  },
+  {
+    "id": "glenn",
+    "campusId": "csuc",
+    "name": "Glenn Hall",
+    "abbreviation": "GLENN",
+    "aliases": [
+      "Glenn Hall"
+    ],
+    "description": "Academic building providing classrooms and faculty offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Glenn+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Glenn+Hall+CSU+Chico"
+  },
+  {
+    "id": "petersen-rose-garden",
+    "campusId": "csuc",
+    "name": "George Petersen Rose Garden",
+    "abbreviation": "ROSE-GARDEN",
+    "aliases": [
+      "George Petersen Rose Garden",
+      "Petersen Rose Garden",
+      "Rose Garden"
+    ],
+    "description": "Beautiful rose garden on campus providing a serene outdoor space for the campus community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=George+Petersen+Rose+Garden+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=George+Petersen+Rose+Garden+CSU+Chico"
+  },
+  {
+    "id": "harlen-adams-theatre",
+    "campusId": "csuc",
+    "name": "Harlen Adams Theatre",
+    "abbreviation": "HAT",
+    "aliases": [
+      "Harlen Adams Theatre",
+      "Adams Theatre",
+      "PAC 144"
+    ],
+    "description": "Theatre venue in the Performing Arts Center hosting drama productions, student performances, and events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Harlen+Adams+Theatre+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Harlen+Adams+Theatre+CSU+Chico"
+  },
+  {
+    "id": "holt",
+    "campusId": "csuc",
+    "name": "Holt Hall",
+    "abbreviation": "HOLT",
+    "aliases": [
+      "Holt Hall"
+    ],
+    "description": "Academic building housing classrooms and departmental offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Holt+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Holt+Hall+CSU+Chico"
+  },
+  {
+    "id": "info-center",
+    "campusId": "csuc",
+    "name": "Information Center",
+    "abbreviation": "INFO",
+    "aliases": [
+      "Information Center",
+      "Campus Information Center",
+      "Visitor Information"
+    ],
+    "description": "Campus information center providing directions, maps, and visitor assistance for students and guests.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Information+Center+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Information+Center+CSU+Chico"
+  },
+  {
+    "id": "headley-art-gallery",
+    "campusId": "csuc",
+    "name": "Jacki Headley University Art Gallery",
+    "abbreviation": "ART-GALLERY",
+    "aliases": [
+      "Jacki Headley University Art Gallery",
+      "Headley Art Gallery",
+      "University Art Gallery",
+      "Art Gallery"
+    ],
+    "description": "University art gallery presenting student, faculty, and visiting artist exhibitions in fine arts and studio art.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jacki+Headley+University+Art+Gallery+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Jacki+Headley+University+Art+Gallery+CSU+Chico"
+  },
+  {
+    "id": "kendall",
+    "campusId": "csuc",
+    "name": "Kendall Hall",
+    "abbreviation": "KENDALL",
+    "aliases": [
+      "Kendall Hall"
+    ],
+    "description": "Major academic building housing classrooms, administrative offices, and university services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kendall+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kendall+Hall+CSU+Chico"
+  },
+  {
+    "id": "konkow",
+    "campusId": "csuc",
+    "name": "Konkow Hall",
+    "abbreviation": "KONKOW",
+    "aliases": [
+      "Konkow Hall"
+    ],
+    "description": "Academic building with classrooms and faculty offices supporting various university departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Konkow+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Konkow+Hall+CSU+Chico"
+  },
+  {
+    "id": "langdon-engineering",
+    "campusId": "csuc",
+    "name": "Langdon Engineering Center",
+    "abbreviation": "LANGDON",
+    "aliases": [
+      "Langdon Engineering Center",
+      "Engineering Center",
+      "Langdon"
+    ],
+    "description": "College of Engineering, Computer Science and Construction Management with labs, classrooms, and project spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Langdon+Engineering+Center+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Langdon+Engineering+Center+CSU+Chico"
+  },
+  {
+    "id": "lassen",
+    "campusId": "csuc",
+    "name": "Lassen Hall",
+    "abbreviation": "LASSEN",
+    "aliases": [
+      "Lassen Hall"
+    ],
+    "description": "Academic and administrative building housing departments and classrooms for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lassen+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Lassen+Hall+CSU+Chico"
+  },
+  {
+    "id": "laxson",
+    "campusId": "csuc",
+    "name": "Laxson Auditorium",
+    "abbreviation": "LAXSON",
+    "aliases": [
+      "Laxson Auditorium",
+      "Laxson"
+    ],
+    "description": "Large auditorium hosting concerts, lectures, commencement, and major campus and community events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Laxson+Auditorium+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Laxson+Auditorium+CSU+Chico"
+  },
+  {
+    "id": "lemcke-camellia-garden",
+    "campusId": "csuc",
+    "name": "Mary Lemcke Camellia Garden",
+    "abbreviation": "CAMELLIA",
+    "aliases": [
+      "Mary Lemcke Camellia Garden",
+      "Lemcke Camellia Garden",
+      "Camellia Garden"
+    ],
+    "description": "Ornamental camellia garden providing a peaceful outdoor space on campus for relaxation and reflection.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mary+Lemcke+Camellia+Garden+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Mary+Lemcke+Camellia+Garden+CSU+Chico"
+  },
+  {
+    "id": "mechoopda",
+    "campusId": "csuc",
+    "name": "Mechoopda Hall",
+    "abbreviation": "MECHOOPDA",
+    "aliases": [
+      "Mechoopda Hall"
+    ],
+    "description": "Academic or residential hall on campus providing space for university programs and students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mechoopda+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Mechoopda+Hall+CSU+Chico"
+  },
+  {
+    "id": "meriam-library",
+    "campusId": "csuc",
+    "name": "Meriam Library",
+    "abbreviation": "LIB",
+    "aliases": [
+      "Meriam Library",
+      "Library",
+      "LIB"
+    ],
+    "description": "Main campus library providing study spaces, research services, digital collections, and academic support.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Meriam+Library+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Meriam+Library+CSU+Chico"
+  },
+  {
+    "id": "modoc",
+    "campusId": "csuc",
+    "name": "Modoc Hall",
+    "abbreviation": "MODOC",
+    "aliases": [
+      "Modoc Hall"
+    ],
+    "description": "Academic building with classrooms and departmental offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Modoc+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Modoc+Hall+CSU+Chico"
+  },
+  {
+    "id": "nettleton-stadium",
+    "campusId": "csuc",
+    "name": "Nettleton Stadium",
+    "abbreviation": "NETTLETON",
+    "aliases": [
+      "Nettleton Stadium",
+      "Baseball Stadium",
+      "Nettleton"
+    ],
+    "description": "On-campus baseball stadium hosting Chico State Wildcat baseball games and competitions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nettleton+Stadium+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Nettleton+Stadium+CSU+Chico"
+  },
+  {
+    "id": "oconnell-tech",
+    "campusId": "csuc",
+    "name": "O'Connell Technology Center",
+    "abbreviation": "OTC",
+    "aliases": [
+      "O'Connell Technology Center",
+      "OTC",
+      "Technology Center"
+    ],
+    "description": "Technology center supporting computer labs, instructional technology, and digital learning resources.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=OConnell+Technology+Center+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=OConnell+Technology+Center+CSU+Chico"
+  },
+  {
+    "id": "pac",
+    "campusId": "csuc",
+    "name": "Performing Arts Center",
+    "abbreviation": "PAC",
+    "aliases": [
+      "Performing Arts Center",
+      "PAC"
+    ],
+    "description": "Main campus performing arts facility featuring multiple theatres and performance venues for music, theatre, and dance.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Performing+Arts+Center+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Performing+Arts+Center+CSU+Chico"
+  },
+  {
+    "id": "physical-education",
+    "campusId": "csuc",
+    "name": "Physical Education",
+    "abbreviation": "PE",
+    "aliases": [
+      "Physical Education",
+      "PE Building",
+      "Physical Education Building"
+    ],
+    "description": "Physical education complex with courts, gyms, and instructional spaces for kinesiology and recreation programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Physical+Education+Building+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Physical+Education+Building+CSU+Chico"
+  },
+  {
+    "id": "physical-science",
+    "campusId": "csuc",
+    "name": "Physical Science Building",
+    "abbreviation": "PHYS-SCI",
+    "aliases": [
+      "Physical Science Building",
+      "Physical Sciences"
+    ],
+    "description": "Building housing physics, chemistry, and physical science departments with labs, classrooms, and research spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Physical+Science+Building+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Physical+Science+Building+CSU+Chico"
+  },
+  {
+    "id": "plumas",
+    "campusId": "csuc",
+    "name": "Plumas Hall",
+    "abbreviation": "PLUMAS",
+    "aliases": [
+      "Plumas Hall"
+    ],
+    "description": "Academic building with classrooms and offices supporting multiple university departments and programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Plumas+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Plumas+Hall+CSU+Chico"
+  },
+  {
+    "id": "regional-cont-ed",
+    "campusId": "csuc",
+    "name": "Regional and Continuing Education",
+    "abbreviation": "RCE",
+    "aliases": [
+      "Regional and Continuing Education",
+      "RCE",
+      "Continuing Education"
+    ],
+    "description": "Division offering continuing education, professional development, and community learning programs to the region.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Regional+Continuing+Education+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Regional+Continuing+Education+CSU+Chico"
+  },
+  {
+    "id": "roth-planetarium",
+    "campusId": "csuc",
+    "name": "Roth Planetarium",
+    "abbreviation": "PLANETARIUM",
+    "aliases": [
+      "Roth Planetarium",
+      "Planetarium"
+    ],
+    "description": "On-campus planetarium offering astronomy shows, space science education, and public programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Roth+Planetarium+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Roth+Planetarium+CSU+Chico"
+  },
+  {
+    "id": "ruth-rowland-taylor",
+    "campusId": "csuc",
+    "name": "Ruth Rowland Taylor Theatre",
+    "abbreviation": "RRT",
+    "aliases": [
+      "Ruth Rowland Taylor Theatre",
+      "Taylor Theatre",
+      "PAC Theatre"
+    ],
+    "description": "Theatre venue in the Performing Arts Center presenting student and professional theatrical productions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ruth+Rowland+Taylor+Theatre+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Ruth+Rowland+Taylor+Theatre+CSU+Chico"
+  },
+  {
+    "id": "safe-place",
+    "campusId": "csuc",
+    "name": "Safe Place",
+    "abbreviation": "SAFE-PLACE",
+    "aliases": [
+      "Safe Place",
+      "Brice House",
+      "Safe Place Brice House"
+    ],
+    "description": "Safe Place program in Brice House providing support, resources, and advocacy for survivors of sexual violence and domestic abuse.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Safe+Place+Brice+House+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Safe+Place+Brice+House+CSU+Chico"
+  },
+  {
+    "id": "sapp",
+    "campusId": "csuc",
+    "name": "Sapp Hall",
+    "abbreviation": "SAPP",
+    "aliases": [
+      "Sapp Hall"
+    ],
+    "description": "Building housing university offices including Alumni Association and other administrative departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sapp+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sapp+Hall+CSU+Chico"
+  },
+  {
+    "id": "selvesters-cafe",
+    "campusId": "csuc",
+    "name": "Selvester's Cafe-by-the-Creek",
+    "abbreviation": "SELVESTERS",
+    "aliases": [
+      "Selvester's Cafe-by-the-Creek",
+      "Selvester's Cafe",
+      "Cafe by the Creek"
+    ],
+    "description": "Campus cafe alongside the creek offering coffee, meals, and a relaxing outdoor dining atmosphere.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Selvesters+Cafe+by+the+Creek+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Selvesters+Cafe+by+the+Creek+CSU+Chico"
+  },
+  {
+    "id": "shasta",
+    "campusId": "csuc",
+    "name": "Shasta Hall",
+    "abbreviation": "SHASTA",
+    "aliases": [
+      "Shasta Hall"
+    ],
+    "description": "Academic building with classrooms, labs, and faculty offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Shasta+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Shasta+Hall+CSU+Chico"
+  },
+  {
+    "id": "shurmer-gym",
+    "campusId": "csuc",
+    "name": "Shurmer Gymnasium",
+    "abbreviation": "SHURMER",
+    "aliases": [
+      "Shurmer Gymnasium",
+      "Shurmer Gym"
+    ],
+    "description": "Gymnasium facility supporting intramural sports, physical education, and campus recreation activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Shurmer+Gymnasium+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Shurmer+Gymnasium+CSU+Chico"
+  },
+  {
+    "id": "sierra",
+    "campusId": "csuc",
+    "name": "Sierra Hall",
+    "abbreviation": "SIERRA",
+    "aliases": [
+      "Sierra Hall"
+    ],
+    "description": "Academic building housing classrooms, offices, and departmental programs at Chico State.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sierra+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sierra+Hall+CSU+Chico"
+  },
+  {
+    "id": "siskiyou",
+    "campusId": "csuc",
+    "name": "Siskiyou Hall",
+    "abbreviation": "SISKIYOU",
+    "aliases": [
+      "Siskiyou Hall"
+    ],
+    "description": "Academic building with classrooms and faculty offices for various university departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Siskiyou+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Siskiyou+Hall+CSU+Chico"
+  },
+  {
+    "id": "smith-anthropology",
+    "campusId": "csuc",
+    "name": "Smith Museum of Anthropology",
+    "abbreviation": "SMITH-MUSEUM",
+    "aliases": [
+      "Smith Museum of Anthropology",
+      "Museum of Anthropology",
+      "Anthropology Museum"
+    ],
+    "description": "On-campus museum showcasing anthropological collections, cultural artifacts, and exhibits supporting the anthropology program.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Smith+Museum+of+Anthropology+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Smith+Museum+of+Anthropology+CSU+Chico"
+  },
+  {
+    "id": "soccer-stadium",
+    "campusId": "csuc",
+    "name": "Soccer Stadium",
+    "abbreviation": "SOCCER",
+    "aliases": [
+      "Soccer Stadium",
+      "Soccer Field",
+      "Soccer Complex"
+    ],
+    "description": "Campus soccer stadium hosting Chico State Wildcat soccer competitions and practice sessions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Soccer+Stadium+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Soccer+Stadium+CSU+Chico"
+  },
+  {
+    "id": "student-health",
+    "campusId": "csuc",
+    "name": "Student Health Center",
+    "abbreviation": "SHC",
+    "aliases": [
+      "Student Health Center",
+      "Health Center",
+      "Campus Health"
+    ],
+    "description": "Campus health facility offering medical care, mental health counseling, wellness programs, and health education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Health+Center+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Health+Center+CSU+Chico"
+  },
+  {
+    "id": "student-services-center",
+    "campusId": "csuc",
+    "name": "Student Services Center",
+    "abbreviation": "SSC",
+    "aliases": [
+      "Student Services Center",
+      "SSC"
+    ],
+    "description": "Central hub for student services including advising, financial aid, admissions, registrar, and academic support.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Services+Center+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Services+Center+CSU+Chico"
+  },
+  {
+    "id": "sutter",
+    "campusId": "csuc",
+    "name": "Sutter Hall",
+    "abbreviation": "SUTTER",
+    "aliases": [
+      "Sutter Hall"
+    ],
+    "description": "Academic building with classrooms and faculty offices supporting multiple university departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sutter+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sutter+Hall+CSU+Chico"
+  },
+  {
+    "id": "tehama",
+    "campusId": "csuc",
+    "name": "Tehama Hall",
+    "abbreviation": "TEHAMA",
+    "aliases": [
+      "Tehama Hall"
+    ],
+    "description": "Academic building with classrooms and departmental offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tehama+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Tehama+Hall+CSU+Chico"
+  },
+  {
+    "id": "trinity-commons",
+    "campusId": "csuc",
+    "name": "Trinity Commons",
+    "abbreviation": "TRINITY-C",
+    "aliases": [
+      "Trinity Commons"
+    ],
+    "description": "Dining and residential commons area providing dining services and community space for on-campus residents.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trinity+Commons+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Trinity+Commons+CSU+Chico"
+  },
+  {
+    "id": "trinity-hall",
+    "campusId": "csuc",
+    "name": "Trinity Hall",
+    "abbreviation": "TRINITY",
+    "aliases": [
+      "Trinity Hall"
+    ],
+    "description": "On-campus residential hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trinity+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Trinity+Hall+CSU+Chico"
+  },
+  {
+    "id": "turner-print-museum",
+    "campusId": "csuc",
+    "name": "Turner Print Museum",
+    "abbreviation": "TURNER",
+    "aliases": [
+      "Turner Print Museum",
+      "Print Museum"
+    ],
+    "description": "Museum dedicated to the art of printmaking, housing historic presses and exhibitions of fine art prints.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Turner+Print+Museum+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Turner+Print+Museum+CSU+Chico"
+  },
+  {
+    "id": "univ-housing-food",
+    "campusId": "csuc",
+    "name": "University Housing & Food Service",
+    "abbreviation": "UHFS",
+    "aliases": [
+      "University Housing & Food Service",
+      "University Housing",
+      "Housing and Food Service"
+    ],
+    "description": "Administrative offices overseeing on-campus residential programs, dining services, and student housing operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Housing+Food+Service+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Housing+Food+Service+CSU+Chico"
+  },
+  {
+    "id": "upd",
+    "campusId": "csuc",
+    "name": "University Police",
+    "abbreviation": "UPD",
+    "aliases": [
+      "University Police",
+      "Campus Police",
+      "UPD"
+    ],
+    "description": "University Police Department providing law enforcement, emergency response, and safety services to the campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Police+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Police+CSU+Chico"
+  },
+  {
+    "id": "university-stadium",
+    "campusId": "csuc",
+    "name": "University Stadium",
+    "abbreviation": "STADIUM",
+    "aliases": [
+      "University Stadium",
+      "Stadium"
+    ],
+    "description": "Main athletics stadium hosting Chico State Wildcat football, track & field, and major campus sporting events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Stadium+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Stadium+CSU+Chico"
+  },
+  {
+    "id": "whitney",
+    "campusId": "csuc",
+    "name": "Whitney Hall",
+    "abbreviation": "WHITNEY",
+    "aliases": [
+      "Whitney Hall"
+    ],
+    "description": "Academic building with classrooms and faculty offices supporting university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Whitney+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Whitney+Hall+CSU+Chico"
+  },
+  {
+    "id": "wrec",
+    "campusId": "csuc",
+    "name": "Wildcat Recreation Center",
+    "abbreviation": "WREC",
+    "aliases": [
+      "Wildcat Recreation Center",
+      "WREC",
+      "Rec Center",
+      "Recreation Center"
+    ],
+    "description": "Campus recreation center with fitness equipment, pools, climbing wall, courts, and wellness programs for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wildcat+Recreation+Center+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Wildcat+Recreation+Center+CSU+Chico"
+  },
+  {
+    "id": "wismer-theatre",
+    "campusId": "csuc",
+    "name": "Wismer Theatre",
+    "abbreviation": "WISMER",
+    "aliases": [
+      "Wismer Theatre",
+      "PAC Wismer Theatre"
+    ],
+    "description": "Theatre venue in the Performing Arts Center hosting performances, lectures, and campus events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wismer+Theatre+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Wismer+Theatre+CSU+Chico"
+  },
+  {
+    "id": "yolo",
+    "campusId": "csuc",
+    "name": "Yolo Hall",
+    "abbreviation": "YOLO",
+    "aliases": [
+      "Yolo Hall"
+    ],
+    "description": "Academic building with classrooms and departmental offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Yolo+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Yolo+Hall+CSU+Chico"
+  },
+  {
+    "id": "zingg-recital",
+    "campusId": "csuc",
+    "name": "Zingg Recital Hall",
+    "abbreviation": "ZINGG",
+    "aliases": [
+      "Zingg Recital Hall",
+      "Recital Hall",
+      "Zingg"
+    ],
+    "description": "Recital hall and performance venue for music recitals, chamber concerts, and student and faculty performances.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Zingg+Recital+Hall+CSU+Chico",
+    "appleMapsUrl": "http://maps.apple.com/?q=Zingg+Recital+Hall+CSU+Chico"
+  }
+]

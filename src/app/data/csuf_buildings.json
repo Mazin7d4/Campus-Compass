@@ -1,0 +1,611 @@
+[
+  {
+    "id": "af",
+    "campusId": "csuf",
+    "name": "Anderson Family Field",
+    "abbreviation": "AF",
+    "aliases": [
+      "Anderson Family Field",
+      "AF"
+    ],
+    "description": "Athletic field named for the Anderson family supporting campus sports and recreational activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Anderson+Family+Field+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Anderson+Family+Field+CSU+Fullerton"
+  },
+  {
+    "id": "asc",
+    "campusId": "csuf",
+    "name": "Auxiliary Services Corporation",
+    "abbreviation": "ASC",
+    "aliases": [
+      "Auxiliary Services Corporation",
+      "ASC"
+    ],
+    "description": "Campus auxiliary services corporation managing dining, bookstore, and other university support services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Auxiliary+Services+Corporation+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Auxiliary+Services+Corporation+CSU+Fullerton"
+  },
+  {
+    "id": "bookstore",
+    "campusId": "csuf",
+    "name": "Bookstore / Titan Shops",
+    "abbreviation": "B",
+    "aliases": [
+      "Bookstore",
+      "Titan Shops",
+      "Bookstore / Titan Shops",
+      "B"
+    ],
+    "description": "Campus bookstore and Titan Shops selling textbooks, course materials, CSUF merchandise, and supplies.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Titan+Shops+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Titan+Shops+CSU+Fullerton"
+  },
+  {
+    "id": "cc",
+    "campusId": "csuf",
+    "name": "Children's Center",
+    "abbreviation": "CC",
+    "aliases": [
+      "Children's Center",
+      "CC",
+      "Child Care Center"
+    ],
+    "description": "On-campus children's center providing early childhood education and childcare for children of students and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Childrens+Center+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Childrens+Center+CSU+Fullerton"
+  },
+  {
+    "id": "cp",
+    "campusId": "csuf",
+    "name": "College Park",
+    "abbreviation": "CP",
+    "aliases": [
+      "College Park",
+      "CP"
+    ],
+    "description": "College Park area on campus housing academic departments, offices, and university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=College+Park+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=College+Park+CSU+Fullerton"
+  },
+  {
+    "id": "cpac",
+    "campusId": "csuf",
+    "name": "Clayes Performing Arts Center",
+    "abbreviation": "CPAC",
+    "aliases": [
+      "Clayes Performing Arts Center",
+      "CPAC",
+      "Performing Arts Center"
+    ],
+    "description": "Premier performing arts venue hosting theatre, dance, and music productions for students and the community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Clayes+Performing+Arts+Center+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Clayes+Performing+Arts+Center+CSU+Fullerton"
+  },
+  {
+    "id": "cs",
+    "campusId": "csuf",
+    "name": "Computer Science",
+    "abbreviation": "CS",
+    "aliases": [
+      "Computer Science",
+      "CS",
+      "Computer Science Building"
+    ],
+    "description": "Building housing the Computer Science department with labs, classrooms, and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Computer+Science+Building+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Computer+Science+Building+CSU+Fullerton"
+  },
+  {
+    "id": "cy",
+    "campusId": "csuf",
+    "name": "Corporation Yard",
+    "abbreviation": "CY",
+    "aliases": [
+      "Corporation Yard",
+      "CY"
+    ],
+    "description": "Campus corporation yard managing facilities operations, deliveries, and physical plant services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Corporation+Yard+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Corporation+Yard+CSU+Fullerton"
+  },
+  {
+    "id": "dbh",
+    "campusId": "csuf",
+    "name": "Dan Black Hall",
+    "abbreviation": "DBH",
+    "aliases": [
+      "Dan Black Hall",
+      "DBH"
+    ],
+    "description": "Academic building housing business and economics departments with classrooms and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dan+Black+Hall+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Dan+Black+Hall+CSU+Fullerton"
+  },
+  {
+    "id": "engineering",
+    "campusId": "csuf",
+    "name": "Engineering",
+    "abbreviation": "E",
+    "aliases": [
+      "Engineering",
+      "Engineering Building",
+      "E"
+    ],
+    "description": "College of Engineering and Computer Science building featuring labs, project spaces, and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Engineering+Building+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Engineering+Building+CSU+Fullerton"
+  },
+  {
+    "id": "ec",
+    "campusId": "csuf",
+    "name": "Education Classroom",
+    "abbreviation": "EC",
+    "aliases": [
+      "Education Classroom",
+      "EC",
+      "Education Building"
+    ],
+    "description": "Education classroom building housing the College of Education with classrooms and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Education+Classroom+Building+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Education+Classroom+Building+CSU+Fullerton"
+  },
+  {
+    "id": "enps",
+    "campusId": "csuf",
+    "name": "Eastside North Parking Structure",
+    "abbreviation": "ENPS",
+    "aliases": [
+      "Eastside North Parking Structure",
+      "ENPS",
+      "East North Parking Structure"
+    ],
+    "description": "Multi-level parking structure on the east side of campus providing parking for students and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Eastside+North+Parking+Structure+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Eastside+North+Parking+Structure+CSU+Fullerton"
+  },
+  {
+    "id": "ep",
+    "campusId": "csuf",
+    "name": "East Playfield",
+    "abbreviation": "EP",
+    "aliases": [
+      "East Playfield",
+      "EP"
+    ],
+    "description": "Outdoor recreational playfield on the east side of campus used for intramural sports and activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=East+Playfield+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=East+Playfield+CSU+Fullerton"
+  },
+  {
+    "id": "esps",
+    "campusId": "csuf",
+    "name": "Eastside South Parking Structure",
+    "abbreviation": "ESPS",
+    "aliases": [
+      "Eastside South Parking Structure",
+      "ESPS",
+      "East South Parking Structure"
+    ],
+    "description": "Multi-level parking structure on the east side of campus providing parking for students and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Eastside+South+Parking+Structure+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Eastside+South+Parking+Structure+CSU+Fullerton"
+  },
+  {
+    "id": "gah",
+    "campusId": "csuf",
+    "name": "Golleher Alumni House",
+    "abbreviation": "GAH",
+    "aliases": [
+      "Golleher Alumni House",
+      "GAH",
+      "Alumni House"
+    ],
+    "description": "Alumni house named for the Golleher family supporting alumni engagement, events, and university advancement.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Golleher+Alumni+House+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Golleher+Alumni+House+CSU+Fullerton"
+  },
+  {
+    "id": "gc",
+    "campusId": "csuf",
+    "name": "Greenhouse Complex",
+    "abbreviation": "GC",
+    "aliases": [
+      "Greenhouse Complex",
+      "GC",
+      "Greenhouse"
+    ],
+    "description": "Campus greenhouse complex supporting biological sciences research, plant studies, and teaching laboratories.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Greenhouse+Complex+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Greenhouse+Complex+CSU+Fullerton"
+  },
+  {
+    "id": "gh",
+    "campusId": "csuf",
+    "name": "Gordon Hall",
+    "abbreviation": "GH",
+    "aliases": [
+      "Gordon Hall",
+      "GH"
+    ],
+    "description": "Academic building with classrooms and faculty offices supporting university programs and departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gordon+Hall+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Gordon+Hall+CSU+Fullerton"
+  },
+  {
+    "id": "humanities",
+    "campusId": "csuf",
+    "name": "Humanities",
+    "abbreviation": "H",
+    "aliases": [
+      "Humanities",
+      "Humanities Building",
+      "H"
+    ],
+    "description": "Humanities building housing language, literature, philosophy, and arts departments with classrooms and offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Humanities+Building+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Humanities+Building+CSU+Fullerton"
+  },
+  {
+    "id": "hre",
+    "campusId": "csuf",
+    "name": "Housing & Residential Engagement",
+    "abbreviation": "HRE",
+    "aliases": [
+      "Housing & Residential Engagement",
+      "Housing and Residential Engagement",
+      "HRE",
+      "Residential Life"
+    ],
+    "description": "Office overseeing on-campus student housing, residence life programming, and residential community engagement.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Housing+Residential+Engagement+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Housing+Residential+Engagement+CSU+Fullerton"
+  },
+  {
+    "id": "if",
+    "campusId": "csuf",
+    "name": "Intramural Field",
+    "abbreviation": "IF",
+    "aliases": [
+      "Intramural Field",
+      "IF"
+    ],
+    "description": "Campus intramural field hosting recreational sports leagues, student fitness activities, and outdoor events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Intramural+Field+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Intramural+Field+CSU+Fullerton"
+  },
+  {
+    "id": "khs",
+    "campusId": "csuf",
+    "name": "Kinesiology & Health Science",
+    "abbreviation": "KHS",
+    "aliases": [
+      "Kinesiology & Health Science",
+      "Kinesiology and Health Science",
+      "KHS"
+    ],
+    "description": "Building housing kinesiology and health science departments with labs, courts, and instructional spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kinesiology+Health+Science+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kinesiology+Health+Science+CSU+Fullerton"
+  },
+  {
+    "id": "lh",
+    "campusId": "csuf",
+    "name": "Langsdorf Hall",
+    "abbreviation": "LH",
+    "aliases": [
+      "Langsdorf Hall",
+      "LH"
+    ],
+    "description": "Major campus building housing administrative offices including admissions, financial aid, and student services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Langsdorf+Hall+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Langsdorf+Hall+CSU+Fullerton"
+  },
+  {
+    "id": "mh",
+    "campusId": "csuf",
+    "name": "McCarthy Hall",
+    "abbreviation": "MH",
+    "aliases": [
+      "McCarthy Hall",
+      "MH"
+    ],
+    "description": "Large academic building housing sciences and multiple departments with labs, classrooms, and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McCarthy+Hall+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=McCarthy+Hall+CSU+Fullerton"
+  },
+  {
+    "id": "ms",
+    "campusId": "csuf",
+    "name": "Military Science",
+    "abbreviation": "MS",
+    "aliases": [
+      "Military Science",
+      "MS",
+      "ROTC"
+    ],
+    "description": "Military Science building housing the ROTC program with offices, classrooms, and training resources.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Military+Science+Building+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Military+Science+Building+CSU+Fullerton"
+  },
+  {
+    "id": "nsm",
+    "campusId": "csuf",
+    "name": "Natural Sciences & Mathematics",
+    "abbreviation": "NSM",
+    "aliases": [
+      "Natural Sciences & Mathematics",
+      "Natural Sciences and Mathematics",
+      "NSM"
+    ],
+    "description": "Building housing natural sciences and mathematics departments with research labs, lecture halls, and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Natural+Sciences+Mathematics+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Natural+Sciences+Mathematics+CSU+Fullerton"
+  },
+  {
+    "id": "parking",
+    "campusId": "csuf",
+    "name": "Parking",
+    "abbreviation": "P",
+    "aliases": [
+      "Parking",
+      "P",
+      "Campus Parking"
+    ],
+    "description": "Campus parking facilities providing vehicle parking for students, faculty, staff, and campus visitors.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+CSU+Fullerton"
+  },
+  {
+    "id": "pl",
+    "campusId": "csuf",
+    "name": "Pollak Library",
+    "abbreviation": "PL",
+    "aliases": [
+      "Pollak Library",
+      "PL",
+      "Library"
+    ],
+    "description": "Main campus library offering research services, study spaces, digital collections, and academic support resources.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pollak+Library+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Pollak+Library+CSU+Fullerton"
+  },
+  {
+    "id": "rg",
+    "campusId": "csuf",
+    "name": "Ruby Gerontology Center",
+    "abbreviation": "RG",
+    "aliases": [
+      "Ruby Gerontology Center",
+      "Ruby Gerontology",
+      "RG"
+    ],
+    "description": "Center dedicated to gerontology education, research, and community programming supporting aging-related programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ruby+Gerontology+Center+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Ruby+Gerontology+Center+CSU+Fullerton"
+  },
+  {
+    "id": "rh",
+    "campusId": "csuf",
+    "name": "Resident Housing",
+    "abbreviation": "RH",
+    "aliases": [
+      "Resident Housing",
+      "RH",
+      "Residential Housing",
+      "Student Housing"
+    ],
+    "description": "On-campus residential housing providing students with living accommodations and community amenities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Resident+Housing+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Resident+Housing+CSU+Fullerton"
+  },
+  {
+    "id": "scps",
+    "campusId": "csuf",
+    "name": "State College Parking Structure",
+    "abbreviation": "SCPS",
+    "aliases": [
+      "State College Parking Structure",
+      "SCPS"
+    ],
+    "description": "Multi-level parking structure near State College Boulevard providing parking for students and visitors.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=State+College+Parking+Structure+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=State+College+Parking+Structure+CSU+Fullerton"
+  },
+  {
+    "id": "sgmh",
+    "campusId": "csuf",
+    "name": "Steven G. Mihaylo Hall",
+    "abbreviation": "SGMH",
+    "aliases": [
+      "Steven G. Mihaylo Hall",
+      "Mihaylo Hall",
+      "SGMH",
+      "College of Business"
+    ],
+    "description": "Home of the Mihaylo College of Business and Economics with classrooms, labs, and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Steven+G+Mihaylo+Hall+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Steven+G+Mihaylo+Hall+CSU+Fullerton"
+  },
+  {
+    "id": "shcc",
+    "campusId": "csuf",
+    "name": "Student Health & Counseling Center",
+    "abbreviation": "SHCC",
+    "aliases": [
+      "Student Health & Counseling Center",
+      "Student Health and Counseling Center",
+      "SHCC",
+      "Health Center"
+    ],
+    "description": "Campus health facility offering medical care, mental health counseling, wellness programs, and student health services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Health+Counseling+Center+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Health+Counseling+Center+CSU+Fullerton"
+  },
+  {
+    "id": "src",
+    "campusId": "csuf",
+    "name": "Student Recreation Center",
+    "abbreviation": "SRC",
+    "aliases": [
+      "Student Recreation Center",
+      "SRC",
+      "Rec Center"
+    ],
+    "description": "Campus recreation center with fitness equipment, pools, courts, climbing wall, and wellness programs for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Recreation+Center+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Recreation+Center+CSU+Fullerton"
+  },
+  {
+    "id": "titan-house",
+    "campusId": "csuf",
+    "name": "Titan House",
+    "abbreviation": "TH",
+    "aliases": [
+      "Titan House"
+    ],
+    "description": "Campus facility providing program or administrative space for university departments and student initiatives.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Titan+House+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Titan+House+CSU+Fullerton"
+  },
+  {
+    "id": "tdh",
+    "campusId": "csuf",
+    "name": "Titan Dining Hall",
+    "abbreviation": "TDH",
+    "aliases": [
+      "Titan Dining Hall",
+      "TDH",
+      "Dining Hall"
+    ],
+    "description": "Main campus dining hall serving a variety of meals and dining options for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Titan+Dining+Hall+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Titan+Dining+Hall+CSU+Fullerton"
+  },
+  {
+    "id": "tg",
+    "campusId": "csuf",
+    "name": "Titan Gymnasium",
+    "abbreviation": "TG",
+    "aliases": [
+      "Titan Gymnasium",
+      "TG",
+      "Gymnasium"
+    ],
+    "description": "Main campus gymnasium hosting intercollegiate athletics events, physical education, and campus recreation.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Titan+Gymnasium+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Titan+Gymnasium+CSU+Fullerton"
+  },
+  {
+    "id": "titan-hall",
+    "campusId": "csuf",
+    "name": "Titan Hall",
+    "abbreviation": "TH",
+    "aliases": [
+      "Titan Hall"
+    ],
+    "description": "Academic building with classrooms and offices supporting university departments and programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Titan+Hall+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Titan+Hall+CSU+Fullerton"
+  },
+  {
+    "id": "ts",
+    "campusId": "csuf",
+    "name": "Titan Stadium",
+    "abbreviation": "TS",
+    "aliases": [
+      "Titan Stadium",
+      "TS",
+      "Football Stadium"
+    ],
+    "description": "Main athletics stadium hosting CSUF Titans football games, track & field events, and major campus athletics.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Titan+Stadium+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Titan+Stadium+CSU+Fullerton"
+  },
+  {
+    "id": "tsu",
+    "campusId": "csuf",
+    "name": "Titan Student Union",
+    "abbreviation": "TSU",
+    "aliases": [
+      "Titan Student Union",
+      "TSU",
+      "TSC",
+      "Student Union"
+    ],
+    "description": "Central student union hub housing dining, student government, clubs, event spaces, and campus life services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Titan+Student+Union+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Titan+Student+Union+CSU+Fullerton"
+  },
+  {
+    "id": "tsf",
+    "campusId": "csuf",
+    "name": "Titan Softball Field",
+    "abbreviation": "TSF",
+    "aliases": [
+      "Titan Softball Field",
+      "TSF",
+      "Softball Field"
+    ],
+    "description": "Campus softball facility hosting CSUF Titans softball games and team practice sessions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Titan+Softball+Field+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Titan+Softball+Field+CSU+Fullerton"
+  },
+  {
+    "id": "ttc",
+    "campusId": "csuf",
+    "name": "Titan Tennis Courts",
+    "abbreviation": "TTC",
+    "aliases": [
+      "Titan Tennis Courts",
+      "TTC",
+      "Tennis Courts"
+    ],
+    "description": "Campus tennis courts used for intercollegiate tennis competition, recreation, and physical education classes.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Titan+Tennis+Courts+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Titan+Tennis+Courts+CSU+Fullerton"
+  },
+  {
+    "id": "ttcf",
+    "campusId": "csuf",
+    "name": "Titan Track & Field",
+    "abbreviation": "TTCF",
+    "aliases": [
+      "Titan Track & Field",
+      "Titan Track and Field",
+      "TTCF",
+      "Track and Field"
+    ],
+    "description": "Campus track and field complex hosting CSUF Titans competitions and athletic training sessions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Titan+Track+Field+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Titan+Track+Field+CSU+Fullerton"
+  },
+  {
+    "id": "up",
+    "campusId": "csuf",
+    "name": "University Police",
+    "abbreviation": "UP",
+    "aliases": [
+      "University Police",
+      "UP",
+      "Campus Police",
+      "UPD"
+    ],
+    "description": "University Police Department providing law enforcement, emergency response, and safety services to the campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Police+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Police+CSU+Fullerton"
+  },
+  {
+    "id": "va",
+    "campusId": "csuf",
+    "name": "Visual Arts",
+    "abbreviation": "VA",
+    "aliases": [
+      "Visual Arts",
+      "VA",
+      "Visual Arts Building"
+    ],
+    "description": "Visual Arts building housing studio art, design, and art history departments with studios and galleries.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Visual+Arts+Building+CSU+Fullerton",
+    "appleMapsUrl": "http://maps.apple.com/?q=Visual+Arts+Building+CSU+Fullerton"
+  }
+]

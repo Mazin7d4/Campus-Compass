@@ -1,0 +1,1120 @@
+[
+  {
+    "id": "anac",
+    "campusId": "csulb",
+    "name": "Anna W. Ngai Alumni Center",
+    "abbreviation": "ANAC",
+    "aliases": [
+      "Anna W. Ngai Alumni Center",
+      "Alumni Center",
+      "ANAC"
+    ],
+    "description": "Alumni center supporting graduate engagement, networking events, reunions, and university advancement programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Anna+Ngai+Alumni+Center+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Anna+Ngai+Alumni+Center+CSU+Long+Beach"
+  },
+  {
+    "id": "as",
+    "campusId": "csulb",
+    "name": "Academic Services",
+    "abbreviation": "AS",
+    "aliases": [
+      "Academic Services",
+      "AS"
+    ],
+    "description": "Building providing academic support services including advising, tutoring, and student success programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Academic+Services+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Academic+Services+CSU+Long+Beach"
+  },
+  {
+    "id": "bac",
+    "campusId": "csulb",
+    "name": "Barrett Athletic Administration Building",
+    "abbreviation": "BAC",
+    "aliases": [
+      "Barrett Athletic Administration Building",
+      "Barrett Athletic Admin",
+      "BAC"
+    ],
+    "description": "Administrative hub for Beach Athletics housing coaching staff, athletic offices, and program administration.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Barrett+Athletic+Administration+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Barrett+Athletic+Administration+CSU+Long+Beach"
+  },
+  {
+    "id": "bbs",
+    "campusId": "csulb",
+    "name": "Beach Building Services",
+    "abbreviation": "BBS",
+    "aliases": [
+      "Beach Building Services",
+      "BBS"
+    ],
+    "description": "Campus building services facility managing custodial, maintenance, and facilities operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Beach+Building+Services+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Beach+Building+Services+CSU+Long+Beach"
+  },
+  {
+    "id": "bks",
+    "campusId": "csulb",
+    "name": "Bookstore",
+    "abbreviation": "BKS",
+    "aliases": [
+      "Bookstore",
+      "BKS",
+      "Campus Bookstore",
+      "Beach Bookstore"
+    ],
+    "description": "Campus bookstore selling textbooks, course materials, CSULB merchandise, and student supplies.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bookstore+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bookstore+CSU+Long+Beach"
+  },
+  {
+    "id": "bh",
+    "campusId": "csulb",
+    "name": "Brotman Hall",
+    "abbreviation": "BH",
+    "aliases": [
+      "Brotman Hall",
+      "BH"
+    ],
+    "description": "Main administrative building housing the president's office, enrollment services, and key university administration.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brotman+Hall+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Brotman+Hall+CSU+Long+Beach"
+  },
+  {
+    "id": "ca",
+    "campusId": "csulb",
+    "name": "BBS Collection Area",
+    "abbreviation": "CA",
+    "aliases": [
+      "BBS Collection Area",
+      "Collection Area",
+      "CA"
+    ],
+    "description": "Beach Building Services collection area for facilities supplies and waste management operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=BBS+Collection+Area+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=BBS+Collection+Area+CSU+Long+Beach"
+  },
+  {
+    "id": "cafe",
+    "campusId": "csulb",
+    "name": "Cafeteria",
+    "abbreviation": "CAFÉ",
+    "aliases": [
+      "Cafeteria",
+      "CAFÉ",
+      "Campus Cafeteria"
+    ],
+    "description": "Campus cafeteria providing dining options for students, faculty, and staff throughout the day.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafeteria+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cafeteria+CSU+Long+Beach"
+  },
+  {
+    "id": "cc",
+    "campusId": "csulb",
+    "name": "Coastal Coffee",
+    "abbreviation": "CC",
+    "aliases": [
+      "Coastal Coffee",
+      "CC"
+    ],
+    "description": "Campus coffee shop providing beverages and light refreshments for students and campus community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Coastal+Coffee+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Coastal+Coffee+CSU+Long+Beach"
+  },
+  {
+    "id": "cob",
+    "campusId": "csulb",
+    "name": "College of Business",
+    "abbreviation": "COB",
+    "aliases": [
+      "College of Business",
+      "COB",
+      "Business Building"
+    ],
+    "description": "Home of the College of Business featuring classrooms, labs, and faculty offices for business programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=College+of+Business+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=College+of+Business+CSU+Long+Beach"
+  },
+  {
+    "id": "cdc",
+    "campusId": "csulb",
+    "name": "Child Development Center",
+    "abbreviation": "CDC",
+    "aliases": [
+      "Child Development Center",
+      "CDC",
+      "Childcare Center"
+    ],
+    "description": "On-campus child development center providing early childhood education and childcare for campus families.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Child+Development+Center+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Child+Development+Center+CSU+Long+Beach"
+  },
+  {
+    "id": "cine",
+    "campusId": "csulb",
+    "name": "Cinematic Arts",
+    "abbreviation": "CINE",
+    "aliases": [
+      "Cinematic Arts",
+      "CINE",
+      "Film Building"
+    ],
+    "description": "Building housing the cinematic arts program with production facilities, screening rooms, and editing suites.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cinematic+Arts+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cinematic+Arts+CSU+Long+Beach"
+  },
+  {
+    "id": "cla",
+    "campusId": "csulb",
+    "name": "College of Liberal Arts Administration",
+    "abbreviation": "CLA",
+    "aliases": [
+      "College of Liberal Arts Administration",
+      "CLA",
+      "Liberal Arts Administration"
+    ],
+    "description": "Administrative headquarters for the College of Liberal Arts housing dean's offices and departmental administration.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=College+Liberal+Arts+Administration+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=College+Liberal+Arts+Administration+CSU+Long+Beach"
+  },
+  {
+    "id": "cpce",
+    "campusId": "csulb",
+    "name": "College of Professional and Continuing Education",
+    "abbreviation": "CPCE",
+    "aliases": [
+      "College of Professional and Continuing Education",
+      "CPCE",
+      "Continuing Education"
+    ],
+    "description": "Division offering professional development, certificate programs, and continuing education to the community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=College+Professional+Continuing+Education+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=College+Professional+Continuing+Education+CSU+Long+Beach"
+  },
+  {
+    "id": "cpac",
+    "campusId": "csulb",
+    "name": "Carpenter Performing Arts Center",
+    "abbreviation": "CPAC",
+    "aliases": [
+      "Carpenter Performing Arts Center",
+      "CPAC",
+      "Performing Arts Center"
+    ],
+    "description": "Premier performing arts venue hosting concerts, theatre, dance, and community cultural events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Carpenter+Performing+Arts+Center+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Carpenter+Performing+Arts+Center+CSU+Long+Beach"
+  },
+  {
+    "id": "cpl",
+    "campusId": "csulb",
+    "name": "Central Plant",
+    "abbreviation": "CPL",
+    "aliases": [
+      "Central Plant",
+      "CPL"
+    ],
+    "description": "Campus central utility plant providing heating, cooling, and energy infrastructure for university buildings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Central+Plant+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Central+Plant+CSU+Long+Beach"
+  },
+  {
+    "id": "corp",
+    "campusId": "csulb",
+    "name": "Corporation Yard",
+    "abbreviation": "CORP",
+    "aliases": [
+      "Corporation Yard",
+      "CORP"
+    ],
+    "description": "Campus corporation yard managing facilities operations, deliveries, and physical plant services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Corporation+Yard+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Corporation+Yard+CSU+Long+Beach"
+  },
+  {
+    "id": "dc",
+    "campusId": "csulb",
+    "name": "Dance Center",
+    "abbreviation": "DC",
+    "aliases": [
+      "Dance Center",
+      "DC"
+    ],
+    "description": "Dedicated dance facility with studios, rehearsal spaces, and performance areas for the dance program.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dance+Center+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Dance+Center+CSU+Long+Beach"
+  },
+  {
+    "id": "desn",
+    "campusId": "csulb",
+    "name": "Design",
+    "abbreviation": "DESN",
+    "aliases": [
+      "Design",
+      "DESN",
+      "Design Building"
+    ],
+    "description": "Building housing graphic design, industrial design, and interior architecture programs with studios and labs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Design+Building+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Design+Building+CSU+Long+Beach"
+  },
+  {
+    "id": "ed2",
+    "campusId": "csulb",
+    "name": "Education 2",
+    "abbreviation": "ED2",
+    "aliases": [
+      "Education 2",
+      "ED2"
+    ],
+    "description": "Education building 2 with classrooms and offices for the College of Education programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Education+2+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Education+2+CSU+Long+Beach"
+  },
+  {
+    "id": "eed",
+    "campusId": "csulb",
+    "name": "Bob and Barbara Ellis Education Building",
+    "abbreviation": "EED",
+    "aliases": [
+      "Bob and Barbara Ellis Education Building",
+      "Ellis Education Building",
+      "EED"
+    ],
+    "description": "Education building named for Bob and Barbara Ellis housing College of Education classrooms and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ellis+Education+Building+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Ellis+Education+Building+CSU+Long+Beach"
+  },
+  {
+    "id": "en2",
+    "campusId": "csulb",
+    "name": "Engineering 2",
+    "abbreviation": "EN2",
+    "aliases": [
+      "Engineering 2",
+      "EN2"
+    ],
+    "description": "Engineering building 2 with labs, project spaces, and classrooms for engineering programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Engineering+2+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Engineering+2+CSU+Long+Beach"
+  },
+  {
+    "id": "en3",
+    "campusId": "csulb",
+    "name": "Engineering 3",
+    "abbreviation": "EN3",
+    "aliases": [
+      "Engineering 3",
+      "EN3"
+    ],
+    "description": "Engineering building 3 with labs, project spaces, and classrooms for engineering programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Engineering+3+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Engineering+3+CSU+Long+Beach"
+  },
+  {
+    "id": "en4",
+    "campusId": "csulb",
+    "name": "Engineering 4",
+    "abbreviation": "EN4",
+    "aliases": [
+      "Engineering 4",
+      "EN4"
+    ],
+    "description": "Engineering building 4 with labs, project spaces, and classrooms for engineering programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Engineering+4+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Engineering+4+CSU+Long+Beach"
+  },
+  {
+    "id": "ecs",
+    "campusId": "csulb",
+    "name": "Engineering and Computer Science",
+    "abbreviation": "ECS",
+    "aliases": [
+      "Engineering and Computer Science",
+      "ECS",
+      "ECS Building"
+    ],
+    "description": "Main building for the College of Engineering and Computer Science featuring advanced labs and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Engineering+Computer+Science+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Engineering+Computer+Science+CSU+Long+Beach"
+  },
+  {
+    "id": "et",
+    "campusId": "csulb",
+    "name": "Engineering Technology",
+    "abbreviation": "ET",
+    "aliases": [
+      "Engineering Technology",
+      "ET"
+    ],
+    "description": "Building housing engineering technology programs with labs and instructional spaces for applied engineering.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Engineering+Technology+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Engineering+Technology+CSU+Long+Beach"
+  },
+  {
+    "id": "fo2",
+    "campusId": "csulb",
+    "name": "Faculty Office 2",
+    "abbreviation": "FO2",
+    "aliases": [
+      "Faculty Office 2",
+      "FO2"
+    ],
+    "description": "Faculty office building 2 housing academic department offices and faculty workspaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Faculty+Office+2+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Faculty+Office+2+CSU+Long+Beach"
+  },
+  {
+    "id": "fo3",
+    "campusId": "csulb",
+    "name": "Faculty Office 3",
+    "abbreviation": "FO3",
+    "aliases": [
+      "Faculty Office 3",
+      "FO3"
+    ],
+    "description": "Faculty office building 3 housing academic department offices and faculty workspaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Faculty+Office+3+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Faculty+Office+3+CSU+Long+Beach"
+  },
+  {
+    "id": "fo4",
+    "campusId": "csulb",
+    "name": "Faculty Office 4",
+    "abbreviation": "FO4",
+    "aliases": [
+      "Faculty Office 4",
+      "FO4"
+    ],
+    "description": "Faculty office building 4 housing academic department offices and faculty workspaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Faculty+Office+4+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Faculty+Office+4+CSU+Long+Beach"
+  },
+  {
+    "id": "fo5",
+    "campusId": "csulb",
+    "name": "Faculty Office 5",
+    "abbreviation": "FO5",
+    "aliases": [
+      "Faculty Office 5",
+      "FO5"
+    ],
+    "description": "Faculty office building 5 housing academic department offices and faculty workspaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Faculty+Office+5+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Faculty+Office+5+CSU+Long+Beach"
+  },
+  {
+    "id": "fcs",
+    "campusId": "csulb",
+    "name": "Family and Consumer Sciences",
+    "abbreviation": "FCS",
+    "aliases": [
+      "Family and Consumer Sciences",
+      "FCS"
+    ],
+    "description": "Building housing family and consumer sciences programs including nutrition, apparel, interior design, and family studies.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Family+Consumer+Sciences+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Family+Consumer+Sciences+CSU+Long+Beach"
+  },
+  {
+    "id": "fcsa",
+    "campusId": "csulb",
+    "name": "Family and Consumer Sciences Addition",
+    "abbreviation": "FCSA",
+    "aliases": [
+      "Family and Consumer Sciences Addition",
+      "FCSA",
+      "FCS Addition"
+    ],
+    "description": "Addition to the Family and Consumer Sciences building providing expanded labs and classroom spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Family+Consumer+Sciences+Addition+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Family+Consumer+Sciences+Addition+CSU+Long+Beach"
+  },
+  {
+    "id": "fa1",
+    "campusId": "csulb",
+    "name": "Fine Arts 1",
+    "abbreviation": "FA1",
+    "aliases": [
+      "Fine Arts 1",
+      "FA1"
+    ],
+    "description": "Fine arts building 1 with studios, galleries, and classrooms for visual arts and design programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fine+Arts+1+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Fine+Arts+1+CSU+Long+Beach"
+  },
+  {
+    "id": "fa2",
+    "campusId": "csulb",
+    "name": "Fine Arts 2",
+    "abbreviation": "FA2",
+    "aliases": [
+      "Fine Arts 2",
+      "FA2"
+    ],
+    "description": "Fine arts building 2 with studios, galleries, and classrooms for visual arts and design programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fine+Arts+2+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Fine+Arts+2+CSU+Long+Beach"
+  },
+  {
+    "id": "fa3",
+    "campusId": "csulb",
+    "name": "Fine Arts 3",
+    "abbreviation": "FA3",
+    "aliases": [
+      "Fine Arts 3",
+      "FA3"
+    ],
+    "description": "Fine arts building 3 with studios, galleries, and classrooms for visual arts and design programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fine+Arts+3+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Fine+Arts+3+CSU+Long+Beach"
+  },
+  {
+    "id": "fa4",
+    "campusId": "csulb",
+    "name": "Fine Arts 4",
+    "abbreviation": "FA4",
+    "aliases": [
+      "Fine Arts 4",
+      "FA4"
+    ],
+    "description": "Fine arts building 4 with studios, galleries, and classrooms for visual arts and design programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fine+Arts+4+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Fine+Arts+4+CSU+Long+Beach"
+  },
+  {
+    "id": "fnd",
+    "campusId": "csulb",
+    "name": "Foundation",
+    "abbreviation": "FND",
+    "aliases": [
+      "Foundation",
+      "FND",
+      "CSULB Foundation"
+    ],
+    "description": "Campus foundation building housing university advancement, fundraising, and donor relations offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Foundation+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Foundation+CSU+Long+Beach"
+  },
+  {
+    "id": "hsci",
+    "campusId": "csulb",
+    "name": "Hall of Science",
+    "abbreviation": "HSCI",
+    "aliases": [
+      "Hall of Science",
+      "HSCI"
+    ],
+    "description": "Science hall supporting natural science departments with lecture halls, labs, and research facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hall+of+Science+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Hall+of+Science+CSU+Long+Beach"
+  },
+  {
+    "id": "hhs1",
+    "campusId": "csulb",
+    "name": "Health & Human Services 1",
+    "abbreviation": "HHS1",
+    "aliases": [
+      "Health & Human Services 1",
+      "HHS1",
+      "Health and Human Services 1"
+    ],
+    "description": "College of Health and Human Services building 1 with classrooms and labs for health and social science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Health+Human+Services+1+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Health+Human+Services+1+CSU+Long+Beach"
+  },
+  {
+    "id": "hhs2",
+    "campusId": "csulb",
+    "name": "Health & Human Services 2",
+    "abbreviation": "HHS2",
+    "aliases": [
+      "Health & Human Services 2",
+      "HHS2",
+      "Health and Human Services 2"
+    ],
+    "description": "College of Health and Human Services building 2 with classrooms and labs for health and social science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Health+Human+Services+2+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Health+Human+Services+2+CSU+Long+Beach"
+  },
+  {
+    "id": "hc",
+    "campusId": "csulb",
+    "name": "Horn Center",
+    "abbreviation": "HC",
+    "aliases": [
+      "Horn Center",
+      "HC"
+    ],
+    "description": "Academic and support center providing classrooms, offices, and student program spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Horn+Center+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Horn+Center+CSU+Long+Beach"
+  },
+  {
+    "id": "hg",
+    "campusId": "csulb",
+    "name": "Hillside Gateway",
+    "abbreviation": "HG",
+    "aliases": [
+      "Hillside Gateway",
+      "HG"
+    ],
+    "description": "Campus gateway area on the hillside providing access and wayfinding for students and visitors.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hillside+Gateway+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Hillside+Gateway+CSU+Long+Beach"
+  },
+  {
+    "id": "hsd",
+    "campusId": "csulb",
+    "name": "Human Services & Design",
+    "abbreviation": "HSD",
+    "aliases": [
+      "Human Services & Design",
+      "Human Services and Design",
+      "HSD"
+    ],
+    "description": "Building housing human services and design programs with classrooms, studios, and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Human+Services+Design+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Human+Services+Design+CSU+Long+Beach"
+  },
+  {
+    "id": "ih",
+    "campusId": "csulb",
+    "name": "International House",
+    "abbreviation": "IH",
+    "aliases": [
+      "International House",
+      "IH",
+      "I-House"
+    ],
+    "description": "International house providing housing, cultural exchange programs, and community for international and domestic students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=International+House+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=International+House+CSU+Long+Beach"
+  },
+  {
+    "id": "jg",
+    "campusId": "csulb",
+    "name": "Japanese Garden",
+    "abbreviation": "JG",
+    "aliases": [
+      "Japanese Garden",
+      "JG",
+      "Earl Burns Miller Japanese Garden"
+    ],
+    "description": "Authentic Japanese garden on campus providing a serene landscape for relaxation, meditation, and cultural appreciation.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Japanese+Garden+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Japanese+Garden+CSU+Long+Beach"
+  },
+  {
+    "id": "kcam",
+    "campusId": "csulb",
+    "name": "Kleefeld Contemporary Art Museum",
+    "abbreviation": "KCAM",
+    "aliases": [
+      "Kleefeld Contemporary Art Museum",
+      "KCAM",
+      "University Art Museum"
+    ],
+    "description": "Contemporary art museum on campus presenting exhibitions of modern and contemporary visual art.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kleefeld+Contemporary+Art+Museum+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kleefeld+Contemporary+Art+Museum+CSU+Long+Beach"
+  },
+  {
+    "id": "kin",
+    "campusId": "csulb",
+    "name": "Kinesiology",
+    "abbreviation": "KIN",
+    "aliases": [
+      "Kinesiology",
+      "KIN",
+      "Kinesiology Building"
+    ],
+    "description": "Kinesiology building with labs, gymnasiums, and instructional spaces for kinesiology and exercise science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kinesiology+Building+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kinesiology+Building+CSU+Long+Beach"
+  },
+  {
+    "id": "lab",
+    "campusId": "csulb",
+    "name": "Language Arts",
+    "abbreviation": "LAB",
+    "aliases": [
+      "Language Arts",
+      "LAB",
+      "Language Arts Building"
+    ],
+    "description": "Language arts building housing English, linguistics, and language departments with classrooms and labs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Language+Arts+Building+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Language+Arts+Building+CSU+Long+Beach"
+  },
+  {
+    "id": "lh",
+    "campusId": "csulb",
+    "name": "Lecture Hall 150–151",
+    "abbreviation": "LH",
+    "aliases": [
+      "Lecture Hall",
+      "LH",
+      "Lecture Hall 150",
+      "Lecture Hall 151"
+    ],
+    "description": "Large lecture hall complex with seats for 150 and 151 students supporting high-enrollment undergraduate courses.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lecture+Hall+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Lecture+Hall+CSU+Long+Beach"
+  },
+  {
+    "id": "la1",
+    "campusId": "csulb",
+    "name": "Liberal Arts 1",
+    "abbreviation": "LA1",
+    "aliases": [
+      "Liberal Arts 1",
+      "LA1"
+    ],
+    "description": "Liberal arts building 1 with classrooms and faculty offices for humanities and social science departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Liberal+Arts+1+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Liberal+Arts+1+CSU+Long+Beach"
+  },
+  {
+    "id": "la2",
+    "campusId": "csulb",
+    "name": "Liberal Arts 2",
+    "abbreviation": "LA2",
+    "aliases": [
+      "Liberal Arts 2",
+      "LA2"
+    ],
+    "description": "Liberal arts building 2 with classrooms and faculty offices for humanities and social science departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Liberal+Arts+2+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Liberal+Arts+2+CSU+Long+Beach"
+  },
+  {
+    "id": "la3",
+    "campusId": "csulb",
+    "name": "Liberal Arts 3",
+    "abbreviation": "LA3",
+    "aliases": [
+      "Liberal Arts 3",
+      "LA3"
+    ],
+    "description": "Liberal arts building 3 with classrooms and faculty offices for humanities and social science departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Liberal+Arts+3+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Liberal+Arts+3+CSU+Long+Beach"
+  },
+  {
+    "id": "la4",
+    "campusId": "csulb",
+    "name": "Liberal Arts 4",
+    "abbreviation": "LA4",
+    "aliases": [
+      "Liberal Arts 4",
+      "LA4"
+    ],
+    "description": "Liberal arts building 4 with classrooms and faculty offices for humanities and social science departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Liberal+Arts+4+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Liberal+Arts+4+CSU+Long+Beach"
+  },
+  {
+    "id": "la5",
+    "campusId": "csulb",
+    "name": "Liberal Arts 5",
+    "abbreviation": "LA5",
+    "aliases": [
+      "Liberal Arts 5",
+      "LA5"
+    ],
+    "description": "Liberal arts building 5 with classrooms and faculty offices for humanities and social science departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Liberal+Arts+5+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Liberal+Arts+5+CSU+Long+Beach"
+  },
+  {
+    "id": "lib",
+    "campusId": "csulb",
+    "name": "Library",
+    "abbreviation": "LIB",
+    "aliases": [
+      "Library",
+      "LIB",
+      "University Library",
+      "CSULB Library"
+    ],
+    "description": "Main campus library providing research services, study spaces, digital collections, and academic support.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Library+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Library+CSU+Long+Beach"
+  },
+  {
+    "id": "lah",
+    "campusId": "csulb",
+    "name": "Los Alamitos Hall",
+    "abbreviation": "LAH",
+    "aliases": [
+      "Los Alamitos Hall",
+      "LAH"
+    ],
+    "description": "Residential hall providing on-campus housing accommodations for students at CSULB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Los+Alamitos+Hall+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Los+Alamitos+Hall+CSU+Long+Beach"
+  },
+  {
+    "id": "lch",
+    "campusId": "csulb",
+    "name": "Los Cerritos Hall",
+    "abbreviation": "LCH",
+    "aliases": [
+      "Los Cerritos Hall",
+      "LCH"
+    ],
+    "description": "Residential hall providing on-campus housing accommodations for students at CSULB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Los+Cerritos+Hall+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Los+Cerritos+Hall+CSU+Long+Beach"
+  },
+  {
+    "id": "mhb",
+    "campusId": "csulb",
+    "name": "McIntosh Humanities Building",
+    "abbreviation": "MHB",
+    "aliases": [
+      "McIntosh Humanities Building",
+      "MHB",
+      "McIntosh Building"
+    ],
+    "description": "Humanities building named for McIntosh housing language, literature, and humanities departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McIntosh+Humanities+Building+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=McIntosh+Humanities+Building+CSU+Long+Beach"
+  },
+  {
+    "id": "mic",
+    "campusId": "csulb",
+    "name": "Microbiology",
+    "abbreviation": "MIC",
+    "aliases": [
+      "Microbiology",
+      "MIC",
+      "Microbiology Building"
+    ],
+    "description": "Building housing the microbiology department with specialized research labs and teaching facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Microbiology+Building+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Microbiology+Building+CSU+Long+Beach"
+  },
+  {
+    "id": "mlsc",
+    "campusId": "csulb",
+    "name": "Molecular & Life Sciences Center",
+    "abbreviation": "MLSC",
+    "aliases": [
+      "Molecular & Life Sciences Center",
+      "Molecular and Life Sciences Center",
+      "MLSC"
+    ],
+    "description": "Advanced research center for molecular biology and life sciences featuring cutting-edge laboratories and research facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Molecular+Life+Sciences+Center+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Molecular+Life+Sciences+Center+CSU+Long+Beach"
+  },
+  {
+    "id": "mmc",
+    "campusId": "csulb",
+    "name": "Multimedia Center",
+    "abbreviation": "MMC",
+    "aliases": [
+      "Multimedia Center",
+      "MMC"
+    ],
+    "description": "Multimedia center providing technology resources, media production facilities, and digital learning support.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Multimedia+Center+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Multimedia+Center+CSU+Long+Beach"
+  },
+  {
+    "id": "nur",
+    "campusId": "csulb",
+    "name": "Nursing",
+    "abbreviation": "NUR",
+    "aliases": [
+      "Nursing",
+      "NUR",
+      "Nursing Building"
+    ],
+    "description": "Building housing the nursing program with simulation labs, clinical training facilities, and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nursing+Building+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Nursing+Building+CSU+Long+Beach"
+  },
+  {
+    "id": "op",
+    "campusId": "csulb",
+    "name": "Outpost",
+    "abbreviation": "OP",
+    "aliases": [
+      "Outpost",
+      "OP"
+    ],
+    "description": "Campus outpost facility providing services or program space for students and campus operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Outpost+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Outpost+CSU+Long+Beach"
+  },
+  {
+    "id": "pts",
+    "campusId": "csulb",
+    "name": "Parking & Transportation Services",
+    "abbreviation": "PTS",
+    "aliases": [
+      "Parking & Transportation Services",
+      "Parking and Transportation Services",
+      "PTS"
+    ],
+    "description": "Office managing campus parking permits, transportation programs, shuttles, and sustainable commuting options.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Transportation+Services+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Transportation+Services+CSU+Long+Beach"
+  },
+  {
+    "id": "psc",
+    "campusId": "csulb",
+    "name": "Parkside College",
+    "abbreviation": "PSC",
+    "aliases": [
+      "Parkside College",
+      "PSC"
+    ],
+    "description": "Residential college community at CSULB providing living-learning programs and student community experiences.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parkside+College+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parkside+College+CSU+Long+Beach"
+  },
+  {
+    "id": "ph1",
+    "campusId": "csulb",
+    "name": "Peterson Hall 1",
+    "abbreviation": "PH1",
+    "aliases": [
+      "Peterson Hall 1",
+      "PH1"
+    ],
+    "description": "Residential hall providing on-campus housing accommodations for students at CSULB.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Peterson+Hall+1+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Peterson+Hall+1+CSU+Long+Beach"
+  },
+  {
+    "id": "pn",
+    "campusId": "csulb",
+    "name": "Parkside North",
+    "abbreviation": "PN",
+    "aliases": [
+      "Parkside North",
+      "PN"
+    ],
+    "description": "North section of Parkside residential area providing student housing with community amenities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parkside+North+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parkside+North+CSU+Long+Beach"
+  },
+  {
+    "id": "psy",
+    "campusId": "csulb",
+    "name": "Psychology",
+    "abbreviation": "PSY",
+    "aliases": [
+      "Psychology",
+      "PSY",
+      "Psychology Building"
+    ],
+    "description": "Building housing the psychology department with research labs, clinical training spaces, and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Psychology+Building+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Psychology+Building+CSU+Long+Beach"
+  },
+  {
+    "id": "pyr",
+    "campusId": "csulb",
+    "name": "The Pyramid",
+    "abbreviation": "PYR",
+    "aliases": [
+      "Pyramid",
+      "The Pyramid",
+      "PYR",
+      "Walter Pyramid"
+    ],
+    "description": "Iconic pyramid-shaped arena hosting CSULB Beach volleyball, basketball, and major campus events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Walter+Pyramid+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Walter+Pyramid+CSU+Long+Beach"
+  },
+  {
+    "id": "repr",
+    "campusId": "csulb",
+    "name": "Reprographics",
+    "abbreviation": "REPR",
+    "aliases": [
+      "Reprographics",
+      "REPR",
+      "Print Services"
+    ],
+    "description": "Campus reprographics and print services facility offering printing, copying, and document production for university needs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Reprographics+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Reprographics+CSU+Long+Beach"
+  },
+  {
+    "id": "sspa",
+    "campusId": "csulb",
+    "name": "Social Science/Public Affairs",
+    "abbreviation": "SSPA",
+    "aliases": [
+      "Social Science/Public Affairs",
+      "Social Science Public Affairs",
+      "SSPA"
+    ],
+    "description": "Building housing social science and public affairs departments with classrooms and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Social+Science+Public+Affairs+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Social+Science+Public+Affairs+CSU+Long+Beach"
+  },
+  {
+    "id": "shs",
+    "campusId": "csulb",
+    "name": "Student Health Services",
+    "abbreviation": "SHS",
+    "aliases": [
+      "Student Health Services",
+      "SHS",
+      "Health Center",
+      "Campus Health"
+    ],
+    "description": "Campus health facility providing medical care, mental health counseling, wellness programs, and student health education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Health+Services+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Health+Services+CSU+Long+Beach"
+  },
+  {
+    "id": "srwc",
+    "campusId": "csulb",
+    "name": "Student Recreation & Wellness Center",
+    "abbreviation": "SRWC",
+    "aliases": [
+      "Student Recreation & Wellness Center",
+      "Student Recreation and Wellness Center",
+      "SRWC",
+      "Rec Center"
+    ],
+    "description": "Campus recreation center with fitness equipment, pools, courts, climbing wall, and wellness programs for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Recreation+Wellness+Center+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Recreation+Wellness+Center+CSU+Long+Beach"
+  },
+  {
+    "id": "ssch",
+    "campusId": "csulb",
+    "name": "Soccer and Softball Clubhouse",
+    "abbreviation": "SSCH",
+    "aliases": [
+      "Soccer and Softball Clubhouse",
+      "SSCH"
+    ],
+    "description": "Athletics clubhouse supporting soccer and softball teams with locker rooms and team facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Soccer+Softball+Clubhouse+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Soccer+Softball+Clubhouse+CSU+Long+Beach"
+  },
+  {
+    "id": "sssc",
+    "campusId": "csulb",
+    "name": "Shakarian Student Success Center",
+    "abbreviation": "SSSC",
+    "aliases": [
+      "Shakarian Student Success Center",
+      "SSSC",
+      "Student Success Center"
+    ],
+    "description": "Student success center providing tutoring, academic coaching, advising, and learning support services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Shakarian+Student+Success+Center+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Shakarian+Student+Success+Center+CSU+Long+Beach"
+  },
+  {
+    "id": "ta",
+    "campusId": "csulb",
+    "name": "Theatre Arts",
+    "abbreviation": "TA",
+    "aliases": [
+      "Theatre Arts",
+      "TA",
+      "Theatre Arts Building"
+    ],
+    "description": "Theatre arts building housing performance spaces, rehearsal rooms, and classrooms for the theatre program.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Theatre+Arts+Building+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Theatre+Arts+Building+CSU+Long+Beach"
+  },
+  {
+    "id": "umc",
+    "campusId": "csulb",
+    "name": "University Music Center",
+    "abbreviation": "UMC",
+    "aliases": [
+      "University Music Center",
+      "UMC",
+      "Music Center"
+    ],
+    "description": "Music center with rehearsal halls, practice rooms, recording studios, and performance venues for the music program.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Music+Center+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Music+Center+CSU+Long+Beach"
+  },
+  {
+    "id": "up",
+    "campusId": "csulb",
+    "name": "University Police Building",
+    "abbreviation": "UP",
+    "aliases": [
+      "University Police Building",
+      "UP",
+      "Campus Police",
+      "University Police"
+    ],
+    "description": "University Police Department headquarters providing law enforcement, emergency response, and safety services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Police+Building+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Police+Building+CSU+Long+Beach"
+  },
+  {
+    "id": "usu",
+    "campusId": "csulb",
+    "name": "University Student Union",
+    "abbreviation": "USU",
+    "aliases": [
+      "University Student Union",
+      "USU",
+      "Student Union"
+    ],
+    "description": "Central student union hub housing dining, student government, clubs, event spaces, and campus life services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Student+Union+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Student+Union+CSU+Long+Beach"
+  },
+  {
+    "id": "ut",
+    "campusId": "csulb",
+    "name": "University Theatre",
+    "abbreviation": "UT",
+    "aliases": [
+      "University Theatre",
+      "UT"
+    ],
+    "description": "Main university theatre hosting student productions, professional performances, and campus events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Theatre+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Theatre+CSU+Long+Beach"
+  },
+  {
+    "id": "vic",
+    "campusId": "csulb",
+    "name": "Visitor Information Center",
+    "abbreviation": "VIC",
+    "aliases": [
+      "Visitor Information Center",
+      "VIC",
+      "Welcome Center",
+      "Visitor Center"
+    ],
+    "description": "Campus visitor information center providing maps, directions, tour info, and assistance for guests and prospective students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Visitor+Information+Center+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Visitor+Information+Center+CSU+Long+Beach"
+  },
+  {
+    "id": "vec",
+    "campusId": "csulb",
+    "name": "Vivian Engineering Center",
+    "abbreviation": "VEC",
+    "aliases": [
+      "Vivian Engineering Center",
+      "VEC",
+      "Vivan Engineering Center"
+    ],
+    "description": "Engineering center providing advanced labs, collaborative project spaces, and classrooms for engineering students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Vivian+Engineering+Center+CSU+Long+Beach",
+    "appleMapsUrl": "http://maps.apple.com/?q=Vivian+Engineering+Center+CSU+Long+Beach"
+  }
+]

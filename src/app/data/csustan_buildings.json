@@ -1,0 +1,892 @@
+[
+  {
+    "id": "vasche-library",
+    "campusId": "csustan",
+    "name": "Vasche Library",
+    "abbreviation": "LIB",
+    "aliases": [
+      "Vasche Library",
+      "LIB",
+      "Library",
+      "CSU Stanislaus Library"
+    ],
+    "description": "Main campus library named for Vasche providing research resources, study spaces, digital collections, and academic support.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Vasche+Library+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Vasche+Library+CSU+Stanislaus"
+  },
+  {
+    "id": "library-annex",
+    "campusId": "csustan",
+    "name": "Library Annex",
+    "abbreviation": "LIBX",
+    "aliases": [
+      "Library Annex",
+      "LIBX"
+    ],
+    "description": "Annex to Vasche Library providing additional library services, storage, and support spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Library+Annex+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Library+Annex+CSU+Stanislaus"
+  },
+  {
+    "id": "bizzini-hall",
+    "campusId": "csustan",
+    "name": "Bizzini Hall",
+    "abbreviation": "BIZ",
+    "aliases": [
+      "Bizzini Hall",
+      "BIZ"
+    ],
+    "description": "Academic hall housing classrooms, faculty offices, and department spaces for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bizzini+Hall+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bizzini+Hall+CSU+Stanislaus"
+  },
+  {
+    "id": "corporation-yard",
+    "campusId": "csustan",
+    "name": "Corporation Yard",
+    "abbreviation": "CORP",
+    "aliases": [
+      "Corporation Yard",
+      "CORP"
+    ],
+    "description": "Campus corporation yard managing facilities operations, deliveries, and physical plant services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Corporation+Yard+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Corporation+Yard+CSU+Stanislaus"
+  },
+  {
+    "id": "fieldhouse",
+    "campusId": "csustan",
+    "name": "Fieldhouse",
+    "abbreviation": "FH",
+    "aliases": [
+      "Fieldhouse",
+      "FH",
+      "Field House"
+    ],
+    "description": "Athletics fieldhouse supporting campus sports teams with locker rooms, equipment storage, and team facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fieldhouse+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Fieldhouse+CSU+Stanislaus"
+  },
+  {
+    "id": "fieldhouse-annex",
+    "campusId": "csustan",
+    "name": "Fieldhouse Annex",
+    "abbreviation": "FHA",
+    "aliases": [
+      "Fieldhouse Annex",
+      "FHA",
+      "Field House Annex"
+    ],
+    "description": "Annex to the fieldhouse providing additional athletics and recreation support spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fieldhouse+Annex+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Fieldhouse+Annex+CSU+Stanislaus"
+  },
+  {
+    "id": "fitzpatrick-arena",
+    "campusId": "csustan",
+    "name": "Fitzpatrick Arena",
+    "abbreviation": "FITZ",
+    "aliases": [
+      "Fitzpatrick Arena",
+      "FITZ",
+      "Arena"
+    ],
+    "description": "Main campus arena hosting Warriors athletics events, concerts, commencement, and major campus gatherings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fitzpatrick+Arena+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Fitzpatrick+Arena+CSU+Stanislaus"
+  },
+  {
+    "id": "music",
+    "campusId": "csustan",
+    "name": "Music",
+    "abbreviation": "MUS",
+    "aliases": [
+      "Music",
+      "MUS",
+      "Music Building"
+    ],
+    "description": "Building housing the music department with rehearsal spaces, practice rooms, faculty offices, and performance venues.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Music+Building+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Music+Building+CSU+Stanislaus"
+  },
+  {
+    "id": "snider-recital-hall",
+    "campusId": "csustan",
+    "name": "Snider Recital Hall",
+    "abbreviation": "SRH",
+    "aliases": [
+      "Snider Recital Hall",
+      "SRH",
+      "Recital Hall"
+    ],
+    "description": "Intimate recital hall named for Snider hosting student and faculty music performances and recitals.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Snider+Recital+Hall+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Snider+Recital+Hall+CSU+Stanislaus"
+  },
+  {
+    "id": "theatre-drama",
+    "campusId": "csustan",
+    "name": "Theatre/Drama",
+    "abbreviation": "THTR",
+    "aliases": [
+      "Theatre",
+      "Drama",
+      "Theatre/Drama",
+      "THTR",
+      "Theatre Building"
+    ],
+    "description": "Building housing the theatre and drama programs with rehearsal spaces, workshops, and performance facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Theatre+Drama+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Theatre+Drama+CSU+Stanislaus"
+  },
+  {
+    "id": "art",
+    "campusId": "csustan",
+    "name": "Art",
+    "abbreviation": "ART",
+    "aliases": [
+      "Art",
+      "ART",
+      "Art Building",
+      "Art Department"
+    ],
+    "description": "Building housing visual art studios, galleries, and classrooms for fine arts and studio art programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Art+Building+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Art+Building+CSU+Stanislaus"
+  },
+  {
+    "id": "science-1",
+    "campusId": "csustan",
+    "name": "Science 1",
+    "abbreviation": "SCI1",
+    "aliases": [
+      "Science 1",
+      "SCI1",
+      "Science Building 1"
+    ],
+    "description": "Science building 1 with teaching labs, research facilities, and classrooms for natural science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Science+1+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Science+1+CSU+Stanislaus"
+  },
+  {
+    "id": "naraghi-hall-of-science",
+    "campusId": "csustan",
+    "name": "Naraghi Hall of Science",
+    "abbreviation": "NHS",
+    "aliases": [
+      "Naraghi Hall of Science",
+      "NHS",
+      "Naraghi Hall"
+    ],
+    "description": "Modern science hall named for Naraghi featuring cutting-edge labs, research facilities, and classrooms for STEM programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Naraghi+Hall+of+Science+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Naraghi+Hall+of+Science+CSU+Stanislaus"
+  },
+  {
+    "id": "educational-services",
+    "campusId": "csustan",
+    "name": "Educational Services",
+    "abbreviation": "ES",
+    "aliases": [
+      "Educational Services",
+      "ES"
+    ],
+    "description": "Building housing educational support services including advising, tutoring, and student success programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Educational+Services+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Educational+Services+CSU+Stanislaus"
+  },
+  {
+    "id": "classroom-annex",
+    "campusId": "csustan",
+    "name": "Classroom Annex",
+    "abbreviation": "CLAX",
+    "aliases": [
+      "Classroom Annex",
+      "CLAX"
+    ],
+    "description": "Annex building providing additional classroom space for university instruction and academic programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Classroom+Annex+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Classroom+Annex+CSU+Stanislaus"
+  },
+  {
+    "id": "main-dining",
+    "campusId": "csustan",
+    "name": "Main Dining (Cafeteria)",
+    "abbreviation": "DINE",
+    "aliases": [
+      "Main Dining",
+      "Cafeteria",
+      "DINE",
+      "Dining Hall"
+    ],
+    "description": "Main campus dining facility offering a variety of meals and dining options for students and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Main+Dining+Cafeteria+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Main+Dining+Cafeteria+CSU+Stanislaus"
+  },
+  {
+    "id": "south-dining",
+    "campusId": "csustan",
+    "name": "South Dining",
+    "abbreviation": "SDINE",
+    "aliases": [
+      "South Dining",
+      "SDINE"
+    ],
+    "description": "South campus dining location providing meals and dining options conveniently located near residential areas.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=South+Dining+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=South+Dining+CSU+Stanislaus"
+  },
+  {
+    "id": "child-development-center",
+    "campusId": "csustan",
+    "name": "Child Development Center",
+    "abbreviation": "CDC",
+    "aliases": [
+      "Child Development Center",
+      "CDC",
+      "Childcare Center"
+    ],
+    "description": "On-campus child development center providing early childhood education and childcare for campus families.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Child+Development+Center+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Child+Development+Center+CSU+Stanislaus"
+  },
+  {
+    "id": "demergasso-bava-hall",
+    "campusId": "csustan",
+    "name": "Demergasso-Bava Hall",
+    "abbreviation": "DBH",
+    "aliases": [
+      "Demergasso-Bava Hall",
+      "DBH",
+      "Demergasso Bava Hall"
+    ],
+    "description": "Academic hall named for Demergasso and Bava housing business and public administration programs with classrooms and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Demergasso+Bava+Hall+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Demergasso+Bava+Hall+CSU+Stanislaus"
+  },
+  {
+    "id": "mary-stuart-rogers-gateway",
+    "campusId": "csustan",
+    "name": "Mary Stuart Rogers Educational Services Gateway",
+    "abbreviation": "MSG",
+    "aliases": [
+      "Mary Stuart Rogers Educational Services Gateway",
+      "MSG",
+      "Rogers Gateway",
+      "Educational Services Gateway"
+    ],
+    "description": "Gateway building named for Mary Stuart Rogers providing educational services, advising, and student support.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mary+Stuart+Rogers+Gateway+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Mary+Stuart+Rogers+Gateway+CSU+Stanislaus"
+  },
+  {
+    "id": "health-center",
+    "campusId": "csustan",
+    "name": "Health Center",
+    "abbreviation": "HC",
+    "aliases": [
+      "Health Center",
+      "HC",
+      "Campus Health",
+      "Student Health Services"
+    ],
+    "description": "Campus health facility providing medical care, mental health counseling, wellness programs, and student health education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Health+Center+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Health+Center+CSU+Stanislaus"
+  },
+  {
+    "id": "rogers-faculty-development-center",
+    "campusId": "csustan",
+    "name": "John Stuart Rogers Faculty Development Center",
+    "abbreviation": "FDC",
+    "aliases": [
+      "John Stuart Rogers Faculty Development Center",
+      "FDC",
+      "Faculty Development Center",
+      "Rogers Faculty Development Center"
+    ],
+    "description": "Faculty development center named for John Stuart Rogers supporting faculty professional development, pedagogy, and instructional innovation.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rogers+Faculty+Development+Center+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Rogers+Faculty+Development+Center+CSU+Stanislaus"
+  },
+  {
+    "id": "residential-life-village",
+    "campusId": "csustan",
+    "name": "Residential Life Village / Student Housing",
+    "abbreviation": "RLV",
+    "aliases": [
+      "Residential Life Village",
+      "Student Housing",
+      "RLV",
+      "Residential Village"
+    ],
+    "description": "On-campus residential life village providing student housing with community amenities and residential life programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Residential+Life+Village+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Residential+Life+Village+CSU+Stanislaus"
+  },
+  {
+    "id": "innovative-center",
+    "campusId": "csustan",
+    "name": "Innovative Center",
+    "abbreviation": "INN",
+    "aliases": [
+      "Innovative Center",
+      "INN",
+      "Innovation Center"
+    ],
+    "description": "Center fostering innovation, entrepreneurship, and applied learning through collaborative programs and resources.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Innovative+Center+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Innovative+Center+CSU+Stanislaus"
+  },
+  {
+    "id": "university-student-center",
+    "campusId": "csustan",
+    "name": "University Student Center",
+    "abbreviation": "USC",
+    "aliases": [
+      "University Student Center",
+      "USC",
+      "Student Center"
+    ],
+    "description": "Central student hub providing gathering spaces, student government, clubs, event spaces, and campus life services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Student+Center+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Student+Center+CSU+Stanislaus"
+  },
+  {
+    "id": "university-bookstore",
+    "campusId": "csustan",
+    "name": "University Bookstore",
+    "abbreviation": "BKS",
+    "aliases": [
+      "University Bookstore",
+      "BKS",
+      "Bookstore",
+      "Campus Bookstore"
+    ],
+    "description": "Campus bookstore selling textbooks, course materials, CSUSTAN merchandise, and student supplies.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Bookstore+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Bookstore+CSU+Stanislaus"
+  },
+  {
+    "id": "event-center",
+    "campusId": "csustan",
+    "name": "Event Center",
+    "abbreviation": "EC",
+    "aliases": [
+      "Event Center",
+      "EC"
+    ],
+    "description": "Campus event center providing large venue space for conferences, ceremonies, performances, and campus events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Event+Center+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Event+Center+CSU+Stanislaus"
+  },
+  {
+    "id": "student-fitness-center",
+    "campusId": "csustan",
+    "name": "Student Fitness Center",
+    "abbreviation": "SFC",
+    "aliases": [
+      "Student Fitness Center",
+      "SFC",
+      "Fitness Center",
+      "Gym"
+    ],
+    "description": "Campus fitness center offering exercise equipment, group fitness classes, and wellness programs for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Fitness+Center+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Fitness+Center+CSU+Stanislaus"
+  },
+  {
+    "id": "student-recreation-complex",
+    "campusId": "csustan",
+    "name": "Student Recreation Complex",
+    "abbreviation": "SRC",
+    "aliases": [
+      "Student Recreation Complex",
+      "SRC",
+      "Recreation Complex",
+      "Rec Complex"
+    ],
+    "description": "Campus recreation complex with courts, fields, and facilities supporting student recreation and intramural sports.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Recreation+Complex+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Recreation+Complex+CSU+Stanislaus"
+  },
+  {
+    "id": "campus-services",
+    "campusId": "csustan",
+    "name": "Campus Services",
+    "abbreviation": "CSVC",
+    "aliases": [
+      "Campus Services",
+      "CSVC"
+    ],
+    "description": "Building housing campus services offices supporting facilities, operations, and administrative functions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Campus+Services+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Campus+Services+CSU+Stanislaus"
+  },
+  {
+    "id": "student-services",
+    "campusId": "csustan",
+    "name": "Student Services",
+    "abbreviation": "SS",
+    "aliases": [
+      "Student Services",
+      "SS"
+    ],
+    "description": "Building housing student services including admissions, financial aid, registrar, and enrollment support offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Services+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Services+CSU+Stanislaus"
+  },
+  {
+    "id": "student-services-annex",
+    "campusId": "csustan",
+    "name": "Student Services Annex",
+    "abbreviation": "SSA",
+    "aliases": [
+      "Student Services Annex",
+      "SSA"
+    ],
+    "description": "Annex to the Student Services building providing additional program and office space for student support services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Services+Annex+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Services+Annex+CSU+Stanislaus"
+  },
+  {
+    "id": "amphitheatre",
+    "campusId": "csustan",
+    "name": "Amphitheatre",
+    "abbreviation": "AMPH",
+    "aliases": [
+      "Amphitheatre",
+      "Amphitheater",
+      "AMPH"
+    ],
+    "description": "Outdoor amphitheatre hosting performances, events, and gatherings in an open-air setting.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Amphitheatre+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Amphitheatre+CSU+Stanislaus"
+  },
+  {
+    "id": "gazebo",
+    "campusId": "csustan",
+    "name": "Gazebo",
+    "abbreviation": "GAZ",
+    "aliases": [
+      "Gazebo",
+      "GAZ"
+    ],
+    "description": "Outdoor gazebo providing a shaded gathering and relaxation space on campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gazebo+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Gazebo+CSU+Stanislaus"
+  },
+  {
+    "id": "art-gallery",
+    "campusId": "csustan",
+    "name": "Art Gallery",
+    "abbreviation": "ARTG",
+    "aliases": [
+      "Art Gallery",
+      "ARTG",
+      "University Art Gallery"
+    ],
+    "description": "Campus art gallery exhibiting student, faculty, and visiting artists' works throughout the academic year.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Art+Gallery+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Art+Gallery+CSU+Stanislaus"
+  },
+  {
+    "id": "mainstage-theatre",
+    "campusId": "csustan",
+    "name": "Mainstage Theatre",
+    "abbreviation": "MAIN",
+    "aliases": [
+      "Mainstage Theatre",
+      "MAIN",
+      "Main Stage",
+      "Mainstage"
+    ],
+    "description": "Main performance theatre hosting student productions, visiting companies, and major campus theatrical events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mainstage+Theatre+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Mainstage+Theatre+CSU+Stanislaus"
+  },
+  {
+    "id": "baseball-field",
+    "campusId": "csustan",
+    "name": "Baseball Field",
+    "abbreviation": "BASEBALL",
+    "aliases": [
+      "Baseball Field",
+      "Baseball Diamond"
+    ],
+    "description": "Campus baseball field hosting Warriors baseball games and practice sessions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Baseball+Field+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Baseball+Field+CSU+Stanislaus"
+  },
+  {
+    "id": "softball-field",
+    "campusId": "csustan",
+    "name": "Softball Field",
+    "abbreviation": "SOFTBALL",
+    "aliases": [
+      "Softball Field",
+      "Softball Diamond"
+    ],
+    "description": "Campus softball field hosting Warriors softball games and practice sessions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Softball+Field+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Softball+Field+CSU+Stanislaus"
+  },
+  {
+    "id": "intramural-softball-field",
+    "campusId": "csustan",
+    "name": "Intramural Softball Field",
+    "abbreviation": "IMSB",
+    "aliases": [
+      "Intramural Softball Field",
+      "IMSB",
+      "Intramural Field"
+    ],
+    "description": "Intramural softball field supporting recreational softball leagues and student sports activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Intramural+Softball+Field+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Intramural+Softball+Field+CSU+Stanislaus"
+  },
+  {
+    "id": "soccer-field",
+    "campusId": "csustan",
+    "name": "Soccer Field",
+    "abbreviation": "SOCCER",
+    "aliases": [
+      "Soccer Field",
+      "SOCCER"
+    ],
+    "description": "Campus soccer field hosting Warriors soccer matches and practice sessions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Soccer+Field+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Soccer+Field+CSU+Stanislaus"
+  },
+  {
+    "id": "tennis-courts",
+    "campusId": "csustan",
+    "name": "Tennis Courts",
+    "abbreviation": "TENNIS",
+    "aliases": [
+      "Tennis Courts",
+      "TENNIS"
+    ],
+    "description": "Campus tennis courts hosting Warriors tennis matches and open recreation for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tennis+Courts+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Tennis+Courts+CSU+Stanislaus"
+  },
+  {
+    "id": "al-brenda-track",
+    "campusId": "csustan",
+    "name": "Track (Al Brenda Track)",
+    "abbreviation": "TRACK",
+    "aliases": [
+      "Al Brenda Track",
+      "Track",
+      "TRACK",
+      "Al Brenda Track & Field"
+    ],
+    "description": "Campus running track named for Al Brenda hosting cross country and track and field athletics.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Al+Brenda+Track+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Al+Brenda+Track+CSU+Stanislaus"
+  },
+  {
+    "id": "outdoor-athletic-facilities",
+    "campusId": "csustan",
+    "name": "Outdoor Athletic Facilities",
+    "abbreviation": "OAF",
+    "aliases": [
+      "Outdoor Athletic Facilities",
+      "OAF"
+    ],
+    "description": "General outdoor athletic facilities supporting Warriors sports, intramurals, and student recreation.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Outdoor+Athletic+Facilities+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Outdoor+Athletic+Facilities+CSU+Stanislaus"
+  },
+  {
+    "id": "study-space",
+    "campusId": "csustan",
+    "name": "Study Space",
+    "abbreviation": "STUDY",
+    "aliases": [
+      "Study Space",
+      "STUDY"
+    ],
+    "description": "Designated outdoor or indoor study spaces providing quiet areas for student academic work.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Study+Space+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Study+Space+CSU+Stanislaus"
+  },
+  {
+    "id": "quad",
+    "campusId": "csustan",
+    "name": "QUAD",
+    "abbreviation": "QUAD",
+    "aliases": [
+      "QUAD",
+      "Quad",
+      "The Quad"
+    ],
+    "description": "Central campus quad providing open-air gathering space for student activities, events, and campus life.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=QUAD+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=QUAD+CSU+Stanislaus"
+  },
+  {
+    "id": "pergola",
+    "campusId": "csustan",
+    "name": "Pergola",
+    "abbreviation": "PERGOLA",
+    "aliases": [
+      "Pergola",
+      "PERGOLA"
+    ],
+    "description": "Outdoor pergola structure providing a shaded seating and gathering area for students and campus community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pergola+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Pergola+CSU+Stanislaus"
+  },
+  {
+    "id": "pergola-meadow",
+    "campusId": "csustan",
+    "name": "Pergola Meadow",
+    "abbreviation": "PMEADOW",
+    "aliases": [
+      "Pergola Meadow",
+      "PMEADOW"
+    ],
+    "description": "Open meadow area adjacent to the Pergola providing a natural outdoor space for relaxation and campus events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pergola+Meadow+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Pergola+Meadow+CSU+Stanislaus"
+  },
+  {
+    "id": "warrior-lake",
+    "campusId": "csustan",
+    "name": "Warrior Lake",
+    "abbreviation": "LAKE",
+    "aliases": [
+      "Warrior Lake",
+      "LAKE"
+    ],
+    "description": "Campus lake providing a scenic natural landmark and peaceful outdoor environment for students and visitors.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Warrior+Lake+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Warrior+Lake+CSU+Stanislaus"
+  },
+  {
+    "id": "hughes-university-pond",
+    "campusId": "csustan",
+    "name": "Dr. Maryalene Hughes University Pond",
+    "abbreviation": "POND",
+    "aliases": [
+      "Dr. Maryalene Hughes University Pond",
+      "Hughes University Pond",
+      "POND",
+      "University Pond"
+    ],
+    "description": "Campus pond named for Dr. Maryalene Hughes providing a serene natural water feature and ecological habitat.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hughes+University+Pond+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Hughes+University+Pond+CSU+Stanislaus"
+  },
+  {
+    "id": "sustainable-agriculture-garden",
+    "campusId": "csustan",
+    "name": "Sustainable Agriculture Garden",
+    "abbreviation": "SAG",
+    "aliases": [
+      "Sustainable Agriculture Garden",
+      "SAG",
+      "Campus Garden"
+    ],
+    "description": "On-campus sustainable agriculture garden supporting environmental education, food production, and sustainability initiatives.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sustainable+Agriculture+Garden+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sustainable+Agriculture+Garden+CSU+Stanislaus"
+  },
+  {
+    "id": "greenhouse",
+    "campusId": "csustan",
+    "name": "Greenhouse",
+    "abbreviation": "GH",
+    "aliases": [
+      "Greenhouse",
+      "GH"
+    ],
+    "description": "Campus greenhouse supporting biology, agriculture, and environmental science instruction and research.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Greenhouse+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Greenhouse+CSU+Stanislaus"
+  },
+  {
+    "id": "university-police",
+    "campusId": "csustan",
+    "name": "University Police",
+    "abbreviation": "UP",
+    "aliases": [
+      "University Police",
+      "UP",
+      "Campus Police"
+    ],
+    "description": "University Police Department headquarters providing law enforcement, emergency response, and campus safety services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Police+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Police+CSU+Stanislaus"
+  },
+  {
+    "id": "parking-lot-1",
+    "campusId": "csustan",
+    "name": "Parking Lot 1",
+    "abbreviation": "LOT-1",
+    "aliases": [
+      "Parking Lot 1",
+      "Lot 1",
+      "LOT-1"
+    ],
+    "description": "Surface parking lot 1 for students, faculty, and staff with valid CSUSTAN parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+1+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+1+CSU+Stanislaus"
+  },
+  {
+    "id": "parking-lot-2",
+    "campusId": "csustan",
+    "name": "Parking Lot 2",
+    "abbreviation": "LOT-2",
+    "aliases": [
+      "Parking Lot 2",
+      "Lot 2",
+      "LOT-2"
+    ],
+    "description": "Surface parking lot 2 for students, faculty, and staff with valid CSUSTAN parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+2+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+2+CSU+Stanislaus"
+  },
+  {
+    "id": "parking-lot-3",
+    "campusId": "csustan",
+    "name": "Parking Lot 3",
+    "abbreviation": "LOT-3",
+    "aliases": [
+      "Parking Lot 3",
+      "Lot 3",
+      "LOT-3"
+    ],
+    "description": "Surface parking lot 3 for students, faculty, and staff with valid CSUSTAN parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+3+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+3+CSU+Stanislaus"
+  },
+  {
+    "id": "parking-lot-4",
+    "campusId": "csustan",
+    "name": "Parking Lot 4",
+    "abbreviation": "LOT-4",
+    "aliases": [
+      "Parking Lot 4",
+      "Lot 4",
+      "LOT-4"
+    ],
+    "description": "Surface parking lot 4 for students, faculty, and staff with valid CSUSTAN parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+4+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+4+CSU+Stanislaus"
+  },
+  {
+    "id": "parking-lot-5",
+    "campusId": "csustan",
+    "name": "Parking Lot 5",
+    "abbreviation": "LOT-5",
+    "aliases": [
+      "Parking Lot 5",
+      "Lot 5",
+      "LOT-5"
+    ],
+    "description": "Surface parking lot 5 for students, faculty, and staff with valid CSUSTAN parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+5+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+5+CSU+Stanislaus"
+  },
+  {
+    "id": "parking-lot-6",
+    "campusId": "csustan",
+    "name": "Parking Lot 6",
+    "abbreviation": "LOT-6",
+    "aliases": [
+      "Parking Lot 6",
+      "Lot 6",
+      "LOT-6"
+    ],
+    "description": "Surface parking lot 6 for students, faculty, and staff with valid CSUSTAN parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+6+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+6+CSU+Stanislaus"
+  },
+  {
+    "id": "parking-lot-7",
+    "campusId": "csustan",
+    "name": "Parking Lot 7",
+    "abbreviation": "LOT-7",
+    "aliases": [
+      "Parking Lot 7",
+      "Lot 7",
+      "LOT-7"
+    ],
+    "description": "Surface parking lot 7 for students, faculty, and staff with valid CSUSTAN parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+7+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+7+CSU+Stanislaus"
+  },
+  {
+    "id": "parking-lot-8",
+    "campusId": "csustan",
+    "name": "Parking Lot 8",
+    "abbreviation": "LOT-8",
+    "aliases": [
+      "Parking Lot 8",
+      "Lot 8",
+      "LOT-8"
+    ],
+    "description": "Surface parking lot 8 for students, faculty, and staff with valid CSUSTAN parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+8+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+8+CSU+Stanislaus"
+  },
+  {
+    "id": "parking-lot-10",
+    "campusId": "csustan",
+    "name": "Parking Lot 10",
+    "abbreviation": "LOT-10",
+    "aliases": [
+      "Parking Lot 10",
+      "Lot 10",
+      "LOT-10"
+    ],
+    "description": "Surface parking lot 10 for students, faculty, and staff with valid CSUSTAN parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+10+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+10+CSU+Stanislaus"
+  },
+  {
+    "id": "parking-lot-10a",
+    "campusId": "csustan",
+    "name": "Parking Lot 10A",
+    "abbreviation": "LOT-10A",
+    "aliases": [
+      "Parking Lot 10A",
+      "Lot 10A",
+      "LOT-10A"
+    ],
+    "description": "Surface parking lot 10A for students, faculty, and staff with valid CSUSTAN parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+10A+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+10A+CSU+Stanislaus"
+  },
+  {
+    "id": "parking-lot-11",
+    "campusId": "csustan",
+    "name": "Parking Lot 11",
+    "abbreviation": "LOT-11",
+    "aliases": [
+      "Parking Lot 11",
+      "Lot 11",
+      "LOT-11"
+    ],
+    "description": "Surface parking lot 11 for students, faculty, and staff with valid CSUSTAN parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+11+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+11+CSU+Stanislaus"
+  },
+  {
+    "id": "parking-lot-11a",
+    "campusId": "csustan",
+    "name": "Parking Lot 11A",
+    "abbreviation": "LOT-11A",
+    "aliases": [
+      "Parking Lot 11A",
+      "Lot 11A",
+      "LOT-11A"
+    ],
+    "description": "Surface parking lot 11A for students, faculty, and staff with valid CSUSTAN parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+11A+CSU+Stanislaus",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+11A+CSU+Stanislaus"
+  }
+]

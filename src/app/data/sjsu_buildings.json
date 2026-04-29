@@ -1,0 +1,710 @@
+[
+  {
+    "id": "administration",
+    "campusId": "sjsu",
+    "name": "Administration Building",
+    "abbreviation": "ADM",
+    "aliases": [
+      "Administration Building",
+      "Administration",
+      "ADM"
+    ],
+    "description": "Central administrative building housing the university president's office and core administrative departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Administration+Building+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Administration+Building+SJSU"
+  },
+  {
+    "id": "art-building",
+    "campusId": "sjsu",
+    "name": "Art Building",
+    "abbreviation": "ART",
+    "aliases": [
+      "Art Building",
+      "ART"
+    ],
+    "description": "Building housing the art and art history departments with studios, galleries, and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Art+Building+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Art+Building+SJSU"
+  },
+  {
+    "id": "associated-students-house",
+    "campusId": "sjsu",
+    "name": "Associated Students House",
+    "abbreviation": "ASH",
+    "aliases": [
+      "Associated Students House",
+      "ASH",
+      "AS House"
+    ],
+    "description": "Home of Associated Students, the student government organization, providing meeting and office space.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Associated+Students+House+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Associated+Students+House+SJSU"
+  },
+  {
+    "id": "boccardo-business-complex",
+    "campusId": "sjsu",
+    "name": "Boccardo Business Complex",
+    "abbreviation": "BBC",
+    "aliases": [
+      "Boccardo Business Complex",
+      "BBC"
+    ],
+    "description": "Business complex named for Boccardo housing the Lucas College and Graduate School of Business.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Boccardo+Business+Complex+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Boccardo+Business+Complex+SJSU"
+  },
+  {
+    "id": "business-tower",
+    "campusId": "sjsu",
+    "name": "Business Tower",
+    "abbreviation": "BT",
+    "aliases": [
+      "Business Tower",
+      "BT"
+    ],
+    "description": "Tower building housing business school offices, classrooms, and faculty for Lucas College of Business.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Business+Tower+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Business+Tower+SJSU"
+  },
+  {
+    "id": "duncan-hall",
+    "campusId": "sjsu",
+    "name": "Duncan Hall of Science",
+    "abbreviation": "DH",
+    "aliases": [
+      "Duncan Hall of Science",
+      "Duncan Hall",
+      "DH"
+    ],
+    "description": "Science hall named for Duncan providing labs, classrooms, and research spaces for science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Duncan+Hall+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Duncan+Hall+SJSU"
+  },
+  {
+    "id": "central-classroom",
+    "campusId": "sjsu",
+    "name": "Central Classroom Building",
+    "abbreviation": "CCB",
+    "aliases": [
+      "Central Classroom Building",
+      "CCB"
+    ],
+    "description": "Central classroom building providing general-purpose lecture halls and instructional spaces across campus disciplines.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Central+Classroom+Building+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Central+Classroom+Building+SJSU"
+  },
+  {
+    "id": "clark-hall",
+    "campusId": "sjsu",
+    "name": "Clark Hall",
+    "abbreviation": "CL",
+    "aliases": [
+      "Clark Hall",
+      "CL"
+    ],
+    "description": "Academic hall with classrooms and faculty offices serving multiple university departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Clark+Hall+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Clark+Hall+SJSU"
+  },
+  {
+    "id": "king-library",
+    "campusId": "sjsu",
+    "name": "Dr. Martin Luther King, Jr. Library",
+    "abbreviation": "KING",
+    "aliases": [
+      "Dr. Martin Luther King Jr. Library",
+      "King Library",
+      "KING",
+      "MLK Library",
+      "SJSU Library"
+    ],
+    "description": "Joint-use library shared between SJSU and the City of San José, offering extensive collections and study spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=King+Library+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=King+Library+SJSU"
+  },
+  {
+    "id": "dudley-moorhead-hall",
+    "campusId": "sjsu",
+    "name": "Dudley Moorhead Hall",
+    "abbreviation": "DMH",
+    "aliases": [
+      "Dudley Moorhead Hall",
+      "DMH",
+      "Moorhead Hall"
+    ],
+    "description": "Academic hall housing humanities and social science departments with classrooms and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dudley+Moorhead+Hall+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Dudley+Moorhead+Hall+SJSU"
+  },
+  {
+    "id": "dwight-bentel-hall",
+    "campusId": "sjsu",
+    "name": "Dwight Bentel Hall",
+    "abbreviation": "DBH",
+    "aliases": [
+      "Dwight Bentel Hall",
+      "DBH",
+      "Bentel Hall"
+    ],
+    "description": "Building named for Dwight Bentel housing the School of Journalism and Mass Communications with labs and studios.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dwight+Bentel+Hall+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Dwight+Bentel+Hall+SJSU"
+  },
+  {
+    "id": "engineering",
+    "campusId": "sjsu",
+    "name": "Engineering Building",
+    "abbreviation": "ENG",
+    "aliases": [
+      "Engineering Building",
+      "ENG"
+    ],
+    "description": "Main engineering building housing the Charles W. Davidson College of Engineering with labs and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Engineering+Building+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Engineering+Building+SJSU"
+  },
+  {
+    "id": "faculty-office-building",
+    "campusId": "sjsu",
+    "name": "Faculty Office Building",
+    "abbreviation": "FOB",
+    "aliases": [
+      "Faculty Office Building",
+      "FOB"
+    ],
+    "description": "Office building providing faculty workspace, departmental offices, and meeting rooms for university faculty.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Faculty+Office+Building+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Faculty+Office+Building+SJSU"
+  },
+  {
+    "id": "health-building",
+    "campusId": "sjsu",
+    "name": "Health Building",
+    "abbreviation": "HB",
+    "aliases": [
+      "Health Building",
+      "HB"
+    ],
+    "description": "Building housing health sciences and kinesiology programs with labs, exercise facilities, and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Health+Building+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Health+Building+SJSU"
+  },
+  {
+    "id": "hugh-gillis-hall",
+    "campusId": "sjsu",
+    "name": "Hugh Gillis Hall",
+    "abbreviation": "HGH",
+    "aliases": [
+      "Hugh Gillis Hall",
+      "HGH",
+      "Gillis Hall"
+    ],
+    "description": "Building named for Hugh Gillis housing theatre arts and communication studies programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hugh+Gillis+Hall+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Hugh+Gillis+Hall+SJSU"
+  },
+  {
+    "id": "industrial-studies",
+    "campusId": "sjsu",
+    "name": "Industrial Studies Building",
+    "abbreviation": "IS",
+    "aliases": [
+      "Industrial Studies Building",
+      "Industrial Studies",
+      "IS"
+    ],
+    "description": "Building housing industrial and technology education programs with workshops and hands-on labs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Industrial+Studies+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Industrial+Studies+SJSU"
+  },
+  {
+    "id": "interdisciplinary-science",
+    "campusId": "sjsu",
+    "name": "Interdisciplinary Science Building",
+    "abbreviation": "ISB",
+    "aliases": [
+      "Interdisciplinary Science Building",
+      "ISB"
+    ],
+    "description": "Modern science building with state-of-the-art labs and research facilities for interdisciplinary science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Interdisciplinary+Science+Building+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Interdisciplinary+Science+Building+SJSU"
+  },
+  {
+    "id": "macquarrie-hall",
+    "campusId": "sjsu",
+    "name": "MacQuarrie Hall",
+    "abbreviation": "MH",
+    "aliases": [
+      "MacQuarrie Hall",
+      "MH",
+      "Mac Hall"
+    ],
+    "description": "Academic hall housing computer science and mathematics departments with computer labs and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=MacQuarrie+Hall+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=MacQuarrie+Hall+SJSU"
+  },
+  {
+    "id": "morris-dailey-auditorium",
+    "campusId": "sjsu",
+    "name": "Morris Dailey Auditorium",
+    "abbreviation": "MD",
+    "aliases": [
+      "Morris Dailey Auditorium",
+      "MD",
+      "Morris Dailey"
+    ],
+    "description": "Historic campus auditorium named for Morris Dailey hosting performances, lectures, and large events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Morris+Dailey+Auditorium+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Morris+Dailey+Auditorium+SJSU"
+  },
+  {
+    "id": "music-building",
+    "campusId": "sjsu",
+    "name": "Music Building",
+    "abbreviation": "MUS",
+    "aliases": [
+      "Music Building",
+      "MUS"
+    ],
+    "description": "Building housing the School of Music and Dance with rehearsal halls, practice rooms, and performance venues.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Music+Building+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Music+Building+SJSU"
+  },
+  {
+    "id": "science-building",
+    "campusId": "sjsu",
+    "name": "Science Building",
+    "abbreviation": "SCI",
+    "aliases": [
+      "Science Building",
+      "SCI"
+    ],
+    "description": "Campus science building with teaching labs, research facilities, and classrooms for science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Science+Building+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Science+Building+SJSU"
+  },
+  {
+    "id": "spartan-complex",
+    "campusId": "sjsu",
+    "name": "Spartan Complex",
+    "abbreviation": "SPX",
+    "aliases": [
+      "Spartan Complex",
+      "SPX"
+    ],
+    "description": "Athletics and recreation complex supporting Spartan athletic programs with training facilities and courts.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Spartan+Complex+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Spartan+Complex+SJSU"
+  },
+  {
+    "id": "student-services-center",
+    "campusId": "sjsu",
+    "name": "Student Services Center",
+    "abbreviation": "SSC",
+    "aliases": [
+      "Student Services Center",
+      "SSC"
+    ],
+    "description": "Central hub for student services including admissions, financial aid, registrar, and advising.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Services+Center+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Services+Center+SJSU"
+  },
+  {
+    "id": "student-union",
+    "campusId": "sjsu",
+    "name": "Student Union (Diaz Compean)",
+    "abbreviation": "SU",
+    "aliases": [
+      "Student Union",
+      "Diaz Compean Student Union",
+      "SU"
+    ],
+    "description": "Central student union named for Diaz Compean providing dining, student government, events, and campus life services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Union+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Union+SJSU"
+  },
+  {
+    "id": "student-wellness-center",
+    "campusId": "sjsu",
+    "name": "Student Wellness Center",
+    "abbreviation": "SWC",
+    "aliases": [
+      "Student Wellness Center",
+      "SWC"
+    ],
+    "description": "Campus wellness center providing health care, counseling, mental health services, and wellness programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Wellness+Center+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Wellness+Center+SJSU"
+  },
+  {
+    "id": "sweeney-hall",
+    "campusId": "sjsu",
+    "name": "Sweeney Hall",
+    "abbreviation": "SH",
+    "aliases": [
+      "Sweeney Hall",
+      "SH"
+    ],
+    "description": "Academic hall housing departments with classrooms, labs, and faculty offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sweeney+Hall+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sweeney+Hall+SJSU"
+  },
+  {
+    "id": "tower-hall",
+    "campusId": "sjsu",
+    "name": "Tower Hall",
+    "abbreviation": "TH",
+    "aliases": [
+      "Tower Hall",
+      "TH"
+    ],
+    "description": "Iconic historic tower building and longtime symbol of SJSU, housing administrative offices and landmark clock tower.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tower+Hall+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Tower+Hall+SJSU"
+  },
+  {
+    "id": "university-police",
+    "campusId": "sjsu",
+    "name": "University Police Department",
+    "abbreviation": "UPD",
+    "aliases": [
+      "University Police Department",
+      "UPD",
+      "Campus Police",
+      "University Police"
+    ],
+    "description": "SJSU University Police Department providing law enforcement, emergency services, and campus safety.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Police+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Police+SJSU"
+  },
+  {
+    "id": "washington-square-hall",
+    "campusId": "sjsu",
+    "name": "Washington Square Hall",
+    "abbreviation": "WSQ",
+    "aliases": [
+      "Washington Square Hall",
+      "WSQ"
+    ],
+    "description": "Academic hall providing classrooms and office space for university departments near Washington Square Park.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Washington+Square+Hall+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Washington+Square+Hall+SJSU"
+  },
+  {
+    "id": "uchida-hall",
+    "campusId": "sjsu",
+    "name": "Yoshihiro Uchida Hall",
+    "abbreviation": "YUH",
+    "aliases": [
+      "Yoshihiro Uchida Hall",
+      "YUH",
+      "Uchida Hall"
+    ],
+    "description": "Athletics and recreation hall named for judo legend Yoshihiro Uchida, hosting the Event Center and recreation programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Yoshihiro+Uchida+Hall+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Yoshihiro+Uchida+Hall+SJSU"
+  },
+  {
+    "id": "campus-village-a",
+    "campusId": "sjsu",
+    "name": "Campus Village A",
+    "abbreviation": "CVA",
+    "aliases": [
+      "Campus Village A",
+      "CVA"
+    ],
+    "description": "Residence hall providing on-campus housing for SJSU students in the Campus Village complex.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Campus+Village+A+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Campus+Village+A+SJSU"
+  },
+  {
+    "id": "campus-village-b",
+    "campusId": "sjsu",
+    "name": "Campus Village B",
+    "abbreviation": "CVB",
+    "aliases": [
+      "Campus Village B",
+      "CVB"
+    ],
+    "description": "Residence hall providing on-campus housing for SJSU students in the Campus Village complex.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Campus+Village+B+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Campus+Village+B+SJSU"
+  },
+  {
+    "id": "campus-village-c",
+    "campusId": "sjsu",
+    "name": "Campus Village C",
+    "abbreviation": "CVC",
+    "aliases": [
+      "Campus Village C",
+      "CVC"
+    ],
+    "description": "Residence hall providing on-campus housing for SJSU students in the Campus Village complex.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Campus+Village+C+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Campus+Village+C+SJSU"
+  },
+  {
+    "id": "campus-village-2",
+    "campusId": "sjsu",
+    "name": "Campus Village 2",
+    "abbreviation": "CV2",
+    "aliases": [
+      "Campus Village 2",
+      "CV2"
+    ],
+    "description": "Modern residential complex providing apartment-style on-campus housing for SJSU students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Campus+Village+2+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Campus+Village+2+SJSU"
+  },
+  {
+    "id": "joe-west-hall",
+    "campusId": "sjsu",
+    "name": "Joe West Hall",
+    "abbreviation": "JWH",
+    "aliases": [
+      "Joe West Hall",
+      "JWH"
+    ],
+    "description": "Large residence hall named for Joe West providing on-campus housing for SJSU students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Joe+West+Hall+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Joe+West+Hall+SJSU"
+  },
+  {
+    "id": "international-house",
+    "campusId": "sjsu",
+    "name": "International House",
+    "abbreviation": "IH",
+    "aliases": [
+      "International House",
+      "IH",
+      "I-House"
+    ],
+    "description": "Residence and community center providing housing and programming that fosters cross-cultural exchange for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=International+House+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=International+House+SJSU"
+  },
+  {
+    "id": "washburn-hall",
+    "campusId": "sjsu",
+    "name": "Washburn Hall",
+    "abbreviation": "WSH",
+    "aliases": [
+      "Washburn Hall",
+      "WSH"
+    ],
+    "description": "Residence hall providing on-campus housing for SJSU students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Washburn+Hall+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Washburn+Hall+SJSU"
+  },
+  {
+    "id": "village-market",
+    "campusId": "sjsu",
+    "name": "Village Market",
+    "abbreviation": "VM",
+    "aliases": [
+      "Village Market",
+      "VM"
+    ],
+    "description": "Campus convenience market in the residential village area offering groceries, snacks, and everyday essentials.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Village+Market+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Village+Market+SJSU"
+  },
+  {
+    "id": "union-square",
+    "campusId": "sjsu",
+    "name": "Union Square",
+    "abbreviation": "US",
+    "aliases": [
+      "Union Square",
+      "US"
+    ],
+    "description": "Campus dining and retail area providing food options and services for students in the student union area.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Union+Square+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Union+Square+SJSU"
+  },
+  {
+    "id": "ginger-market",
+    "campusId": "sjsu",
+    "name": "Ginger Market",
+    "abbreviation": "GM",
+    "aliases": [
+      "Ginger Market",
+      "GM"
+    ],
+    "description": "Campus dining market offering Asian-inspired food options and convenience items for students and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ginger+Market+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Ginger+Market+SJSU"
+  },
+  {
+    "id": "the-commons",
+    "campusId": "sjsu",
+    "name": "The Commons",
+    "abbreviation": "CM",
+    "aliases": [
+      "The Commons",
+      "CM",
+      "Commons Dining"
+    ],
+    "description": "Main campus dining commons providing a variety of meal options for residential and commuter students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Commons+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=The+Commons+SJSU"
+  },
+  {
+    "id": "bowling-billiards",
+    "campusId": "sjsu",
+    "name": "Bowling Center and Billiards Room",
+    "abbreviation": "BB",
+    "aliases": [
+      "Bowling Center and Billiards Room",
+      "Bowling Center",
+      "Billiards Room",
+      "BB"
+    ],
+    "description": "Campus recreation facility featuring bowling lanes and billiards tables for student leisure and entertainment.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bowling+Center+Billiards+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bowling+Center+Billiards+SJSU"
+  },
+  {
+    "id": "event-center",
+    "campusId": "sjsu",
+    "name": "Provident Credit Union Event Center",
+    "abbreviation": "PCUEC",
+    "aliases": [
+      "Provident Credit Union Event Center",
+      "PCUEC",
+      "Event Center",
+      "SJSU Event Center"
+    ],
+    "description": "Campus arena hosting SJSU Spartans basketball, concerts, and major campus events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Provident+Credit+Union+Event+Center+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Provident+Credit+Union+Event+Center+SJSU"
+  },
+  {
+    "id": "student-rec-aquatic-center",
+    "campusId": "sjsu",
+    "name": "Student Recreation and Aquatic Center",
+    "abbreviation": "SRAC",
+    "aliases": [
+      "Student Recreation and Aquatic Center",
+      "SRAC",
+      "Rec Center",
+      "Aquatic Center"
+    ],
+    "description": "Campus recreation and aquatics center with a fitness center, pools, courts, and wellness programs for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Recreation+Aquatic+Center+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Recreation+Aquatic+Center+SJSU"
+  },
+  {
+    "id": "atm",
+    "campusId": "sjsu",
+    "name": "Automated Teller Machine",
+    "abbreviation": "ATM",
+    "aliases": [
+      "Automated Teller Machine",
+      "ATM",
+      "Cash Machine"
+    ],
+    "description": "Campus ATM locations providing convenient cash access and banking services for students and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=ATM+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=ATM+SJSU"
+  },
+  {
+    "id": "simpkins-athletics",
+    "campusId": "sjsu",
+    "name": "Alan B. Simpkins Intercollegiate Athletic Administration Building",
+    "abbreviation": "ATH",
+    "aliases": [
+      "Alan B. Simpkins Intercollegiate Athletic Administration Building",
+      "Simpkins Athletics Building",
+      "ATH",
+      "Athletics Administration"
+    ],
+    "description": "Athletics administration building named for Alan B. Simpkins housing offices for SJSU Spartans intercollegiate athletics.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Simpkins+Athletics+Building+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Simpkins+Athletics+Building+SJSU"
+  },
+  {
+    "id": "cefcu-stadium",
+    "campusId": "sjsu",
+    "name": "CEFCU Stadium",
+    "abbreviation": "CEFCU",
+    "aliases": [
+      "CEFCU Stadium",
+      "Spartan Stadium",
+      "CEFCU"
+    ],
+    "description": "On-campus football stadium named CEFCU Stadium hosting SJSU Spartans football games and other major events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CEFCU+Stadium+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=CEFCU+Stadium+SJSU"
+  },
+  {
+    "id": "south-campus-garage",
+    "campusId": "sjsu",
+    "name": "South Campus Garage",
+    "abbreviation": "SCG",
+    "aliases": [
+      "South Campus Garage",
+      "SCG"
+    ],
+    "description": "Multi-level parking garage on the south side of campus for students, faculty, staff, and stadium event visitors.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=South+Campus+Garage+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=South+Campus+Garage+SJSU"
+  },
+  {
+    "id": "hammer-theatre",
+    "campusId": "sjsu",
+    "name": "Hammer Theatre Center",
+    "abbreviation": "HTC",
+    "aliases": [
+      "Hammer Theatre Center",
+      "HTC",
+      "Hammer Theatre"
+    ],
+    "description": "Professional performing arts theater named for Hammer hosting SJSU productions and community performing arts events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hammer+Theatre+Center+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=Hammer+Theatre+Center+SJSU"
+  },
+  {
+    "id": "north-garage",
+    "campusId": "sjsu",
+    "name": "North Garage",
+    "abbreviation": "NPG",
+    "aliases": [
+      "North Garage",
+      "NPG",
+      "North Parking Garage"
+    ],
+    "description": "Multi-level parking garage on the north side of campus for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=North+Parking+Garage+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=North+Parking+Garage+SJSU"
+  },
+  {
+    "id": "south-garage",
+    "campusId": "sjsu",
+    "name": "South Garage",
+    "abbreviation": "SPG",
+    "aliases": [
+      "South Garage",
+      "SPG",
+      "South Parking Garage"
+    ],
+    "description": "Multi-level parking garage on the south side of campus for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=South+Parking+Garage+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=South+Parking+Garage+SJSU"
+  },
+  {
+    "id": "west-garage",
+    "campusId": "sjsu",
+    "name": "West Garage",
+    "abbreviation": "WPG",
+    "aliases": [
+      "West Garage",
+      "WPG",
+      "West Parking Garage"
+    ],
+    "description": "Multi-level parking garage on the west side of campus for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=West+Parking+Garage+SJSU",
+    "appleMapsUrl": "http://maps.apple.com/?q=West+Parking+Garage+SJSU"
+  }
+]

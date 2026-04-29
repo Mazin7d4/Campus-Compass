@@ -1,5 +1,131 @@
 [
   {
+    "id": "csub",
+    "name": "California State University, Bakersfield",
+    "shortName": "CSUB",
+    "city": "Bakersfield, CA",
+    "heroImageId": "csub-hero",
+    "logoId": "csub",
+    "isAvailable": true
+  },
+  {
+    "id": "csuci",
+    "name": "California State University, Channel Islands",
+    "shortName": "CSUCI",
+    "city": "Camarillo, CA",
+    "heroImageId": "csuci-hero",
+    "logoId": "csuci",
+    "isAvailable": true
+  },
+  {
+    "id": "csuc",
+    "name": "California State University, Chico",
+    "shortName": "Chico State",
+    "city": "Chico, CA",
+    "heroImageId": "csuc-hero",
+    "logoId": "csuc",
+    "isAvailable": true
+  },
+  {
+    "id": "csudh",
+    "name": "California State University, Dominguez Hills",
+    "shortName": "CSUDH",
+    "city": "Carson, CA",
+    "heroImageId": "csudh-hero",
+    "logoId": "csudh",
+    "isAvailable": true
+  },
+  {
+    "id": "csueb",
+    "name": "California State University, East Bay",
+    "shortName": "CSUEB",
+    "city": "Hayward, CA",
+    "heroImageId": "csueb-hero",
+    "logoId": "csueb",
+    "isAvailable": true
+  },
+  {
+    "id": "fresno",
+    "name": "California State University, Fresno",
+    "shortName": "Fresno State",
+    "city": "Fresno, CA",
+    "heroImageId": "fresno-hero",
+    "logoId": "fresno",
+    "isAvailable": true
+  },
+  {
+    "id": "csuf",
+    "name": "California State University, Fullerton",
+    "shortName": "CSUF",
+    "city": "Fullerton, CA",
+    "heroImageId": "csuf-hero",
+    "logoId": "csuf",
+    "isAvailable": true
+  },
+  {
+    "id": "humboldt",
+    "name": "Cal Poly Humboldt",
+    "shortName": "Humboldt",
+    "city": "Arcata, CA",
+    "heroImageId": "humboldt-hero",
+    "logoId": "humboldt",
+    "isAvailable": true
+  },
+  {
+    "id": "csulb",
+    "name": "California State University, Long Beach",
+    "shortName": "CSULB",
+    "city": "Long Beach, CA",
+    "heroImageId": "csulb-hero",
+    "logoId": "csulb",
+    "isAvailable": true
+  },
+  {
+    "id": "csula",
+    "name": "California State University, Los Angeles",
+    "shortName": "CSULA",
+    "city": "Los Angeles, CA",
+    "heroImageId": "csula-hero",
+    "logoId": "csula",
+    "isAvailable": true
+  },
+  {
+    "id": "calmaritime",
+    "name": "California State University Maritime Academy",
+    "shortName": "Cal Maritime",
+    "city": "Vallejo, CA",
+    "heroImageId": "calmaritime-hero",
+    "logoId": "calmaritime",
+    "isAvailable": true
+  },
+  {
+    "id": "csumb",
+    "name": "California State University, Monterey Bay",
+    "shortName": "CSUMB",
+    "city": "Seaside, CA",
+    "heroImageId": "csumb-hero",
+    "logoId": "csumb",
+    "isAvailable": true
+  },
+  {
+    "id": "csun",
+    "name": "California State University, Northridge",
+    "shortName": "CSUN",
+    "city": "Northridge, CA",
+    "heroImageId": "csun-hero",
+    "logoId": "csun",
+    "isAvailable": true
+  },
+  {
+    "id": "cpp",
+    "name": "California State Polytechnic University, Pomona",
+    "shortName": "Cal Poly Pomona",
+    "city": "Pomona, CA",
+    "heroImageId": "cpp-hero",
+    "logoId": "cpp",
+    "isAvailable": true
+  },
+  {
     "id": "csus",
     "name": "California State University, Sacramento",
     "shortName": "CSUS",
@@ -9,21 +135,75 @@
     "isAvailable": true
   },
   {
+    "id": "csusb",
+    "name": "California State University, San Bernardino",
+    "shortName": "CSUSB",
+    "city": "San Bernardino, CA",
+    "heroImageId": "csusb-hero",
+    "logoId": "csusb",
+    "isAvailable": true
+  },
+  {
+    "id": "sdsu",
+    "name": "San Diego State University",
+    "shortName": "SDSU",
+    "city": "San Diego, CA",
+    "heroImageId": "sdsu-hero",
+    "logoId": "sdsu",
+    "isAvailable": true
+  },
+  {
+    "id": "sfsu",
+    "name": "San Francisco State University",
+    "shortName": "SFSU",
+    "city": "San Francisco, CA",
+    "heroImageId": "sfsu-hero",
+    "logoId": "sfsu",
+    "isAvailable": true
+  },
+  {
     "id": "sjsu",
     "name": "San José State University",
     "shortName": "SJSU",
     "city": "San José, CA",
     "heroImageId": "sjsu-hero",
     "logoId": "sjsu",
-    "isAvailable": false
+    "isAvailable": true
   },
   {
-    "id": "csueb",
-    "name": "California State University, East Bay",
-    "shortName": "CSUEB",
-    "city": "Hayward, CA",
-    "heroImageId": "csueb-hero",
-    "logoId": "csueb",
-    "isAvailable": false
+    "id": "cpslo",
+    "name": "California Polytechnic State University, San Luis Obispo",
+    "shortName": "Cal Poly SLO",
+    "city": "San Luis Obispo, CA",
+    "heroImageId": "cpslo-hero",
+    "logoId": "cpslo",
+    "isAvailable": true
+  },
+  {
+    "id": "csusm",
+    "name": "California State University, San Marcos",
+    "shortName": "CSUSM",
+    "city": "San Marcos, CA",
+    "heroImageId": "csusm-hero",
+    "logoId": "csusm",
+    "isAvailable": true
+  },
+  {
+    "id": "ssu",
+    "name": "Sonoma State University",
+    "shortName": "Sonoma State",
+    "city": "Rohnert Park, CA",
+    "heroImageId": "ssu-hero",
+    "logoId": "ssu",
+    "isAvailable": true
+  },
+  {
+    "id": "csustan",
+    "name": "California State University, Stanislaus",
+    "shortName": "Stan State",
+    "city": "Turlock, CA",
+    "heroImageId": "csustan-hero",
+    "logoId": "csustan",
+    "isAvailable": true
   }
 ]

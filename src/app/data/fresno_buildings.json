@@ -1,0 +1,1611 @@
+[
+  {
+    "id": "agricultural-sciences",
+    "campusId": "fresno",
+    "name": "Agricultural Sciences",
+    "abbreviation": "AG",
+    "aliases": [
+      "Agricultural Sciences",
+      "AG",
+      "Ag Sciences",
+      "Agriculture Building"
+    ],
+    "description": "Building housing agricultural sciences programs with labs, classrooms, and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Agricultural+Sciences+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Agricultural+Sciences+CSU+Fresno"
+  },
+  {
+    "id": "ag-mechanics",
+    "campusId": "fresno",
+    "name": "Ag Mechanics",
+    "abbreviation": "AGM",
+    "aliases": [
+      "Ag Mechanics",
+      "AGM",
+      "Agricultural Mechanics"
+    ],
+    "description": "Facility supporting agricultural mechanics instruction and hands-on training with farm equipment.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ag+Mechanics+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Ag+Mechanics+CSU+Fresno"
+  },
+  {
+    "id": "ag-operations",
+    "campusId": "fresno",
+    "name": "Ag Operations",
+    "abbreviation": "AGO",
+    "aliases": [
+      "Ag Operations",
+      "AGO",
+      "Agricultural Operations"
+    ],
+    "description": "Facilities supporting the operational side of Fresno State's working farm and agricultural programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ag+Operations+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Ag+Operations+CSU+Fresno"
+  },
+  {
+    "id": "animal-science-pavilion",
+    "campusId": "fresno",
+    "name": "Animal Science Pavilion",
+    "abbreviation": "ASP",
+    "aliases": [
+      "Animal Science Pavilion",
+      "ASP"
+    ],
+    "description": "Pavilion supporting animal science instruction with livestock facilities and educational spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Animal+Science+Pavilion+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Animal+Science+Pavilion+CSU+Fresno"
+  },
+  {
+    "id": "aquatics-center",
+    "campusId": "fresno",
+    "name": "Aquatics Center",
+    "abbreviation": "AQUA",
+    "aliases": [
+      "Aquatics Center",
+      "AQUA",
+      "Pool",
+      "Swimming Pool"
+    ],
+    "description": "Campus aquatics center with swimming pools for recreation, athletics, and kinesiology instruction.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Aquatics+Center+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Aquatics+Center+CSU+Fresno"
+  },
+  {
+    "id": "armenian-genocide-monument",
+    "campusId": "fresno",
+    "name": "Armenian Genocide Monument",
+    "abbreviation": "AGM-MON",
+    "aliases": [
+      "Armenian Genocide Monument",
+      "Armenian Monument"
+    ],
+    "description": "Campus monument commemorating the Armenian Genocide, reflecting Fresno's significant Armenian-American community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Armenian+Genocide+Monument+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Armenian+Genocide+Monument+CSU+Fresno"
+  },
+  {
+    "id": "conley-art-building",
+    "campusId": "fresno",
+    "name": "Conley Art Building",
+    "abbreviation": "ART",
+    "aliases": [
+      "Conley Art Building",
+      "Art Building",
+      "ART",
+      "Conley Art"
+    ],
+    "description": "Art building named for Conley housing studios, galleries, and classrooms for fine arts and studio art programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Conley+Art+Building+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Conley+Art+Building+CSU+Fresno"
+  },
+  {
+    "id": "athletics-facilities",
+    "campusId": "fresno",
+    "name": "Athletics Facilities",
+    "abbreviation": "ATH",
+    "aliases": [
+      "Athletics Facilities",
+      "ATH",
+      "Athletic Complex"
+    ],
+    "description": "General athletics facilities complex supporting Fresno State Bulldogs sports programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Athletics+Facilities+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Athletics+Facilities+CSU+Fresno"
+  },
+  {
+    "id": "baker-hall",
+    "campusId": "fresno",
+    "name": "Baker Hall",
+    "abbreviation": "BH",
+    "aliases": [
+      "Baker Hall",
+      "BH"
+    ],
+    "description": "Academic hall providing classrooms and faculty offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Baker+Hall+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Baker+Hall+CSU+Fresno"
+  },
+  {
+    "id": "beef-cattle-unit",
+    "campusId": "fresno",
+    "name": "Beef Cattle Unit",
+    "abbreviation": "BCU",
+    "aliases": [
+      "Beef Cattle Unit",
+      "BCU",
+      "Cattle Unit"
+    ],
+    "description": "Farm unit housing beef cattle for animal science instruction and agricultural research programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Beef+Cattle+Unit+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Beef+Cattle+Unit+CSU+Fresno"
+  },
+  {
+    "id": "bennett-stadium",
+    "campusId": "fresno",
+    "name": "Bennett Stadium",
+    "abbreviation": "BENNETT",
+    "aliases": [
+      "Bennett Stadium",
+      "BENNETT",
+      "Baseball Stadium"
+    ],
+    "description": "Campus baseball stadium named for Bennett hosting Fresno State Bulldogs baseball games.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bennett+Stadium+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bennett+Stadium+CSU+Fresno"
+  },
+  {
+    "id": "bicycle-parking",
+    "campusId": "fresno",
+    "name": "Bicycle Parking Areas",
+    "abbreviation": "BIKE",
+    "aliases": [
+      "Bicycle Parking Areas",
+      "BIKE",
+      "Bike Parking",
+      "Bike Racks"
+    ],
+    "description": "Designated bicycle parking and rack locations distributed throughout the Fresno State campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bicycle+Parking+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bicycle+Parking+CSU+Fresno"
+  },
+  {
+    "id": "boiler-utility",
+    "campusId": "fresno",
+    "name": "Boiler / Utility Areas",
+    "abbreviation": "UTIL",
+    "aliases": [
+      "Boiler / Utility Areas",
+      "Boiler",
+      "Utility",
+      "UTIL"
+    ],
+    "description": "Campus boiler and utility facilities providing energy and infrastructure services to university buildings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Boiler+Utility+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Boiler+Utility+CSU+Fresno"
+  },
+  {
+    "id": "kennel-bookstore",
+    "campusId": "fresno",
+    "name": "Kennel Bookstore",
+    "abbreviation": "BKS",
+    "aliases": [
+      "Kennel Bookstore",
+      "BKS",
+      "Bookstore",
+      "Campus Bookstore"
+    ],
+    "description": "Campus bookstore offering textbooks, course materials, Fresno State merchandise, and student supplies.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kennel+Bookstore+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kennel+Bookstore+CSU+Fresno"
+  },
+  {
+    "id": "peters-business-building",
+    "campusId": "fresno",
+    "name": "Leon S. Peters Business Building",
+    "abbreviation": "BUS",
+    "aliases": [
+      "Leon S. Peters Business Building",
+      "Business Building",
+      "BUS",
+      "Peters Business Building"
+    ],
+    "description": "Business building named for Leon S. Peters housing the Craig School of Business with classrooms and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Peters+Business+Building+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Peters+Business+Building+CSU+Fresno"
+  },
+  {
+    "id": "campus-pointe",
+    "campusId": "fresno",
+    "name": "Campus Pointe",
+    "abbreviation": "CP",
+    "aliases": [
+      "Campus Pointe",
+      "CP"
+    ],
+    "description": "Campus Pointe development providing retail, dining, and mixed-use spaces adjacent to the Fresno State campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Campus+Pointe+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Campus+Pointe+CSU+Fresno"
+  },
+  {
+    "id": "central-plant",
+    "campusId": "fresno",
+    "name": "Central Plant / Utilities",
+    "abbreviation": "CPL",
+    "aliases": [
+      "Central Plant",
+      "Central Plant / Utilities",
+      "CPL",
+      "Utilities"
+    ],
+    "description": "Campus central utility plant providing heating, cooling, and energy infrastructure for university buildings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Central+Plant+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Central+Plant+CSU+Fresno"
+  },
+  {
+    "id": "chemistry-science",
+    "campusId": "fresno",
+    "name": "Chemistry / Science Buildings",
+    "abbreviation": "CHEM",
+    "aliases": [
+      "Chemistry / Science Buildings",
+      "Chemistry",
+      "CHEM",
+      "Science Building"
+    ],
+    "description": "Chemistry and science buildings with teaching labs, research facilities, and classrooms for chemistry and related sciences.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chemistry+Science+Building+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Chemistry+Science+Building+CSU+Fresno"
+  },
+  {
+    "id": "child-development-lab",
+    "campusId": "fresno",
+    "name": "Child Development / Lab School",
+    "abbreviation": "CDC",
+    "aliases": [
+      "Child Development / Lab School",
+      "Child Development",
+      "Lab School",
+      "CDC"
+    ],
+    "description": "Child development center and laboratory school providing early childhood education and teacher preparation practicum sites.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Child+Development+Lab+School+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Child+Development+Lab+School+CSU+Fresno"
+  },
+  {
+    "id": "grosse-industrial-technology",
+    "campusId": "fresno",
+    "name": "Grosse Industrial Technology Building",
+    "abbreviation": "CIT",
+    "aliases": [
+      "Grosse Industrial Technology Building",
+      "CIT",
+      "Grosse Industrial Technology",
+      "Construction Industrial Technology"
+    ],
+    "description": "Industrial technology building named for Grosse housing construction management, industrial technology, and engineering technology programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Grosse+Industrial+Technology+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Grosse+Industrial+Technology+CSU+Fresno"
+  },
+  {
+    "id": "chhs",
+    "campusId": "fresno",
+    "name": "College of Health & Human Services",
+    "abbreviation": "CHHS",
+    "aliases": [
+      "College of Health & Human Services",
+      "College of Health and Human Services",
+      "CHHS"
+    ],
+    "description": "Building housing the College of Health and Human Services with classrooms and faculty offices for health programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=College+Health+Human+Services+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=College+Health+Human+Services+CSU+Fresno"
+  },
+  {
+    "id": "kremen-school",
+    "campusId": "fresno",
+    "name": "Kremen School of Education & Human Development",
+    "abbreviation": "KREMEN",
+    "aliases": [
+      "Kremen School of Education & Human Development",
+      "Kremen School",
+      "KREMEN",
+      "Education Building"
+    ],
+    "description": "Named for the Kremen family, this school houses education and human development programs with classrooms and research centers.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kremen+School+Education+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kremen+School+Education+CSU+Fresno"
+  },
+  {
+    "id": "creamery",
+    "campusId": "fresno",
+    "name": "Creamery",
+    "abbreviation": "CREAM",
+    "aliases": [
+      "Creamery",
+      "CREAM",
+      "Fresno State Creamery"
+    ],
+    "description": "On-campus creamery producing and selling award-winning dairy products including cheese and ice cream.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Creamery+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Creamery+CSU+Fresno"
+  },
+  {
+    "id": "downing-planetarium",
+    "campusId": "fresno",
+    "name": "Downing Planetarium & Museum",
+    "abbreviation": "PLAN",
+    "aliases": [
+      "Downing Planetarium & Museum",
+      "Downing Planetarium",
+      "PLAN",
+      "Planetarium",
+      "Museum"
+    ],
+    "description": "Campus planetarium and museum named for Downing offering astronomy education, star shows, and science exhibits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Downing+Planetarium+Museum+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Downing+Planetarium+Museum+CSU+Fresno"
+  },
+  {
+    "id": "duncan-athletic-facility",
+    "campusId": "fresno",
+    "name": "Duncan Athletic Facility",
+    "abbreviation": "DAF",
+    "aliases": [
+      "Duncan Athletic Facility",
+      "DAF",
+      "Duncan Facility"
+    ],
+    "description": "Athletics facility named for Duncan supporting Fresno State Bulldogs athletic programs with training and support spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Duncan+Athletic+Facility+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Duncan+Athletic+Facility+CSU+Fresno"
+  },
+  {
+    "id": "engineering-east",
+    "campusId": "fresno",
+    "name": "Engineering East",
+    "abbreviation": "ENGE",
+    "aliases": [
+      "Engineering East",
+      "ENGE"
+    ],
+    "description": "East engineering building with labs, classrooms, and faculty offices for Lyles College of Engineering programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Engineering+East+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Engineering+East+CSU+Fresno"
+  },
+  {
+    "id": "engineering-west",
+    "campusId": "fresno",
+    "name": "Engineering West",
+    "abbreviation": "ENGW",
+    "aliases": [
+      "Engineering West",
+      "ENGW"
+    ],
+    "description": "West engineering building with labs, classrooms, and faculty offices for Lyles College of Engineering programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Engineering+West+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Engineering+West+CSU+Fresno"
+  },
+  {
+    "id": "gumz-enology-building",
+    "campusId": "fresno",
+    "name": "Donald E. Gumz Enology Building",
+    "abbreviation": "ENOL",
+    "aliases": [
+      "Donald E. Gumz Enology Building",
+      "Enology Building",
+      "ENOL",
+      "Gumz Enology"
+    ],
+    "description": "Enology building named for Donald E. Gumz supporting viticulture and enology programs with winemaking labs and facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gumz+Enology+Building+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Gumz+Enology+Building+CSU+Fresno"
+  },
+  {
+    "id": "equestrian-center",
+    "campusId": "fresno",
+    "name": "Equestrian Center",
+    "abbreviation": "EQC",
+    "aliases": [
+      "Equestrian Center",
+      "EQC",
+      "Horse Arena"
+    ],
+    "description": "Campus equestrian center with riding arenas and stables supporting equestrian sports and animal science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Equestrian+Center+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Equestrian+Center+CSU+Fresno"
+  },
+  {
+    "id": "family-food-science",
+    "campusId": "fresno",
+    "name": "Family Food Science",
+    "abbreviation": "FFS",
+    "aliases": [
+      "Family Food Science",
+      "FFS"
+    ],
+    "description": "Building housing family and food science programs with teaching kitchens, labs, and research facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Family+Food+Science+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Family+Food+Science+CSU+Fresno"
+  },
+  {
+    "id": "gibson-farm-market",
+    "campusId": "fresno",
+    "name": "Rue and Gwen Gibson Farm Market",
+    "abbreviation": "FARM",
+    "aliases": [
+      "Rue and Gwen Gibson Farm Market",
+      "Farm Market",
+      "Gibson Farm Market",
+      "FARM"
+    ],
+    "description": "On-campus farm market named for Rue and Gwen Gibson selling fresh produce, meats, and dairy from Fresno State's farms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gibson+Farm+Market+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Gibson+Farm+Market+CSU+Fresno"
+  },
+  {
+    "id": "feed-food-processing-labs",
+    "campusId": "fresno",
+    "name": "Feed / Food Processing Labs",
+    "abbreviation": "FFPL",
+    "aliases": [
+      "Feed / Food Processing Labs",
+      "Feed Processing",
+      "Food Processing Labs",
+      "FFPL"
+    ],
+    "description": "Laboratory facilities for feed and food processing instruction supporting agricultural and food science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Feed+Food+Processing+Labs+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Feed+Food+Processing+Labs+CSU+Fresno"
+  },
+  {
+    "id": "food-science",
+    "campusId": "fresno",
+    "name": "Food Science",
+    "abbreviation": "FSCI",
+    "aliases": [
+      "Food Science",
+      "FSCI",
+      "Food Science Building"
+    ],
+    "description": "Building housing food science programs with processing labs, sensory evaluation rooms, and research facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Food+Science+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Food+Science+CSU+Fresno"
+  },
+  {
+    "id": "football-practice-fields",
+    "campusId": "fresno",
+    "name": "Football Practice Fields",
+    "abbreviation": "FPRAC",
+    "aliases": [
+      "Football Practice Fields",
+      "Football Practice",
+      "FPRAC",
+      "Practice Fields"
+    ],
+    "description": "Athletic practice fields dedicated to Fresno State Bulldogs football team training and practice sessions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Football+Practice+Fields+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Football+Practice+Fields+CSU+Fresno"
+  },
+  {
+    "id": "frank-thomas-building",
+    "campusId": "fresno",
+    "name": "Frank W. Thomas Building",
+    "abbreviation": "FWT",
+    "aliases": [
+      "Frank W. Thomas Building",
+      "FWT",
+      "Thomas Building"
+    ],
+    "description": "Academic building named for Frank W. Thomas housing university departments with classrooms and offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Frank+Thomas+Building+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Frank+Thomas+Building+CSU+Fresno"
+  },
+  {
+    "id": "graduate-lab",
+    "campusId": "fresno",
+    "name": "Graduate Lab",
+    "abbreviation": "GRADLAB",
+    "aliases": [
+      "Graduate Lab",
+      "GRADLAB"
+    ],
+    "description": "Graduate research lab providing workspace and resources for graduate students and research programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Graduate+Lab+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Graduate+Lab+CSU+Fresno"
+  },
+  {
+    "id": "greenhouses",
+    "campusId": "fresno",
+    "name": "Greenhouses",
+    "abbreviation": "GH",
+    "aliases": [
+      "Greenhouses",
+      "GH",
+      "Greenhouse"
+    ],
+    "description": "Campus greenhouse facilities supporting plant science, horticulture, and agricultural research programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Greenhouses+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Greenhouses+CSU+Fresno"
+  },
+  {
+    "id": "herbarium-ag-units",
+    "campusId": "fresno",
+    "name": "Herbarium / Ag Units",
+    "abbreviation": "HERB",
+    "aliases": [
+      "Herbarium / Ag Units",
+      "Herbarium",
+      "HERB"
+    ],
+    "description": "Campus herbarium and associated agricultural units supporting botanical research and plant science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Herbarium+Ag+Units+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Herbarium+Ag+Units+CSU+Fresno"
+  },
+  {
+    "id": "homan-hall",
+    "campusId": "fresno",
+    "name": "Homan Hall",
+    "abbreviation": "HH",
+    "aliases": [
+      "Homan Hall",
+      "HH"
+    ],
+    "description": "Academic hall providing classrooms and faculty offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Homan+Hall+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Homan+Hall+CSU+Fresno"
+  },
+  {
+    "id": "horse-unit",
+    "campusId": "fresno",
+    "name": "Horse Unit / Horse Center",
+    "abbreviation": "HORSE",
+    "aliases": [
+      "Horse Unit",
+      "Horse Center",
+      "Student Horse Center",
+      "HORSE"
+    ],
+    "description": "Campus horse unit and student horse center providing equine facilities for animal science and equestrian programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Horse+Unit+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Horse+Unit+CSU+Fresno"
+  },
+  {
+    "id": "industrial-technology",
+    "campusId": "fresno",
+    "name": "Industrial Technology",
+    "abbreviation": "IT",
+    "aliases": [
+      "Industrial Technology",
+      "IT",
+      "Industrial Technology Building"
+    ],
+    "description": "Building housing industrial technology programs with workshops, labs, and classrooms for applied technology instruction.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Industrial+Technology+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Industrial+Technology+CSU+Fresno"
+  },
+  {
+    "id": "jordan-agricultural-research",
+    "campusId": "fresno",
+    "name": "Jordan Agricultural Research Center",
+    "abbreviation": "JARC",
+    "aliases": [
+      "Jordan Agricultural Research Center",
+      "JARC",
+      "Jordan Research Center"
+    ],
+    "description": "Agricultural research center named for Jordan supporting applied agricultural science and food systems research.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jordan+Agricultural+Research+Center+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Jordan+Agricultural+Research+Center+CSU+Fresno"
+  },
+  {
+    "id": "joyal-administration",
+    "campusId": "fresno",
+    "name": "Joyal Administration Building",
+    "abbreviation": "JOYAL",
+    "aliases": [
+      "Joyal Administration Building",
+      "Joyal Administration",
+      "JOYAL",
+      "Admin Building"
+    ],
+    "description": "Main administrative building named for Joyal housing university president's office and central administration.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Joyal+Administration+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Joyal+Administration+CSU+Fresno"
+  },
+  {
+    "id": "judging-pavilion",
+    "campusId": "fresno",
+    "name": "Judging Pavilion",
+    "abbreviation": "JP",
+    "aliases": [
+      "Judging Pavilion",
+      "JP",
+      "Livestock Judging Pavilion"
+    ],
+    "description": "Livestock judging pavilion supporting animal science competitions, judging instruction, and agricultural events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Judging+Pavilion+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Judging+Pavilion+CSU+Fresno"
+  },
+  {
+    "id": "library",
+    "campusId": "fresno",
+    "name": "Henry Madden Library",
+    "abbreviation": "LIB",
+    "aliases": [
+      "Henry Madden Library",
+      "Library",
+      "LIB",
+      "Fresno State Library"
+    ],
+    "description": "Main campus library providing research resources, study spaces, digital collections, and academic support services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Henry+Madden+Library+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Henry+Madden+Library+CSU+Fresno"
+  },
+  {
+    "id": "resnick-student-union",
+    "campusId": "fresno",
+    "name": "Lynda and Stewart Resnick Student Union",
+    "abbreviation": "RSU",
+    "aliases": [
+      "Lynda and Stewart Resnick Student Union",
+      "Resnick Student Union",
+      "RSU",
+      "Student Union"
+    ],
+    "description": "Student union named for Lynda and Stewart Resnick providing dining, student government, event spaces, and campus life services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Resnick+Student+Union+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Resnick+Student+Union+CSU+Fresno"
+  },
+  {
+    "id": "mclane-hall",
+    "campusId": "fresno",
+    "name": "McLane Hall",
+    "abbreviation": "MCL",
+    "aliases": [
+      "McLane Hall",
+      "MCL",
+      "Madera Hall"
+    ],
+    "description": "Academic hall providing classrooms and faculty offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McLane+Hall+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=McLane+Hall+CSU+Fresno"
+  },
+  {
+    "id": "mclane-hall-annex",
+    "campusId": "fresno",
+    "name": "McLane Hall Annex",
+    "abbreviation": "MCLX",
+    "aliases": [
+      "McLane Hall Annex",
+      "Madera Hall Annex",
+      "MCLX"
+    ],
+    "description": "Annex to McLane Hall providing additional classroom and office space for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McLane+Hall+Annex+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=McLane+Hall+Annex+CSU+Fresno"
+  },
+  {
+    "id": "maple-mall",
+    "campusId": "fresno",
+    "name": "Maple Mall",
+    "abbreviation": "MAPLE",
+    "aliases": [
+      "Maple Mall",
+      "MAPLE",
+      "Campus Core"
+    ],
+    "description": "Central campus mall and core area featuring tree-lined walkways, gathering spaces, and landmark campus buildings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Maple+Mall+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Maple+Mall+CSU+Fresno"
+  },
+  {
+    "id": "music-building",
+    "campusId": "fresno",
+    "name": "Music Building",
+    "abbreviation": "MUS",
+    "aliases": [
+      "Music Building",
+      "MUS"
+    ],
+    "description": "Building housing the music department with rehearsal spaces, practice rooms, faculty offices, and performance venues.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Music+Building+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Music+Building+CSU+Fresno"
+  },
+  {
+    "id": "north-gym",
+    "campusId": "fresno",
+    "name": "North Gym",
+    "abbreviation": "NGYM",
+    "aliases": [
+      "North Gym",
+      "NGYM",
+      "North Gymnasium"
+    ],
+    "description": "North gymnasium providing sports courts, recreation, and physical education instructional spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=North+Gym+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=North+Gym+CSU+Fresno"
+  },
+  {
+    "id": "oneill-park",
+    "campusId": "fresno",
+    "name": "O'Neill Park",
+    "abbreviation": "PARK",
+    "aliases": [
+      "O'Neill Park",
+      "PARK",
+      "ONeill Park"
+    ],
+    "description": "Campus park named for O'Neill providing open green space for student relaxation and outdoor activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=ONeill+Park+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=ONeill+Park+CSU+Fresno"
+  },
+  {
+    "id": "ornamental-horticulture",
+    "campusId": "fresno",
+    "name": "Ornamental Horticulture Unit",
+    "abbreviation": "OHU",
+    "aliases": [
+      "Ornamental Horticulture Unit",
+      "OHU",
+      "Ornamental Horticulture"
+    ],
+    "description": "Campus unit dedicated to ornamental horticulture instruction with gardens and plant production facilities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ornamental+Horticulture+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Ornamental+Horticulture+CSU+Fresno"
+  },
+  {
+    "id": "physical-therapy-sports-medicine",
+    "campusId": "fresno",
+    "name": "Physical Therapy / Sports Medicine",
+    "abbreviation": "PT",
+    "aliases": [
+      "Physical Therapy / Sports Medicine",
+      "Physical Therapy",
+      "Sports Medicine",
+      "PT"
+    ],
+    "description": "Facility providing physical therapy and sports medicine services with clinical training spaces for health science students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Physical+Therapy+Sports+Medicine+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Physical+Therapy+Sports+Medicine+CSU+Fresno"
+  },
+  {
+    "id": "police-parking-services",
+    "campusId": "fresno",
+    "name": "Police & Parking Services",
+    "abbreviation": "PPS",
+    "aliases": [
+      "Police & Parking Services",
+      "Campus Police",
+      "Parking Services",
+      "PPS"
+    ],
+    "description": "University police and parking services facility providing law enforcement and campus parking administration.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Police+Parking+Services+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Police+Parking+Services+CSU+Fresno"
+  },
+  {
+    "id": "post-harvest-lab",
+    "campusId": "fresno",
+    "name": "Post Harvest Lab",
+    "abbreviation": "PHL",
+    "aliases": [
+      "Post Harvest Lab",
+      "PHL",
+      "Postharvest Lab"
+    ],
+    "description": "Research laboratory focused on postharvest food science, storage, and processing technology for agricultural products.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Post+Harvest+Lab+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Post+Harvest+Lab+CSU+Fresno"
+  },
+  {
+    "id": "print-mail-warehouse",
+    "campusId": "fresno",
+    "name": "Print, Mail & Warehouse",
+    "abbreviation": "PMW",
+    "aliases": [
+      "Print, Mail & Warehouse",
+      "Print Services",
+      "Mail Services",
+      "Warehouse",
+      "PMW"
+    ],
+    "description": "Campus facility providing printing, mail, and warehouse services for university departments and operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Print+Mail+Warehouse+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Print+Mail+Warehouse+CSU+Fresno"
+  },
+  {
+    "id": "recreation-fields",
+    "campusId": "fresno",
+    "name": "Recreation Fields / Playfields",
+    "abbreviation": "RECF",
+    "aliases": [
+      "Recreation Fields",
+      "Playfields",
+      "RECF",
+      "Intramural Fields"
+    ],
+    "description": "Campus recreation and playfields supporting intramural sports, club sports, and informal recreation for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Recreation+Fields+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Recreation+Fields+CSU+Fresno"
+  },
+  {
+    "id": "rodeo-grounds",
+    "campusId": "fresno",
+    "name": "Rodeo Grounds",
+    "abbreviation": "RODEO",
+    "aliases": [
+      "Rodeo Grounds",
+      "RODEO"
+    ],
+    "description": "Campus rodeo grounds hosting intercollegiate rodeo events and agricultural competition for the rodeo team.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rodeo+Grounds+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Rodeo+Grounds+CSU+Fresno"
+  },
+  {
+    "id": "rose-garden",
+    "campusId": "fresno",
+    "name": "Rose Garden",
+    "abbreviation": "ROSEG",
+    "aliases": [
+      "Rose Garden",
+      "ROSEG"
+    ],
+    "description": "Campus rose garden providing a scenic natural landscape with a variety of rose species for students and visitors.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rose+Garden+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Rose+Garden+CSU+Fresno"
+  },
+  {
+    "id": "san-ramon-facilities",
+    "campusId": "fresno",
+    "name": "San Ramon Avenue Facilities",
+    "abbreviation": "SRAM",
+    "aliases": [
+      "San Ramon Avenue Facilities",
+      "SRAM",
+      "San Ramon Facilities"
+    ],
+    "description": "Facilities located along San Ramon Avenue on the Fresno State campus perimeter.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Ramon+Avenue+Facilities+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=San+Ramon+Avenue+Facilities+CSU+Fresno"
+  },
+  {
+    "id": "satellite-student-union",
+    "campusId": "fresno",
+    "name": "Satellite Student Union",
+    "abbreviation": "SSU",
+    "aliases": [
+      "Satellite Student Union",
+      "SSU"
+    ],
+    "description": "Secondary student union location providing services, dining, and gathering space away from the main student union.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Satellite+Student+Union+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Satellite+Student+Union+CSU+Fresno"
+  },
+  {
+    "id": "sheep-unit",
+    "campusId": "fresno",
+    "name": "Sheep Unit",
+    "abbreviation": "SHEEP",
+    "aliases": [
+      "Sheep Unit",
+      "SHEEP"
+    ],
+    "description": "Farm unit housing sheep for animal science instruction, livestock judging, and agricultural research.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sheep+Unit+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sheep+Unit+CSU+Fresno"
+  },
+  {
+    "id": "smittcamp-alumni-house",
+    "campusId": "fresno",
+    "name": "Smittcamp Alumni House",
+    "abbreviation": "SAH",
+    "aliases": [
+      "Smittcamp Alumni House",
+      "SAH",
+      "Alumni House"
+    ],
+    "description": "Alumni house named for Smittcamp hosting alumni events, reunions, and university advancement activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Smittcamp+Alumni+House+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Smittcamp+Alumni+House+CSU+Fresno"
+  },
+  {
+    "id": "social-science",
+    "campusId": "fresno",
+    "name": "Social Science Building",
+    "abbreviation": "SS",
+    "aliases": [
+      "Social Science Building",
+      "Social Science",
+      "SS"
+    ],
+    "description": "Building housing social science departments including sociology, political science, and related disciplines.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Social+Science+Building+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Social+Science+Building+CSU+Fresno"
+  },
+  {
+    "id": "south-gym",
+    "campusId": "fresno",
+    "name": "South Gym",
+    "abbreviation": "SGYM",
+    "aliases": [
+      "South Gym",
+      "SGYM",
+      "South Gymnasium"
+    ],
+    "description": "South gymnasium facility providing sports courts, recreation, and instructional spaces for physical education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=South+Gym+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=South+Gym+CSU+Fresno"
+  },
+  {
+    "id": "speech-arts",
+    "campusId": "fresno",
+    "name": "Speech Arts Building",
+    "abbreviation": "SPA",
+    "aliases": [
+      "Speech Arts Building",
+      "Speech Arts",
+      "SPA"
+    ],
+    "description": "Building housing communication, speech, and performing arts programs with classrooms and rehearsal spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Speech+Arts+Building+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Speech+Arts+Building+CSU+Fresno"
+  },
+  {
+    "id": "wathen-tennis-complex",
+    "campusId": "fresno",
+    "name": "Spalding G. Wathen Tennis Complex",
+    "abbreviation": "TENNIS",
+    "aliases": [
+      "Spalding G. Wathen Tennis Complex",
+      "Wathen Tennis Complex",
+      "TENNIS",
+      "Tennis Complex"
+    ],
+    "description": "Tennis complex named for Spalding G. Wathen hosting Fresno State Bulldogs tennis matches and campus recreation.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wathen+Tennis+Complex+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Wathen+Tennis+Complex+CSU+Fresno"
+  },
+  {
+    "id": "student-recreation-center",
+    "campusId": "fresno",
+    "name": "Student Recreation Center",
+    "abbreviation": "SRC",
+    "aliases": [
+      "Student Recreation Center",
+      "SRC",
+      "Rec Center"
+    ],
+    "description": "Campus recreation center with fitness equipment, courts, pools, and wellness programs for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Recreation+Center+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Recreation+Center+CSU+Fresno"
+  },
+  {
+    "id": "student-services",
+    "campusId": "fresno",
+    "name": "Student Services Building",
+    "abbreviation": "SVSB",
+    "aliases": [
+      "Student Services Building",
+      "Student Services",
+      "SVSB"
+    ],
+    "description": "Building housing student services including advising, financial aid, registrar, and enrollment support.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Services+Building+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Services+Building+CSU+Fresno"
+  },
+  {
+    "id": "the-fountain",
+    "campusId": "fresno",
+    "name": "The Fountain",
+    "abbreviation": "FOUNT",
+    "aliases": [
+      "The Fountain",
+      "Fountain",
+      "FOUNT"
+    ],
+    "description": "Iconic campus fountain serving as a central landmark and gathering point on the Fresno State campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Fountain+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=The+Fountain+CSU+Fresno"
+  },
+  {
+    "id": "warmerdam-field",
+    "campusId": "fresno",
+    "name": "Warmerdam Field / Track & Field",
+    "abbreviation": "TRACK",
+    "aliases": [
+      "Warmerdam Field",
+      "Track & Field",
+      "TRACK",
+      "Al Warmerdam Track"
+    ],
+    "description": "Track and field facility named for Warmerdam hosting Fresno State Bulldogs track and field and cross country programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Warmerdam+Field+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Warmerdam+Field+CSU+Fresno"
+  },
+  {
+    "id": "university-business-center",
+    "campusId": "fresno",
+    "name": "University Business Center",
+    "abbreviation": "UBC",
+    "aliases": [
+      "University Business Center",
+      "UBC"
+    ],
+    "description": "University business center supporting administrative operations, business services, and auxiliary functions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Business+Center+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Business+Center+CSU+Fresno"
+  },
+  {
+    "id": "university-dining-hall",
+    "campusId": "fresno",
+    "name": "University Dining Hall",
+    "abbreviation": "DINE",
+    "aliases": [
+      "University Dining Hall",
+      "DINE",
+      "Dining Hall",
+      "Cafeteria"
+    ],
+    "description": "Main campus dining hall providing a variety of meals for students, faculty, and staff.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Dining+Hall+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Dining+Hall+CSU+Fresno"
+  },
+  {
+    "id": "university-high-school",
+    "campusId": "fresno",
+    "name": "University High School",
+    "abbreviation": "UHS",
+    "aliases": [
+      "University High School",
+      "UHS"
+    ],
+    "description": "Laboratory high school on the Fresno State campus serving as a K-12 partner and teacher preparation site.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+High+School+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+High+School+CSU+Fresno"
+  },
+  {
+    "id": "university-student-union",
+    "campusId": "fresno",
+    "name": "University Student Union",
+    "abbreviation": "USU",
+    "aliases": [
+      "University Student Union",
+      "USU",
+      "Student Union"
+    ],
+    "description": "Central student union hub providing student government, clubs, event spaces, and campus life services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Student+Union+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Student+Union+CSU+Fresno"
+  },
+  {
+    "id": "veterans-memorial",
+    "campusId": "fresno",
+    "name": "Veterans Memorial",
+    "abbreviation": "VETMEM",
+    "aliases": [
+      "Veterans Memorial",
+      "VETMEM"
+    ],
+    "description": "Campus memorial honoring veterans and military service members from the Fresno State community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Veterans+Memorial+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Veterans+Memorial+CSU+Fresno"
+  },
+  {
+    "id": "veterinary-unit",
+    "campusId": "fresno",
+    "name": "Veterinary Unit",
+    "abbreviation": "VET",
+    "aliases": [
+      "Veterinary Unit",
+      "VET",
+      "Vet Unit"
+    ],
+    "description": "Campus veterinary unit providing animal health services and supporting veterinary science instruction.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Veterinary+Unit+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Veterinary+Unit+CSU+Fresno"
+  },
+  {
+    "id": "petrucci-viticulture",
+    "campusId": "fresno",
+    "name": "Vincent E. Petrucci Viticulture Building",
+    "abbreviation": "VIT",
+    "aliases": [
+      "Vincent E. Petrucci Viticulture Building",
+      "Viticulture Building",
+      "VIT",
+      "Petrucci Viticulture"
+    ],
+    "description": "Viticulture building named for Vincent E. Petrucci supporting viticulture and enology programs with vineyards and labs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Petrucci+Viticulture+Building+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Petrucci+Viticulture+Building+CSU+Fresno"
+  },
+  {
+    "id": "water-tower",
+    "campusId": "fresno",
+    "name": "Water Tower",
+    "abbreviation": "WATER",
+    "aliases": [
+      "Water Tower",
+      "WATER"
+    ],
+    "description": "Campus water tower providing water supply and serving as a recognizable campus landmark.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Water+Tower+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Water+Tower+CSU+Fresno"
+  },
+  {
+    "id": "woodward-park-access",
+    "campusId": "fresno",
+    "name": "Woodward Park Access Areas",
+    "abbreviation": "WOOD",
+    "aliases": [
+      "Woodward Park Access Areas",
+      "Woodward Park",
+      "WOOD"
+    ],
+    "description": "Campus access areas adjacent to Woodward Park providing recreational trail access and outdoor green spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Woodward+Park+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Woodward+Park+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p1",
+    "campusId": "fresno",
+    "name": "Parking Lot P1",
+    "abbreviation": "P1",
+    "aliases": [
+      "Parking Lot P1",
+      "Lot P1",
+      "P1"
+    ],
+    "description": "Surface parking lot P1 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P1+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P1+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p2",
+    "campusId": "fresno",
+    "name": "Parking Lot P2",
+    "abbreviation": "P2",
+    "aliases": [
+      "Parking Lot P2",
+      "Lot P2",
+      "P2"
+    ],
+    "description": "Surface parking lot P2 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P2+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P2+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p3",
+    "campusId": "fresno",
+    "name": "Parking Lot P3",
+    "abbreviation": "P3",
+    "aliases": [
+      "Parking Lot P3",
+      "Lot P3",
+      "P3"
+    ],
+    "description": "Surface parking lot P3 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P3+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P3+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p4",
+    "campusId": "fresno",
+    "name": "Parking Lot P4",
+    "abbreviation": "P4",
+    "aliases": [
+      "Parking Lot P4",
+      "Lot P4",
+      "P4"
+    ],
+    "description": "Surface parking lot P4 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P4+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P4+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p5",
+    "campusId": "fresno",
+    "name": "Parking Lot P5",
+    "abbreviation": "P5",
+    "aliases": [
+      "Parking Lot P5",
+      "Lot P5",
+      "P5"
+    ],
+    "description": "Surface parking lot P5 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P5+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P5+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p6",
+    "campusId": "fresno",
+    "name": "Parking Lot P6",
+    "abbreviation": "P6",
+    "aliases": [
+      "Parking Lot P6",
+      "Lot P6",
+      "P6"
+    ],
+    "description": "Surface parking lot P6 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P6+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P6+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p7",
+    "campusId": "fresno",
+    "name": "Parking Lot P7",
+    "abbreviation": "P7",
+    "aliases": [
+      "Parking Lot P7",
+      "Lot P7",
+      "P7"
+    ],
+    "description": "Surface parking lot P7 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P7+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P7+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p8",
+    "campusId": "fresno",
+    "name": "Parking Lot P8",
+    "abbreviation": "P8",
+    "aliases": [
+      "Parking Lot P8",
+      "Lot P8",
+      "P8"
+    ],
+    "description": "Surface parking lot P8 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P8+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P8+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p9",
+    "campusId": "fresno",
+    "name": "Parking Lot P9",
+    "abbreviation": "P9",
+    "aliases": [
+      "Parking Lot P9",
+      "Lot P9",
+      "P9"
+    ],
+    "description": "Surface parking lot P9 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P9+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P9+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p10",
+    "campusId": "fresno",
+    "name": "Parking Lot P10",
+    "abbreviation": "P10",
+    "aliases": [
+      "Parking Lot P10",
+      "Lot P10",
+      "P10"
+    ],
+    "description": "Surface parking lot P10 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P10+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P10+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p11",
+    "campusId": "fresno",
+    "name": "Parking Lot P11",
+    "abbreviation": "P11",
+    "aliases": [
+      "Parking Lot P11",
+      "Lot P11",
+      "P11"
+    ],
+    "description": "Surface parking lot P11 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P11+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P11+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p12",
+    "campusId": "fresno",
+    "name": "Parking Lot P12",
+    "abbreviation": "P12",
+    "aliases": [
+      "Parking Lot P12",
+      "Lot P12",
+      "P12"
+    ],
+    "description": "Surface parking lot P12 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P12+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P12+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p13",
+    "campusId": "fresno",
+    "name": "Parking Lot P13",
+    "abbreviation": "P13",
+    "aliases": [
+      "Parking Lot P13",
+      "Lot P13",
+      "P13"
+    ],
+    "description": "Surface parking lot P13 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P13+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P13+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p14",
+    "campusId": "fresno",
+    "name": "Parking Lot P14",
+    "abbreviation": "P14",
+    "aliases": [
+      "Parking Lot P14",
+      "Lot P14",
+      "P14"
+    ],
+    "description": "Surface parking lot P14 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P14+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P14+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p15",
+    "campusId": "fresno",
+    "name": "Parking Lot P15",
+    "abbreviation": "P15",
+    "aliases": [
+      "Parking Lot P15",
+      "Lot P15",
+      "P15"
+    ],
+    "description": "Surface parking lot P15 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P15+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P15+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p16",
+    "campusId": "fresno",
+    "name": "Parking Lot P16",
+    "abbreviation": "P16",
+    "aliases": [
+      "Parking Lot P16",
+      "Lot P16",
+      "P16"
+    ],
+    "description": "Surface parking lot P16 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P16+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P16+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p17",
+    "campusId": "fresno",
+    "name": "Parking Lot P17",
+    "abbreviation": "P17",
+    "aliases": [
+      "Parking Lot P17",
+      "Lot P17",
+      "P17"
+    ],
+    "description": "Surface parking lot P17 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P17+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P17+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p18",
+    "campusId": "fresno",
+    "name": "Parking Lot P18",
+    "abbreviation": "P18",
+    "aliases": [
+      "Parking Lot P18",
+      "Lot P18",
+      "P18"
+    ],
+    "description": "Surface parking lot P18 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P18+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P18+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p19",
+    "campusId": "fresno",
+    "name": "Parking Lot P19",
+    "abbreviation": "P19",
+    "aliases": [
+      "Parking Lot P19",
+      "Lot P19",
+      "P19"
+    ],
+    "description": "Surface parking lot P19 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P19+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P19+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p20",
+    "campusId": "fresno",
+    "name": "Parking Lot P20",
+    "abbreviation": "P20",
+    "aliases": [
+      "Parking Lot P20",
+      "Lot P20",
+      "P20"
+    ],
+    "description": "Surface parking lot P20 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P20+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P20+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p21",
+    "campusId": "fresno",
+    "name": "Parking Lot P21",
+    "abbreviation": "P21",
+    "aliases": [
+      "Parking Lot P21",
+      "Lot P21",
+      "P21"
+    ],
+    "description": "Surface parking lot P21 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P21+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P21+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p22",
+    "campusId": "fresno",
+    "name": "Parking Lot P22",
+    "abbreviation": "P22",
+    "aliases": [
+      "Parking Lot P22",
+      "Lot P22",
+      "P22"
+    ],
+    "description": "Surface parking lot P22 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P22+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P22+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p23",
+    "campusId": "fresno",
+    "name": "Parking Lot P23",
+    "abbreviation": "P23",
+    "aliases": [
+      "Parking Lot P23",
+      "Lot P23",
+      "P23"
+    ],
+    "description": "Surface parking lot P23 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P23+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P23+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p24",
+    "campusId": "fresno",
+    "name": "Parking Lot P24",
+    "abbreviation": "P24",
+    "aliases": [
+      "Parking Lot P24",
+      "Lot P24",
+      "P24"
+    ],
+    "description": "Surface parking lot P24 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P24+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P24+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p25",
+    "campusId": "fresno",
+    "name": "Parking Lot P25",
+    "abbreviation": "P25",
+    "aliases": [
+      "Parking Lot P25",
+      "Lot P25",
+      "P25"
+    ],
+    "description": "Surface parking lot P25 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P25+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P25+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p26",
+    "campusId": "fresno",
+    "name": "Parking Lot P26",
+    "abbreviation": "P26",
+    "aliases": [
+      "Parking Lot P26",
+      "Lot P26",
+      "P26"
+    ],
+    "description": "Surface parking lot P26 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P26+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P26+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p27",
+    "campusId": "fresno",
+    "name": "Parking Lot P27",
+    "abbreviation": "P27",
+    "aliases": [
+      "Parking Lot P27",
+      "Lot P27",
+      "P27"
+    ],
+    "description": "Surface parking lot P27 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P27+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P27+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p28",
+    "campusId": "fresno",
+    "name": "Parking Lot P28",
+    "abbreviation": "P28",
+    "aliases": [
+      "Parking Lot P28",
+      "Lot P28",
+      "P28"
+    ],
+    "description": "Surface parking lot P28 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P28+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P28+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p29",
+    "campusId": "fresno",
+    "name": "Parking Lot P29",
+    "abbreviation": "P29",
+    "aliases": [
+      "Parking Lot P29",
+      "Lot P29",
+      "P29"
+    ],
+    "description": "Surface parking lot P29 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P29+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P29+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p30",
+    "campusId": "fresno",
+    "name": "Parking Lot P30",
+    "abbreviation": "P30",
+    "aliases": [
+      "Parking Lot P30",
+      "Lot P30",
+      "P30"
+    ],
+    "description": "Surface parking lot P30 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P30+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P30+CSU+Fresno"
+  },
+  {
+    "id": "parking-lot-p31",
+    "campusId": "fresno",
+    "name": "Parking Lot P31",
+    "abbreviation": "P31",
+    "aliases": [
+      "Parking Lot P31",
+      "Lot P31",
+      "P31"
+    ],
+    "description": "Surface parking lot P31 for students, faculty, and staff with valid Fresno State parking permits.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Lot+P31+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Lot+P31+CSU+Fresno"
+  },
+  {
+    "id": "save-mart-center-parking",
+    "campusId": "fresno",
+    "name": "Save Mart Center Parking",
+    "abbreviation": "SMCP",
+    "aliases": [
+      "Save Mart Center Parking",
+      "SMCP",
+      "Arena Parking"
+    ],
+    "description": "Parking areas adjacent to Save Mart Center used for major events and as overflow campus parking.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Save+Mart+Center+Parking+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Save+Mart+Center+Parking+CSU+Fresno"
+  },
+  {
+    "id": "residential-parking",
+    "campusId": "fresno",
+    "name": "Residential Parking",
+    "abbreviation": "RESP",
+    "aliases": [
+      "Residential Parking",
+      "RESP",
+      "Housing Parking"
+    ],
+    "description": "Designated parking areas for on-campus residential students at Fresno State.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Residential+Parking+CSU+Fresno",
+    "appleMapsUrl": "http://maps.apple.com/?q=Residential+Parking+CSU+Fresno"
+  }
+]

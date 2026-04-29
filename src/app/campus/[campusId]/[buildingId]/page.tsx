@@ -1,25 +1,17 @@
-import { getBuildingById } from "@/app/lib/data";
+import { getBuildingById, getBuildingsByCampusId } from "@/app/lib/data";
 import { BuildingActions } from "@/components/app/building-actions";
 
 // Static export requirement: pre-generate all dynamic routes
 import campuses from "@/app/data/campuses.json";
-import csusBuildings from "@/app/data/csus_buildings.json";
 
-// NOTE: For now we only guarantee CSUS building pages exist.
-// If SJSU/CSUEB building JSON exists later, we can extend this then.
 export async function generateStaticParams() {
-  const campusIds = (campuses as any[]).map((c) => c.id);
-
   const params: { campusId: string; buildingId: string }[] = [];
 
-  for (const campusId of campusIds) {
-    if (campusId === "csus") {
-      for (const b of csusBuildings as any[]) {
-        if (b?.id) params.push({ campusId: "csus", buildingId: b.id });
-      }
+  for (const campus of campuses as any[]) {
+    const buildings = await getBuildingsByCampusId(campus.id);
+    for (const b of buildings) {
+      if (b?.id) params.push({ campusId: campus.id, buildingId: b.id });
     }
-    // For other campuses, their building detail pages are "coming soon" anyway,
-    // so we don't generate buildingId routes yet.
   }
 
   return params;
@@ -36,7 +28,7 @@ export default async function BuildingPage({ params }: BuildingPageProps) {
   const building = await getBuildingById(params.campusId, params.buildingId);
 
   return (
-    <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <main id="main-content" className="container mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <div className="max-w-2xl mx-auto">
         <div className="text-center mb-8">
           <p className="text-sm font-mono bg-muted text-muted-foreground rounded-sm px-2 py-1 inline-block mb-2">
@@ -61,6 +53,6 @@ export default async function BuildingPage({ params }: BuildingPageProps) {
           />
         </div>
       </div>
-    </div>
+    </main>
   );
 }

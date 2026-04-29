@@ -1,0 +1,1861 @@
+[
+  {
+    "id": "bldg-1",
+    "campusId": "cpslo",
+    "name": "Administration",
+    "abbreviation": "ADMIN",
+    "aliases": [
+      "Administration",
+      "Admin Building",
+      "Building 1"
+    ],
+    "description": "Central administration building housing the president's office, enrollment services, financial aid, and the registrar.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Administration+Building+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Administration+Building+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-2",
+    "campusId": "cpslo",
+    "name": "Cotchett Education Building",
+    "abbreviation": "EDUC",
+    "aliases": [
+      "Cotchett Education Building",
+      "Education Building",
+      "Building 2"
+    ],
+    "description": "Home to the College of Education housing teacher preparation programs, classrooms, and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cotchett+Education+Building+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cotchett+Education+Building+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-3",
+    "campusId": "cpslo",
+    "name": "Business",
+    "abbreviation": "BUS",
+    "aliases": [
+      "Business Building",
+      "Business",
+      "Building 3"
+    ],
+    "description": "Orfalea College of Business with classrooms, faculty offices, the student advising center, and business labs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Business+Building+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Business+Building+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-4",
+    "campusId": "cpslo",
+    "name": "Research Development Center",
+    "abbreviation": "RDC",
+    "aliases": [
+      "Research Development Center",
+      "RDC",
+      "Building 4"
+    ],
+    "description": "Center supporting sponsored research, grants administration, and industry-university partnerships.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Research+Development+Center+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Research+Development+Center+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-5",
+    "campusId": "cpslo",
+    "name": "Architecture & Environmental Design",
+    "abbreviation": "ARCH",
+    "aliases": [
+      "Architecture Environmental Design",
+      "Architecture",
+      "ARCH",
+      "Building 5"
+    ],
+    "description": "College of Architecture and Environmental Design with studios, labs, and design review spaces for architecture and planning.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Architecture+Environmental+Design+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Architecture+Environmental+Design+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-6",
+    "campusId": "cpslo",
+    "name": "Christopher Cohan Performing Arts Center",
+    "abbreviation": "PAC",
+    "aliases": [
+      "Cohan Performing Arts Center",
+      "Performing Arts Center",
+      "PAC",
+      "Building 6"
+    ],
+    "description": "Performing arts venue featuring the Harman Hall main stage and Spanos Theatre for concerts, theater, and events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cohan+Performing+Arts+Center+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cohan+Performing+Arts+Center+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-7",
+    "campusId": "cpslo",
+    "name": "Advanced Technologies Laboratories",
+    "abbreviation": "ATL",
+    "aliases": [
+      "Advanced Technologies Laboratories",
+      "ATL",
+      "Building 7"
+    ],
+    "description": "Research and instructional labs housing advanced technology programs and interdisciplinary engineering projects.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Advanced+Technologies+Laboratories+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Advanced+Technologies+Laboratories+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-8",
+    "campusId": "cpslo",
+    "name": "Bioresource and Agricultural Engineering",
+    "abbreviation": "BAE",
+    "aliases": [
+      "Bioresource and Agricultural Engineering",
+      "BAE",
+      "Building 8"
+    ],
+    "description": "Department of Bioresource and Agricultural Engineering with labs and classrooms for agricultural and environmental engineering.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bioresource+Agricultural+Engineering+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bioresource+Agricultural+Engineering+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-9",
+    "campusId": "cpslo",
+    "name": "Farm Shop",
+    "abbreviation": "FARM",
+    "aliases": [
+      "Farm Shop",
+      "Building 9"
+    ],
+    "description": "Agricultural equipment maintenance and repair shop supporting the Cal Poly farm and instructional programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Farm+Shop+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Farm+Shop+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-10",
+    "campusId": "cpslo",
+    "name": "Alan A. Erhart Agriculture",
+    "abbreviation": "AG",
+    "aliases": [
+      "Erhart Agriculture",
+      "Alan A. Erhart Agriculture",
+      "Building 10"
+    ],
+    "description": "Main agriculture building housing the College of Agriculture, Food and Environmental Sciences with classrooms and offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Erhart+Agriculture+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Erhart+Agriculture+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-11",
+    "campusId": "cpslo",
+    "name": "Agricultural Sciences",
+    "abbreviation": "AGSC",
+    "aliases": [
+      "Agricultural Sciences",
+      "Ag Sciences",
+      "Building 11"
+    ],
+    "description": "Building housing agricultural science labs, research facilities, and departmental offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Agricultural+Sciences+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Agricultural+Sciences+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-13",
+    "campusId": "cpslo",
+    "name": "Engineering",
+    "abbreviation": "ENG",
+    "aliases": [
+      "Engineering",
+      "Engineering Building",
+      "Building 13"
+    ],
+    "description": "College of Engineering facility with labs, classrooms, and faculty offices for engineering programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Engineering+Building+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Engineering+Building+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-14",
+    "campusId": "cpslo",
+    "name": "Frank E. Pilling Computer Science Building",
+    "abbreviation": "CSC",
+    "aliases": [
+      "Pilling Computer Science Building",
+      "Computer Science Building",
+      "CSC",
+      "Building 14"
+    ],
+    "description": "Home of the Computer Science and Software Engineering department with teaching labs and research spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pilling+Computer+Science+Building+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Pilling+Computer+Science+Building+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-15",
+    "campusId": "cpslo",
+    "name": "Cal Poly Corporation Administration",
+    "abbreviation": "CORP",
+    "aliases": [
+      "Cal Poly Corporation Administration",
+      "Corporation Administration",
+      "Building 15"
+    ],
+    "description": "Administrative offices for Cal Poly Corporation managing auxiliary enterprises and campus business operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cal+Poly+Corporation+Administration+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cal+Poly+Corporation+Administration+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-16",
+    "campusId": "cpslo",
+    "name": "Beef Unit",
+    "abbreviation": "BEEF",
+    "aliases": [
+      "Beef Unit",
+      "Building 16"
+    ],
+    "description": "Beef cattle production unit supporting animal science instruction and hands-on agricultural education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Beef+Unit+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Beef+Unit+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-17",
+    "campusId": "cpslo",
+    "name": "Crop Science",
+    "abbreviation": "CROP",
+    "aliases": [
+      "Crop Science",
+      "Building 17"
+    ],
+    "description": "Facility supporting crop science research, instruction, and hands-on plant production programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Crop+Science+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Crop+Science+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-18",
+    "campusId": "cpslo",
+    "name": "Dairy Science",
+    "abbreviation": "DAIRY",
+    "aliases": [
+      "Dairy Science",
+      "Building 18"
+    ],
+    "description": "Dairy science teaching and research facility supporting the Cal Poly dairy program and processing labs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dairy+Science+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Dairy+Science+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-18a",
+    "campusId": "cpslo",
+    "name": "Leprino Foods Dairy Innovation Institute",
+    "abbreviation": "DAIRY-INN",
+    "aliases": [
+      "Leprino Foods Dairy Innovation Institute",
+      "Dairy Innovation Institute",
+      "Building 18A"
+    ],
+    "description": "State-of-the-art dairy innovation facility in partnership with Leprino Foods for research and industry-ready education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Leprino+Foods+Dairy+Innovation+Institute+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Leprino+Foods+Dairy+Innovation+Institute+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-19",
+    "campusId": "cpslo",
+    "name": "Dining Complex",
+    "abbreviation": "DINE",
+    "aliases": [
+      "Dining Complex",
+      "Dining",
+      "Building 19"
+    ],
+    "description": "Main campus dining facility offering all-you-care-to-eat meals and multiple food stations for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dining+Complex+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Dining+Complex+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-20",
+    "campusId": "cpslo",
+    "name": "Engineering East",
+    "abbreviation": "ENG-E",
+    "aliases": [
+      "Engineering East",
+      "Building 20"
+    ],
+    "description": "Engineering East building with labs and instructional spaces for mechanical, electrical, and related engineering programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Engineering+East+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Engineering+East+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-21",
+    "campusId": "cpslo",
+    "name": "Engineering West",
+    "abbreviation": "ENG-W",
+    "aliases": [
+      "Engineering West",
+      "Building 21"
+    ],
+    "description": "Engineering West building housing labs, classrooms, and faculty offices for engineering disciplines.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Engineering+West+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Engineering+West+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-22",
+    "campusId": "cpslo",
+    "name": "English",
+    "abbreviation": "ENG-LIT",
+    "aliases": [
+      "English Building",
+      "English",
+      "Building 22"
+    ],
+    "description": "Building housing the English department with classrooms, writing labs, and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=English+Building+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=English+Building+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-24",
+    "campusId": "cpslo",
+    "name": "Food Processing",
+    "abbreviation": "FP",
+    "aliases": [
+      "Food Processing",
+      "Building 24"
+    ],
+    "description": "Food processing and science facility with pilot plant labs supporting food science and nutrition programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Food+Processing+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Food+Processing+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-25",
+    "campusId": "cpslo",
+    "name": "Faculty Offices East",
+    "abbreviation": "FOE",
+    "aliases": [
+      "Faculty Offices East",
+      "Building 25"
+    ],
+    "description": "Office building housing faculty from various departments in the eastern part of campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Faculty+Offices+East+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Faculty+Offices+East+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-26",
+    "campusId": "cpslo",
+    "name": "Graphic Arts",
+    "abbreviation": "GA",
+    "aliases": [
+      "Graphic Arts",
+      "Building 26"
+    ],
+    "description": "Graphic arts and communication studies building with design studios, printing facilities, and production labs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Graphic+Arts+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Graphic+Arts+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-26m",
+    "campusId": "cpslo",
+    "name": "Graphic Arts Modular",
+    "abbreviation": "GA-MOD",
+    "aliases": [
+      "Graphic Arts Modular",
+      "Building 26M"
+    ],
+    "description": "Modular office and instructional space adjacent to the Graphic Arts building.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Graphic+Arts+Modular+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Graphic+Arts+Modular+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-27",
+    "campusId": "cpslo",
+    "name": "Health Center",
+    "abbreviation": "HC",
+    "aliases": [
+      "Health Center",
+      "Student Health Center",
+      "Building 27"
+    ],
+    "description": "Campus health center providing medical, counseling, and wellness services to students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Health+Center+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Health+Center+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-28",
+    "campusId": "cpslo",
+    "name": "Albert B. Smith Alumni and Conference Center",
+    "abbreviation": "ACC",
+    "aliases": [
+      "Smith Alumni and Conference Center",
+      "Alumni Center",
+      "Conference Center",
+      "Building 28"
+    ],
+    "description": "Alumni relations and conference facility hosting events, reunions, and professional development programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Smith+Alumni+Conference+Center+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Smith+Alumni+Conference+Center+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-31",
+    "campusId": "cpslo",
+    "name": "University Housing",
+    "abbreviation": "UHSG",
+    "aliases": [
+      "University Housing",
+      "Housing",
+      "Building 31"
+    ],
+    "description": "University Housing administrative offices managing on-campus residential programs and student housing.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Housing+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Housing+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-32",
+    "campusId": "cpslo",
+    "name": "Oppenheimer Family Equine Center",
+    "abbreviation": "EQUINE",
+    "aliases": [
+      "Oppenheimer Family Equine Center",
+      "Equine Center",
+      "Building 32"
+    ],
+    "description": "State-of-the-art equine facility supporting horse management, equine science education, and research.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oppenheimer+Equine+Center+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Oppenheimer+Equine+Center+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-33",
+    "campusId": "cpslo",
+    "name": "Clyde P. Fisher Science Hall",
+    "abbreviation": "SCI",
+    "aliases": [
+      "Fisher Science Hall",
+      "Science Hall",
+      "Building 33"
+    ],
+    "description": "Main science building housing biology, chemistry, physics, and other natural science departments with labs and lecture halls.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fisher+Science+Hall+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Fisher+Science+Hall+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-34",
+    "campusId": "cpslo",
+    "name": "Walter F. Dexter Building",
+    "abbreviation": "DEXTER",
+    "aliases": [
+      "Dexter Building",
+      "Walter F. Dexter Building",
+      "Building 34"
+    ],
+    "description": "Office and classroom building supporting liberal arts and social science departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dexter+Building+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Dexter+Building+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-35",
+    "campusId": "cpslo",
+    "name": "Robert E. Kennedy Library",
+    "abbreviation": "LIB",
+    "aliases": [
+      "Kennedy Library",
+      "Library",
+      "LIB",
+      "Building 35"
+    ],
+    "description": "Main campus library with study spaces, research support, special collections, and the digital learning commons.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kennedy+Library+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kennedy+Library+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-36",
+    "campusId": "cpslo",
+    "name": "University Police",
+    "abbreviation": "UPD",
+    "aliases": [
+      "University Police",
+      "Campus Police",
+      "UPD",
+      "Building 36"
+    ],
+    "description": "University Police Department providing law enforcement, safety services, and emergency response for the campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Police+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Police+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-38",
+    "campusId": "cpslo",
+    "name": "Mathematics and Science",
+    "abbreviation": "MATH-SCI",
+    "aliases": [
+      "Mathematics and Science",
+      "Math and Science",
+      "Building 38"
+    ],
+    "description": "Building housing mathematics and science departments with classrooms, labs, and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mathematics+Science+Building+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Mathematics+Science+Building+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-40",
+    "campusId": "cpslo",
+    "name": "Engineering South",
+    "abbreviation": "ENG-S",
+    "aliases": [
+      "Engineering South",
+      "Building 40"
+    ],
+    "description": "Engineering South facility with labs and instructional spaces for engineering disciplines.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Engineering+South+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Engineering+South+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-41",
+    "campusId": "cpslo",
+    "name": "Engineering III",
+    "abbreviation": "ENG-3",
+    "aliases": [
+      "Engineering III",
+      "Engineering 3",
+      "Building 41"
+    ],
+    "description": "Engineering III building supporting upper-division engineering coursework, labs, and project development.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Engineering+III+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Engineering+III+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-42",
+    "campusId": "cpslo",
+    "name": "Robert A. Mott Athletics Center",
+    "abbreviation": "MOTT",
+    "aliases": [
+      "Mott Athletics Center",
+      "Athletics Center",
+      "Building 42"
+    ],
+    "description": "Campus athletics center with administrative offices, training facilities, and support services for intercollegiate sports.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mott+Athletics+Center+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Mott+Athletics+Center+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-42e",
+    "campusId": "cpslo",
+    "name": "Tennis Center",
+    "abbreviation": "TENNIS",
+    "aliases": [
+      "Tennis Center",
+      "Building 42-E"
+    ],
+    "description": "On-campus tennis facility with courts for intercollegiate competition and recreational use.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tennis+Center+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Tennis+Center+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-43",
+    "campusId": "cpslo",
+    "name": "Recreation Center",
+    "abbreviation": "REC",
+    "aliases": [
+      "Recreation Center",
+      "Rec Center",
+      "Building 43"
+    ],
+    "description": "Campus recreation center with fitness equipment, courts, group fitness studios, and intramural programming.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Recreation+Center+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Recreation+Center+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-43a",
+    "campusId": "cpslo",
+    "name": "Kinesiology",
+    "abbreviation": "KIN",
+    "aliases": [
+      "Kinesiology",
+      "Kinesiology Building",
+      "Building 43A"
+    ],
+    "description": "Kinesiology department building with labs, classrooms, and facilities for human performance and physical education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kinesiology+Building+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Kinesiology+Building+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-44",
+    "campusId": "cpslo",
+    "name": "Alex and Faye Spanos Theater",
+    "abbreviation": "SPANOS",
+    "aliases": [
+      "Spanos Theater",
+      "Alex and Faye Spanos Theater",
+      "Building 44"
+    ],
+    "description": "Theater venue used for drama and dance performances, student productions, and visiting artist showcases.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Spanos+Theater+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Spanos+Theater+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-45",
+    "campusId": "cpslo",
+    "name": "H. P. Davidson Music Center",
+    "abbreviation": "MUSIC",
+    "aliases": [
+      "Davidson Music Center",
+      "Music Center",
+      "H.P. Davidson Music Center",
+      "Building 45"
+    ],
+    "description": "Music department center with practice rooms, rehearsal halls, recording studios, and performance spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Davidson+Music+Center+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Davidson+Music+Center+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-46",
+    "campusId": "cpslo",
+    "name": "Crandall Gymnasium & Old Natatorium",
+    "abbreviation": "CRANDALL",
+    "aliases": [
+      "Crandall Gymnasium",
+      "Old Natatorium",
+      "Crandall Gym",
+      "Building 46"
+    ],
+    "description": "Historic gymnasium and pool facility used for physical education classes, intramurals, and recreation.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Crandall+Gymnasium+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Crandall+Gymnasium+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-47",
+    "campusId": "cpslo",
+    "name": "Faculty Offices North",
+    "abbreviation": "FON",
+    "aliases": [
+      "Faculty Offices North",
+      "Building 47"
+    ],
+    "description": "Office building housing faculty from various departments on the north side of campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Faculty+Offices+North+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Faculty+Offices+North+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-48",
+    "campusId": "cpslo",
+    "name": "Environmental Horticultural Science",
+    "abbreviation": "EHS",
+    "aliases": [
+      "Environmental Horticultural Science",
+      "Horticulture",
+      "Building 48"
+    ],
+    "description": "Horticulture science facility with greenhouses, labs, and outdoor gardens supporting plant science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Environmental+Horticultural+Science+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Environmental+Horticultural+Science+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-50",
+    "campusId": "cpslo",
+    "name": "Mount Bishop Warehouse, Rose Float Lab, Communications Storage",
+    "abbreviation": "WRHS",
+    "aliases": [
+      "Mount Bishop Warehouse",
+      "Rose Float Lab",
+      "Communications Storage",
+      "Building 50"
+    ],
+    "description": "Multi-use facility housing warehouse storage, the Rose Float build space, and communications department storage.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mount+Bishop+Warehouse+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Mount+Bishop+Warehouse+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-52",
+    "campusId": "cpslo",
+    "name": "Science",
+    "abbreviation": "SCI-2",
+    "aliases": [
+      "Science Building",
+      "Science",
+      "Building 52"
+    ],
+    "description": "Science building providing additional lab and classroom space for natural science programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Science+Building+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Science+Building+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-53",
+    "campusId": "cpslo",
+    "name": "Science North",
+    "abbreviation": "SCI-N",
+    "aliases": [
+      "Science North",
+      "Building 53"
+    ],
+    "description": "Science North building with labs, research spaces, and classrooms for science departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Science+North+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Science+North+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-55",
+    "campusId": "cpslo",
+    "name": "Beef Cattle Evaluation Center",
+    "abbreviation": "BCEC",
+    "aliases": [
+      "Beef Cattle Evaluation Center",
+      "Building 55"
+    ],
+    "description": "Specialized facility for beef cattle performance testing, evaluation, and animal science research.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Beef+Cattle+Evaluation+Center+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Beef+Cattle+Evaluation+Center+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-56",
+    "campusId": "cpslo",
+    "name": "Swine Unit",
+    "abbreviation": "SWINE",
+    "aliases": [
+      "Swine Unit",
+      "Building 56"
+    ],
+    "description": "Swine production and teaching facility supporting the College of Agriculture's animal science curriculum.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Swine+Unit+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Swine+Unit+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-57",
+    "campusId": "cpslo",
+    "name": "Veterinary Hospital",
+    "abbreviation": "VET",
+    "aliases": [
+      "Veterinary Hospital",
+      "Vet Hospital",
+      "Building 57"
+    ],
+    "description": "On-campus veterinary hospital providing animal health care and supporting animal science instructional programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Veterinary+Hospital+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Veterinary+Hospital+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-58",
+    "campusId": "cpslo",
+    "name": "Welding",
+    "abbreviation": "WELD",
+    "aliases": [
+      "Welding Building",
+      "Welding",
+      "Building 58"
+    ],
+    "description": "Welding and fabrication facility supporting agricultural engineering and industrial technology programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Welding+Building+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Welding+Building+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-60",
+    "campusId": "cpslo",
+    "name": "Crandall Gymnasium & Old Natatorium",
+    "abbreviation": "CRANDALL-2",
+    "aliases": [
+      "Crandall Gymnasium",
+      "Old Natatorium",
+      "Building 60"
+    ],
+    "description": "Gymnasium and natatorium facility used for physical education, recreation, and athletic programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Crandall+Gymnasium+Old+Natatorium+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Crandall+Gymnasium+Old+Natatorium+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-61",
+    "campusId": "cpslo",
+    "name": "Alex G. Spanos Stadium",
+    "abbreviation": "STADIUM",
+    "aliases": [
+      "Spanos Stadium",
+      "Alex G. Spanos Stadium",
+      "Stadium",
+      "Building 61"
+    ],
+    "description": "Main football and track stadium hosting Mustang intercollegiate athletics and special campus events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Spanos+Stadium+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Spanos+Stadium+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-65",
+    "campusId": "cpslo",
+    "name": "Julian A. McPhee University Union",
+    "abbreviation": "UU",
+    "aliases": [
+      "Julian McPhee University Union",
+      "University Union",
+      "UU",
+      "Building 65"
+    ],
+    "description": "Central campus hub with dining, ASI offices, Chumash Auditorium, bowling, and student organization spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McPhee+University+Union+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=McPhee+University+Union+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-70",
+    "campusId": "cpslo",
+    "name": "Facilities",
+    "abbreviation": "FAC",
+    "aliases": [
+      "Facilities",
+      "Facilities Management",
+      "Building 70"
+    ],
+    "description": "Facilities services offices overseeing campus operations, maintenance, and infrastructure management.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Facilities+Building+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Facilities+Building+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-71",
+    "campusId": "cpslo",
+    "name": "Fleet Services",
+    "abbreviation": "FLEET",
+    "aliases": [
+      "Fleet Services",
+      "Building 71"
+    ],
+    "description": "Campus fleet maintenance and operations facility managing university vehicles and transportation services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fleet+Services+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Fleet+Services+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-72",
+    "campusId": "cpslo",
+    "name": "Plant Conservatory",
+    "abbreviation": "CONS",
+    "aliases": [
+      "Plant Conservatory",
+      "Conservatory",
+      "Building 72"
+    ],
+    "description": "Botanical conservatory housing a diverse plant collection used for instruction, research, and display.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Plant+Conservatory+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Plant+Conservatory+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-73",
+    "campusId": "cpslo",
+    "name": "Eucalyptus House",
+    "abbreviation": "EUCAL",
+    "aliases": [
+      "Eucalyptus House",
+      "Building 73"
+    ],
+    "description": "Historic on-campus residential and meeting space nestled among eucalyptus trees.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Eucalyptus+House+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Eucalyptus+House+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-80",
+    "campusId": "cpslo",
+    "name": "Environmental Health & Safety",
+    "abbreviation": "EHS",
+    "aliases": [
+      "Environmental Health and Safety",
+      "EHS",
+      "Building 80"
+    ],
+    "description": "Office overseeing campus environmental health, laboratory safety, hazardous materials management, and regulatory compliance.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Environmental+Health+Safety+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Environmental+Health+Safety+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-80m",
+    "campusId": "cpslo",
+    "name": "Building 80 Modular Offices",
+    "abbreviation": "EHS-MOD",
+    "aliases": [
+      "Building 80 Modular Offices",
+      "Building 80M"
+    ],
+    "description": "Modular office space adjacent to the Environmental Health and Safety building.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Building+80+Modular+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Building+80+Modular+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-81",
+    "campusId": "cpslo",
+    "name": "Hillcrest",
+    "abbreviation": "HILLCREST",
+    "aliases": [
+      "Hillcrest",
+      "Building 81"
+    ],
+    "description": "Hillcrest facility providing conference, residential, and meeting spaces on campus.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hillcrest+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Hillcrest+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-82",
+    "campusId": "cpslo",
+    "name": "Corporation Warehouse",
+    "abbreviation": "CORP-WH",
+    "aliases": [
+      "Corporation Warehouse",
+      "Building 82"
+    ],
+    "description": "Cal Poly Corporation warehouse storing supplies and materials for auxiliary enterprise operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Corporation+Warehouse+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Corporation+Warehouse+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-83",
+    "campusId": "cpslo",
+    "name": "Technology Park",
+    "abbreviation": "TECH-PARK",
+    "aliases": [
+      "Technology Park",
+      "Building 83"
+    ],
+    "description": "On-campus technology park supporting industry partnerships, startup incubation, and applied research ventures.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Technology+Park+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Technology+Park+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-92m",
+    "campusId": "cpslo",
+    "name": "Poly Grove Modular Offices",
+    "abbreviation": "GROVE-MOD",
+    "aliases": [
+      "Poly Grove Modular Offices",
+      "Building 92M"
+    ],
+    "description": "Modular office complex located near Poly Grove providing flexible academic and administrative workspace.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Poly+Grove+Modular+Offices+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Poly+Grove+Modular+Offices+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-100",
+    "campusId": "cpslo",
+    "name": "Shasta Hall",
+    "abbreviation": "SHASTA",
+    "aliases": [
+      "Shasta Hall",
+      "Building 100"
+    ],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Shasta+Hall+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Shasta+Hall+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-101",
+    "campusId": "cpslo",
+    "name": "Diablo Hall",
+    "abbreviation": "DIABLO",
+    "aliases": [
+      "Diablo Hall",
+      "Building 101"
+    ],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Diablo+Hall+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Diablo+Hall+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-102",
+    "campusId": "cpslo",
+    "name": "Palomar Hall",
+    "abbreviation": "PALOMAR",
+    "aliases": [
+      "Palomar Hall",
+      "Building 102"
+    ],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Palomar+Hall+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Palomar+Hall+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-103",
+    "campusId": "cpslo",
+    "name": "Whitney Hall",
+    "abbreviation": "WHITNEY",
+    "aliases": [
+      "Whitney Hall",
+      "Building 103"
+    ],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Whitney+Hall+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Whitney+Hall+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-104",
+    "campusId": "cpslo",
+    "name": "Lassen Hall",
+    "abbreviation": "LASSEN",
+    "aliases": [
+      "Lassen Hall",
+      "Building 104"
+    ],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lassen+Hall+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Lassen+Hall+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-105",
+    "campusId": "cpslo",
+    "name": "Trinity Hall",
+    "abbreviation": "TRINITY",
+    "aliases": [
+      "Trinity Hall",
+      "Building 105"
+    ],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trinity+Hall+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Trinity+Hall+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-106",
+    "campusId": "cpslo",
+    "name": "Santa Lucia Hall",
+    "abbreviation": "SL-HALL",
+    "aliases": [
+      "Santa Lucia Hall",
+      "Building 106"
+    ],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Santa+Lucia+Hall+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Santa+Lucia+Hall+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-107",
+    "campusId": "cpslo",
+    "name": "Muir Hall",
+    "abbreviation": "MUIR",
+    "aliases": [
+      "Muir Hall",
+      "Building 107"
+    ],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Muir+Hall+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Muir+Hall+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-108",
+    "campusId": "cpslo",
+    "name": "Sequoia Hall",
+    "abbreviation": "SEQUOIA",
+    "aliases": [
+      "Sequoia Hall",
+      "Building 108"
+    ],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sequoia+Hall+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sequoia+Hall+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-109",
+    "campusId": "cpslo",
+    "name": "Fremont Hall",
+    "abbreviation": "FREMONT",
+    "aliases": [
+      "Fremont Hall",
+      "Building 109"
+    ],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fremont+Hall+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Fremont+Hall+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-110",
+    "campusId": "cpslo",
+    "name": "Tenaya Hall",
+    "abbreviation": "TENAYA",
+    "aliases": [
+      "Tenaya Hall",
+      "Building 110"
+    ],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tenaya+Hall+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Tenaya+Hall+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-112",
+    "campusId": "cpslo",
+    "name": "Vista Grande",
+    "abbreviation": "VISTA",
+    "aliases": [
+      "Vista Grande",
+      "Building 112"
+    ],
+    "description": "Vista Grande dining and residential facility serving students in the on-campus housing community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Vista+Grande+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Vista+Grande+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-113",
+    "campusId": "cpslo",
+    "name": "Sierra Madre Hall",
+    "abbreviation": "SIERRA",
+    "aliases": [
+      "Sierra Madre Hall",
+      "Building 113"
+    ],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sierra+Madre+Hall+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sierra+Madre+Hall+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-114",
+    "campusId": "cpslo",
+    "name": "Yosemite Hall",
+    "abbreviation": "YOSEMITE",
+    "aliases": [
+      "Yosemite Hall",
+      "Building 114"
+    ],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Yosemite+Hall+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Yosemite+Hall+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-115",
+    "campusId": "cpslo",
+    "name": "Chase Hall",
+    "abbreviation": "CHASE",
+    "aliases": [
+      "Chase Hall",
+      "Building 115"
+    ],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chase+Hall+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Chase+Hall+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-116",
+    "campusId": "cpslo",
+    "name": "Jespersen Hall",
+    "abbreviation": "JESP",
+    "aliases": [
+      "Jespersen Hall",
+      "Building 116"
+    ],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jespersen+Hall+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Jespersen+Hall+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-117",
+    "campusId": "cpslo",
+    "name": "Heron Hall",
+    "abbreviation": "HERON",
+    "aliases": [
+      "Heron Hall",
+      "Building 117"
+    ],
+    "description": "On-campus residence hall providing student housing accommodations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Heron+Hall+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Heron+Hall+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-117t",
+    "campusId": "cpslo",
+    "name": "Heron Hall Modular",
+    "abbreviation": "HERON-MOD",
+    "aliases": [
+      "Heron Hall Modular",
+      "Building 117-T"
+    ],
+    "description": "Modular housing adjacent to Heron Hall providing additional student residential capacity.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Heron+Hall+Modular+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Heron+Hall+Modular+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-121",
+    "campusId": "cpslo",
+    "name": "Cheda Ranch",
+    "abbreviation": "CHEDA",
+    "aliases": [
+      "Cheda Ranch",
+      "Building 121"
+    ],
+    "description": "Ranch unit supporting hands-on agricultural education and livestock management programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cheda+Ranch+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cheda+Ranch+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-122",
+    "campusId": "cpslo",
+    "name": "Parker Ranch",
+    "abbreviation": "PARKER",
+    "aliases": [
+      "Parker Ranch",
+      "Building 122"
+    ],
+    "description": "Ranch facility supporting agricultural student learning through livestock and land management activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parker+Ranch+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parker+Ranch+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-123",
+    "campusId": "cpslo",
+    "name": "Peterson Ranch",
+    "abbreviation": "PETERSON",
+    "aliases": [
+      "Peterson Ranch",
+      "Building 123"
+    ],
+    "description": "Ranch facility used for agricultural research, instruction, and livestock program operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Peterson+Ranch+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Peterson+Ranch+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-124",
+    "campusId": "cpslo",
+    "name": "Student Services",
+    "abbreviation": "SS",
+    "aliases": [
+      "Student Services",
+      "Building 124"
+    ],
+    "description": "Central student services building with advising, career services, Financial Aid, and support programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Services+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Services+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-125",
+    "campusId": "cpslo",
+    "name": "Serrano Ranch",
+    "abbreviation": "SERRANO",
+    "aliases": [
+      "Serrano Ranch",
+      "Building 125"
+    ],
+    "description": "Ranch unit supporting college of agriculture programs with hands-on farm and livestock operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Serrano+Ranch+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Serrano+Ranch+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-126",
+    "campusId": "cpslo",
+    "name": "Chorro Creek Ranch",
+    "abbreviation": "CHORRO",
+    "aliases": [
+      "Chorro Creek Ranch",
+      "Building 126"
+    ],
+    "description": "Off-campus ranch facility along Chorro Creek supporting agriculture and natural resources programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chorro+Creek+Ranch+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Chorro+Creek+Ranch+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-130",
+    "campusId": "cpslo",
+    "name": "Grand Avenue Parking Structure",
+    "abbreviation": "PS-130",
+    "aliases": [
+      "Grand Avenue Parking Structure",
+      "Building 130"
+    ],
+    "description": "Multi-level parking structure on Grand Avenue serving the main campus core.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand+Avenue+Parking+Structure+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Grand+Avenue+Parking+Structure+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-131",
+    "campusId": "cpslo",
+    "name": "Parking Structure",
+    "abbreviation": "PS-131",
+    "aliases": [
+      "Parking Structure",
+      "Building 131"
+    ],
+    "description": "Multi-level parking structure providing student, faculty, and staff parking.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Structure+131+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Structure+131+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-133",
+    "campusId": "cpslo",
+    "name": "Orfalea Family and ASI Children's Center",
+    "abbreviation": "CHILDRENS",
+    "aliases": [
+      "Orfalea Children's Center",
+      "ASI Children's Center",
+      "Children's Center",
+      "Building 133"
+    ],
+    "description": "Licensed child care center operated by ASI providing quality early childhood education for the campus community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Orfalea+ASI+Childrens+Center+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Orfalea+ASI+Childrens+Center+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-150",
+    "campusId": "cpslo",
+    "name": "Poultry Science Instructional Center",
+    "abbreviation": "POULTRY",
+    "aliases": [
+      "Poultry Science Instructional Center",
+      "Poultry Center",
+      "Building 150"
+    ],
+    "description": "Poultry production and instructional facility supporting the Cal Poly poultry science curriculum.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Poultry+Science+Instructional+Center+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Poultry+Science+Instructional+Center+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-154",
+    "campusId": "cpslo",
+    "name": "Animal Nutrition Center",
+    "abbreviation": "ANC",
+    "aliases": [
+      "Animal Nutrition Center",
+      "Building 154"
+    ],
+    "description": "Research and teaching facility focused on animal nutrition science and diet formulation for livestock programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Animal+Nutrition+Center+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Animal+Nutrition+Center+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-155",
+    "campusId": "cpslo",
+    "name": "J & G Lau Family Meat Processing Center",
+    "abbreviation": "MEAT",
+    "aliases": [
+      "Lau Family Meat Processing Center",
+      "Meat Processing Center",
+      "Building 155"
+    ],
+    "description": "USDA-inspected meat processing facility supporting animal science instruction and food science research.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lau+Family+Meat+Processing+Center+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Lau+Family+Meat+Processing+Center+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-156",
+    "campusId": "cpslo",
+    "name": "E. & J. Gallo Winery & Family Building",
+    "abbreviation": "GALLO",
+    "aliases": [
+      "Gallo Winery Building",
+      "E. & J. Gallo Winery Building",
+      "Building 156"
+    ],
+    "description": "Viticulture and enology facility in partnership with E. & J. Gallo Winery for wine education and research.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gallo+Winery+Building+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Gallo+Winery+Building+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-157",
+    "campusId": "cpslo",
+    "name": "Lohr Family Winery",
+    "abbreviation": "LOHR",
+    "aliases": [
+      "Lohr Family Winery",
+      "Building 157"
+    ],
+    "description": "Winery and viticulture instructional facility supported by Lohr Family Wines for hands-on enology education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lohr+Family+Winery+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Lohr+Family+Winery+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-160",
+    "campusId": "cpslo",
+    "name": "Sports Complex",
+    "abbreviation": "SPORTS",
+    "aliases": [
+      "Sports Complex",
+      "Building 160"
+    ],
+    "description": "Athletic complex with fields, courts, and facilities for intercollegiate and recreational sports.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sports+Complex+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sports+Complex+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-160a",
+    "campusId": "cpslo",
+    "name": "Dignity Health Baseball Clubhouse",
+    "abbreviation": "BASEBALL",
+    "aliases": [
+      "Dignity Health Baseball Clubhouse",
+      "Baseball Clubhouse",
+      "Building 160-A"
+    ],
+    "description": "Baseball team clubhouse and support facility adjacent to the Sports Complex.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dignity+Health+Baseball+Clubhouse+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Dignity+Health+Baseball+Clubhouse+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-170",
+    "campusId": "cpslo",
+    "name": "Cerro Vista",
+    "abbreviation": "CV",
+    "aliases": [
+      "Cerro Vista",
+      "Building 170"
+    ],
+    "description": "Cerro Vista residential complex offering apartment-style housing with views of the Santa Lucia Mountains.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cerro+Vista+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cerro+Vista+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-170a",
+    "campusId": "cpslo",
+    "name": "Cerro Morro",
+    "abbreviation": "CV-MORRO",
+    "aliases": [
+      "Cerro Morro",
+      "Building 170A"
+    ],
+    "description": "Cerro Vista apartment building providing on-campus student housing.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cerro+Morro+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cerro+Morro+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-170b",
+    "campusId": "cpslo",
+    "name": "Cerro Cabrillo",
+    "abbreviation": "CV-CAB",
+    "aliases": [
+      "Cerro Cabrillo",
+      "Building 170B"
+    ],
+    "description": "Cerro Vista apartment building providing on-campus student housing.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cerro+Cabrillo+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cerro+Cabrillo+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-170c",
+    "campusId": "cpslo",
+    "name": "Cerro Hollister",
+    "abbreviation": "CV-HOL",
+    "aliases": [
+      "Cerro Hollister",
+      "Building 170C"
+    ],
+    "description": "Cerro Vista apartment building providing on-campus student housing.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cerro+Hollister+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cerro+Hollister+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-170d",
+    "campusId": "cpslo",
+    "name": "Cerro Romauldo",
+    "abbreviation": "CV-ROM",
+    "aliases": [
+      "Cerro Romauldo",
+      "Building 170D"
+    ],
+    "description": "Cerro Vista apartment building providing on-campus student housing.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cerro+Romauldo+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cerro+Romauldo+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-170e",
+    "campusId": "cpslo",
+    "name": "Cerro Bishop",
+    "abbreviation": "CV-BISH",
+    "aliases": [
+      "Cerro Bishop",
+      "Building 170E"
+    ],
+    "description": "Cerro Vista apartment building providing on-campus student housing.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cerro+Bishop+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cerro+Bishop+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-170f",
+    "campusId": "cpslo",
+    "name": "Cerro Islay",
+    "abbreviation": "CV-ISL",
+    "aliases": [
+      "Cerro Islay",
+      "Building 170F"
+    ],
+    "description": "Cerro Vista apartment building providing on-campus student housing.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cerro+Islay+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cerro+Islay+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-170g",
+    "campusId": "cpslo",
+    "name": "Cerro San Luis",
+    "abbreviation": "CV-SL",
+    "aliases": [
+      "Cerro San Luis",
+      "Building 170G"
+    ],
+    "description": "Cerro Vista apartment building providing on-campus student housing.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cerro+San+Luis+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Cerro+San+Luis+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-171",
+    "campusId": "cpslo",
+    "name": "Poly Canyon Village",
+    "abbreviation": "PCV",
+    "aliases": [
+      "Poly Canyon Village",
+      "PCV",
+      "Building 171"
+    ],
+    "description": "Large on-campus apartment-style residential community in Poly Canyon with dining and community amenities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Poly+Canyon+Village+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Poly+Canyon+Village+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-171a",
+    "campusId": "cpslo",
+    "name": "Aliso",
+    "abbreviation": "PCV-ALISO",
+    "aliases": [
+      "Aliso",
+      "Poly Canyon Village Aliso",
+      "Building 171A"
+    ],
+    "description": "Poly Canyon Village apartment building providing on-campus student housing.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Poly+Canyon+Village+Aliso+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Poly+Canyon+Village+Aliso+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-171b",
+    "campusId": "cpslo",
+    "name": "Buena Vista",
+    "abbreviation": "PCV-BV",
+    "aliases": [
+      "Buena Vista",
+      "Poly Canyon Village Buena Vista",
+      "Building 171B"
+    ],
+    "description": "Poly Canyon Village apartment building providing on-campus student housing.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Poly+Canyon+Village+Buena+Vista+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Poly+Canyon+Village+Buena+Vista+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-171c",
+    "campusId": "cpslo",
+    "name": "Corralitos",
+    "abbreviation": "PCV-COR",
+    "aliases": [
+      "Corralitos",
+      "Poly Canyon Village Corralitos",
+      "Building 171C"
+    ],
+    "description": "Poly Canyon Village apartment building providing on-campus student housing.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Poly+Canyon+Village+Corralitos+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Poly+Canyon+Village+Corralitos+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-171d",
+    "campusId": "cpslo",
+    "name": "Dover",
+    "abbreviation": "PCV-DOV",
+    "aliases": [
+      "Dover",
+      "Poly Canyon Village Dover",
+      "Building 171D"
+    ],
+    "description": "Poly Canyon Village apartment building providing on-campus student housing.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Poly+Canyon+Village+Dover+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Poly+Canyon+Village+Dover+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-171e",
+    "campusId": "cpslo",
+    "name": "Estrella",
+    "abbreviation": "PCV-EST",
+    "aliases": [
+      "Estrella",
+      "Poly Canyon Village Estrella",
+      "Building 171E"
+    ],
+    "description": "Poly Canyon Village apartment building providing on-campus student housing.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Poly+Canyon+Village+Estrella+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Poly+Canyon+Village+Estrella+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-171f",
+    "campusId": "cpslo",
+    "name": "Foxen",
+    "abbreviation": "PCV-FOX",
+    "aliases": [
+      "Foxen",
+      "Poly Canyon Village Foxen",
+      "Building 171F"
+    ],
+    "description": "Poly Canyon Village apartment building providing on-campus student housing.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Poly+Canyon+Village+Foxen+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Poly+Canyon+Village+Foxen+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-171g",
+    "campusId": "cpslo",
+    "name": "Gypsum",
+    "abbreviation": "PCV-GYP",
+    "aliases": [
+      "Gypsum",
+      "Poly Canyon Village Gypsum",
+      "Building 171G"
+    ],
+    "description": "Poly Canyon Village apartment building providing on-campus student housing.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Poly+Canyon+Village+Gypsum+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Poly+Canyon+Village+Gypsum+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-171h",
+    "campusId": "cpslo",
+    "name": "Huasna",
+    "abbreviation": "PCV-HUA",
+    "aliases": [
+      "Huasna",
+      "Poly Canyon Village Huasna",
+      "Building 171H"
+    ],
+    "description": "Poly Canyon Village apartment building providing on-campus student housing.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Poly+Canyon+Village+Huasna+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Poly+Canyon+Village+Huasna+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-171i",
+    "campusId": "cpslo",
+    "name": "Inyo",
+    "abbreviation": "PCV-INY",
+    "aliases": [
+      "Inyo",
+      "Poly Canyon Village Inyo",
+      "Building 171I"
+    ],
+    "description": "Poly Canyon Village apartment building providing on-campus student housing.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Poly+Canyon+Village+Inyo+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Poly+Canyon+Village+Inyo+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-172a",
+    "campusId": "cpslo",
+    "name": "tsɨtkawayu",
+    "abbreviation": "172A",
+    "aliases": [
+      "tsɨtkawayu",
+      "Building 172A"
+    ],
+    "description": "On-campus residential building in the Indigenous-named housing community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Building+172A+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Building+172A+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-172b",
+    "campusId": "cpslo",
+    "name": "elewexe",
+    "abbreviation": "172B",
+    "aliases": [
+      "elewexe",
+      "Building 172B"
+    ],
+    "description": "On-campus residential building in the Indigenous-named housing community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Building+172B+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Building+172B+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-172c",
+    "campusId": "cpslo",
+    "name": "tiłhini",
+    "abbreviation": "172C",
+    "aliases": [
+      "tiłhini",
+      "Building 172C"
+    ],
+    "description": "On-campus residential building in the Indigenous-named housing community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Building+172C+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Building+172C+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-172d",
+    "campusId": "cpslo",
+    "name": "tšɨłkukunɨtš",
+    "abbreviation": "172D",
+    "aliases": [
+      "tšɨłkukunɨtš",
+      "Building 172D"
+    ],
+    "description": "On-campus residential building in the Indigenous-named housing community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Building+172D+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Building+172D+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-172e",
+    "campusId": "cpslo",
+    "name": "nipumuʔ",
+    "abbreviation": "172E",
+    "aliases": [
+      "nipumuʔ",
+      "Building 172E"
+    ],
+    "description": "On-campus residential building in the Indigenous-named housing community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Building+172E+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Building+172E+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-172f",
+    "campusId": "cpslo",
+    "name": "tsɨtqawɨ",
+    "abbreviation": "172F",
+    "aliases": [
+      "tsɨtqawɨ",
+      "Building 172F"
+    ],
+    "description": "On-campus residential building in the Indigenous-named housing community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Building+172F+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Building+172F+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-172g",
+    "campusId": "cpslo",
+    "name": "tsɨtpxatu",
+    "abbreviation": "172G",
+    "aliases": [
+      "tsɨtpxatu",
+      "Building 172G"
+    ],
+    "description": "On-campus residential building in the Indigenous-named housing community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Building+172G+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Building+172G+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-172h",
+    "campusId": "cpslo",
+    "name": "Welcome Center & yakʔitʸutʸu Hall",
+    "abbreviation": "172H",
+    "aliases": [
+      "Welcome Center",
+      "yakʔitʸutʸu Hall",
+      "Building 172H"
+    ],
+    "description": "Welcome center and residential hall serving the Indigenous-named housing community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Building+172H+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Building+172H+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-180",
+    "campusId": "cpslo",
+    "name": "Warren J. Baker Center for Science and Mathematics",
+    "abbreviation": "BAKER",
+    "aliases": [
+      "Baker Center for Science and Mathematics",
+      "Baker Center",
+      "Building 180"
+    ],
+    "description": "Modern science and mathematics building with state-of-the-art teaching labs, research spaces, and classrooms.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Baker+Center+Science+Mathematics+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Baker+Center+Science+Mathematics+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-181",
+    "campusId": "cpslo",
+    "name": "William and Linda Frost Center for Research and Innovation",
+    "abbreviation": "FROST",
+    "aliases": [
+      "Frost Center for Research and Innovation",
+      "Frost Center",
+      "Building 181"
+    ],
+    "description": "Innovation hub fostering interdisciplinary research, industry collaboration, and entrepreneurial ventures.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Frost+Center+Research+Innovation+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Frost+Center+Research+Innovation+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-186",
+    "campusId": "cpslo",
+    "name": "Construction Innovations Center",
+    "abbreviation": "CIC",
+    "aliases": [
+      "Construction Innovations Center",
+      "CIC",
+      "Building 186"
+    ],
+    "description": "Facility supporting construction management and civil engineering programs with hands-on project learning.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Construction+Innovations+Center+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Construction+Innovations+Center+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-187",
+    "campusId": "cpslo",
+    "name": "Simpson Strong-Tie Materials Demonstration Lab",
+    "abbreviation": "SIMPSON",
+    "aliases": [
+      "Simpson Strong-Tie Materials Demonstration Lab",
+      "Simpson Lab",
+      "Building 187"
+    ],
+    "description": "Structural materials testing and demonstration lab in partnership with Simpson Strong-Tie for engineering education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Simpson+Strong-Tie+Materials+Lab+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Simpson+Strong-Tie+Materials+Lab+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-192",
+    "campusId": "cpslo",
+    "name": "Engineering IV",
+    "abbreviation": "ENG-4",
+    "aliases": [
+      "Engineering IV",
+      "Engineering 4",
+      "Building 192"
+    ],
+    "description": "Engineering IV building providing additional lab and classroom space for advanced engineering coursework.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Engineering+IV+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Engineering+IV+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-197",
+    "campusId": "cpslo",
+    "name": "Bonderson Engineering Project Center",
+    "abbreviation": "BONDERSON",
+    "aliases": [
+      "Bonderson Engineering Project Center",
+      "Bonderson Center",
+      "Building 197"
+    ],
+    "description": "Industry-sponsored senior project facility where engineering students develop real-world solutions for corporate partners.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bonderson+Engineering+Project+Center+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Bonderson+Engineering+Project+Center+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-228",
+    "campusId": "cpslo",
+    "name": "Center for Coastal Marine Sciences",
+    "abbreviation": "CCMS",
+    "aliases": [
+      "Center for Coastal Marine Sciences",
+      "CCMS",
+      "Building 228"
+    ],
+    "description": "Research and academic center dedicated to coastal and marine science education and conservation studies.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Center+Coastal+Marine+Sciences+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Center+Coastal+Marine+Sciences+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-271",
+    "campusId": "cpslo",
+    "name": "Village Drive Parking Structure",
+    "abbreviation": "PS-271",
+    "aliases": [
+      "Village Drive Parking Structure",
+      "Building 271"
+    ],
+    "description": "Multi-level parking structure serving the Poly Canyon Village residential community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Village+Drive+Parking+Structure+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Village+Drive+Parking+Structure+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-371",
+    "campusId": "cpslo",
+    "name": "Canyon Circle Parking Structure",
+    "abbreviation": "PS-371",
+    "aliases": [
+      "Canyon Circle Parking Structure",
+      "Building 371"
+    ],
+    "description": "Multi-level parking structure at Canyon Circle serving campus commuters and residential students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Canyon+Circle+Parking+Structure+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Canyon+Circle+Parking+Structure+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-371b",
+    "campusId": "cpslo",
+    "name": "Housing Depot",
+    "abbreviation": "HSG-DEPOT",
+    "aliases": [
+      "Housing Depot",
+      "Building 371B"
+    ],
+    "description": "Housing depot facility providing move-in and move-out support, storage, and logistics for residential students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Housing+Depot+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Housing+Depot+Cal+Poly+San+Luis+Obispo"
+  },
+  {
+    "id": "bldg-480",
+    "campusId": "cpslo",
+    "name": "Mustang Business Park",
+    "abbreviation": "MBP",
+    "aliases": [
+      "Mustang Business Park",
+      "Building 480"
+    ],
+    "description": "Off-campus business park affiliated with Cal Poly supporting technology companies and industry tenants.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mustang+Business+Park+Cal+Poly+San+Luis+Obispo",
+    "appleMapsUrl": "http://maps.apple.com/?q=Mustang+Business+Park+Cal+Poly+San+Luis+Obispo"
+  }
+]

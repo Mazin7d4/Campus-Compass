@@ -1,0 +1,652 @@
+[
+  {
+    "id": "ad",
+    "campusId": "csusb",
+    "name": "Administration",
+    "abbreviation": "AD",
+    "aliases": [
+      "Administration",
+      "AD",
+      "Admin Building"
+    ],
+    "description": "Main administrative building housing university leadership, executive offices, and campus administration.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Administration+Building+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Administration+Building+CSU+San+Bernardino"
+  },
+  {
+    "id": "af",
+    "campusId": "csusb",
+    "name": "Auto Fleet Services",
+    "abbreviation": "AF",
+    "aliases": [
+      "Auto Fleet Services",
+      "AF",
+      "Fleet Services"
+    ],
+    "description": "Campus auto fleet services facility managing university vehicles and transportation operations.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Auto+Fleet+Services+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Auto+Fleet+Services+CSU+San+Bernardino"
+  },
+  {
+    "id": "ah",
+    "campusId": "csusb",
+    "name": "Animal House / Vivarium",
+    "abbreviation": "AH",
+    "aliases": [
+      "Animal House",
+      "Vivarium",
+      "AH"
+    ],
+    "description": "Campus vivarium and animal care facility supporting biological sciences research with live animal subjects.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Animal+House+Vivarium+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Animal+House+Vivarium+CSU+San+Bernardino"
+  },
+  {
+    "id": "ar",
+    "campusId": "csusb",
+    "name": "Academic Research",
+    "abbreviation": "AR",
+    "aliases": [
+      "Academic Research",
+      "AR",
+      "Research Building"
+    ],
+    "description": "Building dedicated to academic research programs with labs and faculty research spaces.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Academic+Research+Building+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Academic+Research+Building+CSU+San+Bernardino"
+  },
+  {
+    "id": "as",
+    "campusId": "csusb",
+    "name": "Administrative Services",
+    "abbreviation": "AS",
+    "aliases": [
+      "Administrative Services",
+      "AS"
+    ],
+    "description": "Building providing administrative and support services for campus operations and university departments.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Administrative+Services+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Administrative+Services+CSU+San+Bernardino"
+  },
+  {
+    "id": "av",
+    "campusId": "csusb",
+    "name": "Arrowhead Village Housing",
+    "abbreviation": "AV",
+    "aliases": [
+      "Arrowhead Village Housing",
+      "Arrowhead Village",
+      "AV"
+    ],
+    "description": "On-campus residential village providing apartment-style housing for CSUSB students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Arrowhead+Village+Housing+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Arrowhead+Village+Housing+CSU+San+Bernardino"
+  },
+  {
+    "id": "bi",
+    "campusId": "csusb",
+    "name": "Biological Sciences",
+    "abbreviation": "BI",
+    "aliases": [
+      "Biological Sciences",
+      "BI",
+      "Biology Building"
+    ],
+    "description": "Building housing the biological sciences department with teaching labs, research facilities, and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Biological+Sciences+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Biological+Sciences+CSU+San+Bernardino"
+  },
+  {
+    "id": "bk",
+    "campusId": "csusb",
+    "name": "Coyote Bookstore",
+    "abbreviation": "BK",
+    "aliases": [
+      "Coyote Bookstore",
+      "BK",
+      "Bookstore",
+      "Campus Bookstore"
+    ],
+    "description": "Campus bookstore selling textbooks, course materials, CSUSB merchandise, and student supplies.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Coyote+Bookstore+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Coyote+Bookstore+CSU+San+Bernardino"
+  },
+  {
+    "id": "cc",
+    "campusId": "csusb",
+    "name": "Children's Center",
+    "abbreviation": "CC",
+    "aliases": [
+      "Children's Center",
+      "CC",
+      "Child Care Center"
+    ],
+    "description": "On-campus children's center providing early childhood education and childcare for campus families and students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Childrens+Center+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Childrens+Center+CSU+San+Bernardino"
+  },
+  {
+    "id": "ccd",
+    "campusId": "csusb",
+    "name": "Coyote Commons",
+    "abbreviation": "CCD",
+    "aliases": [
+      "Coyote Commons",
+      "CCD",
+      "Dining Commons"
+    ],
+    "description": "Main campus dining facility offering a variety of meals and dining options for students and the campus community.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Coyote+Commons+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Coyote+Commons+CSU+San+Bernardino"
+  },
+  {
+    "id": "ce",
+    "campusId": "csusb",
+    "name": "College of Education",
+    "abbreviation": "CE",
+    "aliases": [
+      "College of Education",
+      "CE",
+      "Education Building"
+    ],
+    "description": "Building housing the College of Education with classrooms, resource centers, and faculty offices for teacher preparation programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=College+of+Education+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=College+of+Education+CSU+San+Bernardino"
+  },
+  {
+    "id": "ch",
+    "campusId": "csusb",
+    "name": "Chaparral Hall",
+    "abbreviation": "CH",
+    "aliases": [
+      "Chaparral Hall",
+      "CH"
+    ],
+    "description": "Academic hall providing classrooms, labs, and faculty offices for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chaparral+Hall+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Chaparral+Hall+CSU+San+Bernardino"
+  },
+  {
+    "id": "cs",
+    "campusId": "csusb",
+    "name": "Chemical Sciences",
+    "abbreviation": "CS",
+    "aliases": [
+      "Chemical Sciences",
+      "CS",
+      "Chemistry Building"
+    ],
+    "description": "Building housing the chemistry department with teaching labs, research facilities, and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chemical+Sciences+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Chemical+Sciences+CSU+San+Bernardino"
+  },
+  {
+    "id": "cv",
+    "campusId": "csusb",
+    "name": "Coyote Village",
+    "abbreviation": "CV",
+    "aliases": [
+      "Coyote Village",
+      "CV"
+    ],
+    "description": "On-campus residential community providing housing for CSUSB students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Coyote+Village+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Coyote+Village+CSU+San+Bernardino"
+  },
+  {
+    "id": "dd",
+    "campusId": "csusb",
+    "name": "University Center for Developmental Disabilities",
+    "abbreviation": "DD",
+    "aliases": [
+      "University Center for Developmental Disabilities",
+      "DD",
+      "UCDD"
+    ],
+    "description": "Center providing services, research, and training related to developmental disabilities and inclusive education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Center+Developmental+Disabilities+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Center+Developmental+Disabilities+CSU+San+Bernardino"
+  },
+  {
+    "id": "es",
+    "campusId": "csusb",
+    "name": "Environmental Health & Safety",
+    "abbreviation": "ES",
+    "aliases": [
+      "Environmental Health & Safety",
+      "Environmental Health and Safety",
+      "ES",
+      "EHS"
+    ],
+    "description": "Campus environmental health and safety office overseeing regulatory compliance, hazardous materials, and campus safety programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Environmental+Health+Safety+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Environmental+Health+Safety+CSU+San+Bernardino"
+  },
+  {
+    "id": "fm",
+    "campusId": "csusb",
+    "name": "Facilities Planning & Management",
+    "abbreviation": "FM",
+    "aliases": [
+      "Facilities Planning & Management",
+      "Facilities Planning and Management",
+      "FM",
+      "Facilities Management"
+    ],
+    "description": "Campus facilities planning and management office overseeing building maintenance, construction, and campus infrastructure.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Facilities+Planning+Management+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Facilities+Planning+Management+CSU+San+Bernardino"
+  },
+  {
+    "id": "fo",
+    "campusId": "csusb",
+    "name": "Faculty Office Building",
+    "abbreviation": "FO",
+    "aliases": [
+      "Faculty Office Building",
+      "FO",
+      "Faculty Offices"
+    ],
+    "description": "Faculty office building housing academic department offices and faculty workspaces across disciplines.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Faculty+Office+Building+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Faculty+Office+Building+CSU+San+Bernardino"
+  },
+  {
+    "id": "ha",
+    "campusId": "csusb",
+    "name": "HVAC Central Plant",
+    "abbreviation": "HA",
+    "aliases": [
+      "HVAC Central Plant",
+      "HA",
+      "Central Plant"
+    ],
+    "description": "Campus central utility plant providing heating, ventilation, air conditioning, and energy infrastructure for university buildings.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=HVAC+Central+Plant+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=HVAC+Central+Plant+CSU+San+Bernardino"
+  },
+  {
+    "id": "hc",
+    "campusId": "csusb",
+    "name": "Student Health Center",
+    "abbreviation": "HC",
+    "aliases": [
+      "Student Health Center",
+      "HC",
+      "Health Center",
+      "Campus Health"
+    ],
+    "description": "Campus health facility providing medical care, mental health counseling, wellness programs, and student health education.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Health+Center+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Health+Center+CSU+San+Bernardino"
+  },
+  {
+    "id": "hp",
+    "campusId": "csusb",
+    "name": "Health & PE Complex / Coussoulis Arena",
+    "abbreviation": "HP",
+    "aliases": [
+      "Health & PE Complex",
+      "Coussoulis Arena",
+      "HP",
+      "Health and PE Complex"
+    ],
+    "description": "Health and physical education complex featuring Coussoulis Arena for athletics, events, recreation, and kinesiology programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Coussoulis+Arena+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Coussoulis+Arena+CSU+San+Bernardino"
+  },
+  {
+    "id": "ic",
+    "campusId": "csusb",
+    "name": "Information Centers",
+    "abbreviation": "IC",
+    "aliases": [
+      "Information Centers",
+      "IC",
+      "Information Center"
+    ],
+    "description": "Campus information centers providing wayfinding, visitor assistance, and campus information services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Information+Centers+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Information+Centers+CSU+San+Bernardino"
+  },
+  {
+    "id": "jb",
+    "campusId": "csusb",
+    "name": "Jack H. Brown Hall",
+    "abbreviation": "JB",
+    "aliases": [
+      "Jack H. Brown Hall",
+      "JB",
+      "Jack Brown Hall"
+    ],
+    "description": "Named for Jack H. Brown, this hall houses the College of Business and Public Administration with classrooms and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jack+H+Brown+Hall+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Jack+H+Brown+Hall+CSU+San+Bernardino"
+  },
+  {
+    "id": "mc",
+    "campusId": "csusb",
+    "name": "Meeting Center",
+    "abbreviation": "MC",
+    "aliases": [
+      "Meeting Center",
+      "MC"
+    ],
+    "description": "Campus meeting and conference center providing event spaces, meeting rooms, and catering for university functions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Meeting+Center+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Meeting+Center+CSU+San+Bernardino"
+  },
+  {
+    "id": "ob",
+    "campusId": "csusb",
+    "name": "Murillo Family Observatory",
+    "abbreviation": "OB",
+    "aliases": [
+      "Murillo Family Observatory",
+      "OB",
+      "Observatory"
+    ],
+    "description": "Campus observatory named for the Murillo family supporting astronomy education and public stargazing events.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Murillo+Family+Observatory+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Murillo+Family+Observatory+CSU+San+Bernardino"
+  },
+  {
+    "id": "pa",
+    "campusId": "csusb",
+    "name": "Performing Arts / Theatre / Recital Hall",
+    "abbreviation": "PA",
+    "aliases": [
+      "Performing Arts",
+      "Theatre",
+      "Recital Hall",
+      "PA",
+      "Performing Arts Building"
+    ],
+    "description": "Performing arts complex with theatre, recital hall, and performance spaces for music, theatre, and dance programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Performing+Arts+Theatre+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Performing+Arts+Theatre+CSU+San+Bernardino"
+  },
+  {
+    "id": "pe",
+    "campusId": "csusb",
+    "name": "Physical Education",
+    "abbreviation": "PE",
+    "aliases": [
+      "Physical Education",
+      "PE",
+      "PE Building"
+    ],
+    "description": "Physical education building with gyms, courts, and instructional spaces for kinesiology and physical education programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Physical+Education+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Physical+Education+CSU+San+Bernardino"
+  },
+  {
+    "id": "pk1",
+    "campusId": "csusb",
+    "name": "Parking Structure West",
+    "abbreviation": "PK1",
+    "aliases": [
+      "Parking Structure West",
+      "PK1",
+      "West Parking Structure"
+    ],
+    "description": "Multi-level parking structure on the west side of campus for students, faculty, and visitor parking.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Structure+West+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Structure+West+CSU+San+Bernardino"
+  },
+  {
+    "id": "pk2",
+    "campusId": "csusb",
+    "name": "Parking Structure East",
+    "abbreviation": "PK2",
+    "aliases": [
+      "Parking Structure East",
+      "PK2",
+      "East Parking Structure"
+    ],
+    "description": "Multi-level parking structure on the east side of campus for students, faculty, and visitor parking.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Structure+East+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Parking+Structure+East+CSU+San+Bernardino"
+  },
+  {
+    "id": "pl",
+    "campusId": "csusb",
+    "name": "John M. Pfau Library",
+    "abbreviation": "PL",
+    "aliases": [
+      "John M. Pfau Library",
+      "PL",
+      "Pfau Library",
+      "Library",
+      "CSUSB Library"
+    ],
+    "description": "Main campus library named for John M. Pfau providing research resources, study spaces, digital collections, and academic support.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=John+M+Pfau+Library+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=John+M+Pfau+Library+CSU+San+Bernardino"
+  },
+  {
+    "id": "ps",
+    "campusId": "csusb",
+    "name": "Physical Sciences",
+    "abbreviation": "PS",
+    "aliases": [
+      "Physical Sciences",
+      "PS",
+      "Physical Sciences Building"
+    ],
+    "description": "Building housing physics, earth sciences, and related departments with labs, classrooms, and faculty offices.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Physical+Sciences+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Physical+Sciences+CSU+San+Bernardino"
+  },
+  {
+    "id": "pw",
+    "campusId": "csusb",
+    "name": "Plant / Central Warehouse",
+    "abbreviation": "PW",
+    "aliases": [
+      "Plant / Central Warehouse",
+      "Plant",
+      "Central Warehouse",
+      "PW"
+    ],
+    "description": "Campus plant and central warehouse managing facilities supplies, equipment storage, and distribution services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Central+Warehouse+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Central+Warehouse+CSU+San+Bernardino"
+  },
+  {
+    "id": "rf",
+    "campusId": "csusb",
+    "name": "Student Recreation & Wellness Center",
+    "abbreviation": "RF",
+    "aliases": [
+      "Student Recreation & Wellness Center",
+      "Student Recreation and Wellness Center",
+      "RF",
+      "Rec Center",
+      "SRWC"
+    ],
+    "description": "Campus recreation and wellness center with fitness equipment, pools, courts, and wellness programs for students.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Student+Recreation+Wellness+Center+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Student+Recreation+Wellness+Center+CSU+San+Bernardino"
+  },
+  {
+    "id": "sb",
+    "campusId": "csusb",
+    "name": "Social & Behavioral Sciences",
+    "abbreviation": "SB",
+    "aliases": [
+      "Social & Behavioral Sciences",
+      "Social and Behavioral Sciences",
+      "SB"
+    ],
+    "description": "Building housing social and behavioral sciences departments including psychology, sociology, and related fields.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Social+Behavioral+Sciences+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Social+Behavioral+Sciences+CSU+San+Bernardino"
+  },
+  {
+    "id": "sh",
+    "campusId": "csusb",
+    "name": "Sierra Hall",
+    "abbreviation": "SH",
+    "aliases": [
+      "Sierra Hall",
+      "SH"
+    ],
+    "description": "Academic hall providing classrooms, faculty offices, and department spaces for university programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sierra+Hall+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Sierra+Hall+CSU+San+Bernardino"
+  },
+  {
+    "id": "su",
+    "campusId": "csusb",
+    "name": "Santos Manuel Student Union",
+    "abbreviation": "SU",
+    "aliases": [
+      "Santos Manuel Student Union",
+      "SU",
+      "Student Union"
+    ],
+    "description": "Central student union named for Santos Manuel housing dining, student government, clubs, event spaces, and campus life services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Santos+Manuel+Student+Union+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Santos+Manuel+Student+Union+CSU+San+Bernardino"
+  },
+  {
+    "id": "sv",
+    "campusId": "csusb",
+    "name": "Serrano Village",
+    "abbreviation": "SV",
+    "aliases": [
+      "Serrano Village",
+      "SV"
+    ],
+    "description": "On-campus residential village providing housing for CSUSB students with community amenities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Serrano+Village+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Serrano+Village+CSU+San+Bernardino"
+  },
+  {
+    "id": "tc",
+    "campusId": "csusb",
+    "name": "Temporary Classrooms",
+    "abbreviation": "TC",
+    "aliases": [
+      "Temporary Classrooms",
+      "TC",
+      "Temp Classrooms"
+    ],
+    "description": "Temporary classroom facilities providing additional instructional space during campus construction or peak enrollment.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Temporary+Classrooms+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Temporary+Classrooms+CSU+San+Bernardino"
+  },
+  {
+    "id": "tk",
+    "campusId": "csusb",
+    "name": "Temporary Kinesiology Annex",
+    "abbreviation": "TK",
+    "aliases": [
+      "Temporary Kinesiology Annex",
+      "TK",
+      "Kinesiology Annex"
+    ],
+    "description": "Temporary annex providing additional space for kinesiology classes and activities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Temporary+Kinesiology+Annex+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Temporary+Kinesiology+Annex+CSU+San+Bernardino"
+  },
+  {
+    "id": "to",
+    "campusId": "csusb",
+    "name": "Temporary Offices",
+    "abbreviation": "TO",
+    "aliases": [
+      "Temporary Offices",
+      "TO",
+      "Temp Offices"
+    ],
+    "description": "Temporary office facilities providing workspace for university departments during transitions or construction.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Temporary+Offices+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Temporary+Offices+CSU+San+Bernardino"
+  },
+  {
+    "id": "ue",
+    "campusId": "csusb",
+    "name": "University Enterprises",
+    "abbreviation": "UE",
+    "aliases": [
+      "University Enterprises",
+      "UE"
+    ],
+    "description": "Building housing University Enterprises, the campus auxiliary organization supporting sponsored programs and student services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Enterprises+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Enterprises+CSU+San+Bernardino"
+  },
+  {
+    "id": "uh",
+    "campusId": "csusb",
+    "name": "University Hall",
+    "abbreviation": "UH",
+    "aliases": [
+      "University Hall",
+      "UH"
+    ],
+    "description": "University hall providing academic classrooms, offices, and instructional spaces for campus programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Hall+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Hall+CSU+San+Bernardino"
+  },
+  {
+    "id": "up",
+    "campusId": "csusb",
+    "name": "University Police",
+    "abbreviation": "UP",
+    "aliases": [
+      "University Police",
+      "UP",
+      "Campus Police"
+    ],
+    "description": "University Police Department providing law enforcement, emergency response, and campus safety services.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Police+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Police+CSU+San+Bernardino"
+  },
+  {
+    "id": "uv",
+    "campusId": "csusb",
+    "name": "University Village",
+    "abbreviation": "UV",
+    "aliases": [
+      "University Village",
+      "UV"
+    ],
+    "description": "On-campus residential village community providing student housing with full amenities.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=University+Village+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=University+Village+CSU+San+Bernardino"
+  },
+  {
+    "id": "va",
+    "campusId": "csusb",
+    "name": "Visual Arts Center / Robert & Frances Fullerton Museum of Art",
+    "abbreviation": "VA",
+    "aliases": [
+      "Visual Arts Center",
+      "Robert & Frances Fullerton Museum of Art",
+      "Fullerton Museum of Art",
+      "VA",
+      "RAFFMA"
+    ],
+    "description": "Visual arts center and home of the Robert and Frances Fullerton Museum of Art featuring galleries, studios, and art exhibitions.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Visual+Arts+Center+Fullerton+Museum+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Visual+Arts+Center+Fullerton+Museum+CSU+San+Bernardino"
+  },
+  {
+    "id": "yc",
+    "campusId": "csusb",
+    "name": "Yasuda Center for Extended Learning",
+    "abbreviation": "YC",
+    "aliases": [
+      "Yasuda Center for Extended Learning",
+      "YC",
+      "Extended Learning",
+      "Yasuda Center"
+    ],
+    "description": "Center for extended learning named for Yasuda offering professional development, certificates, and continuing education programs.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Yasuda+Center+Extended+Learning+CSU+San+Bernardino",
+    "appleMapsUrl": "http://maps.apple.com/?q=Yasuda+Center+Extended+Learning+CSU+San+Bernardino"
+  }
+]

@@ -16,7 +16,7 @@ export function CampusCard({ campus }: CampusCardProps) {
   const href = campus.isAvailable ? `/campus/${campus.id}` : `/campus/${campus.id}/coming-soon`;
 
   return (
-    <Link href={href} className="group block">
+    <Link href={href} className="group block" aria-label={`Navigate to ${campus.name}`}>
       <Card className="relative overflow-hidden rounded-lg shadow-lg transition-all duration-300 ease-in-out hover:shadow-2xl hover:-translate-y-1">
         <div className="absolute inset-0">
           {placeholderImage && (
@@ -45,7 +45,7 @@ export function CampusCard({ campus }: CampusCardProps) {
             </div>
           </div>
           
-          <div className="absolute bottom-6 right-6 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+          <div className="absolute bottom-6 right-6 opacity-0 group-hover:opacity-100 transition-opacity duration-300" aria-hidden="true">
              <div className="w-10 h-10 bg-primary rounded-full flex items-center justify-center text-primary-foreground">
                 <ArrowRight className="w-5 h-5" />
              </div>
