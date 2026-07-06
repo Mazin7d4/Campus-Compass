@@ -28,7 +28,7 @@ export default async function BuildingPage({ params }: BuildingPageProps) {
   const building = await getBuildingById(params.campusId, params.buildingId);
 
   return (
-    <main id="main-content" className="container mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <main id="main-content" className="container mx-auto app-safe-x py-12">
       <div className="max-w-2xl mx-auto">
         <div className="text-center mb-8">
           <p className="text-sm font-mono bg-muted text-muted-foreground rounded-sm px-2 py-1 inline-block mb-2">

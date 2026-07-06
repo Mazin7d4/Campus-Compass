@@ -18,7 +18,7 @@ export default async function CampusPage({ params }: CampusPageProps) {
   const buildings = await getBuildingsByCampusId(params.campusId);
 
   return (
-    <main id="main-content" className="container mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <main id="main-content" className="container mx-auto app-safe-x py-8">
       <BuildingList buildings={buildings} campusId={params.campusId} />
     </main>
   );

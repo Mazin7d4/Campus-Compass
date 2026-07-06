@@ -1,7 +1,7 @@
 import type { CapacitorConfig } from "@capacitor/cli";
 
 const config: CapacitorConfig = {
-  appId: "edu.csus.campuscompass",
+  appId: "com.Arash.CampusCompass",
   appName: "Campus Compass",
   webDir: "out",
 };

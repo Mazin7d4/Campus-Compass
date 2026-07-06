@@ -8,6 +8,10 @@ body {
 
 @layer base {
   :root {
+    --safe-area-top: env(safe-area-inset-top, 0px);
+    --safe-area-right: env(safe-area-inset-right, 0px);
+    --safe-area-bottom: env(safe-area-inset-bottom, 0px);
+    --safe-area-left: env(safe-area-inset-left, 0px);
     --background: 0 0% 96.1%; /* #f5f5f5 */
     --foreground: 0 0% 3.9%;
     --card: 0 0% 100%;
@@ -82,7 +86,69 @@ body {
   * {
     @apply border-border;
   }
+  html {
+    @apply bg-background;
+  }
   body {
     @apply bg-background text-foreground;
+  }
+}
+
+@layer utilities {
+  .app-safe-x {
+    padding-left: max(1rem, var(--safe-area-left));
+    padding-right: max(1rem, var(--safe-area-right));
+  }
+
+  .app-safe-page {
+    padding-top: max(1rem, var(--safe-area-top));
+    padding-right: max(1rem, var(--safe-area-right));
+    padding-bottom: max(1rem, var(--safe-area-bottom));
+    padding-left: max(1rem, var(--safe-area-left));
+  }
+
+  .app-safe-top {
+    padding-top: var(--safe-area-top);
+  }
+
+  .app-safe-bottom {
+    padding-bottom: max(2rem, var(--safe-area-bottom));
+  }
+
+  .app-toast-viewport-safe {
+    padding-top: calc(1rem + var(--safe-area-top));
+  }
+
+  .tap-target {
+    min-height: 44px;
+    min-width: 44px;
+  }
+
+  @media (min-width: 640px) {
+    .app-safe-x {
+      padding-left: max(1.5rem, var(--safe-area-left));
+      padding-right: max(1.5rem, var(--safe-area-right));
+    }
+
+    .app-safe-page {
+      padding-top: max(2rem, var(--safe-area-top));
+      padding-right: max(2rem, var(--safe-area-right));
+      padding-bottom: max(2rem, var(--safe-area-bottom));
+      padding-left: max(2rem, var(--safe-area-left));
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .app-safe-x {
+      padding-left: max(2rem, var(--safe-area-left));
+      padding-right: max(2rem, var(--safe-area-right));
+    }
+
+    .app-safe-page {
+      padding-top: max(3rem, var(--safe-area-top));
+      padding-right: max(3rem, var(--safe-area-right));
+      padding-bottom: max(3rem, var(--safe-area-bottom));
+      padding-left: max(3rem, var(--safe-area-left));
+    }
   }
 }
