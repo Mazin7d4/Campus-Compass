@@ -22,8 +22,13 @@ export default function CampusBackButton({ campusId }: { campusId: string }) {
   };
 
   return (
-    <Button variant="outline" size="sm" onClick={handleClick}>
-      <ChevronLeft className="mr-2 h-4 w-4" />
+    <Button
+      variant="outline"
+      size="sm"
+      className="tap-target shrink-0 px-3"
+      onClick={handleClick}
+    >
+      <ChevronLeft className="h-4 w-4" />
       {onCampusRoot ? "Change Campus" : "Back"}
     </Button>
   );

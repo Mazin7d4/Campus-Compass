@@ -190,14 +190,24 @@
     "appleMapsUrl": "http://maps.apple.com/?q=Calaveras%20Hall%20CSUS"
   },
   {
-    "id": "cpr",
+    "id": "cps",
     "campusId": "csus",
     "name": "Capistrano Hall",
-    "abbreviation": "CPR",
-    "aliases": ["CPR"],
+    "abbreviation": "CPS",
+    "aliases": ["CPS", "Capistrano"],
     "description": "Campus facility.",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Capistrano%20Hall%20CSUS",
     "appleMapsUrl": "http://maps.apple.com/?q=Capistrano%20Hall%20CSUS"
+  },
+  {
+    "id": "cpr",
+    "campusId": "csus",
+    "name": "Capital Public Radio",
+    "abbreviation": "CPR",
+    "aliases": ["CPR", "Capital Public Radio", "CapRadio", "KXJZ", "KXPR"],
+    "description": "Sac State's public radio facility, also known as CapRadio.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Capital%20Public%20Radio%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Capital%20Public%20Radio%20CSUS"
   },
   {
     "id": "dc",
@@ -248,6 +258,26 @@
     "description": "Campus facility.",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Eureka%20Hall%20CSUS",
     "appleMapsUrl": "http://maps.apple.com/?q=Eureka%20Hall%20CSUS"
+  },
+  {
+    "id": "fls",
+    "campusId": "csus",
+    "name": "Folsom Hall",
+    "abbreviation": "FLS",
+    "aliases": ["FLS", "Folsom", "Folsom Hall", "7667 Folsom"],
+    "description": "Campus facility located at 7667 Folsom Boulevard.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Folsom%20Hall%207667%20Folsom%20Blvd%20Sacramento%20State",
+    "appleMapsUrl": "http://maps.apple.com/?q=Folsom%20Hall%207667%20Folsom%20Blvd%20Sacramento%20State"
+  },
+  {
+    "id": "mdc",
+    "campusId": "csus",
+    "name": "Modoc Hall",
+    "abbreviation": "MDC",
+    "aliases": ["MDC", "Modoc", "Modoc Hall"],
+    "description": "Campus facility.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Modoc%20Hall%20CSUS",
+    "appleMapsUrl": "http://maps.apple.com/?q=Modoc%20Hall%20CSUS"
   },
   {
     "id": "psb",

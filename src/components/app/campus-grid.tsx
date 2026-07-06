@@ -11,20 +11,45 @@ type CampusGridProps = {
   campuses: Campus[];
 };
 
+const normalizeSearchText = (value: string) =>
+  value
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+
+const getCampusSearchText = (campus: Campus) =>
+  normalizeSearchText(
+    [
+      campus.id,
+      campus.name,
+      campus.shortName,
+      campus.city,
+      campus.city.replace(/,\s*CA$/i, ""),
+    ].join(" ")
+  );
+
+const campusMatchesQuery = (campus: Campus, query: string) => {
+  const terms = normalizeSearchText(query).split(/\s+/).filter(Boolean);
+
+  if (terms.length === 0) {
+    return true;
+  }
+
+  const searchText = getCampusSearchText(campus);
+  return terms.every((term) => searchText.includes(term));
+};
+
 export function CampusGrid({ campuses }: CampusGridProps) {
   const [query, setQuery] = useState("");
   const { recentIds, isHydrated } = useRecentCampuses();
 
   const { recents, others, searchResults } = useMemo(() => {
-    const q = query.trim().toLowerCase();
+    const q = query.trim();
 
     if (q) {
-      const filtered = campuses.filter(
-        (c) =>
-          c.name.toLowerCase().includes(q) ||
-          c.shortName.toLowerCase().includes(q) ||
-          c.city.toLowerCase().includes(q)
-      );
+      const filtered = campuses.filter((campus) => campusMatchesQuery(campus, q));
       // Float recently visited matches to the top
       const recentSet = new Set(recentIds);
       const top = filtered.filter((c) => recentSet.has(c.id));

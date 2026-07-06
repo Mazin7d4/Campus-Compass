@@ -1,6 +1,4 @@
 import { getCampusById } from "@/app/lib/data";
-import { Button } from "@/components/ui/button";
-import { ChevronLeft } from "lucide-react";
 import CampusBackButton from "@/components/app/campus-back-button";
 import { CampusTracker } from "@/components/app/campus-tracker";
 
@@ -14,13 +12,13 @@ export default async function CampusLayout({
   const campus = await getCampusById(params.campusId);
 
   return (
-    <div className="flex flex-col min-h-screen">
-      <header className="sticky top-0 z-10 w-full bg-background/80 backdrop-blur-sm border-b">
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex h-16 items-center justify-between">
-            <div className="flex items-center gap-4">
+    <div className="flex min-h-svh flex-col">
+      <header className="app-safe-top sticky top-0 z-10 w-full border-b bg-background/90 backdrop-blur-sm">
+        <div className="container mx-auto app-safe-x">
+          <div className="flex min-h-16 items-center justify-between py-2">
+            <div className="flex min-w-0 items-center gap-3">
               <CampusBackButton campusId={params.campusId} />
-              <h1 className="font-headline text-xl font-bold">
+              <h1 className="min-w-0 truncate font-headline text-xl font-bold">
                 {campus.shortName}
               </h1>
             </div>
@@ -29,7 +27,7 @@ export default async function CampusLayout({
       </header>
 
       <CampusTracker campusId={params.campusId} />
-      <main className="flex-1">{children}</main>
+      <div className="app-safe-bottom flex-1">{children}</div>
     </div>
   );
 }
