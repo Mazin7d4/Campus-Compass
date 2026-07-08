@@ -1,0 +1,16 @@
+{
+  "generatedAt": "2026-07-08T14:57:52.520Z",
+  "device": "iPhone mobile viewport (428x926 CSS @ 3x)",
+  "cssViewport": "428x926",
+  "deviceScaleFactor": 3,
+  "outputDimensions": "1284x2778",
+  "usage": "App Store Connect iPhone 6.5 inch display and GitHub README",
+  "files": [
+    {
+      "file": "04-library.png",
+      "title": "University Library building page",
+      "cssViewport": "428x926",
+      "outputSize": "1284x2778"
+    }
+  ]
+}
