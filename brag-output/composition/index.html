@@ -1,0 +1,539 @@
+<!doctype html>
+<html lang="en" data-resolution="landscape">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <title>Campus Compass — Low Vision Brag</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&family=PT+Sans:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <script src="assets/audio-data.js"></script>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        margin: 0;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        background: #000;
+      }
+      #root {
+        position: relative;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        background: #18181b;
+        color: #fafafa;
+        font-family: "PT Sans", sans-serif;
+      }
+      .scene-bg {
+        position: absolute;
+        inset: 0;
+        background:
+          radial-gradient(ellipse 80% 60% at 50% 40%, rgba(107, 127, 215, 0.18), transparent 65%),
+          radial-gradient(ellipse 50% 40% at 80% 80%, rgba(255, 193, 7, 0.08), transparent 55%),
+          #18181b;
+      }
+      .glow {
+        position: absolute;
+        left: 50%;
+        top: 42%;
+        width: 720px;
+        height: 420px;
+        transform: translate(-50%, -50%);
+        border-radius: 50%;
+        background: radial-gradient(circle, rgba(107, 127, 215, 0.35), transparent 70%);
+        filter: blur(40px);
+        pointer-events: none;
+      }
+      .clip {
+        position: absolute;
+        inset: 0;
+        display: grid;
+        place-items: center;
+        padding: 80px 120px;
+      }
+      .headline {
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-size: 72px;
+        line-height: 1.12;
+        letter-spacing: -0.02em;
+        text-align: center;
+        max-width: 1500px;
+      }
+      .subhead {
+        font-family: "PT Sans", sans-serif;
+        font-size: 34px;
+        line-height: 1.35;
+        color: #e8e8ec;
+        text-align: center;
+        margin-top: 28px;
+        max-width: 1100px;
+      }
+      .brand {
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-size: 96px;
+        letter-spacing: -0.03em;
+        text-align: center;
+      }
+      .accent-line {
+        width: 120px;
+        height: 6px;
+        background: #ffc107;
+        border-radius: 999px;
+        margin: 28px auto 0;
+      }
+      .count-wrap {
+        display: flex;
+        align-items: baseline;
+        justify-content: center;
+        gap: 18px;
+        margin-top: 40px;
+      }
+      .count {
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-size: 88px;
+        color: #ffc107;
+      }
+      .count-label {
+        font-size: 32px;
+        color: #e4e4e7;
+      }
+      .phone {
+        width: 560px;
+        background: #1f1f24;
+        border: 1px solid rgba(255, 255, 255, 0.32);
+        border-radius: 28px;
+        padding: 36px 32px;
+        box-shadow: 0 30px 80px rgba(0, 0, 0, 0.45);
+      }
+      .search {
+        display: flex;
+        align-items: center;
+        gap: 14px;
+        height: 64px;
+        padding: 0 20px;
+        border-radius: 14px;
+        background: #2a2a31;
+        border: 1px solid rgba(255, 255, 255, 0.32);
+        font-size: 26px;
+        color: #fafafa;
+      }
+      .search-icon {
+        width: 22px;
+        height: 22px;
+        border: 2.5px solid #c8c8d0;
+        border-radius: 50%;
+        position: relative;
+        flex-shrink: 0;
+      }
+      .search-icon::after {
+        content: "";
+        position: absolute;
+        width: 10px;
+        height: 2.5px;
+        background: #c8c8d0;
+        right: -8px;
+        bottom: -4px;
+        transform: rotate(45deg);
+        border-radius: 2px;
+      }
+      .cursor {
+        display: inline-block;
+        width: 2px;
+        height: 1.1em;
+        background: #ffc107;
+        margin-left: 2px;
+        vertical-align: -0.1em;
+      }
+      .live {
+        margin-top: 18px;
+        font-size: 20px;
+        color: #d4d4d8;
+        letter-spacing: 0.02em;
+      }
+      .building-card {
+        margin-top: 22px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 20px;
+        padding: 22px 24px;
+        border-radius: 16px;
+        background: #25252c;
+        border: 1px solid #8b9be8;
+      }
+      .building-name {
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-size: 28px;
+        color: #fafafa;
+      }
+      .badge {
+        font-family: ui-monospace, monospace;
+        font-size: 18px;
+        padding: 8px 12px;
+        border-radius: 6px;
+        background: #2e2e36;
+        color: #f4f4f5;
+      }
+      .benefits {
+        display: flex;
+        flex-direction: column;
+        gap: 18px;
+        margin-bottom: 36px;
+        width: 900px;
+      }
+      .benefit {
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-size: 36px;
+        padding: 22px 28px;
+        border-radius: 16px;
+        color: #fafafa;
+        background: rgba(255, 255, 255, 0.06);
+        border: 1px solid rgba(255, 255, 255, 0.32);
+      }
+      .nav-btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 14px;
+        height: 84px;
+        min-width: 360px;
+        padding: 0 40px;
+        border-radius: 16px;
+        background: #3f51b5;
+        color: #ffffff;
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-size: 34px;
+        box-shadow: 0 16px 40px rgba(63, 81, 181, 0.45);
+      }
+      .nav-icon {
+        width: 28px;
+        height: 28px;
+        border: 3px solid currentColor;
+        border-radius: 50% 50% 50% 0;
+        transform: rotate(-45deg);
+        position: relative;
+      }
+      .nav-icon::after {
+        content: "";
+        position: absolute;
+        inset: 6px;
+        border-radius: 50%;
+        background: currentColor;
+      }
+      .stack {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      .chips {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+        max-width: 980px;
+        margin-top: 36px;
+      }
+      .chip {
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-size: 18px;
+        padding: 10px 16px;
+        border-radius: 999px;
+        background: rgba(63, 81, 181, 0.35);
+        border: 1px solid #9aacf0;
+        color: #f0f2ff;
+      }
+    </style>
+  </head>
+  <body>
+    <div
+      id="root"
+      data-composition-id="main"
+      data-start="0"
+      data-duration="22"
+      data-width="1920"
+      data-height="1080"
+    >
+      <div id="scene-1" class="clip" data-start="0" data-duration="3.2" data-track-index="1">
+        <div class="scene-bg"></div>
+        <div id="glow-1" class="glow"></div>
+        <div class="stack">
+          <h1 id="hook-line" class="headline">Campus maps assume you can see them.</h1>
+        </div>
+      </div>
+
+      <div id="scene-2" class="clip" data-start="3.2" data-duration="3.8" data-track-index="1">
+        <div class="scene-bg"></div>
+        <div id="glow-2" class="glow"></div>
+        <div class="stack">
+          <h1 id="brand-title" class="brand">Campus Compass</h1>
+          <p id="brand-sub" class="subhead">Find buildings by name — across all 23 CSU campuses.</p>
+          <div id="count-wrap" class="count-wrap">
+            <span id="count-num" class="count">23</span>
+            <span class="count-label">CSU campuses</span>
+          </div>
+          <div id="chips" class="chips">
+            <span class="chip">CSUS</span>
+            <span class="chip">SJSU</span>
+            <span class="chip">CSULB</span>
+            <span class="chip">Cal Poly</span>
+            <span class="chip">Fresno State</span>
+            <span class="chip">CSUF</span>
+            <span class="chip">+17 more</span>
+          </div>
+        </div>
+      </div>
+
+      <div id="scene-3" class="clip" data-start="7.0" data-duration="5.5" data-track-index="1">
+        <div class="scene-bg"></div>
+        <div id="glow-3" class="glow"></div>
+        <div class="stack">
+          <p id="flow-label" class="subhead" style="margin-bottom: 28px; margin-top: 0">
+            Search by name or abbreviation — not by map reading.
+          </p>
+          <div id="phone-ui" class="phone">
+            <div class="search" aria-hidden="true">
+              <span class="search-icon"></span>
+              <span id="typed-query"></span><span id="type-cursor" class="cursor"></span>
+            </div>
+            <div id="live-region" class="live">1 building found</div>
+            <div id="building-card" class="building-card">
+              <span class="building-name">River Front Center</span>
+              <span class="badge">RVR</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="scene-4" class="clip" data-start="12.5" data-duration="5.0" data-track-index="1">
+        <div class="scene-bg"></div>
+        <div id="glow-4" class="glow"></div>
+        <div class="stack">
+          <div class="benefits">
+            <div id="benefit-1" class="benefit">Large tap targets</div>
+            <div id="benefit-2" class="benefit">Screen-reader labels &amp; live search</div>
+            <div id="benefit-3" class="benefit">Hands off to Apple Maps &amp; Google Maps</div>
+          </div>
+          <div id="nav-btn" class="nav-btn">
+            <span class="nav-icon" aria-hidden="true"></span>
+            Navigate
+          </div>
+        </div>
+      </div>
+
+      <div id="scene-5" class="clip" data-start="17.5" data-duration="4.5" data-track-index="1">
+        <div class="scene-bg"></div>
+        <div id="glow-5" class="glow"></div>
+        <div class="stack">
+          <h1 id="outro-brand" class="brand">Campus Compass</h1>
+          <div id="outro-line" class="accent-line"></div>
+          <p id="outro-tag" class="subhead">Every CSU campus. Built to be found.</p>
+        </div>
+      </div>
+
+      <audio
+        id="bg-music"
+        data-start="0"
+        data-duration="22"
+        data-track-index="10"
+        data-volume="0.28"
+        src="assets/music/happy-beats-business-moves-vol-12-by-ende-dot-app.mp3"
+      ></audio>
+      <audio
+        id="sfx-hook"
+        data-start="0.45"
+        data-duration="1.2"
+        data-track-index="11"
+        data-volume="0.55"
+        src="assets/sfx/interface/drop_001.ogg"
+      ></audio>
+      <audio
+        id="sfx-reveal"
+        data-start="3.35"
+        data-duration="1.2"
+        data-track-index="12"
+        data-volume="0.6"
+        src="assets/sfx/impact/impactSoft_medium_001.ogg"
+      ></audio>
+      <audio
+        id="sfx-count"
+        data-start="4.85"
+        data-duration="1"
+        data-track-index="13"
+        data-volume="0.5"
+        src="assets/sfx/interface/drop_002.ogg"
+      ></audio>
+      <audio
+        id="sfx-card"
+        data-start="9.85"
+        data-duration="1"
+        data-track-index="14"
+        data-volume="0.65"
+        src="assets/sfx/interface/drop_001.ogg"
+      ></audio>
+      <audio
+        id="sfx-b1"
+        data-start="12.85"
+        data-duration="0.8"
+        data-track-index="15"
+        data-volume="0.5"
+        src="assets/sfx/interface/drop_002.ogg"
+      ></audio>
+      <audio
+        id="sfx-b2"
+        data-start="13.85"
+        data-duration="0.8"
+        data-track-index="16"
+        data-volume="0.5"
+        src="assets/sfx/interface/drop_001.ogg"
+      ></audio>
+      <audio
+        id="sfx-b3"
+        data-start="14.85"
+        data-duration="0.8"
+        data-track-index="17"
+        data-volume="0.5"
+        src="assets/sfx/interface/drop_002.ogg"
+      ></audio>
+      <audio
+        id="sfx-click"
+        data-start="16.05"
+        data-duration="0.6"
+        data-track-index="18"
+        data-volume="0.7"
+        src="assets/sfx/ui/mouseclick1.ogg"
+      ></audio>
+      <audio
+        id="sfx-logo"
+        data-start="17.6"
+        data-duration="1.5"
+        data-track-index="19"
+        data-volume="0.55"
+        src="assets/sfx/interface/bong_001.ogg"
+      ></audio>
+    </div>
+
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+
+      // Initial hidden states for animated elements (non-clip wrappers/children only)
+      gsap.set("#hook-line", { opacity: 0, y: 36 });
+      gsap.set("#brand-title", { opacity: 0, y: 28, scale: 0.96 });
+      gsap.set("#brand-sub", { opacity: 0, y: 18 });
+      gsap.set("#count-wrap", { opacity: 0, y: 16 });
+      gsap.set("#chips .chip", { opacity: 0, y: 12 });
+      gsap.set("#flow-label", { opacity: 0, y: 16 });
+      gsap.set("#phone-ui", { opacity: 0, y: 24 });
+      gsap.set("#live-region", { opacity: 0 });
+      gsap.set("#building-card", { opacity: 0, y: 18 });
+      gsap.set("#type-cursor", { opacity: 0 });
+      gsap.set(["#benefit-1", "#benefit-2", "#benefit-3"], { opacity: 0, x: -24 });
+      gsap.set("#nav-btn", { opacity: 0, scale: 0.94 });
+      gsap.set("#outro-brand", { opacity: 0, y: 24 });
+      gsap.set("#outro-line", { opacity: 0, scaleX: 0 });
+      gsap.set("#outro-tag", { opacity: 0, y: 14 });
+
+      // Scene 1 — Hook (beat ~0.56)
+      tl.to("#hook-line", { opacity: 1, y: 0, duration: 0.7, ease: "power3.out" }, 0.5);
+
+      // Scene 2 — Reveal (absolute times)
+      // beat-locked: 3.27s brand title near beat 3.27
+      tl.to("#brand-title", { opacity: 1, y: 0, scale: 1, duration: 0.65, ease: "power3.out" }, 3.3);
+      tl.to("#brand-sub", { opacity: 1, y: 0, duration: 0.55, ease: "power2.out" }, 3.85);
+      // beat-locked: 4.91 count
+      tl.to("#count-wrap", { opacity: 1, y: 0, duration: 0.5, ease: "power2.out" }, 4.85);
+      // beat-grid: chips staggered near 5.34, 6.00, 6.56
+      tl.to(
+        "#chips .chip",
+        { opacity: 1, y: 0, duration: 0.35, stagger: 0.08, ease: "power2.out" },
+        5.3
+      );
+
+      // Scene 3 — Search flow
+      tl.to("#flow-label", { opacity: 1, y: 0, duration: 0.45, ease: "power2.out" }, 7.15);
+      tl.to("#phone-ui", { opacity: 1, y: 0, duration: 0.55, ease: "power3.out" }, 7.35);
+      tl.to("#type-cursor", { opacity: 1, duration: 0.1 }, 7.7);
+
+      const query = "RVR";
+      const typedEl = document.getElementById("typed-query");
+      for (let i = 0; i < query.length; i++) {
+        const t = 8.0 + i * 0.22;
+        tl.call(
+          (function (n) {
+            return function () {
+              typedEl.textContent = query.slice(0, n);
+            };
+          })(i + 1),
+          [],
+          t
+        );
+      }
+      // beat-locked: 8.74 result card
+      tl.to("#live-region", { opacity: 1, duration: 0.3 }, 9.7);
+      tl.to("#building-card", { opacity: 1, y: 0, duration: 0.5, ease: "power3.out" }, 9.85);
+      tl.to("#type-cursor", { opacity: 0, duration: 0.15 }, 10.2);
+
+      // Scene 4 — Navigate / a11y
+      // beat-locked: 13.11 mid benefits
+      tl.to("#benefit-1", { opacity: 1, x: 0, duration: 0.45, ease: "power2.out" }, 12.85);
+      tl.to("#benefit-2", { opacity: 1, x: 0, duration: 0.45, ease: "power2.out" }, 13.85);
+      tl.to("#benefit-3", { opacity: 1, x: 0, duration: 0.45, ease: "power2.out" }, 14.85);
+      tl.to("#nav-btn", { opacity: 1, scale: 1, duration: 0.4, ease: "back.out(1.4)" }, 15.5);
+      // tap pulse after entrance settles
+      tl.to("#nav-btn", { scale: 0.96, duration: 0.08, yoyo: true, repeat: 1, ease: "power1.inOut", overwrite: "auto" }, 16.05);
+
+      // Scene 5 — Outro
+      // beat-locked: 17.47 logo
+      tl.to("#outro-brand", { opacity: 1, y: 0, duration: 0.65, ease: "power3.out" }, 17.55);
+      tl.to("#outro-line", { opacity: 1, scaleX: 1, duration: 0.4, ease: "power2.out" }, 18.05);
+      tl.to("#outro-tag", { opacity: 1, y: 0, duration: 0.5, ease: "power2.out" }, 18.35);
+
+      // Music fade under final logo
+      const music = document.getElementById("bg-music");
+      if (music) {
+        tl.to(music, { volume: 0.12, duration: 2.2, ease: "power1.out" }, 19.5);
+      }
+
+      // Subtle audio-reactive glow (bass = bands[0]) — local pre-extracted data
+      if (window.AUDIO_DATA && window.AUDIO_DATA.frames) {
+        var AUDIO_DATA = window.AUDIO_DATA;
+        var glows = ["#glow-1", "#glow-2", "#glow-3", "#glow-4", "#glow-5"];
+        var maxFrames = Math.min(AUDIO_DATA.totalFrames, Math.ceil(22 * AUDIO_DATA.fps));
+        for (var f = 0; f < maxFrames; f++) {
+          tl.call(
+            (function (frame) {
+              return function () {
+                var bass = (frame.bands && frame.bands[0]) || 0;
+                var scale = 1 + bass * 0.08;
+                var opacity = 0.45 + bass * 0.4;
+                gsap.set(glows, { scale: scale, opacity: opacity });
+              };
+            })(AUDIO_DATA.frames[f]),
+            [],
+            f / AUDIO_DATA.fps
+          );
+        }
+      }
+
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>
