@@ -5,7 +5,7 @@ import type { Campus } from "@/app/lib/definitions";
 import { useRecentCampuses } from "@/hooks/use-recent-campuses";
 import { CampusCard } from "@/components/app/campus-card";
 import { Input } from "@/components/ui/input";
-import { Search } from "lucide-react";
+import { Search, X } from "lucide-react";
 
 type CampusGridProps = {
   campuses: Campus[];
@@ -79,11 +79,21 @@ export function CampusGrid({ campuses }: CampusGridProps) {
         <Input
           type="search"
           placeholder="Search campuses by name, abbreviation, or city..."
-          className="pl-10 h-12 text-base rounded-lg"
+          className="pl-10 pr-10 h-12 text-base rounded-lg [&::-webkit-search-cancel-button]:appearance-none"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           aria-label="Search campuses"
         />
+        {query && (
+          <button
+            type="button"
+            onClick={() => setQuery("")}
+            className="absolute right-3 top-1/2 -translate-y-1/2 rounded-full p-1 text-muted-foreground hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring transition-colors"
+            aria-label="Clear search"
+          >
+            <X className="h-4 w-4" aria-hidden="true" />
+          </button>
+        )}
       </div>
 
       {query ? (
