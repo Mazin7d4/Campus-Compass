@@ -7,9 +7,10 @@ export default async function CampusLayout({
   params,
 }: {
   children: React.ReactNode;
-  params: { campusId: string };
+  params: Promise<{ campusId: string }>;
 }) {
-  const campus = await getCampusById(params.campusId);
+  const { campusId } = await params;
+  const campus = await getCampusById(campusId);
 
   return (
     <div className="flex min-h-svh flex-col">
@@ -17,7 +18,7 @@ export default async function CampusLayout({
         <div className="container mx-auto app-safe-x">
           <div className="flex min-h-16 items-center justify-between py-2">
             <div className="flex min-w-0 items-center gap-3">
-              <CampusBackButton campusId={params.campusId} />
+              <CampusBackButton campusId={campusId} />
               <h1 className="min-w-0 truncate font-headline text-xl font-bold">
                 {campus.shortName}
               </h1>
@@ -26,7 +27,7 @@ export default async function CampusLayout({
         </div>
       </header>
 
-      <CampusTracker campusId={params.campusId} />
+      <CampusTracker campusId={campusId} />
       <div className="app-safe-bottom flex-1">{children}</div>
     </div>
   );

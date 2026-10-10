@@ -9,17 +9,18 @@ export async function generateStaticParams() {
 }
 
 type CampusPageProps = {
-  params: {
+  params: Promise<{
     campusId: string;
-  };
+  }>;
 };
 
 export default async function CampusPage({ params }: CampusPageProps) {
-  const buildings = await getBuildingsByCampusId(params.campusId);
+  const { campusId } = await params;
+  const buildings = await getBuildingsByCampusId(campusId);
 
   return (
     <main id="main-content" className="container mx-auto app-safe-x py-8">
-      <BuildingList buildings={buildings} campusId={params.campusId} />
+      <BuildingList buildings={buildings} campusId={campusId} />
     </main>
   );
 }
