@@ -18,14 +18,15 @@ export async function generateStaticParams() {
 }
 
 type BuildingPageProps = {
-  params: {
+  params: Promise<{
     campusId: string;
     buildingId: string;
-  };
+  }>;
 };
 
 export default async function BuildingPage({ params }: BuildingPageProps) {
-  const building = await getBuildingById(params.campusId, params.buildingId);
+  const { campusId, buildingId } = await params;
+  const building = await getBuildingById(campusId, buildingId);
 
   return (
     <main id="main-content" className="container mx-auto app-safe-x py-12">

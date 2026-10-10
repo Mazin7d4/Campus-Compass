@@ -1,9 +1,9 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import type { Building } from "@/lib/definitions";
+import type { Building } from "@/app/lib/definitions";
 import { Input } from "@/components/ui/input";
-import { Search, Building as BuildingIcon } from "lucide-react";
+import { Search, Building as BuildingIcon, X } from "lucide-react";
 import Link from "next/link";
 import { EmptyState } from "./empty-state";
 
@@ -23,7 +23,7 @@ export function BuildingList({ buildings, campusId }: BuildingListProps) {
       (building) =>
         building.name.toLowerCase().includes(lowercasedQuery) ||
         building.abbreviation.toLowerCase().includes(lowercasedQuery) ||
-        building.aliases.some((alias) =>
+        building.aliases.some((alias: string) =>
           alias.toLowerCase().includes(lowercasedQuery)
         )
     );
@@ -36,11 +36,21 @@ export function BuildingList({ buildings, campusId }: BuildingListProps) {
         <Input
           type="search"
           placeholder="Search building name or abbreviation..."
-          className="pl-10 h-12 text-lg rounded-lg"
+          className="pl-10 pr-10 h-12 text-lg rounded-lg [&::-webkit-search-cancel-button]:appearance-none"
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
           aria-label="Search buildings by name or abbreviation"
         />
+        {searchQuery && (
+          <button
+            type="button"
+            onClick={() => setSearchQuery("")}
+            className="absolute right-3 top-1/2 -translate-y-1/2 rounded-full p-1 text-muted-foreground hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+            aria-label="Clear search query"
+          >
+            <X className="h-4 w-4" aria-hidden="true" />
+          </button>
+        )}
       </div>
 
       <div aria-live="polite" className="sr-only">
