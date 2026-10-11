@@ -1,0 +1,3 @@
+## 2025-05-18 - Search Input Clear Button Accessibility & WebKit Suppression
+**Learning:** Adding custom clear buttons (`X` icons) to `<input type="search">` requires `[&::-webkit-search-cancel-button]:appearance-none` to prevent duplicate clear buttons in WebKit browsers, and explicit focus restoration (`inputRef.current?.focus()`) so keyboard/screen reader users can seamlessly resume typing.
+**Action:** Always apply `[&::-webkit-search-cancel-button]:appearance-none` to custom search inputs and include `aria-label="Clear search"` on icon-only clear buttons while restoring input focus on click.

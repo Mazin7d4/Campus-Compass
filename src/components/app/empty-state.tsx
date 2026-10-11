@@ -4,9 +4,10 @@ type EmptyStateProps = {
   icon: React.ReactNode;
   title: string;
   description: string;
+  action?: React.ReactNode;
 };
 
-export function EmptyState({ icon, title, description }: EmptyStateProps) {
+export function EmptyState({ icon, title, description, action }: EmptyStateProps) {
   return (
     <Card className="w-full mt-8">
       <CardContent className="flex flex-col items-center justify-center p-12 text-center">
@@ -16,7 +17,8 @@ export function EmptyState({ icon, title, description }: EmptyStateProps) {
         <h3 className="font-headline text-2xl font-semibold tracking-tight">
           {title}
         </h3>
-        <p className="text-muted-foreground mt-1">{description}</p>
+        <p className="text-muted-foreground mt-1 max-w-sm">{description}</p>
+        {action && <div className="mt-6">{action}</div>}
       </CardContent>
     </Card>
   );

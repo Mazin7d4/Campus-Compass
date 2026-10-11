@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import type { Campus } from "@/lib/definitions";
+import type { Campus } from "@/app/lib/definitions";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import { CampusLogo } from "@/components/icons";
 import { Card } from "@/components/ui/card";
