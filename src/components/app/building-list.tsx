@@ -1,9 +1,10 @@
 "use client";
 
-import { useState, useMemo } from "react";
-import type { Building } from "@/lib/definitions";
+import { useState, useMemo, useRef } from "react";
+import type { Building } from "@/app/lib/definitions";
 import { Input } from "@/components/ui/input";
-import { Search, Building as BuildingIcon } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { Search, Building as BuildingIcon, X } from "lucide-react";
 import Link from "next/link";
 import { EmptyState } from "./empty-state";
 
@@ -14,6 +15,12 @@ type BuildingListProps = {
 
 export function BuildingList({ buildings, campusId }: BuildingListProps) {
   const [searchQuery, setSearchQuery] = useState("");
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  const handleClear = () => {
+    setSearchQuery("");
+    inputRef.current?.focus();
+  };
 
   const filteredBuildings = useMemo(() => {
     if (!searchQuery) return buildings;
@@ -34,13 +41,26 @@ export function BuildingList({ buildings, campusId }: BuildingListProps) {
       <div className="relative">
         <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground" aria-hidden="true" />
         <Input
+          ref={inputRef}
           type="search"
           placeholder="Search building name or abbreviation..."
-          className="pl-10 h-12 text-lg rounded-lg"
+          className="pl-10 pr-10 h-12 text-lg rounded-lg [&::-webkit-search-cancel-button]:appearance-none"
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
           aria-label="Search buildings by name or abbreviation"
         />
+        {searchQuery && (
+          <Button
+            type="button"
+            variant="ghost"
+            size="icon"
+            className="absolute right-2 top-1/2 -translate-y-1/2 h-8 w-8 text-muted-foreground hover:text-foreground"
+            onClick={handleClear}
+            aria-label="Clear search"
+          >
+            <X className="h-4 w-4" />
+          </Button>
+        )}
       </div>
 
       <div aria-live="polite" className="sr-only">
@@ -73,7 +93,12 @@ export function BuildingList({ buildings, campusId }: BuildingListProps) {
         <EmptyState
           icon={<BuildingIcon />}
           title="No Buildings Found"
-          description="Your search did not match any buildings. Try a different query."
+          description="Your search did not match any buildings. Try a different query or clear your search."
+          action={
+            <Button variant="outline" onClick={handleClear}>
+              Clear Search
+            </Button>
+          }
         />
       )}
     </div>
