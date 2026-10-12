@@ -1,11 +1,12 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useRef } from "react";
 import type { Campus } from "@/app/lib/definitions";
 import { useRecentCampuses } from "@/hooks/use-recent-campuses";
 import { CampusCard } from "@/components/app/campus-card";
 import { Input } from "@/components/ui/input";
-import { Search } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { Search, X } from "lucide-react";
 
 type CampusGridProps = {
   campuses: Campus[];
@@ -43,7 +44,13 @@ const campusMatchesQuery = (campus: Campus, query: string) => {
 
 export function CampusGrid({ campuses }: CampusGridProps) {
   const [query, setQuery] = useState("");
+  const inputRef = useRef<HTMLInputElement>(null);
   const { recentIds, isHydrated } = useRecentCampuses();
+
+  const handleClear = () => {
+    setQuery("");
+    inputRef.current?.focus();
+  };
 
   const { recents, others, searchResults } = useMemo(() => {
     const q = query.trim();
@@ -77,13 +84,26 @@ export function CampusGrid({ campuses }: CampusGridProps) {
           aria-hidden="true"
         />
         <Input
+          ref={inputRef}
           type="search"
           placeholder="Search campuses by name, abbreviation, or city..."
-          className="pl-10 h-12 text-base rounded-lg"
+          className="pl-10 pr-10 h-12 text-base rounded-lg [&::-webkit-search-cancel-button]:appearance-none"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           aria-label="Search campuses"
         />
+        {query && (
+          <Button
+            type="button"
+            variant="ghost"
+            size="icon"
+            className="absolute right-2 top-1/2 -translate-y-1/2 h-8 w-8 text-muted-foreground hover:text-foreground"
+            onClick={handleClear}
+            aria-label="Clear search"
+          >
+            <X className="h-4 w-4" aria-hidden="true" />
+          </Button>
+        )}
       </div>
 
       {query ? (
