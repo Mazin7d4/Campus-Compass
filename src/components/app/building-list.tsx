@@ -1,9 +1,10 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import type { Building } from "@/lib/definitions";
+import type { Building } from "@/app/lib/definitions";
 import { Input } from "@/components/ui/input";
-import { Search, Building as BuildingIcon } from "lucide-react";
+import { Search, Building as BuildingIcon, X } from "lucide-react";
+import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import { EmptyState } from "./empty-state";
 
@@ -36,11 +37,23 @@ export function BuildingList({ buildings, campusId }: BuildingListProps) {
         <Input
           type="search"
           placeholder="Search building name or abbreviation..."
-          className="pl-10 h-12 text-lg rounded-lg"
+          className="pl-10 pr-10 h-12 text-lg rounded-lg [&::-webkit-search-cancel-button]:appearance-none"
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
           aria-label="Search buildings by name or abbreviation"
         />
+        {searchQuery && (
+          <Button
+            type="button"
+            variant="ghost"
+            size="icon"
+            onClick={() => setSearchQuery("")}
+            className="absolute right-2 top-1/2 -translate-y-1/2 h-8 w-8 text-muted-foreground hover:text-foreground"
+            aria-label="Clear search query"
+          >
+            <X className="h-4 w-4" />
+          </Button>
+        )}
       </div>
 
       <div aria-live="polite" className="sr-only">
@@ -74,6 +87,11 @@ export function BuildingList({ buildings, campusId }: BuildingListProps) {
           icon={<BuildingIcon />}
           title="No Buildings Found"
           description="Your search did not match any buildings. Try a different query."
+          action={
+            <Button variant="outline" size="sm" onClick={() => setSearchQuery("")}>
+              Clear Search
+            </Button>
+          }
         />
       )}
     </div>

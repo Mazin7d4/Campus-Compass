@@ -5,7 +5,8 @@ import type { Campus } from "@/app/lib/definitions";
 import { useRecentCampuses } from "@/hooks/use-recent-campuses";
 import { CampusCard } from "@/components/app/campus-card";
 import { Input } from "@/components/ui/input";
-import { Search } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { Search, X } from "lucide-react";
 
 type CampusGridProps = {
   campuses: Campus[];
@@ -79,11 +80,23 @@ export function CampusGrid({ campuses }: CampusGridProps) {
         <Input
           type="search"
           placeholder="Search campuses by name, abbreviation, or city..."
-          className="pl-10 h-12 text-base rounded-lg"
+          className="pl-10 pr-10 h-12 text-base rounded-lg [&::-webkit-search-cancel-button]:appearance-none"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           aria-label="Search campuses"
         />
+        {query && (
+          <Button
+            type="button"
+            variant="ghost"
+            size="icon"
+            onClick={() => setQuery("")}
+            className="absolute right-2 top-1/2 -translate-y-1/2 h-8 w-8 text-muted-foreground hover:text-foreground"
+            aria-label="Clear search query"
+          >
+            <X className="h-4 w-4" />
+          </Button>
+        )}
       </div>
 
       {query ? (
@@ -99,9 +112,14 @@ export function CampusGrid({ campuses }: CampusGridProps) {
               ))}
             </div>
           ) : (
-            <p className="text-center text-muted-foreground py-16 text-lg">
-              No campuses match &ldquo;{query}&rdquo;
-            </p>
+            <div className="flex flex-col items-center justify-center text-center py-16 gap-3">
+              <p className="text-muted-foreground text-lg">
+                No campuses match &ldquo;{query}&rdquo;
+              </p>
+              <Button variant="outline" size="sm" onClick={() => setQuery("")}>
+                Clear Search
+              </Button>
+            </div>
           )}
         </>
       ) : (
