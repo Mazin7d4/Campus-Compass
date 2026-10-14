@@ -1,0 +1,3 @@
+## 2025-05-21 - Accessible Search Inputs and Empty State Recovery
+**Learning:** WebKit browsers automatically render native clear buttons on `type="search"` inputs that can clash visually and lack accessible keyboard or screen reader labeling when custom clear buttons are added. Combining `[&::-webkit-search-cancel-button]:appearance-none` with explicit icon buttons (`aria-label="Clear search query"`) and a "Clear Search" CTA in empty states provides consistent cross-browser UX and instant recovery for zero-result searches.
+**Action:** When adding custom clear controls to `type="search"` inputs, always suppress native WebKit cancel buttons and provide both inline clear buttons and zero-state recovery actions.
